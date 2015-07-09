@@ -3,6 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/Main.java" timestamp="1436450599353">
+        <mark key="]" line="6" column="4" />
+        <mark key="^" line="6" column="4" />
+        <mark key="." line="6" column="4" />
+        <mark key="[" line="5" column="31" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1436450661364">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/pom.xml" timestamp="1435498796724">
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
@@ -20,6 +29,9 @@
       <register name="1" type="4">
         <text>aaa</text>
       </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
       <register name="-" type="4">
         <text>aaa</text>
       </register>
@@ -30,13 +42,18 @@
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
