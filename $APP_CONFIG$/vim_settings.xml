@@ -6,20 +6,18 @@
       <file name="/fragment.java" timestamp="1436538497031">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/ChapterThree.java" timestamp="1436543073893">
-        <mark key="]" line="60" column="63" />
-        <mark key="^" line="70" column="31" />
-        <mark key="." line="60" column="0" />
-        <mark key="[" line="60" column="0" />
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/ChapterThree.java" timestamp="1436581502022">
+        <mark key="'" line="54" column="12" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="59" column="69" />
+        <mark key="." line="67" column="0" />
+        <mark key="[" line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/Main.java" timestamp="1436543100568">
-        <mark key="]" line="6" column="9" />
-        <mark key="^" line="6" column="9" />
-        <mark key="." line="6" column="9" />
-        <mark key="[" line="6" column="8" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1436538499284">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/Main.java" timestamp="1436581802113">
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="[" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/pom.xml" timestamp="1436538666890">
         <mark key="'" line="12" column="0" />
@@ -27,6 +25,9 @@
         <mark key="^" line="17" column="55" />
         <mark key="." line="17" column="55" />
         <mark key="[" line="17" column="52" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1436538499284">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/sukkiri_java.iml" timestamp="1435497942399">
         <mark key="]" line="9" column="38" />
@@ -38,43 +39,44 @@
     <jumps>
       <jump line="0" column="7" filename="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/pom.xml" />
       <jump line="12" column="0" filename="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/pom.xml" />
+      <jump line="55" column="12" filename="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/ChapterThree.java" />
     </jumps>
     <registers>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJJbnB1dCBudW1iZXIgZnJvbSAwIHRvIDkiKTsK</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIklucHV0IG51bWJlciBmcm9tIDAgdG8gOSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlICkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICBDaGFwdGVyVGhyZWUucXVlc3Rpb25UaHJlZSgpOwogICAgICAgIENoYXB0ZXJUaHJlZS5xdWVzdGlvbkZpdmUoKTs=</text>
+        <text encoding="base64">ICAgICAgICBDaGFwdGVyVGhyZWUucXVlc3Rpb25TaXgoKTsK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBDaGFwdGVyVGhyZWUucXVlc3Rpb25GaXZlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgago=</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnN3aW5nLmV2ZW50LlN3aW5nUHJvcGVydHlDaGFuZ2VTdXBwb3J0Owo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiSW5wdXQgbnVtYmVyIGZyb20gMCB0byA5Iik7Cg==</text>
+      <register name="6" type="4">
+        <text>System</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIklucHV0IG51bWJlciBmcm9tIDAgdG8gOSIpOwo=</text>
+      <register name="5" type="4">
+        <text>in</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgYW5zID0gcm5kLm5leHRJbnQoMTApOwogICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDU7IGkrKykgewo=</text>
+      <register name="4" type="4">
+        <text>read</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>You got it!!</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIklucHV0IG51bWJlciBmcm9tIDAgdG8gOSIpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICBDaGFwdGVyVGhyZWUucXVlc3Rpb25UaHJlZSgpOwogICAgICAgIENoYXB0ZXJUaHJlZS5xdWVzdGlvbkZpdmUoKTs=</text>
       </register>
       <register name="-" type="4">
-        <text>You got it!!</text>
+        <text>read</text>
       </register>
     </registers>
     <search>
@@ -84,8 +86,8 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>w</entry>
         <entry>tabclose</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
