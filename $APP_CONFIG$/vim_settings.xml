@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/comment/Zenhan.java" timestamp="1436791490460">
+        <mark key="]" line="11" column="4" />
+        <mark key="^" line="10" column="35" />
+        <mark key="." line="10" column="35" />
+        <mark key="[" line="6" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1436538497031">
         <mark key="[" line="0" column="0" />
       </file>
@@ -41,6 +47,12 @@
         <mark key="." line="9" column="38" />
         <mark key="[" line="9" column="39" />
       </file>
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/comment/Kouhan.java" timestamp="1436791540633">
+        <mark key="]" line="10" column="36" />
+        <mark key="^" line="10" column="36" />
+        <mark key="." line="10" column="36" />
+        <mark key="[" line="10" column="28" />
+      </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/ChapterFive.java" timestamp="1436679354403">
         <mark key="]" line="30" column="36" />
         <mark key="^" line="30" column="36" />
@@ -55,40 +67,40 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>width</text>
+        <text>doTogame</text>
       </register>
       <register name="2" type="4">
-        <text>0</text>
+        <text>doWarusa</text>
       </register>
       <register name="1" type="4">
-        <text>;</text>
+        <text>doTogame</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBDaGFwdGVyRml2ZS5lbWFpbCgiaGVsbG8iLCAidG9reW8iLCAiaGVsbG8gd29ybGQiKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBkb1dhcnVzYSgpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImRvV2FydXNhIik7CiAgICB9CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgZG9Ub2dhbWUoKSB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJkb1RvZ2FtZSIpOwogICAgfQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="7" type="4">
+        <text>;</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBDaGFwdGVyRml2ZS5lbWFpbCgiaGVsbG8iLCAidG9reW8iLCAiaGVsbG8gd29ybGQiKTsK</text>
+      <register name="6" type="4">
+        <text>doWarusa</text>
       </register>
       <register name="5" type="4">
-        <text>hello</text>
+        <text>doWarusa</text>
       </register>
       <register name="4" type="4">
-        <text>tokyo</text>
+        <text>doWarusa</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">U2VudCBhIG1lc3NhZ2UgdG8g</text>
+        <text>width</text>
       </register>
       <register name="8" type="4">
-        <text>address</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>doTogame</text>
       </register>
     </registers>
     <search>
