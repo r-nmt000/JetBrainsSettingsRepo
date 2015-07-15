@@ -47,6 +47,12 @@
         <mark key="." line="9" column="38" />
         <mark key="[" line="9" column="39" />
       </file>
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/ChapterEight/Cleric.java" timestamp="1436970169265">
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="26" column="23" />
+        <mark key="." line="27" column="0" />
+        <mark key="[" line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/comment/Kouhan.java" timestamp="1436792981348">
         <mark key="]" line="12" column="25" />
         <mark key="^" line="12" column="25" />
@@ -68,40 +74,40 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>doTogame</text>
+        <text>MAX_MP</text>
       </register>
       <register name="2" type="4">
-        <text>/**</text>
+        <text>MagicPoint</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAKCgo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBkb1dhcnVzYSgpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImRvV2FydXNhIik7CiAgICB9CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgZG9Ub2dhbWUoKSB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJkb1RvZ2FtZSIpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmaW5hbCBpbnQgTUFYX0hQOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>doWarusa</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5NYWdpY1BvaW50ID0gdGhpcy5NQVhfTVA7Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>doWarusa</text>
+        <text>recovery</text>
       </register>
       <register name="5" type="4">
-        <text>doTogame</text>
+        <text>this</text>
       </register>
       <register name="4" type="4">
-        <text>doWarusa</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>;</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>doWarusa</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLk1hZ2ljUG9pbnQgPSB0aGlzLk1hZ2ljUG9pbnQgKyBzZWNvbmRzICsgZXJyb3JSYW5nZTsK</text>
       </register>
       <register name="-" type="4">
-        <text>/**</text>
+        <text>MagicPoint</text>
       </register>
     </registers>
     <search>
@@ -138,6 +144,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
