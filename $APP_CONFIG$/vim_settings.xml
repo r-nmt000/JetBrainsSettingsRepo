@@ -41,17 +41,23 @@
       <file name="/Dummy.txt" timestamp="1436538499284">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/ChapterNine/ChapterNine.java" timestamp="1437199257655">
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="8" column="10" />
+        <mark key="." line="9" column="0" />
+        <mark key="[" line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/sukkiri_java.iml" timestamp="1435497942399">
         <mark key="]" line="9" column="38" />
         <mark key="^" line="9" column="38" />
         <mark key="." line="9" column="38" />
         <mark key="[" line="9" column="39" />
       </file>
-      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/ChapterEight/Cleric.java" timestamp="1436970169265">
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="26" column="23" />
-        <mark key="." line="27" column="0" />
-        <mark key="[" line="27" column="0" />
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/ChapterEight/Cleric.java" timestamp="1437199252340">
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="[" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/comment/Kouhan.java" timestamp="1436792981348">
         <mark key="]" line="12" column="25" />
@@ -59,7 +65,7 @@
         <mark key="." line="12" column="25" />
         <mark key="[" line="12" column="7" />
       </file>
-      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/ChapterFive.java" timestamp="1436679354403">
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/ChapterFive.java" timestamp="1437198065068">
         <mark key="]" line="30" column="36" />
         <mark key="^" line="30" column="36" />
         <mark key="." line="30" column="36" />
@@ -73,41 +79,50 @@
       <jump line="1" column="0" filename="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/Main.java" />
     </jumps>
     <registers>
-      <register name="3" type="4">
-        <text>MAX_MP</text>
+      <register name="3" type="8">
+        <text>//
+//
+//
+//</text>
       </register>
-      <register name="2" type="4">
-        <text>MagicPoint</text>
+      <register name="2" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAKCgo=</text>
+        <text encoding="base64">ICAgICAgICBDbGVyaWMgYzEgPSBuZXcgQ2xlcmljKCk7Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmaW5hbCBpbnQgTUFYX0hQOwo=</text>
+        <text encoding="base64">ICAgICAgICBDbGVyaWMgYzEgPSBuZXcgQ2xlcmljKCk7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5NYWdpY1BvaW50ID0gdGhpcy5NQVhfTVA7Cg==</text>
+      <register name="7" type="4">
+        <text>String name</text>
       </register>
-      <register name="6" type="4">
-        <text>recovery</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzKG5hbWUsIE1BWF9IUCwgTUFYX01QKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text>this</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIENsZXJpYygpIHsKICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKCJjYW4ndCBtYWtlIGNsZXJpYyBpbnN0YW5jZSB3aXRob3V0IG5hbWUuIikKICAgIH0K</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>pubic</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>hitPoint</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLk1hZ2ljUG9pbnQgPSB0aGlzLk1hZ2ljUG9pbnQgKyBzZWNvbmRzICsgZXJyb3JSYW5nZTsK</text>
+      <register name="8" type="4">
+        <text>MAX_HP</text>
       </register>
       <register name="-" type="4">
-        <text>MagicPoint</text>
+        <text>pubic</text>
       </register>
     </registers>
     <search>
@@ -118,6 +133,7 @@
       <history-search />
       <history-cmd>
         <entry>tabclose</entry>
+        <entry>w]</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
