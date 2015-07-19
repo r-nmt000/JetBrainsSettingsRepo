@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="meta SEMICOLON" />
     <keyboard-shortcut first-keystroke="control SEMICOLON" />
     <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="SPACE" />
+    <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="H" />
   </action>
   <action id="Console.TableResult.AddRow">
     <keyboard-shortcut first-keystroke="control ENTER" />
@@ -38,6 +39,12 @@
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="control ENTER" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="meta B" />
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="J" />
   </action>
   <action id="GuiDesigner.CreateComponent">
     <keyboard-shortcut first-keystroke="control ENTER" />
