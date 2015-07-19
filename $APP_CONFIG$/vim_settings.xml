@@ -54,17 +54,20 @@
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/com/example/chapterTen/Wand.java" timestamp="1437275050484">
-        <mark key="]" line="0" column="20" />
-        <mark key="^" line="0" column="20" />
-        <mark key="." line="0" column="20" />
-        <mark key="[" line="0" column="20" />
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/com/example/chapterTen/Wand.java" timestamp="1437276738852">
+        <mark key="]" line="22" column="4" />
+        <mark key="^" line="32" column="68" />
+        <mark key="." line="32" column="68" />
+        <mark key="[" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/com/example/chapterTen/Wizard.java" timestamp="1437275814517">
-        <mark key="]" line="12" column="32" />
-        <mark key="^" line="12" column="32" />
-        <mark key="." line="12" column="32" />
-        <mark key="[" line="12" column="32" />
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/com/example/chapterTen/Wizard.java" timestamp="1437276951598">
+        <mark key="'" line="19" column="0" />
+        <mark key="]" line="67" column="8" />
+        <mark key="^" line="67" column="8" />
+        <mark key="." line="67" column="8" />
+        <mark key="j" line="41" column="12" />
+        <mark key="[" line="66" column="63" />
+        <mark key="i" line="41" column="12" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/comment/Zenhan.java" timestamp="1436791490460">
         <mark key="]" line="11" column="4" />
@@ -146,43 +149,44 @@
       <jump line="12" column="0" filename="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/pom.xml" />
       <jump line="55" column="12" filename="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/ChapterThree.java" />
       <jump line="1" column="0" filename="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/Main.java" />
+      <jump line="19" column="0" filename="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/com/example/chapterTen/Wizard.java" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldE5hbWUoU3RyaW5nIG5hbWUpIHsKICAgICAgICB0aGlzLm5hbWUgPSBuYW1lOwogICAgfQo=</text>
+      <register name="3" type="4">
+        <text>name</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldE5hbWUoU3RyaW5nIG5hbWUpIHsKICAgICAgICB0aGlzLm5hbWUgPSBuYW1lOwogICAgfQo=</text>
+      <register name="2" type="4">
+        <text>name</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBzZXRNb25leShpbnQgbW9uZXkpIHsKICAgICAgICBIZXJvLm1vbmV5ID0gbW9uZXk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKHdhbmQubGVuZ3RoKCkgPiAyKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oIm5hbWUgaXMgdG9vIHNob3J0Iik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGhpcy5uYW1lICsgInNsaXBwZWQhIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobmFtZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oIm5hbWUgaXMgbnVsbCIpOwogICAgICAgIH0gZWxzZSBpZiAobmFtZS5sZW5ndGgoKSA+IDIpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbigibmFtZSBpcyB0b28gc2hvcnQiKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEhlcm8gaDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXAgPSAwOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0SHAoKSB7CiAgICAgICAgcmV0dXJuIGhwOwogICAgfQoKICAgIHB1YmxpYyBpbnQgZ2V0TXAoKSB7CiAgICAgICAgcmV0dXJuIG1wOwogICAgfQoKICAgIHB1YmxpYyBzdGF0aWMgaW50IGdldE1heEhwKCkgewogICAgICAgIHJldHVybiBNQVhfSFA7CiAgICB9CgogICAgcHVibGljIHN0YXRpYyBpbnQgZ2V0TWF4TXAoKSB7CiAgICAgICAgcmV0dXJuIE1BWF9NUDsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldE5hbWUoKSB7CiAgICAgICAgcmV0dXJuIG5hbWU7CiAgICB9CgogICAgcHVibGljIHN0YXRpYyBpbnQgZ2V0TW9uZXkoKSB7CiAgICAgICAgcmV0dXJuIG1vbmV5OwogICAgfQoK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldE5hbWUoU3RyaW5nIG5hbWUpIHsKICAgICAgICB0aGlzLm5hbWUgPSBuYW1lOwogICAgfQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldEhwKGludCBocCkgewogICAgICAgIHRoaXMuaHAgPSBocDsKICAgIH0K</text>
+        <text encoding="base64">ICAgIFdpemFyZChpbnQgaHAsIGludCBtcCwgU3RyaW5nIG5hbWUsIFdhbmQgd2FuZCkgewogICAgICAgdGhpcy5ocCAKICAgICAgICAKICAgIH0K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldE1wKGludCBtcCkgewogICAgICAgIHRoaXMubXAgPSBtcDsKICAgIH0K</text>
+      <register name="4" type="4">
+        <text>name</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>ChapterEight</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0SHAoKSB7CiAgICAgICAgcmV0dXJuIGhwOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEhwKGludCBocCkgewogICAgICAgIHRoaXMuaHAgPSBocDsKICAgIH0KCiAgICBwdWJsaWMgaW50IGdldE1wKCkgewogICAgICAgIHJldHVybiBtcDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRNcChpbnQgbXApIHsKICAgICAgICB0aGlzLm1wID0gbXA7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXROYW1lKCkgewogICAgICAgIHJldHVybiBuYW1lOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldE5hbWUoU3RyaW5nIG5hbWUpIHsKICAgICAgICB0aGlzLm5hbWUgPSBuYW1lOwogICAgfQoKICAgIHB1YmxpYyBXYW5kIGdldFdhbmQoKSB7CiAgICAgICAgcmV0dXJuIHdhbmQ7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0V2FuZChXYW5kIHdhbmQpIHsKICAgICAgICB0aGlzLndhbmQgPSB3YW5kOwogICAgfQoK</text>
       </register>
       <register name="-" type="4">
-        <text>ChapterEight</text>
+        <text>name</text>
       </register>
     </registers>
     <search>
