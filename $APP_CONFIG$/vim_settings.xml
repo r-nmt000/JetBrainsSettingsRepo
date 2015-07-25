@@ -84,16 +84,17 @@
         <mark key="." line="8" column="4" />
         <mark key="[" line="8" column="4" />
       </file>
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/com/example/chapterTwelve/Asset.java" timestamp="1437789087776">
+        <mark key="]" line="12" column="49" />
+        <mark key="^" line="12" column="49" />
+        <mark key="." line="12" column="49" />
+        <mark key="[" line="10" column="5" />
+      </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/ChapterFive.java" timestamp="1437198065068">
         <mark key="]" line="30" column="36" />
         <mark key="^" line="30" column="36" />
         <mark key="." line="30" column="36" />
         <mark key="[" line="30" column="36" />
-      </file>
-      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/ChapterTen/Wand.java" timestamp="1437271010706">
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="[" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/com/example/chapterEleven/Matango.java" timestamp="1437661356840">
         <mark key="]" line="5" column="0" />
@@ -128,14 +129,38 @@
         <mark key="." line="8" column="4" />
         <mark key="[" line="8" column="4" />
       </file>
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/com/example/chapterTwelve/Book.java" timestamp="1437788777637">
+        <mark key="]" line="13" column="47" />
+        <mark key="^" line="13" column="47" />
+        <mark key="." line="13" column="47" />
+        <mark key="[" line="11" column="5" />
+      </file>
       <file name="/fragment.java" timestamp="1436538497031">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/com/example/chapterTwelve/Computer.java" timestamp="1437788937768">
+        <mark key="]" line="13" column="57" />
+        <mark key="^" line="13" column="57" />
+        <mark key="." line="13" column="57" />
+        <mark key="[" line="11" column="5" />
+      </file>
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/com/example/chapterTwelve/TangibleAsset.java" timestamp="1437789706273">
+        <mark key="]" line="20" column="41" />
+        <mark key="^" line="20" column="38" />
+        <mark key="." line="20" column="41" />
+        <mark key="[" line="20" column="41" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/ChapterNine/ChapterNine.java" timestamp="1437199257655">
         <mark key="]" line="9" column="0" />
         <mark key="^" line="8" column="10" />
         <mark key="." line="9" column="0" />
         <mark key="[" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/com/example/chapterTwelve/Thing.java" timestamp="1437789179211">
+        <mark key="]" line="7" column="20" />
+        <mark key="^" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+        <mark key="[" line="5" column="24" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/ChapterTen/Wizard.java" timestamp="1437272350290">
         <mark key="]" line="10" column="10" />
@@ -166,40 +191,40 @@
     </jumps>
     <registers>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKHdhbmQubGVuZ3RoKCkgPiAyKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oIm5hbWUgaXMgdG9vIHNob3J0Iik7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text>double</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IHJldHVybiB0aGlzLndlaWdodDsg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobmFtZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oIm5hbWUgaXMgbnVsbCIpOwogICAgICAgIH0gZWxzZSBpZiAobmFtZS5sZW5ndGgoKSA+IDIpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbigibmFtZSBpcyB0b28gc2hvcnQiKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBkb3VibGUgZ2V0V2VpZ2h0KCl7IHJldHVybiB0aGlzLndlaWdodDsgfTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIFdpemFyZChpbnQgaHAsIGludCBtcCwgU3RyaW5nIG5hbWUsIFdhbmQgd2FuZCkgewogICAgICAgdGhpcy5ocCAKICAgICAgICAKICAgIH0K</text>
+      <register name="7" type="8">
+        <text encoding="base64">cHVibGljIApwdWJsaWMgCnB1YmxpYyA=</text>
       </register>
-      <register name="6" type="4">
-        <text>name</text>
+      <register name="6" type="8">
+        <text encoding="base64">IGFic3RyYWN0CiBhYnN0cmFjdAogYWJzdHJhY3Q=</text>
       </register>
-      <register name="5" type="4">
-        <text>name</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLm5hbWUgPSBuYW1lOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>name</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0TmFtZSgpe3JldHVybiB0aGlzLm5hbWU7fTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXAgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldE5hbWUoU3RyaW5nIG5hbWUpIHsKICAgICAgICB0aGlzLm5hbWUgPSBuYW1lOwogICAgfQoK</text>
+        <text encoding="base64">aW1wb3J0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text encoding="base64">IHJldHVybiB0aGlzLndlaWdodDsg</text>
       </register>
     </registers>
     <search>
@@ -209,8 +234,8 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>tabclose</entry>
         <entry>w]</entry>
+        <entry>tabclose</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
