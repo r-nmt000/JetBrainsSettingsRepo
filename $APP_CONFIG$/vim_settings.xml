@@ -39,11 +39,11 @@
         <mark key="." line="2" column="32" />
         <mark key="[" line="2" column="32" />
       </file>
-      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/com/example/main/Main.java" timestamp="1438003640277">
-        <mark key="]" line="27" column="26" />
-        <mark key="^" line="27" column="26" />
-        <mark key="." line="27" column="26" />
-        <mark key="[" line="25" column="11" />
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/com/example/main/Main.java" timestamp="1438008401778">
+        <mark key="]" line="33" column="32" />
+        <mark key="^" line="33" column="32" />
+        <mark key="." line="33" column="32" />
+        <mark key="[" line="33" column="31" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/com/example/main/Hero.java" timestamp="1437275783086">
         <mark key="[" line="52" column="5" />
@@ -108,10 +108,11 @@
         <mark key="." line="4" column="0" />
         <mark key="[" line="3" column="32" />
       </file>
-      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/com/example/chapterFourteen/BankAccount.java" timestamp="1438006858349">
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="[" line="23" column="0" />
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/com/example/chapterFourteen/BankAccount.java" timestamp="1438008433753">
+        <mark key="'" line="18" column="0" />
+        <mark key="]" line="43" column="1" />
+        <mark key="^" line="43" column="1" />
+        <mark key="." line="43" column="1" />
       </file>
       <file name="/Dummy.txt" timestamp="1436538499284">
         <mark key="[" line="0" column="0" />
@@ -199,51 +200,60 @@
       <jump line="1" column="0" filename="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/Main.java" />
       <jump line="19" column="0" filename="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/com/example/chapterTen/Wizard.java" />
       <jump line="21" column="16" filename="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/com/example/main/Hero.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/com/example/chapterFourteen/BankAccount.java" />
     </jumps>
     <registers>
+      <register name="/" type="4">
+        <text>tostring</text>
+      </register>
+      <register name="-" type="4">
+        <text>&quot;they are the same&quot;</text>
+      </register>
       <register name="3" type="4">
-        <text>calendar</text>
+        <text>&quot;they are the same&quot;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0QWNjb3VudE51bWJlcigpLmVxdWFscyh0aGF0LmdldEFjY291bnROdW1iZXIoKSk7Cg==</text>
+      <register name="2" type="4">
+        <text>&quot;they are the same&quot;</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPSAzMSAqIHJlc3VsdCArIGdldEJhbGFuY2UoKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICByZXR1cm4gIkJhbmtBY2NvdW50eyIgKwogICAgICAgICAgICAgICAgImFjY291bnROdW1iZXI9JyIgKyBhY2NvdW50TnVtYmVyICsgJ1wnJyArCiAgICAgICAgICAgICAgICAiLCBiYWxhbmNlPSIgKyBiYWxhbmNlICsKICAgICAgICAgICAgICAgICd9JzsKICAgIH0=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZnV0dXJlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ0aGV5IGFyZSB0aGUgc2FtZSIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgYSA9IDE7CiAgICAgICAgaW50IGIgPSBhOwogICAgICAgIGEgPSAyOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihiKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
-        <text>future</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>static</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3kK</text>
       </register>
-      <register name="4" type="4">
-        <text>future</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmFjdGljZURhdGUucnVuKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>setWeight</text>
-      </register>
-      <register name="-" type="4">
-        <text>calendar</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoZ2V0QmFsYW5jZSgpICE9IHRoYXQuZ2V0QmFsYW5jZSgpKSByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>tostring</last-search>
+      <last-offset />
+      <last-pattern>tostring</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>tostring</entry>
+      </history-search>
       <history-cmd>
         <entry>w]</entry>
         <entry>tabclose</entry>
