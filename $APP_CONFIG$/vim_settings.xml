@@ -39,11 +39,12 @@
         <mark key="." line="2" column="32" />
         <mark key="[" line="2" column="32" />
       </file>
-      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/com/example/main/Main.java" timestamp="1438008401778">
-        <mark key="]" line="33" column="32" />
-        <mark key="^" line="33" column="32" />
-        <mark key="." line="33" column="32" />
-        <mark key="[" line="33" column="31" />
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/com/example/main/Main.java" timestamp="1438084929499">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="40" column="20" />
+        <mark key="^" line="40" column="20" />
+        <mark key="." line="40" column="20" />
+        <mark key="[" line="38" column="10" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/com/example/main/Hero.java" timestamp="1437275783086">
         <mark key="[" line="52" column="5" />
@@ -147,7 +148,13 @@
         <mark key="." line="15" column="0" />
         <mark key="[" line="15" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1436538497031">
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/com/example/chapterFifteen/TestException.java" timestamp="1438086522138">
+        <mark key="]" line="8" column="10" />
+        <mark key="^" line="8" column="10" />
+        <mark key="." line="8" column="10" />
+        <mark key="[" line="8" column="4" />
+      </file>
+      <file name="/fragment.java" timestamp="1438085314513">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/com/example/chapterTwelve/Computer.java" timestamp="1437788937768">
@@ -201,46 +208,49 @@
       <jump line="19" column="0" filename="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/com/example/chapterTen/Wizard.java" />
       <jump line="21" column="16" filename="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/com/example/main/Hero.java" />
       <jump line="18" column="0" filename="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/com/example/chapterFourteen/BankAccount.java" />
+      <jump line="39" column="9" filename="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/com/example/main/Main.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/com/example/main/Main.java" />
+      <jump line="8" column="17" filename="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/com/example/chapterFifteen/TestException.java" />
     </jumps>
     <registers>
       <register name="/" type="4">
         <text>tostring</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;they are the same&quot;</text>
+        <text>static</text>
       </register>
-      <register name="3" type="4">
-        <text>&quot;they are the same&quot;</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="4">
-        <text>&quot;they are the same&quot;</text>
+        <text>static</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICByZXR1cm4gIkJhbmtBY2NvdW50eyIgKwogICAgICAgICAgICAgICAgImFjY291bnROdW1iZXI9JyIgKyBhY2NvdW50TnVtYmVyICsgJ1wnJyArCiAgICAgICAgICAgICAgICAiLCBiYWxhbmNlPSIgKyBiYWxhbmNlICsKICAgICAgICAgICAgICAgICd9JzsKICAgIH0=</text>
+        <text>static</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ0aGV5IGFyZSB0aGUgc2FtZSIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5vbWcuQ29zTmFtaW5nLk5hbWluZ0NvbnRleHRFeHRQYWNrYWdlLlN0cmluZ05hbWVIZWxwZXI7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>static</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3kK</text>
+      <register name="5" type="4">
+        <text>static</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmFjdGljZURhdGUucnVuKCk7Cg==</text>
+      <register name="4" type="4">
+        <text>public</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICByZXR1cm4gIkJhbmtBY2NvdW50eyIgKwogICAgICAgICAgICAgICAgImFjY291bnROdW1iZXI9JyIgKyBhY2NvdW50TnVtYmVyICsgJ1wnJyArCiAgICAgICAgICAgICAgICAiLCBiYWxhbmNlPSIgKyBiYWxhbmNlICsKICAgICAgICAgICAgICAgICd9JzsKICAgIH0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZ2V0QmFsYW5jZSgpICE9IHRoYXQuZ2V0QmFsYW5jZSgpKSByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
     </registers>
     <search>
@@ -257,6 +267,8 @@
       <history-cmd>
         <entry>w]</entry>
         <entry>tabclose</entry>
+        <entry>tabc</entry>
+        <entry>tablast | tabnew</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
