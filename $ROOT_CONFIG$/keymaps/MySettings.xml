@@ -38,6 +38,7 @@
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="control ENTER" />
+    <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="G" />
   </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="meta B" />
