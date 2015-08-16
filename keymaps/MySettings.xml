@@ -1,8 +1,8 @@
 <keymap version="1" name="MySettings" parent="Mac OS X">
   <action id="AceJumpAction">
     <keyboard-shortcut first-keystroke="meta SEMICOLON" />
-    <keyboard-shortcut first-keystroke="control SEMICOLON" />
     <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="SPACE" />
+    <keyboard-shortcut first-keystroke="control K" />
   </action>
   <action id="Console.TableResult.AddRow">
     <keyboard-shortcut first-keystroke="control ENTER" />
@@ -48,6 +48,10 @@
   </action>
   <action id="GuiDesigner.CreateComponent">
     <keyboard-shortcut first-keystroke="control ENTER" />
+  </action>
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift meta F12" />
+    <keyboard-shortcut first-keystroke="control W" />
   </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="control ENTER" />
