@@ -6,19 +6,42 @@
       <file name="/fragment.java" timestamp="1439685057709">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/main/Main.java" timestamp="1439684622059">
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="[" line="28" column="0" />
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/main/Main.java" timestamp="1439687425951">
+        <mark key="]" line="35" column="8" />
+        <mark key="^" line="33" column="9" />
+        <mark key="." line="35" column="8" />
+        <mark key="[" line="35" column="8" />
+      </file>
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/ChapterSix/FuncList.java" timestamp="1439687294536">
+        <mark key="]" line="9" column="36" />
+        <mark key="[" line="8" column="0" />
       </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGFyZ3YubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgU3RyaW5nIHMgPSBhcmd2W2ldOwogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
+      <register name="3" type="4">
+        <text>FuncList::isOdd;</text>
+      </register>
+      <register name="2" type="4">
+        <text>FuncList::addNamePrefix;</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobWFsZSA9PSB0cnVlKSB7IHJldHVybiAiTXIuIiArIG5hbWU7IH0KICAgICAgICBlbHNlIHsgcmV0dXJuICJNcy4iICsgbmFtZTsgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGFyZ3YubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgU3RyaW5nIHMgPSBhcmd2W2ldOwogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>FuncList::addNamePrefix;</text>
       </register>
     </registers>
     <search>
@@ -27,7 +50,9 @@
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
@@ -43,6 +68,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
