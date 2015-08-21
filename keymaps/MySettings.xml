@@ -8,6 +8,10 @@
     <keyboard-shortcut first-keystroke="control alt H" />
     <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="H" />
   </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta F4" />
+    <keyboard-shortcut first-keystroke="meta W" />
+  </action>
   <action id="Console.TableResult.AddRow">
     <keyboard-shortcut first-keystroke="control ENTER" />
   </action>
@@ -33,6 +37,7 @@
     <keyboard-shortcut first-keystroke="RIGHT" />
     <keyboard-shortcut first-keystroke="control F" />
   </action>
+  <action id="EditorSelectWord" />
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="UP" />
     <keyboard-shortcut first-keystroke="control P" />
