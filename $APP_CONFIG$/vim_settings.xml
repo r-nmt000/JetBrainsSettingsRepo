@@ -99,6 +99,9 @@
         <mark key="." line="23" column="4" />
         <mark key="[" line="5" column="26" />
       </file>
+      <file name="/a.dummy" timestamp="1440146621215">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/ChapterFour.java" timestamp="1436674420921">
         <mark key="]" line="28" column="0" />
         <mark key="^" line="9" column="14" />
@@ -179,12 +182,6 @@
       <file name="/Catch Statement Body.txt.ft" timestamp="1439389976280">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/ChapterFour/Book.java" timestamp="1439390824880">
-        <mark key="'" line="39" column="4" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="[" line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/com/example/chapterFive/ChapterFive.java" timestamp="1437274831465">
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -217,6 +214,9 @@
       </file>
       <file name="/JavaScript File.txt.ft" timestamp="1436148886147">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/catalunya/catalunya2-java/catalunya2-commons/src/main/java/jp/co/brainpad/catalunya/util/MailUtil.java" timestamp="1440146476618">
+        <mark key="'" line="32" column="13" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.6.1/slf4j-api-1.6.1-sources.jar!/org/slf4j/LoggerFactory.java" timestamp="1440145519810">
         <mark key="'" line="252" column="16" />
@@ -340,10 +340,14 @@
       <jump line="423" column="16" filename="$USER_HOME$/repos/JetBrains/IntelliJ/catalunya/catalunya2-java/catalunya2-engine/src/main/java/jp/co/brainpad/catalunya/engine/operator/task/AbstractTask.java" />
       <jump line="66" column="0" filename="$USER_HOME$/repos/JetBrains/IntelliJ/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/task/ExternalReportImportTask.java" />
       <jump line="252" column="16" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.6.1/slf4j-api-1.6.1-sources.jar!/org/slf4j/LoggerFactory.java" />
+      <jump line="42" column="6" filename="$USER_HOME$/repos/JetBrains/IntelliJ/catalunya/catalunya2-java/catalunya2-commons/src/main/java/jp/co/brainpad/catalunya/util/MailUtil.java" />
+      <jump line="74" column="22" filename="$USER_HOME$/repos/JetBrains/IntelliJ/catalunya/catalunya2-java/catalunya2-commons/src/main/java/jp/co/brainpad/catalunya/util/MailUtil.java" />
+      <jump line="63" column="22" filename="$USER_HOME$/repos/JetBrains/IntelliJ/catalunya/catalunya2-java/catalunya2-commons/src/main/java/jp/co/brainpad/catalunya/util/MailUtil.java" />
+      <jump line="32" column="13" filename="$USER_HOME$/repos/JetBrains/IntelliJ/catalunya/catalunya2-java/catalunya2-commons/src/main/java/jp/co/brainpad/catalunya/util/MailUtil.java" />
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>mail</text>
+        <text>mailutil</text>
       </register>
       <register name="-" type="4">
         <text>studentCount</text>
@@ -383,9 +387,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mail</last-search>
+      <last-search>mailutil</last-search>
       <last-offset />
-      <last-pattern>mail</last-pattern>
+      <last-pattern>mailutil</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -400,6 +404,7 @@
         <entry>clients</entry>
         <entry>run</entry>
         <entry>mail</entry>
+        <entry>mailutil</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
