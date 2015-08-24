@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/ChapterSeven/Launcher.java" timestamp="1439934951833">
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/ChapterSeven/Launcher.java" timestamp="1440428207140">
         <mark key="'" line="26" column="46" />
-        <mark key="]" line="34" column="11" />
-        <mark key="^" line="34" column="11" />
-        <mark key="." line="34" column="11" />
-        <mark key="[" line="32" column="13" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="[" line="33" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1439685057709">
         <mark key="[" line="0" column="0" />
@@ -34,38 +33,38 @@
       <jump line="26" column="46" filename="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/ChapterSeven/Launcher.java" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjaW5mby5nZXREZWNsYXJlZE1ldGhkKCkgCiAgICAgICAgCg==</text>
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>Runtime</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTWV0aG9kIG1haW5NZXRob2QgPSBjaW5mby5nZXREZWNsYXJlZE1ldGhvZCgibWFpbiIsIFN0cmluZ1tdLmNsYXNzKTsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFByb2Nlc3NCdWlsZGVyIHBiID0gbmV3IFByb2Nlc3NCdWlsZGVyKCJqYXZhIiwgKTsK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBSdW50aW1lLmdldFJ1bnRpbWUoKS50b3RhbE1lbW9yeSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBNZXRob2RbXSBtZXRob2RzID0gY2luZm8uZ2V0RGVjbGFyZWRNZXRob2RzKCk7CiAgICAgICAgZm9yKCBNZXRob2QgbWV0aG9kIDogbWV0aG9kcyApIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG1ldGhvZC5nZXROYW1lKCkpOwogICAgICAgIH0K</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBDbGFzczw/PmNpbmZvID0gQ2xhc3MuZm9yTmFtZShGUUNOKTsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>o</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjaW5mby5nZXREZWNsYXJlZE1ldGhkKCkgCiAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>o</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBSdW50aW1lLmdldFJ1bnRpbWUoKS50b3RhbE1lbW9yeSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBSdW50aW1lLmdldFJ1bnRpbWUoKS50b3RhbE1lbW9yeSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>Runtime</text>
