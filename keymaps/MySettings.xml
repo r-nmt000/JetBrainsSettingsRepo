@@ -4,6 +4,14 @@
     <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="SPACE" />
     <keyboard-shortcut first-keystroke="control K" />
   </action>
+  <action id="CallHierarchy">
+    <keyboard-shortcut first-keystroke="control alt H" />
+    <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="H" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta F4" />
+    <keyboard-shortcut first-keystroke="meta W" />
+  </action>
   <action id="Console.TableResult.AddRow">
     <keyboard-shortcut first-keystroke="control ENTER" />
   </action>
@@ -29,6 +37,7 @@
     <keyboard-shortcut first-keystroke="RIGHT" />
     <keyboard-shortcut first-keystroke="control F" />
   </action>
+  <action id="EditorSelectWord" />
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="UP" />
     <keyboard-shortcut first-keystroke="control P" />
@@ -51,14 +60,10 @@
   </action>
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift meta F12" />
-    <keyboard-shortcut first-keystroke="control W" />
+    <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="M" />
   </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="control ENTER" />
-  </action>
-  <action id="QuickImplementations">
-    <keyboard-shortcut first-keystroke="shift meta I" />
-    <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="H" />
   </action>
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="control button2" />
