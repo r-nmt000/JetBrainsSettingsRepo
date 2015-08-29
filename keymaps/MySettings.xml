@@ -16,6 +16,7 @@
     <keyboard-shortcut first-keystroke="control ENTER" />
   </action>
   <action id="Console.TableResult.ColumnVisibility" />
+  <action id="ContextHelp" />
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="BACK_SPACE" />
     <keyboard-shortcut first-keystroke="shift BACK_SPACE" />
@@ -42,9 +43,7 @@
     <keyboard-shortcut first-keystroke="UP" />
     <keyboard-shortcut first-keystroke="control P" />
   </action>
-  <action id="FindNext">
-    <keyboard-shortcut first-keystroke="F3" />
-  </action>
+  <action id="FindNext" />
   <action id="Generate">
     <keyboard-shortcut first-keystroke="control ENTER" />
     <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="G" />
@@ -53,7 +52,7 @@
     <keyboard-shortcut first-keystroke="meta B" />
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="button2" />
-    <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="J" />
+    <keyboard-shortcut first-keystroke="F3" />
   </action>
   <action id="GuiDesigner.CreateComponent">
     <keyboard-shortcut first-keystroke="control ENTER" />
@@ -68,6 +67,7 @@
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="control button2" />
     <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="D" />
+    <keyboard-shortcut first-keystroke="F1" />
   </action>
   <action id="RemoteHost.NewRemoteItem">
     <keyboard-shortcut first-keystroke="control ENTER" />
