@@ -16,7 +16,12 @@
     <keyboard-shortcut first-keystroke="control ENTER" />
   </action>
   <action id="Console.TableResult.ColumnVisibility" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="ENTER" />
+    <keyboard-shortcut first-keystroke="alt ENTER" />
+  </action>
   <action id="ContextHelp" />
+  <action id="DSM.GoToNextCycle" />
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="BACK_SPACE" />
     <keyboard-shortcut first-keystroke="shift BACK_SPACE" />
@@ -54,9 +59,12 @@
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="F3" />
   </action>
+  <action id="GotoNextError" />
   <action id="GuiDesigner.CreateComponent">
     <keyboard-shortcut first-keystroke="control ENTER" />
   </action>
+  <action id="GuiDesigner.EditComponent" />
+  <action id="GuiDesigner.EditGroup" />
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift meta F12" />
     <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="M" />
@@ -79,6 +87,7 @@
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt ENTER" />
     <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="F" />
+    <keyboard-shortcut first-keystroke="F2" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="control alt ENTER" />

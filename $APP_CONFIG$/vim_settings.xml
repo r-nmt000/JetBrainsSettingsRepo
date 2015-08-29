@@ -2,7 +2,15 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/ChapterSeven/Launcher.java" timestamp="1440849586129" />
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/main/Main.java" timestamp="1440849538336">
+        <mark key="]" line="27" column="51" />
+        <mark key="^" line="27" column="51" />
+        <mark key="." line="27" column="51" />
+        <mark key="[" line="27" column="50" />
+      </file>
+    </filemarks>
     <jumps />
     <registers />
     <search>
@@ -16,6 +24,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
