@@ -27,6 +27,23 @@
         <mark key="." line="4" column="0" />
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Adaptor/NewTaro.java" timestamp="1440911946091">
+        <mark key="]" line="5" column="66" />
+        <mark key="^" line="5" column="42" />
+        <mark key="." line="5" column="66" />
+        <mark key="[" line="5" column="66" />
+      </file>
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Adaptor/Teacher.java" timestamp="1440912012999">
+        <mark key="]" line="8" column="7" />
+        <mark key="^" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+        <mark key="[" line="7" column="38" />
+      </file>
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Adaptor/Taro.java" timestamp="1440911961981">
+        <mark key="]" line="5" column="17" />
+        <mark key="." line="5" column="17" />
+        <mark key="[" line="5" column="17" />
+      </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Iterator/StudentList.java" timestamp="1440852842590">
         <mark key="]" line="9" column="28" />
         <mark key="^" line="9" column="28" />
@@ -59,6 +76,12 @@
         <mark key="." line="27" column="51" />
         <mark key="[" line="27" column="50" />
       </file>
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Adaptor/Main.java" timestamp="1440911531070">
+        <mark key="]" line="5" column="19" />
+        <mark key="^" line="5" column="19" />
+        <mark key="." line="5" column="19" />
+        <mark key="[" line="5" column="13" />
+      </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Iterator/Iterator.java" timestamp="1440854114966">
         <mark key="]" line="7" column="24" />
         <mark key="^" line="7" column="24" />
@@ -71,47 +94,50 @@
         <mark key="." line="3" column="19" />
         <mark key="[" line="3" column="19" />
       </file>
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Adaptor/Chairperson.java" timestamp="1440911357199">
+        <mark key="[" line="5" column="30" />
+      </file>
       <file name="/File Header.txt.ft" timestamp="1440853076641">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgago=</text>
+      <register name="3" type="4">
+        <text>NewTaro</text>
       </register>
       <register name="2" type="4">
-        <text>myStudentList</text>
+        <text>extends</text>
       </register>
       <register name="1" type="4">
-        <text>getLastNum</text>
+        <text>Tro</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLnN0dWRlbnRMaXN0LmFkZChuZXcgU3R1ZGVudCgidGFuYWthIiwwKSk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>&quot;</text>
+        <text>getLastNum</text>
       </register>
-      <register name="6" type="4">
-        <text>tanaka</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRlc3QiKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text>tanaka</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
-        <text>Object</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIG9yZ2FuaXplQ2xhc3MoKSB7CiAgICAgICAgZW5qb3lXaXRoQWxsQ2xhc3NtYXRlKCk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>tanaka</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgago=</text>
       </register>
       <register name="8" type="4">
-        <text>tanaka</text>
+        <text>myStudentList</text>
       </register>
       <register name="-" type="4">
-        <text>getLastNum</text>
+        <text>Tro</text>
       </register>
     </registers>
     <search>
@@ -120,6 +146,7 @@
     </search>
     <history>
       <history-cmd>
+        <entry>i</entry>
         <entry>w</entry>
       </history-cmd>
     </history>
