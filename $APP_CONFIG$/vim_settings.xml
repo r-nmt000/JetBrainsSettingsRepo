@@ -33,11 +33,11 @@
         <mark key="." line="21" column="74" />
         <mark key="[" line="20" column="41" />
       </file>
-      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/main/Main.java" timestamp="1440849538336">
-        <mark key="]" line="27" column="51" />
-        <mark key="^" line="27" column="51" />
-        <mark key="." line="27" column="51" />
-        <mark key="[" line="27" column="50" />
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/main/Main.java" timestamp="1441005658845">
+        <mark key="]" line="38" column="184" />
+        <mark key="^" line="38" column="184" />
+        <mark key="." line="38" column="184" />
+        <mark key="[" line="38" column="172" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Adaptor/Main.java" timestamp="1440911531070">
         <mark key="]" line="5" column="19" />
@@ -86,11 +86,8 @@
         <mark key="." line="5" column="17" />
         <mark key="[" line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/ChapterNine/Practice.java" timestamp="1441003375774">
-        <mark key="]" line="13" column="95" />
-        <mark key="^" line="13" column="95" />
-        <mark key="." line="13" column="95" />
-        <mark key="[" line="13" column="85" />
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/ChapterNine/Practice.java" timestamp="1441006558581">
+        <mark key="[" line="24" column="33" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Student.java" timestamp="1440851673815">
         <mark key="]" line="5" column="19" />
@@ -131,40 +128,40 @@
     <jumps />
     <registers>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmlsZXMuY29weShQYXRocy5nZXQoIn5yZXBvcy9KZXRCcmFpbnMvSWRlYVByb2plY3RzL3N1a2tpcmlfamF2YV9wcmFjdGljYWwvc3JjL21haW4vamF2YS9jb20vZXhhbXBsZS9zdWtraXJpX2phdmFfcHJhY3RpY2UvQ2hhcHRlck5pbmUvUHJhY3RpY2UuamF2YSIpLFBhdGhzLmdldCgifnJlcG9zL0pldEJyYWlucy9JZGVhUHJvamVjdHMvc3Vra2lyaV9qYXZhX3ByYWN0aWNhbC9zcmMvbWFpbi9qYXZhL2NvbS9leGFtcGxlL3N1a2tpcmlfamF2YV9wcmFjdGljZS9DaGFwdGVyTmluZS9QcmFjdGljZV9jb3B5LmphdmEiKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
-        <text>FileInputStream</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>source</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQnVmZmVyZWRJbnB1dFN0cmVhbSBiaXMgPSBuZXcgQnVmZmVyZWRJbnB1dFN0cmVhbShuZXcgRmlsZUlucHV0U3RyZWFtKHNvdXJjZSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBQYXRoIHAxID0gUGF0aHMuZ2V0KHNyYyk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text />
+        <text>BufferedReader br = new BufferedReader(new FileReader(source));</text>
       </register>
       <register name="6" type="4">
-        <text>public</text>
+        <text>BufferedWriter bw = new BufferedWriter(new FileWriter(destination));</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBsYXVuY2hNYWluKFN0cmluZyBGUUNOLCBMYXVuY2hNZXRob2QpIHRocm93cyBDbGFzc05vdEZvdW5kRXhjZXB0aW9uIHsKCiAgICB9CiAgICBwdWJsaWMgdm9pZCBzaG93TWVtb3J5KCkgewogICAgICAgIGxvbmcgZiA9IFJ1bnRpbWUuZ2V0UnVudGltZSgpLmZyZWVNZW1vcnkoKTsKICAgICAgICBsb25nIHQgPSBSdW50aW1lLmdldFJ1bnRpbWUoKS50b3RhbE1lbW9yeSgpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVXNhZ2UgOiAiICsgKGYtdCkpOwogICAgfQogICAgcHVibGljIHZvaWQgc2hvd01ldGhvZHMoU3RyaW5nIEZRQ04pIHRocm93cyBDbGFzc05vdEZvdW5kRXhjZXB0aW9uIHsKICAgICAgICBDbGFzczw/PiBjaW5mbyA9IENsYXNzLmZvck5hbWUoRlFDTik7CiAgICAgICAgTWV0aG9kW10gbWV0aG9kcyA9IGNpbmZvLmdldERlY2xhcmVkTWV0aG9kcygpOwogICAgICAgIGZvciggTWV0aG9kIG1ldGhvZCA6IG1ldGhvZHMgKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihtZXRob2QuZ2V0TmFtZSgpKTsKICAgICAgICB9CgogICAgfQoKICAgIHB1YmxpYyB2b2lkIGxhdW5jaE5ld1Byb2Nlc3MoQ2xhc3M8Pz4gY2luZm8sIFN0cmluZyBJRSkgewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIGlmIChJRS5lcXVhbHMoIkkiKSkgewogICAgICAgICAgICAgICAgTWV0aG9kIG1haW5NZXRob2QgPSBjaW5mby5nZXREZWNsYXJlZE1ldGhvZCgibWFpbiIsIFN0cmluZ1tdLmNsYXNzKTsKICAgICAgICAgICAgICAgIFN0cmluZ1tdIGFyZ3MgPSB7fTsKICAgICAgICAgICAgICAgIG1haW5NZXRob2QuaW52b2tlKG51bGwsIChPYmplY3QpYXJncyk7CiAgICAgICAgICAgIH0gZWxzZSBpZiAoSUUuZXF1YWxzKCJFIikpIHsKICAgICAgICAgICAgfQoKICAgICAgICB9IGNhdGNoIChOb1N1Y2hNZXRob2RFeGNlcHRpb24gfCBJbnZvY2F0aW9uVGFyZ2V0RXhjZXB0aW9uIHwgSWxsZWdhbEFjY2Vzc0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQoKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>&quot;Practice.java&quot;,&quot;Practice_copy.java&quot;</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>Object</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYnIK</text>
       </register>
-      <register name="8" type="4">
-        <text>protected</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB9IGZpbmFsbHkgewogICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>source</text>
+        <text>BufferedWriter bw = new BufferedWriter(new FileWriter(destination));</text>
       </register>
     </registers>
     <search>
