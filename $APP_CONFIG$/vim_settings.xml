@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/ChapterTen/Company.java" timestamp="1441012289805">
-        <mark key="]" line="11" column="39" />
-        <mark key="^" line="11" column="39" />
-        <mark key="." line="11" column="39" />
-        <mark key="[" line="11" column="17" />
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/ChapterTen/Company.java" timestamp="1441016363141">
+        <mark key="]" line="18" column="58" />
+        <mark key="^" line="8" column="57" />
+        <mark key="." line="18" column="0" />
+        <mark key="[" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Iterator/Student.java" timestamp="1440851697961">
         <mark key="]" line="5" column="0" />
@@ -51,8 +51,10 @@
         <mark key="." line="5" column="19" />
         <mark key="[" line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/ChapterTen/Practice.java" timestamp="1441012329316">
-        <mark key="[" line="25" column="5" />
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/ChapterTen/Practice.java" timestamp="1441016717370">
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="[" line="30" column="0" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/MyStudentList.java" timestamp="1440854516930">
         <mark key="]" line="18" column="4" />
@@ -143,40 +145,40 @@
     <jumps />
     <registers>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGludCBhZ2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb29zLmNsb3NlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="0" type="4">
-        <text>$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/ChapterNine/</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb29zLndyaXRlT2JqZWN0KHlhbWFkYSk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>Company</text>
+        <text>employee</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgaUVtcGxveWVlIHsKICAgIFN0cmluZyBuYW1lOwogICAgaW50IGFnZTsKfQo=</text>
+      <register name="5" type="4">
+        <text>yamada</text>
       </register>
       <register name="4" type="4">
-        <text>iEmployee</text>
+        <text>ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream(dst));</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>capital</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="4">
-        <text>public</text>
+        <text>employee</text>
       </register>
       <register name="-" type="4">
-        <text>iEmployee</text>
+        <text>ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream(dst));</text>
       </register>
     </registers>
     <search>
