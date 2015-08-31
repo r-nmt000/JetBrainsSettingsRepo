@@ -45,6 +45,12 @@
         <mark key="." line="5" column="19" />
         <mark key="[" line="5" column="13" />
       </file>
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/ChapterTen/Practice.java" timestamp="1441011114234">
+        <mark key="]" line="17" column="65" />
+        <mark key="^" line="17" column="65" />
+        <mark key="." line="17" column="65" />
+        <mark key="[" line="17" column="65" />
+      </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/MyStudentList.java" timestamp="1440854516930">
         <mark key="]" line="18" column="4" />
         <mark key="^" line="18" column="4" />
@@ -128,37 +134,37 @@
     <jumps />
     <registers>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVhZGVyIGZyID0gbmV3IEZpbGVSZWFkZXIoc3JjKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQcm9wZXJ0aWVzIHAgPSBuZXcgUHJvcGVydGllcygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBQYXRoIHAxID0gUGF0aHMuZ2V0KHNyYyk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>BufferedReader br = new BufferedReader(new FileReader(source));</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>BufferedWriter bw = new BufferedWriter(new FileWriter(destination));</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBSZWFkZXIgZnIgPSBudWxsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChGaWxlTm90Rm91bmRFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9IGZpbmFsbHkgewogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>BufferedWriter bw = new BufferedWriter(new FileWriter(destination));</text>
