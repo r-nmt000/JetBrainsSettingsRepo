@@ -6,14 +6,69 @@
       <file name="/a.dummy" timestamp="1441604637865">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/test/java/jp/co/rakuten/operator/factory/ExternalReportDownloadAndImportOperatorFactoryTest.java" timestamp="1441607116132">
+        <mark key="]" line="55" column="33" />
+        <mark key="^" line="55" column="33" />
+        <mark key="." line="55" column="33" />
+        <mark key="[" line="54" column="59" />
+      </file>
+      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/factory/ExternalReportDownloadAndImportOperatorFactory.java" timestamp="1441606000256">
+        <mark key="]" line="38" column="88" />
+        <mark key="^" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="[" line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/AbstractOperator.java" timestamp="1441605607736" />
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIltvcHRpb25zPSIpOwo=</text>
+      </register>
+      <register name="2" type="4">
+        <text>fo</text>
+      </register>
+      <register name="1" type="4">
+        <text>logger.in</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBTd2l0Y2hDbGllbnRPcHRpb24gc3dpdGNoQ2xpZW50T3B0aW9uID0gU3dpdGNoQ2xpZW50T3B0aW9uLnBhcnNlcigpLnBhcnNlKGFyZ3MpOwo=</text>
+      </register>
+      <register name="7" type="4">
+        <text>showStartOperationMessage(clientId, switchClientOption)</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgIGxvZ2dlci5pbmZvKCkK</text>
+      </register>
+      <register name="5" type="4">
+        <text>args</text>
+      </register>
+      <register name="4" type="4">
+        <text>+ 0 + &quot;]&quot; +</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>logger.in</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>true</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
