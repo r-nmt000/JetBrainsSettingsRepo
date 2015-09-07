@@ -6,6 +6,12 @@
       <file name="/a.regexp" timestamp="1441608211938">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/util/SwitchClientOption.java" timestamp="1441609131797">
+        <mark key="]" line="70" column="81" />
+        <mark key="^" line="70" column="88" />
+        <mark key="." line="70" column="81" />
+        <mark key="[" line="70" column="81" />
+      </file>
       <file name="/a.dummy" timestamp="1441607387019">
         <mark key="[" line="0" column="0" />
       </file>
@@ -15,45 +21,51 @@
         <mark key="." line="55" column="33" />
         <mark key="[" line="54" column="59" />
       </file>
-      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/factory/ExternalReportDownloadAndImportOperatorFactory.java" timestamp="1441606000256">
-        <mark key="]" line="38" column="88" />
+      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/factory/ExternalReportDownloadAndImportOperatorFactory.java" timestamp="1441609070649">
+        <mark key="]" line="55" column="28" />
         <mark key="^" line="42" column="0" />
         <mark key="." line="42" column="0" />
-        <mark key="[" line="38" column="0" />
+        <mark key="[" line="47" column="0" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/AbstractOperator.java" timestamp="1441605607736" />
     </filemarks>
     <jumps />
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIltvcHRpb25zPSIpOwo=</text>
+      <register name="3" type="4">
+        <text>switchClientOption</text>
       </register>
       <register name="2" type="4">
-        <text>fo</text>
+        <text>switchClientOption</text>
       </register>
-      <register name="1" type="4">
-        <text>logger.in</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIlN3aXRjaENsaWVudE9wdGlvbnsiICsKICAgICAgICAgICAgICAgICJjbGllbnRJZHM9IiArIEFycmF5cy50b1N0cmluZyhjbGllbnRJZHMpICsKICAgICAgICAgICAgICAgICIsIHNpdGVjYXRhbHlzdD0iICsgc2l0ZWNhdGFseXN0ICsKICAgICAgICAgICAgICAgICd9JzsK</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTd2l0Y2hDbGllbnRPcHRpb24gc3dpdGNoQ2xpZW50T3B0aW9uID0gU3dpdGNoQ2xpZW50T3B0aW9uLnBhcnNlcigpLnBhcnNlKGFyZ3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIHNiID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKICAgICAgICBzYi5hcHBlbmQoIua1gemAmuODh+ODvOOCv+OBruODgOOCpuODs+ODreODvOODieODu+WPluOCiui+vOOBv+OCkumWi+Wni+OBl+OBvuOBmeOAgiBbY2xpZW50X2lkPSIrIGNsaWVudElkICsgIl0iKTsKICAgICAgICBpZiAoc3dpdGNoQ2xpZW50T3B0aW9uLmlzU2l0ZWNhdGFseXN0KCkpewogICAgICAgICAgICBzYi5hcHBlbmQoIlstLXNpdGVjYXRhbHlzdF0iKTsKICAgICAgICB9IGVsc2UgaWYgKHN3aXRjaENsaWVudE9wdGlvbi5nZXRDbGllbnRJZHMoKS5sZW5ndGggIT0gMCkgewogICAgICAgICAgICBzYi5hcHBlbmQoIlstLWNsaWVudGlkcz0iICsgU3RyaW5nVXRpbHMuam9pbihzd2l0Y2hDbGllbnRPcHRpb24uZ2V0Q2xpZW50SWRzKCksJywnKSArICJdIik7CiAgICAgICAgfQogICAgICAgIAogICAgICAgIHJldHVybiBzYi50b1N0cmluZygpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>showStartOperationMessage(clientId, switchClientOption)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIltvcHRpb25zPSIpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIGxvZ2dlci5pbmZvKCkK</text>
+      <register name="6" type="4">
+        <text>fo</text>
       </register>
       <register name="5" type="4">
-        <text>args</text>
+        <text>logger.in</text>
       </register>
-      <register name="4" type="4">
-        <text>+ 0 + &quot;]&quot; +</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzYi5hcHBlbmQoIua1gemAmuODh+ODvOOCv+OBruODgOOCpuODs+ODreODvOODieODu+WPluOCiui+vOOBv+OCkumWi+Wni+OBl+OBvuOBmeOAgiBbY2xpZW50X2lkPSIrIGNsaWVudElkICsgIl0iKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
+      <register name="9" type="4">
+        <text>args</text>
+      </register>
+      <register name="8" type="4">
+        <text>+ 0 + &quot;]&quot; +</text>
+      </register>
       <register name="-" type="4">
-        <text>logger.in</text>
+        <text>switchClientOption</text>
       </register>
     </registers>
     <search>
