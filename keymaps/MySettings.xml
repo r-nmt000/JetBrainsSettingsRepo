@@ -16,6 +16,20 @@
     <keyboard-shortcut first-keystroke="control ENTER" />
   </action>
   <action id="Console.TableResult.ColumnVisibility" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="ENTER" />
+    <keyboard-shortcut first-keystroke="alt ENTER" />
+  </action>
+  <action id="Console.TableResult.NavigateAction" />
+  <action id="ContextHelp" />
+  <action id="DSM.GoToNextCycle" />
+  <action id="DSM.OpenInEditor" />
+  <action id="Database.OpenDbStorageAction" />
+  <action id="Debugger.EditTypeSource" />
+  <action id="DomCollectionControl.Edit" />
+  <action id="DomElementsTreeView.GotoDomElementDeclarationAction" />
+  <action id="EditSource" />
+  <action id="EditSourceInNewWindow" />
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="BACK_SPACE" />
     <keyboard-shortcut first-keystroke="shift BACK_SPACE" />
@@ -42,9 +56,12 @@
     <keyboard-shortcut first-keystroke="UP" />
     <keyboard-shortcut first-keystroke="control P" />
   </action>
-  <action id="FindNext">
-    <keyboard-shortcut first-keystroke="F3" />
+  <action id="ExternalJavaDoc">
+    <keyboard-shortcut first-keystroke="shift F1" />
+    <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="A" />
   </action>
+  <action id="ExternalSystem.OpenConfig" />
+  <action id="FindNext" />
   <action id="Generate">
     <keyboard-shortcut first-keystroke="control ENTER" />
     <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="G" />
@@ -53,25 +70,37 @@
     <keyboard-shortcut first-keystroke="meta B" />
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="button2" />
-    <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="J" />
+    <keyboard-shortcut first-keystroke="F3" />
+  </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="F4" />
+  </action>
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="shift F2" />
+    <keyboard-shortcut first-keystroke="shift F4" />
   </action>
   <action id="GuiDesigner.CreateComponent">
     <keyboard-shortcut first-keystroke="control ENTER" />
   </action>
+  <action id="GuiDesigner.EditComponent" />
+  <action id="GuiDesigner.EditGroup" />
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift meta F12" />
     <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="M" />
   </action>
+  <action id="Jdbc.OpenTableEditor" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="control ENTER" />
   </action>
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="control button2" />
     <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="D" />
+    <keyboard-shortcut first-keystroke="F1" />
   </action>
   <action id="RemoteHost.NewRemoteItem">
     <keyboard-shortcut first-keystroke="control ENTER" />
   </action>
+  <action id="RemoteHostView.EditSource" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift F10" />
     <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="R" />
@@ -79,6 +108,7 @@
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt ENTER" />
     <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="F" />
+    <keyboard-shortcut first-keystroke="F2" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="control alt ENTER" />
