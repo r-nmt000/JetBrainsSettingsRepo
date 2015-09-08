@@ -47,7 +47,7 @@
         <mark key="]" line="37" column="24" />
         <mark key="[" line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/test/resources/conf/catalunya-rakuten.properties" timestamp="1441684696942">
+      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/test/resources/conf/catalunya-rakuten.properties" timestamp="1441686237403">
         <mark key="'" line="57" column="0" />
         <mark key="]" line="58" column="66" />
         <mark key="^" line="58" column="66" />
@@ -92,7 +92,7 @@
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>mailhost</text>
+        <text>smtp</text>
       </register>
       <register name="-" type="4">
         <text>private</text>
@@ -132,9 +132,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mailhost</last-search>
+      <last-search>smtp</last-search>
       <last-offset />
-      <last-pattern>mailhost</last-pattern>
+      <last-pattern>smtp</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -149,6 +149,7 @@
         <entry>mailto</entry>
         <entry>send</entry>
         <entry>mailhost</entry>
+        <entry>smtp</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
