@@ -3,44 +3,25 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/org/apache/velocity/velocity/1.6.4/velocity-1.6.4-sources.jar!/org/apache/velocity/app/VelocityEngine.java" timestamp="1441701579978" />
+      <file name="$MAVEN_REPOSITORY$/commons-net/commons-net/3.0.1/commons-net-3.0.1-sources.jar!/org/apache/commons/net/ftp/FTPFile.java" timestamp="1441701876580">
+        <mark key="'" line="189" column="13" />
+      </file>
       <file name="/a.regexp" timestamp="1441608211938">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" timestamp="1441698842249">
-        <mark key="'" line="338" column="12" />
-        <mark key="]" line="59" column="62" />
-        <mark key="[" line="59" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/util/SwitchClientOption.java" timestamp="1441609131797">
-        <mark key="]" line="70" column="81" />
-        <mark key="^" line="70" column="88" />
-        <mark key="." line="70" column="81" />
-        <mark key="[" line="70" column="81" />
       </file>
       <file name="/a.dummy" timestamp="1441607387019">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/manager/BatchManager.java" timestamp="1441683732849" />
-      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/factory/ExternalReportDownloadAndImportOperatorFactory.java" timestamp="1441673816915">
-        <mark key="]" line="55" column="28" />
-        <mark key="^" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="[" line="47" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/test/java/jp/co/rakuten/operator/factory/ExternalReportDownloadAndImportOperatorFactoryTest.java" timestamp="1441607116132">
-        <mark key="]" line="55" column="33" />
-        <mark key="^" line="55" column="33" />
-        <mark key="." line="55" column="33" />
-        <mark key="[" line="54" column="59" />
-      </file>
-      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/test/java/jp/co/rakuten/BatchTest.java" timestamp="1441697871398">
-        <mark key="]" line="46" column="66" />
-        <mark key="^" line="46" column="66" />
-        <mark key="." line="46" column="66" />
-        <mark key="[" line="46" column="28" />
-      </file>
       <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/resources/catalunya2-rakuten.xml" timestamp="1441681673307">
         <mark key="'" line="12" column="108" />
+      </file>
+      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/test/java/jp/co/rakuten/BatchTest.java" timestamp="1441700510397">
+        <mark key="]" line="39" column="111" />
+        <mark key="^" line="48" column="66" />
+        <mark key="." line="38" column="0" />
+        <mark key="[" line="38" column="0" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/Batch.java" timestamp="1441682634654">
         <mark key="'" line="37" column="17" />
@@ -53,6 +34,32 @@
         <mark key="^" line="58" column="66" />
         <mark key="." line="58" column="66" />
         <mark key="[" line="58" column="38" />
+      </file>
+      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" timestamp="1441702001124">
+        <mark key="'" line="143" column="46" />
+        <mark key="]" line="61" column="110" />
+        <mark key="[" line="60" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/util/SwitchClientOption.java" timestamp="1441609131797">
+        <mark key="]" line="70" column="81" />
+        <mark key="^" line="70" column="88" />
+        <mark key="." line="70" column="81" />
+        <mark key="[" line="70" column="81" />
+      </file>
+      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/test/java/jp/co/rakuten/operator/factory/ExternalReportDownloadAndImportOperatorFactoryTest.java" timestamp="1441607116132">
+        <mark key="]" line="55" column="33" />
+        <mark key="^" line="55" column="33" />
+        <mark key="." line="55" column="33" />
+        <mark key="[" line="54" column="59" />
+      </file>
+      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/factory/ExternalReportDownloadAndImportOperatorFactory.java" timestamp="1441673816915">
+        <mark key="]" line="55" column="28" />
+        <mark key="^" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="[" line="47" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/3.0.4.RELEASE/spring-context-support-3.0.4.RELEASE-sources.jar!/org/springframework/ui/velocity/VelocityEngineUtils.java" timestamp="1441701459546">
+        <mark key="'" line="141" column="37" />
       </file>
     </filemarks>
     <jumps>
@@ -82,18 +89,41 @@
       <jump line="100" column="33" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" />
       <jump line="121" column="37" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" />
       <jump line="185" column="29" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" />
-      <jump line="261" column="27" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" />
       <jump line="272" column="5" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" />
-      <jump line="305" column="34" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" />
-      <jump line="310" column="32" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" />
       <jump line="57" column="0" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/test/resources/conf/catalunya-rakuten.properties" />
       <jump line="354" column="0" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" />
       <jump line="76" column="17" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" />
       <jump line="338" column="12" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" />
+      <jump line="219" column="19" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" />
+      <jump line="305" column="17" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" />
+      <jump line="310" column="32" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" />
+      <jump line="261" column="52" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" />
+      <jump line="337" column="18" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" />
+      <jump line="376" column="50" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" />
+      <jump line="83" column="23" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/3.0.4.RELEASE/spring-context-support-3.0.4.RELEASE-sources.jar!/org/springframework/ui/velocity/VelocityEngineUtils.java" />
+      <jump line="84" column="89" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/3.0.4.RELEASE/spring-context-support-3.0.4.RELEASE-sources.jar!/org/springframework/ui/velocity/VelocityEngineUtils.java" />
+      <jump line="88" column="66" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/3.0.4.RELEASE/spring-context-support-3.0.4.RELEASE-sources.jar!/org/springframework/ui/velocity/VelocityEngineUtils.java" />
+      <jump line="104" column="60" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/3.0.4.RELEASE/spring-context-support-3.0.4.RELEASE-sources.jar!/org/springframework/ui/velocity/VelocityEngineUtils.java" />
+      <jump line="110" column="66" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/3.0.4.RELEASE/spring-context-support-3.0.4.RELEASE-sources.jar!/org/springframework/ui/velocity/VelocityEngineUtils.java" />
+      <jump line="136" column="27" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/3.0.4.RELEASE/spring-context-support-3.0.4.RELEASE-sources.jar!/org/springframework/ui/velocity/VelocityEngineUtils.java" />
+      <jump line="137" column="11" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/3.0.4.RELEASE/spring-context-support-3.0.4.RELEASE-sources.jar!/org/springframework/ui/velocity/VelocityEngineUtils.java" />
+      <jump line="144" column="66" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/3.0.4.RELEASE/spring-context-support-3.0.4.RELEASE-sources.jar!/org/springframework/ui/velocity/VelocityEngineUtils.java" />
+      <jump line="117" column="72" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/3.0.4.RELEASE/spring-context-support-3.0.4.RELEASE-sources.jar!/org/springframework/ui/velocity/VelocityEngineUtils.java" />
+      <jump line="121" column="56" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/3.0.4.RELEASE/spring-context-support-3.0.4.RELEASE-sources.jar!/org/springframework/ui/velocity/VelocityEngineUtils.java" />
+      <jump line="126" column="60" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/3.0.4.RELEASE/spring-context-support-3.0.4.RELEASE-sources.jar!/org/springframework/ui/velocity/VelocityEngineUtils.java" />
+      <jump line="133" column="66" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/3.0.4.RELEASE/spring-context-support-3.0.4.RELEASE-sources.jar!/org/springframework/ui/velocity/VelocityEngineUtils.java" />
+      <jump line="140" column="89" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/3.0.4.RELEASE/spring-context-support-3.0.4.RELEASE-sources.jar!/org/springframework/ui/velocity/VelocityEngineUtils.java" />
+      <jump line="141" column="37" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/3.0.4.RELEASE/spring-context-support-3.0.4.RELEASE-sources.jar!/org/springframework/ui/velocity/VelocityEngineUtils.java" />
+      <jump line="189" column="13" filename="$MAVEN_REPOSITORY$/commons-net/commons-net/3.0.1/commons-net-3.0.1-sources.jar!/org/apache/commons/net/ftp/FTPFile.java" />
+      <jump line="265" column="48" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" />
+      <jump line="380" column="16" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" />
+      <jump line="369" column="82" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" />
+      <jump line="364" column="12" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" />
+      <jump line="143" column="46" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" />
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>send</text>
+        <text>localfiles</text>
       </register>
       <register name="-" type="4">
         <text>r.nmt000@gmail.com</text>
@@ -108,7 +138,7 @@
         <text>r.nmt000@gmail.com</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIEJhdGNoTWFuYWdlciBtYW5hZ2VyOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBNQUlMX1RFTVBMQVRFX0VOQ09ESU5HID0gIlVURi04IjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBNQUlMX1RFTVBMQVRFX0xPQ0FUSU9OID0gImpwL2NvL3Jha3V0ZW4vbWFpbC9leHRlcm5hbC1yZXBvcnQtaW1wb3J0LXJlcG9ydC52bSI7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIEJhdGNoTWFuYWdlciBtYW5hZ2VyOwo=</text>
@@ -133,9 +163,9 @@
       </register>
     </registers>
     <search>
-      <last-search>send</last-search>
+      <last-search>localfiles</last-search>
       <last-offset />
-      <last-pattern>send</last-pattern>
+      <last-pattern>localfiles</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -151,6 +181,11 @@
         <entry>mailhost</entry>
         <entry>smtp</entry>
         <entry>send</entry>
+        <entry>model</entry>
+        <entry>tostring</entry>
+        <entry>gettext</entry>
+        <entry>downloadfiles</entry>
+        <entry>localfiles</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -165,17 +200,26 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed W</text>
