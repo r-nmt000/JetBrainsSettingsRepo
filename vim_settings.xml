@@ -6,6 +6,9 @@
       <file name="/a.regexp" timestamp="1441608211938">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" timestamp="1441674232944">
+        <mark key="'" line="77" column="25" />
+      </file>
       <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/util/SwitchClientOption.java" timestamp="1441609131797">
         <mark key="]" line="70" column="81" />
         <mark key="^" line="70" column="88" />
@@ -15,7 +18,7 @@
       <file name="/a.dummy" timestamp="1441607387019">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/factory/ExternalReportDownloadAndImportOperatorFactory.java" timestamp="1441609070649">
+      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/factory/ExternalReportDownloadAndImportOperatorFactory.java" timestamp="1441673816915">
         <mark key="]" line="55" column="28" />
         <mark key="^" line="42" column="0" />
         <mark key="." line="42" column="0" />
@@ -27,9 +30,26 @@
         <mark key="." line="55" column="33" />
         <mark key="[" line="54" column="59" />
       </file>
+      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/Batch.java" timestamp="1441674321857">
+        <mark key="'" line="37" column="17" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="76" column="11" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" />
+      <jump line="306" column="27" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" />
+      <jump line="77" column="25" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" />
+      <jump line="88" column="28" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/Batch.java" />
+      <jump line="13" column="34" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/Batch.java" />
+      <jump line="35" column="8" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/Batch.java" />
+      <jump line="37" column="17" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/Batch.java" />
+    </jumps>
     <registers>
+      <register name="/" type="4">
+        <text>manager</text>
+      </register>
+      <register name="-" type="4">
+        <text>switchClientOption</text>
+      </register>
       <register name="3" type="4">
         <text>switchClientOption</text>
       </register>
@@ -63,16 +83,19 @@
       <register name="8" type="4">
         <text>+ 0 + &quot;]&quot; +</text>
       </register>
-      <register name="-" type="4">
-        <text>switchClientOption</text>
-      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>manager</last-search>
+      <last-offset />
+      <last-pattern>manager</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>run</entry>
+        <entry>manager</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
@@ -91,6 +114,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
