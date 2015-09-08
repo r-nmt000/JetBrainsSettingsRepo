@@ -6,8 +6,8 @@
       <file name="/a.regexp" timestamp="1441608211938">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" timestamp="1441674232944">
-        <mark key="'" line="77" column="25" />
+      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" timestamp="1441677513463">
+        <mark key="'" line="347" column="20" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/util/SwitchClientOption.java" timestamp="1441609131797">
         <mark key="]" line="70" column="81" />
@@ -18,6 +18,7 @@
       <file name="/a.dummy" timestamp="1441607387019">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/manager/BatchManager.java" timestamp="1441677539594" />
       <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/factory/ExternalReportDownloadAndImportOperatorFactory.java" timestamp="1441673816915">
         <mark key="]" line="55" column="28" />
         <mark key="^" line="42" column="0" />
@@ -30,7 +31,7 @@
         <mark key="." line="55" column="33" />
         <mark key="[" line="54" column="59" />
       </file>
-      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/Batch.java" timestamp="1441674321857">
+      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/Batch.java" timestamp="1441677346371">
         <mark key="'" line="37" column="17" />
       </file>
     </filemarks>
@@ -42,10 +43,12 @@
       <jump line="13" column="34" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/Batch.java" />
       <jump line="35" column="8" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/Batch.java" />
       <jump line="37" column="17" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/Batch.java" />
+      <jump line="23" column="17" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/rioja/service/OutputAdService.java" />
+      <jump line="347" column="20" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" />
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>manager</text>
+        <text>send</text>
       </register>
       <register name="-" type="4">
         <text>switchClientOption</text>
@@ -85,9 +88,9 @@
       </register>
     </registers>
     <search>
-      <last-search>manager</last-search>
+      <last-search>send</last-search>
       <last-offset />
-      <last-pattern>manager</last-pattern>
+      <last-pattern>send</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -95,6 +98,7 @@
       <history-search>
         <entry>run</entry>
         <entry>manager</entry>
+        <entry>send</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
