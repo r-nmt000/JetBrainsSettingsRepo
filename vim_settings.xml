@@ -6,8 +6,8 @@
       <file name="/a.regexp" timestamp="1441608211938">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" timestamp="1441682594141">
-        <mark key="'" line="310" column="32" />
+      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" timestamp="1441683148241">
+        <mark key="'" line="76" column="17" />
         <mark key="]" line="59" column="62" />
         <mark key="[" line="59" column="0" />
       </file>
@@ -20,7 +20,7 @@
       <file name="/a.dummy" timestamp="1441607387019">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/manager/BatchManager.java" timestamp="1441677539594" />
+      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/manager/BatchManager.java" timestamp="1441683732849" />
       <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/factory/ExternalReportDownloadAndImportOperatorFactory.java" timestamp="1441673816915">
         <mark key="]" line="55" column="28" />
         <mark key="^" line="42" column="0" />
@@ -33,11 +33,11 @@
         <mark key="." line="55" column="33" />
         <mark key="[" line="54" column="59" />
       </file>
-      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/test/java/jp/co/rakuten/BatchTest.java" timestamp="1441682714083">
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="49" column="35" />
-        <mark key="." line="54" column="0" />
-        <mark key="[" line="54" column="0" />
+      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/test/java/jp/co/rakuten/BatchTest.java" timestamp="1441683990506">
+        <mark key="]" line="33" column="25" />
+        <mark key="^" line="54" column="11" />
+        <mark key="." line="32" column="0" />
+        <mark key="[" line="32" column="0" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/resources/catalunya2-rakuten.xml" timestamp="1441681673307">
         <mark key="'" line="12" column="108" />
@@ -47,12 +47,15 @@
         <mark key="]" line="37" column="24" />
         <mark key="[" line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/test/resources/conf/catalunya-rakuten.properties" timestamp="1441681847405">
-        <mark key="'" line="58" column="31" />
+      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/test/resources/conf/catalunya-rakuten.properties" timestamp="1441683805048">
+        <mark key="'" line="57" column="0" />
+        <mark key="]" line="58" column="66" />
+        <mark key="^" line="58" column="66" />
+        <mark key="." line="58" column="66" />
+        <mark key="[" line="58" column="38" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="11" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" />
       <jump line="306" column="27" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" />
       <jump line="77" column="25" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" />
       <jump line="88" column="28" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/Batch.java" />
@@ -83,46 +86,49 @@
       <jump line="272" column="5" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" />
       <jump line="305" column="34" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" />
       <jump line="310" column="32" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" />
+      <jump line="57" column="0" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/test/resources/conf/catalunya-rakuten.properties" />
+      <jump line="354" column="0" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" />
+      <jump line="76" column="17" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" />
     </jumps>
     <registers>
       <register name="/" type="4">
         <text>send</text>
       </register>
       <register name="-" type="4">
-        <text>switchClientOption</text>
+        <text>private</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9yIChGaWxlIGF0dGFjaG1lbnQgOiBhdHRhY2htZW50cykgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVscGVyLmFkZEF0dGFjaG1lbnQoYXR0YWNobWVudC5nZXROYW1lKCksIGF0dGFjaG1lbnQpOwogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZ2V0UHJvcGVydGllcygpLnB1dCgiY2F0YWx1bnlhLmhvbWUiLCAic3JjL3Rlc3QvcmVzb3VyY2VzIik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIEJhdGNoTWFuYWdlciBtYW5hZ2VyOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBAQXV0b3dpcmVkCiAgICAgICAgQmF0Y2hNYW5hZ2VyIG1hbmFnZXI7Cg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIEJhdGNoTWFuYWdlciBtYW5hZ2VyOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzYi5hcHBlbmQoIua1gemAmuODh+ODvOOCv+OBruODgOOCpuODs+ODreODvOODieODu+WPluOCiui+vOOBv+OCkumWi+Wni+OBl+OBvuOBmeOAgiBbY2xpZW50X2lkPSIrIGNsaWVudElkICsgIl0iKTsK</text>
+      <register name="7" type="4">
+        <text>l2mixer-dev@brainpad.co.jp</text>
       </register>
       <register name="6" type="4">
-        <text>switchClientOption</text>
+        <text>private</text>
       </register>
-      <register name="5" type="4">
-        <text>switchClientOption</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIEJhdGNoTWFuYWdlciBtYW5hZ2VyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIlN3aXRjaENsaWVudE9wdGlvbnsiICsKICAgICAgICAgICAgICAgICJjbGllbnRJZHM9IiArIEFycmF5cy50b1N0cmluZyhjbGllbnRJZHMpICsKICAgICAgICAgICAgICAgICIsIHNpdGVjYXRhbHlzdD0iICsgc2l0ZWNhdGFseXN0ICsKICAgICAgICAgICAgICAgICd9JzsK</text>
+        <text encoding="base64">ICAgICAgICBAQXV0b3dpcmVkCiAgICAgICAgQmF0Y2hNYW5hZ2VyIG1hbmFnZXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>fo</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>logger.in</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
@@ -137,10 +143,10 @@
         <entry>run</entry>
         <entry>manager</entry>
         <entry>mail</entry>
-        <entry>mailto</entry>
         <entry>properties</entry>
         <entry>catalunya.home</entry>
         <entry>batchmanager</entry>
+        <entry>mailto</entry>
         <entry>send</entry>
       </history-search>
       <history-cmd>
