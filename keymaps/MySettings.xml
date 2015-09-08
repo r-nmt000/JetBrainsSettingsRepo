@@ -66,6 +66,10 @@
     <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="A" />
   </action>
   <action id="ExternalSystem.OpenConfig" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta F12" />
+    <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="S" />
+  </action>
   <action id="FindNext" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta alt RIGHT" />
