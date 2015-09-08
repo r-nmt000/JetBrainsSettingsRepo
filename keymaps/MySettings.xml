@@ -4,6 +4,11 @@
     <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="SPACE" />
     <keyboard-shortcut first-keystroke="control K" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta alt LEFT" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="control Q" />
+  </action>
   <action id="CallHierarchy">
     <keyboard-shortcut first-keystroke="control alt H" />
     <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="H" />
@@ -61,7 +66,16 @@
     <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="A" />
   </action>
   <action id="ExternalSystem.OpenConfig" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta F12" />
+    <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="S" />
+  </action>
   <action id="FindNext" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta alt RIGHT" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="control W" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="control ENTER" />
     <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="G" />
@@ -105,6 +119,7 @@
     <keyboard-shortcut first-keystroke="shift F10" />
     <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="R" />
   </action>
+  <action id="Scala.GoToImplicit" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt ENTER" />
     <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="F" />
