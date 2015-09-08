@@ -33,11 +33,11 @@
         <mark key="." line="55" column="33" />
         <mark key="[" line="54" column="59" />
       </file>
-      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/test/java/jp/co/rakuten/BatchTest.java" timestamp="1441683990506">
-        <mark key="]" line="33" column="25" />
-        <mark key="^" line="54" column="11" />
-        <mark key="." line="32" column="0" />
-        <mark key="[" line="32" column="0" />
+      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/test/java/jp/co/rakuten/BatchTest.java" timestamp="1441684656099">
+        <mark key="]" line="46" column="66" />
+        <mark key="^" line="46" column="66" />
+        <mark key="." line="46" column="66" />
+        <mark key="[" line="46" column="28" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/resources/catalunya2-rakuten.xml" timestamp="1441681673307">
         <mark key="'" line="12" column="108" />
@@ -47,7 +47,7 @@
         <mark key="]" line="37" column="24" />
         <mark key="[" line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/test/resources/conf/catalunya-rakuten.properties" timestamp="1441683805048">
+      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/test/resources/conf/catalunya-rakuten.properties" timestamp="1441684696942">
         <mark key="'" line="57" column="0" />
         <mark key="]" line="58" column="66" />
         <mark key="^" line="58" column="66" />
@@ -92,49 +92,49 @@
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>send</text>
+        <text>mailhost</text>
       </register>
       <register name="-" type="4">
         <text>private</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZ2V0UHJvcGVydGllcygpLnB1dCgiY2F0YWx1bnlhLmhvbWUiLCAic3JjL3Rlc3QvcmVzb3VyY2VzIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBAQXV0b3dpcmVkCiAgICAgICAgQmF0Y2hNYW5hZ2VyIG1hbmFnZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIEJhdGNoTWFuYWdlciBtYW5hZ2VyOwo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBAQXV0b3dpcmVkCiAgICAgICAgQmF0Y2hNYW5hZ2VyIG1hbmFnZXI7Cg==</text>
+        <text encoding="base64">ICAgIEJhdGNoTWFuYWdlciBtYW5hZ2VyCg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIEJhdGNoTWFuYWdlciBtYW5hZ2VyOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>l2mixer-dev@brainpad.co.jp</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZ2V0UHJvcGVydGllcygpLnB1dCgiY2F0YWx1bnlhLmhvbWUiLCAic3JjL3Rlc3QvcmVzb3VyY2VzIik7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>private</text>
-      </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIEJhdGNoTWFuYWdlciBtYW5hZ2VyOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBAQXV0b3dpcmVkCiAgICAgICAgQmF0Y2hNYW5hZ2VyIG1hbmFnZXI7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIEJhdGNoTWFuYWdlciBtYW5hZ2VyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIEJhdGNoTWFuYWdlciBtYW5hZ2VyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBAQXV0b3dpcmVkCiAgICAgICAgQmF0Y2hNYW5hZ2VyIG1hbmFnZXI7Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>send</last-search>
+      <last-search>mailhost</last-search>
       <last-offset />
-      <last-pattern>send</last-pattern>
+      <last-pattern>mailhost</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -148,6 +148,7 @@
         <entry>batchmanager</entry>
         <entry>mailto</entry>
         <entry>send</entry>
+        <entry>mailhost</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
