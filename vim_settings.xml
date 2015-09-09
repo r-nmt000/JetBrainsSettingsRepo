@@ -9,6 +9,9 @@
       <file name="/a.dummy" timestamp="1441607387019">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/malaga/malaga-core/malaga-api-server/pom.xml" timestamp="1441797462578">
+        <mark key="'" line="59" column="15" />
+      </file>
       <file name="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/resources/catalunya2-rakuten.xml" timestamp="1441702769822">
         <mark key="'" line="15" column="18" />
       </file>
@@ -139,10 +142,16 @@
       <jump line="64" column="23" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/test/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperatorTest.java" />
       <jump line="61" column="32" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/test/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperatorTest.java" />
       <jump line="56" column="45" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/catalunya/catalunya2-java/catalunya2-rakuten/src/main/java/jp/co/rakuten/operator/ExternalReportDownloadAndImportOperator.java" />
+      <jump line="12" column="27" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/malaga/malaga-core/malaga-api-server/pom.xml" />
+      <jump line="61" column="27" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/malaga/malaga-core/malaga-api-server/pom.xml" />
+      <jump line="68" column="25" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/malaga/malaga-core/malaga-api-server/pom.xml" />
+      <jump line="62" column="17" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/malaga/malaga-core/malaga-api-server/pom.xml" />
+      <jump line="69" column="17" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/malaga/malaga-core/malaga-api-server/pom.xml" />
+      <jump line="59" column="15" filename="$USER_HOME$/repos/JetBrains/IntelliJ/L2Mixer/malaga/malaga-core/malaga-api-server/pom.xml" />
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>send</text>
+        <text>project.version</text>
       </register>
       <register name="-" type="4">
         <text>import org.apache.commons.net.ftp.FTPFile;</text>
@@ -182,17 +191,14 @@
       </register>
     </registers>
     <search>
-      <last-search>send</last-search>
+      <last-search>project.version</last-search>
       <last-offset />
-      <last-pattern>send</last-pattern>
+      <last-pattern>project.version</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>run</entry>
-        <entry>manager</entry>
-        <entry>mail</entry>
         <entry>properties</entry>
         <entry>catalunya.home</entry>
         <entry>batchmanager</entry>
@@ -210,6 +216,9 @@
         <entry>gettext</entry>
         <entry>setname</entry>
         <entry>send</entry>
+        <entry>dependen</entry>
+        <entry>web</entry>
+        <entry>project.version</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
