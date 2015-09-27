@@ -1,29 +1,29 @@
 <keymap version="1" name="MySettings" parent="Mac OS X">
   <action id="AceJumpAction">
-    <keyboard-shortcut first-keystroke="meta SEMICOLON" />
-    <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="SPACE" />
-    <keyboard-shortcut first-keystroke="control K" />
+    <keyboard-shortcut first-keystroke="meta semicolon" />
+    <keyboard-shortcut first-keystroke="meta space" second-keystroke="space" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="Back">
-    <keyboard-shortcut first-keystroke="meta alt LEFT" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
     <mouse-shortcut keystroke="button4" />
-    <keyboard-shortcut first-keystroke="control Q" />
+    <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
   <action id="CallHierarchy">
-    <keyboard-shortcut first-keystroke="control alt H" />
-    <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="H" />
+    <keyboard-shortcut first-keystroke="ctrl alt h" />
+    <keyboard-shortcut first-keystroke="meta space" second-keystroke="h" />
   </action>
   <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="meta F4" />
-    <keyboard-shortcut first-keystroke="meta W" />
+    <keyboard-shortcut first-keystroke="meta f4" />
+    <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="Console.TableResult.AddRow">
-    <keyboard-shortcut first-keystroke="control ENTER" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="Console.TableResult.ColumnVisibility" />
   <action id="Console.TableResult.EditValue">
-    <keyboard-shortcut first-keystroke="ENTER" />
-    <keyboard-shortcut first-keystroke="alt ENTER" />
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
   </action>
   <action id="Console.TableResult.NavigateAction" />
   <action id="ContextHelp" />
@@ -36,109 +36,109 @@
   <action id="EditSource" />
   <action id="EditSourceInNewWindow" />
   <action id="EditorBackSpace">
-    <keyboard-shortcut first-keystroke="BACK_SPACE" />
-    <keyboard-shortcut first-keystroke="shift BACK_SPACE" />
-    <keyboard-shortcut first-keystroke="control H" />
+    <keyboard-shortcut first-keystroke="back_space" />
+    <keyboard-shortcut first-keystroke="shift back_space" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
   <action id="EditorDown">
-    <keyboard-shortcut first-keystroke="DOWN" />
-    <keyboard-shortcut first-keystroke="control N" />
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="EditorEscape">
-    <keyboard-shortcut first-keystroke="ESCAPE" />
-    <keyboard-shortcut first-keystroke="control J" />
+    <keyboard-shortcut first-keystroke="escape" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
   <action id="EditorLeft">
-    <keyboard-shortcut first-keystroke="LEFT" />
-    <keyboard-shortcut first-keystroke="control B" />
+    <keyboard-shortcut first-keystroke="left" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
   <action id="EditorRight">
-    <keyboard-shortcut first-keystroke="RIGHT" />
-    <keyboard-shortcut first-keystroke="control F" />
+    <keyboard-shortcut first-keystroke="right" />
+    <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
   <action id="EditorSelectWord" />
   <action id="EditorUp">
-    <keyboard-shortcut first-keystroke="UP" />
-    <keyboard-shortcut first-keystroke="control P" />
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="ExternalJavaDoc">
-    <keyboard-shortcut first-keystroke="shift F1" />
-    <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="A" />
+    <keyboard-shortcut first-keystroke="shift f1" />
+    <keyboard-shortcut first-keystroke="meta space" second-keystroke="a" />
   </action>
   <action id="ExternalSystem.OpenConfig" />
   <action id="FileStructurePopup">
-    <keyboard-shortcut first-keystroke="meta F12" />
-    <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="S" />
+    <keyboard-shortcut first-keystroke="meta f12" />
+    <keyboard-shortcut first-keystroke="meta space" second-keystroke="s" />
   </action>
   <action id="FindNext" />
   <action id="Forward">
-    <keyboard-shortcut first-keystroke="meta alt RIGHT" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
     <mouse-shortcut keystroke="button5" />
-    <keyboard-shortcut first-keystroke="control W" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="Generate">
-    <keyboard-shortcut first-keystroke="control ENTER" />
-    <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="G" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+    <keyboard-shortcut first-keystroke="meta space" second-keystroke="g" />
   </action>
   <action id="GotoDeclaration">
-    <keyboard-shortcut first-keystroke="meta B" />
+    <keyboard-shortcut first-keystroke="meta b" />
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="button2" />
-    <keyboard-shortcut first-keystroke="F3" />
+    <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="GotoNextError">
-    <keyboard-shortcut first-keystroke="F4" />
+    <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="GotoPreviousError">
-    <keyboard-shortcut first-keystroke="shift F2" />
-    <keyboard-shortcut first-keystroke="shift F4" />
+    <keyboard-shortcut first-keystroke="shift f2" />
+    <keyboard-shortcut first-keystroke="shift f4" />
   </action>
   <action id="GuiDesigner.CreateComponent">
-    <keyboard-shortcut first-keystroke="control ENTER" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="GuiDesigner.EditComponent" />
   <action id="GuiDesigner.EditGroup" />
   <action id="HideAllWindows">
-    <keyboard-shortcut first-keystroke="shift meta F12" />
-    <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="M" />
+    <keyboard-shortcut first-keystroke="shift meta f12" />
+    <keyboard-shortcut first-keystroke="meta space" second-keystroke="m" />
   </action>
   <action id="Jdbc.OpenTableEditor" />
   <action id="NewElement">
-    <keyboard-shortcut first-keystroke="control ENTER" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="control button2" />
-    <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="D" />
-    <keyboard-shortcut first-keystroke="F1" />
+    <keyboard-shortcut first-keystroke="meta space" second-keystroke="d" />
+    <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="RemoteHost.NewRemoteItem">
-    <keyboard-shortcut first-keystroke="control ENTER" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="RemoteHostView.EditSource" />
   <action id="Run">
-    <keyboard-shortcut first-keystroke="shift F10" />
-    <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="R" />
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="meta space" second-keystroke="r" />
   </action>
   <action id="Scala.GoToImplicit" />
   <action id="ShowIntentionActions">
-    <keyboard-shortcut first-keystroke="alt ENTER" />
-    <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="F" />
-    <keyboard-shortcut first-keystroke="F2" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+    <keyboard-shortcut first-keystroke="meta space" second-keystroke="f" />
+    <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="SwitchApply">
-    <keyboard-shortcut first-keystroke="control alt ENTER" />
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
   <action id="SwitchDown">
-    <keyboard-shortcut first-keystroke="control alt DOWN" />
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
   <action id="SwitchLeft">
-    <keyboard-shortcut first-keystroke="control alt LEFT" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="SwitchRight">
-    <keyboard-shortcut first-keystroke="control alt RIGHT" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="SwitchUp">
-    <keyboard-shortcut first-keystroke="control alt UP" />
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="TypeHierarchy" />
 </keymap>
