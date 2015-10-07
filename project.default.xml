@@ -20,6 +20,13 @@
           </profile>
         </annotationProcessing>
       </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="Bundled (Maven 3)" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
       <component name="NamedScopeManager">
         <order />
       </component>
@@ -37,10 +44,6 @@
         <modules />
       </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
-      <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
-        <property name="settings.editor.splitter.proportion" value="0.2" />
-      </component>
       <component name="RunManager">
         <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
           <module name="" />
