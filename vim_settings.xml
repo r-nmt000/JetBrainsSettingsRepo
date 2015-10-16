@@ -145,13 +145,13 @@
         <mark key="." line="18" column="0" />
         <mark key="[" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" timestamp="1444984904030">
-        <mark key="'" line="98" column="13" />
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" timestamp="1444986161142">
+        <mark key="'" line="454" column="45" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/ChapterNine/Practice.java" timestamp="1441009853559">
         <mark key="[" line="24" column="33" />
       </file>
-      <file name="/fragment.java" timestamp="1444955988393">
+      <file name="/fragment.java" timestamp="1444986098514">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/ChapterSeven/Launcher.java" timestamp="1441002316887">
@@ -199,10 +199,13 @@
       <jump line="10" column="4" filename="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Observer/Teacher.java" />
       <jump line="62" column="0" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/rest/impl/BulkApiImpl.java" />
       <jump line="98" column="13" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" />
+      <jump line="488" column="11" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" />
+      <jump line="481" column="62" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" />
+      <jump line="454" column="45" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" />
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>download</text>
+        <text>bulkoption</text>
       </register>
       <register name="-" type="4">
         <text>List</text>
@@ -242,15 +245,16 @@
       </register>
     </registers>
     <search>
-      <last-search>download</last-search>
+      <last-search>bulkoption</last-search>
       <last-offset />
-      <last-pattern>download</last-pattern>
+      <last-pattern>bulkoption</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
         <entry>download</entry>
+        <entry>bulkoption</entry>
       </history-search>
       <history-cmd>
         <entry>i</entry>
