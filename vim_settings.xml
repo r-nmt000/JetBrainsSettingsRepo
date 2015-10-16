@@ -9,6 +9,9 @@
         <mark key="." line="6" column="27" />
         <mark key="[" line="6" column="27" />
       </file>
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/rest/impl/BulkApiImpl.java" timestamp="1444984645281">
+        <mark key="'" line="62" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Observer/Observer.java" timestamp="1443347509264">
         <mark key="g" line="6" column="0" />
         <mark key="]" line="7" column="0" />
@@ -142,6 +145,9 @@
         <mark key="." line="18" column="0" />
         <mark key="[" line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" timestamp="1444984904030">
+        <mark key="'" line="98" column="13" />
+      </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/ChapterNine/Practice.java" timestamp="1441009853559">
         <mark key="[" line="24" column="33" />
       </file>
@@ -191,8 +197,16 @@
     </filemarks>
     <jumps>
       <jump line="10" column="4" filename="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Observer/Teacher.java" />
+      <jump line="62" column="0" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/rest/impl/BulkApiImpl.java" />
+      <jump line="98" column="13" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" />
     </jumps>
     <registers>
+      <register name="/" type="4">
+        <text>download</text>
+      </register>
+      <register name="-" type="4">
+        <text>List</text>
+      </register>
       <register name="3" type="2">
         <text encoding="base64">ICAtLT4K</text>
       </register>
@@ -226,16 +240,18 @@
       <register name="8" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldE5hbWUoU3RyaW5nIG5hbWUpIHsKICAgICAgICB0aGlzLm5hbWUgPSBuYW1lOwogICAgfQo=</text>
       </register>
-      <register name="-" type="4">
-        <text>List</text>
-      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>download</last-search>
+      <last-offset />
+      <last-pattern>download</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>download</entry>
+      </history-search>
       <history-cmd>
         <entry>i</entry>
         <entry>w</entry>
