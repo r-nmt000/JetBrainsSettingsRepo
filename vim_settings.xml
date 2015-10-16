@@ -119,6 +119,9 @@
         <mark key="." line="19" column="9" />
         <mark key="[" line="19" column="4" />
       </file>
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BidPriceAdjustmentApplyLogicImpl.java" timestamp="1444991367507">
+        <mark key="'" line="196" column="17" />
+      </file>
       <file name="/Dummy.txt" timestamp="1444953565242">
         <mark key="[" line="0" column="0" />
       </file>
@@ -146,7 +149,8 @@
         <mark key="." line="18" column="0" />
         <mark key="[" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" timestamp="1444988635991">
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-tx/3.2.2.RELEASE/spring-tx-3.2.2.RELEASE.jar!/org/springframework/transaction/interceptor/TransactionAspectSupport.class" timestamp="1444991410644" />
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" timestamp="1444989462172">
         <mark key="'" line="454" column="45" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/ChapterNine/Practice.java" timestamp="1441009853559">
@@ -182,10 +186,11 @@
         <mark key="[" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-api-server/src/main/resources/logback.xml" timestamp="1444956832720">
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="[" line="54" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="[" line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/rest/BidPriceAdjustmentApplyApi.java" timestamp="1444990515965" />
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/MyStudentList.java" timestamp="1440854516930">
         <mark key="]" line="18" column="4" />
         <mark key="^" line="18" column="4" />
@@ -203,37 +208,45 @@
       <jump line="488" column="11" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" />
       <jump line="481" column="62" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" />
       <jump line="454" column="45" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" />
+      <jump line="69" column="8" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/RuleUpdateLogicImpl.java" />
+      <jump line="72" column="0" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/RuleUpdateLogicImpl.java" />
+      <jump line="73" column="30" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/RuleUpdateLogicImpl.java" />
+      <jump line="60" column="26" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/RuleUpdateLogicImpl.java" />
+      <jump line="65" column="13" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BidPriceAdjustmentApplyLogicImpl.java" />
+      <jump line="170" column="105" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BidPriceAdjustmentApplyLogicImpl.java" />
+      <jump line="307" column="49" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BidPriceAdjustmentApplyLogicImpl.java" />
+      <jump line="196" column="17" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BidPriceAdjustmentApplyLogicImpl.java" />
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>bulkoption</text>
+        <text>update</text>
       </register>
       <register name="-" type="4">
         <text>List</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAtLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udmVydFBlcmNlbnRUb1JlYWwocnVsZUR0byk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCEtLQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBjb252ZXJ0UGVyY2VudFRvUmVhbChSdWxlRHRvIHJ1bGVEdG8pIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIHJ1bGVVcGRhdGVTZXJ2aWNlLmNvbnZlcnRQZXJjZW50VG9SZWFsKHJ1bGVEdG8pOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IC0tPgo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIHJ1bGVEdG8KICAgICAqIEB0aHJvd3MgRXhjZXB0aW9uCiAgICAgKi8KCg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHVibGljIGludGVyZmFjZSBPYnNlcnZlciB7CiAgICBwdWJsaWMgdm9pZCB1cGRhdGUoKTsKfQo=</text>
+        <text encoding="base64">ICAgICAgICBydWxlVXBkYXRlU2VydmljZS5jb252ZXJ0UGVyY2VudFRvUmVhbChydWxlRHRvKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8cm9vdCBsZXZlbD0iREVCVUciPgogIC0tPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtLT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8IS0tCg==</text>
+        <text encoding="base64">PCEtLQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8cm9vdCBsZXZlbD0iREVCVUciPgogIC0tPgo=</text>
+        <text encoding="base64">IC0tPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -242,13 +255,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldE5hbWUoU3RyaW5nIG5hbWUpIHsKICAgICAgICB0aGlzLm5hbWUgPSBuYW1lOwogICAgfQo=</text>
+        <text encoding="base64">ICA8IS0tCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>bulkoption</last-search>
+      <last-search>update</last-search>
       <last-offset />
-      <last-pattern>bulkoption</last-pattern>
+      <last-pattern>update</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -256,6 +269,8 @@
       <history-search>
         <entry>download</entry>
         <entry>bulkoption</entry>
+        <entry>convertpercent</entry>
+        <entry>update</entry>
       </history-search>
       <history-cmd>
         <entry>i</entry>
