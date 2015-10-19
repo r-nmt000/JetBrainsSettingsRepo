@@ -75,12 +75,12 @@
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/ChapterNine/Practice.java" timestamp="1441009853559">
         <mark key="[" line="24" column="33" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" timestamp="1445230447398">
-        <mark key="'" line="489" column="23" />
-        <mark key="]" line="504" column="32" />
-        <mark key="^" line="504" column="32" />
-        <mark key="." line="504" column="32" />
-        <mark key="[" line="504" column="25" />
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" timestamp="1445234462155">
+        <mark key="'" line="490" column="23" />
+        <mark key="]" line="451" column="75" />
+        <mark key="^" line="451" column="75" />
+        <mark key="." line="451" column="75" />
+        <mark key="[" line="451" column="74" />
       </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/dto/CampaignInfoDto.java" timestamp="1445229141542" />
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Iterator/Student.java" timestamp="1440851697961">
@@ -159,11 +159,11 @@
         <mark key="." line="5" column="19" />
         <mark key="[" line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-bulk-validator/src/main/java/jp/co/brainpad/malaga/bulk/validator/dto/BulkOption.java" timestamp="1445230700041">
-        <mark key="]" line="82" column="44" />
-        <mark key="^" line="81" column="26" />
-        <mark key="." line="82" column="44" />
-        <mark key="[" line="82" column="44" />
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-bulk-validator/src/main/java/jp/co/brainpad/malaga/bulk/validator/dto/BulkOption.java" timestamp="1445234128100">
+        <mark key="]" line="81" column="72" />
+        <mark key="^" line="81" column="72" />
+        <mark key="." line="81" column="72" />
+        <mark key="[" line="80" column="16" />
       </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/service/impl/CampaignServiceImpl.java" timestamp="1445226130502" />
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Prototype/Paper.java" timestamp="1440929134564">
@@ -187,7 +187,7 @@
         <mark key="." line="17" column="49" />
         <mark key="[" line="17" column="30" />
       </file>
-      <file name="/fragment.java" timestamp="1445227664218">
+      <file name="/fragment.java" timestamp="1445233795269">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/ChapterSeven/Launcher.java" timestamp="1441002316887">
@@ -280,40 +280,40 @@
         <text>campaignservice</text>
       </register>
       <register name="-" type="4">
-        <text>List</text>
+        <text>ACCOUNT</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wdGlvbi5zZXRJZChkdG8uZ2V0QWNjb3VudElkKCksZHRvLik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxMb25nPiBsc3QgPSBuZXcgQXJyYXlMaXN0PD4K</text>
       </register>
-      <register name="2" type="4">
-        <text>getAccountId</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxMb25nPiBsaXN0ID0gQXJyYXlzLmFzTGlzdChjYW1wYWlnbklkKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>List</text>
+        <text>ACCOUNT</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICoKICAgICAqLwogICAgcHVibGljIHZvaWQgc2V0SWQoTG9uZyBhY2NvdW50SWQsIExpc3Q8TG9uZz4gY2FtcGFpZ25JZHMpIHsKICAgICAgICB0aGlzLmlkTWFwLnB1dChhY2NvdW50SWQsIGNhbXBhaWduSWRzKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgQnVsa09wdGlvbiBidWxrb3B0aW9uID0gY29udmVydFRvQnVsa09wdGlvbihtZWRpYXMsIG9wdGlvbik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiSWxsZWdhbCBhcmd1bWVudCIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb25nIGNhbXBhaWduSWQgPSBDaXBoZXJLZXlVdGlscy5kZUNpcGhlcktleShjaWQsIENpcGhlclBhcmFtLlR5cGUuTE9ORyk7Cg==</text>
+      <register name="5" type="4">
+        <text>option</text>
       </register>
       <register name="4" type="4">
-        <text>campaignId</text>
+        <text>medias</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRhb3MgPSBjYW1wYWlnblNlcnZpY2UuZmluZChwYXJlbnRJZCwgbnVsbCwgbnVsbCwgbnVsbCwgbnVsbCwgbnVsbCwgbnVsbCk7Cg==</text>
+      <register name="9" type="4">
+        <text>BulkOption</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBNYWxhZ2FFeGNlcHRpb24oKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gb3B0aW9uOwo=</text>
       </register>
     </registers>
     <search>
