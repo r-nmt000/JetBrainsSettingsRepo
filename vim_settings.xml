@@ -154,12 +154,12 @@
         <mark key="." line="10" column="0" />
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" timestamp="1445243902771">
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" timestamp="1445298177736">
         <mark key="'" line="15" column="18" />
-        <mark key="]" line="61" column="34" />
-        <mark key="^" line="61" column="34" />
-        <mark key="." line="61" column="34" />
-        <mark key="[" line="61" column="27" />
+        <mark key="]" line="63" column="42" />
+        <mark key="^" line="63" column="42" />
+        <mark key="." line="63" column="42" />
+        <mark key="[" line="62" column="35" />
       </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" timestamp="1445238192999">
         <mark key="]" line="444" column="55" />
@@ -226,40 +226,40 @@
         <text>is</text>
       </register>
       <register name="-" type="4">
-        <text>bop</text>
+        <text>contains</text>
       </register>
-      <register name="3" type="4">
-        <text>is</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGJvcCwgaXMoZXhwZWN0ZWQpKTsKICAgICAgICBhc3NlcnRUaGF0KGJvcC5nZXRGbGFncygpLCBpcyhleHBlY3RlZC5nZXRGbGFncygpKSk7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>expected</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRlc3QiKTsK</text>
       </register>
       <register name="1" type="4">
+        <text>contains</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGJvcC5nZXRJZE1hcCgpLCBoYXNFbnRyeSgxMDBMLCBBcnJheXMuYXNMaXN0KDFMKSkpOwo=</text>
+      </register>
+      <register name="7" type="4">
+        <text>is</text>
+      </register>
+      <register name="6" type="4">
+        <text>expected</text>
+      </register>
+      <register name="5" type="4">
         <text>bop</text>
       </register>
-      <register name="0" type="4">
-        <text>(anyLong(), isNull(Long.class), isNull(Long.class), isNull(String.class), isNull(EnumSet.class)</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLmludGVybmFsLm1hdGNoZXJzLk51bGw7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmNvbnRleHQuc3VwcG9ydC5DbGFzc1BhdGhYbWxBcHBsaWNhdGlvbkNvbnRleHQ7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGpwLmNvLmJyYWlucGFkLm1hbGFnYS53ZWIuYXBpLmxvZ2ljLkJ1bGtMb2dpYzsK</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBCdWxrT3B0aW9uIGJvcDsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGJvcC5nZXRpZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>null</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IGpwLmNvLmJyYWlucGFkLm1hbGFnYS53ZWIuYXBpLmxvZ2ljLkJ1bGtMb2dpYzsK</text>
       </register>
-      <register name="8" type="4">
-        <text>campaign,adgroup,ad,criterion,negative_campaign_keyword,negative_adgroup_keyword</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBCdWxrT3B0aW9uIGJvcDsK</text>
       </register>
     </registers>
     <search>
