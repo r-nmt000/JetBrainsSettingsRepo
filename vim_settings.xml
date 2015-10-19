@@ -105,6 +105,7 @@
         <mark key="." line="5" column="19" />
         <mark key="[" line="5" column="13" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.9.5/mockito-all-1.9.5-sources.jar!/org/mockito/Matchers.java" timestamp="1445242186203" />
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Iterator/StudentList.java" timestamp="1440852842590">
         <mark key="]" line="9" column="28" />
         <mark key="^" line="9" column="28" />
@@ -153,11 +154,12 @@
         <mark key="." line="10" column="0" />
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" timestamp="1445239324113">
-        <mark key="]" line="25" column="13" />
-        <mark key="^" line="25" column="13" />
-        <mark key="." line="25" column="13" />
-        <mark key="[" line="25" column="8" />
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" timestamp="1445243902771">
+        <mark key="'" line="15" column="18" />
+        <mark key="]" line="61" column="34" />
+        <mark key="^" line="61" column="34" />
+        <mark key="." line="61" column="34" />
+        <mark key="[" line="61" column="27" />
       </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" timestamp="1445238192999">
         <mark key="]" line="444" column="55" />
@@ -167,9 +169,6 @@
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/ChapterNine/Practice.java" timestamp="1441009853559">
         <mark key="[" line="24" column="33" />
-      </file>
-      <file name="/fragment.java" timestamp="1443347834042">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/rest/BulkApi.java" timestamp="1445236799283">
         <mark key="'" line="21" column="22" />
@@ -218,58 +217,62 @@
       <jump line="10" column="4" filename="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Observer/Teacher.java" />
       <jump line="66" column="4" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/rest/BulkApi.java" />
       <jump line="21" column="22" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/rest/BulkApi.java" />
+      <jump line="14" column="19" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" />
+      <jump line="13" column="24" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" />
+      <jump line="15" column="18" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" />
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>long</text>
+        <text>is</text>
       </register>
       <register name="-" type="4">
-        <text>parentId</text>
+        <text>bop</text>
       </register>
       <register name="3" type="4">
-        <text>44L</text>
+        <text>is</text>
       </register>
       <register name="2" type="4">
-        <text>parentId</text>
+        <text>expected</text>
       </register>
       <register name="1" type="4">
-        <text>parentId</text>
+        <text>bop</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQnVsa09wdGlvbiBvcHRpb24gPSBuZXcgQnVsa09wdGlvbigpOwo=</text>
+      <register name="0" type="4">
+        <text>(anyLong(), isNull(Long.class), isNull(Long.class), isNull(String.class), isNull(EnumSet.class)</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLmludGVybmFsLm1hdGNoZXJzLk51bGw7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmNvbnRleHQuc3VwcG9ydC5DbGFzc1BhdGhYbWxBcHBsaWNhdGlvbkNvbnRleHQ7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>Hierarchy</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGpwLmNvLmJyYWlucGFkLm1hbGFnYS53ZWIuYXBpLmxvZ2ljLkJ1bGtMb2dpYzsK</text>
       </register>
-      <register name="4" type="4">
-        <text>CLIENT</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBCdWxrT3B0aW9uIGJvcDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBsb2dnZXIuZXJyb3IoZS5nZXRNZXNzYWdlKCksIGUpOwogICAgICAgICAgICB0aHJvdyBNYWxhZ2FFeGNlcHRpb24ubmV3RXJyb3IoRXJyb3JDb25zdGFudHMuSU5WQUxJRF9SRVFVRVNULCBDeGZNZXNzYWdlSGVscGVyLmdldExvY2FsZSgpKTsKICAgICAgICB9Cg==</text>
+      <register name="9" type="4">
+        <text>null</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+      <register name="8" type="4">
+        <text>campaign,adgroup,ad,criterion,negative_campaign_keyword,negative_adgroup_keyword</text>
       </register>
     </registers>
     <search>
-      <last-search>long</last-search>
+      <last-search>is</last-search>
       <last-offset />
-      <last-pattern>long</last-pattern>
+      <last-pattern>is</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
         <entry>long</entry>
+        <entry>is</entry>
       </history-search>
       <history-cmd>
         <entry>i</entry>
@@ -305,6 +308,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
