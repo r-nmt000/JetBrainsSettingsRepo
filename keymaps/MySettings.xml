@@ -30,6 +30,10 @@
   <action id="DSM.GoToNextCycle" />
   <action id="DSM.OpenInEditor" />
   <action id="Database.OpenDbStorageAction" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift f9" />
+    <keyboard-shortcut first-keystroke="meta space" second-keystroke="d" />
+  </action>
   <action id="Debugger.EditTypeSource" />
   <action id="DomCollectionControl.Edit" />
   <action id="DomElementsTreeView.GotoDomElementDeclarationAction" />
@@ -107,7 +111,6 @@
   </action>
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="control button2" />
-    <keyboard-shortcut first-keystroke="meta space" second-keystroke="d" />
     <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="RemoteHost.NewRemoteItem">
