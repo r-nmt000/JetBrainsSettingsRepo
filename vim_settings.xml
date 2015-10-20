@@ -152,12 +152,12 @@
         <mark key="." line="10" column="0" />
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" timestamp="1445319018280">
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" timestamp="1445319870397">
         <mark key="'" line="33" column="22" />
-        <mark key="]" line="97" column="124" />
-        <mark key="^" line="97" column="124" />
-        <mark key="." line="97" column="124" />
-        <mark key="[" line="95" column="71" />
+        <mark key="]" line="100" column="58" />
+        <mark key="^" line="98" column="53" />
+        <mark key="." line="100" column="0" />
+        <mark key="[" line="100" column="0" />
       </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" timestamp="1445318662618">
         <mark key="]" line="500" column="39" />
@@ -248,37 +248,37 @@
         <text>mock</text>
       </register>
       <register name="-" type="4">
-        <text>Exception</text>
+        <text>doThrow</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoZS5nZXRNZXNzYWdlKCksIGUpOwo=</text>
-      </register>
-      <register name="2" type="4">
-        <text>Exception</text>
-      </register>
-      <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBQb3dlck1vY2tpdG8ubW9ja1N0YXRpYyhDeGZNZXNzYWdlSGVscGVyLmNsYXNzKTsKICAgICAgICB3aGVuKEN4Zk1lc3NhZ2VIZWxwZXIuZ2V0TG9jYWxlKCkpLnRoZW5SZXR1cm4oTG9jYWxlLkpBUEFOKTsK</text>
       </register>
+      <register name="2" type="4">
+        <text>MalagaException.newError(ErrorConstants.INVALID_REQUEST, Locale.JAPAN)</text>
+      </register>
+      <register name="1" type="4">
+        <text>doThrow</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoZS5nZXRNZXNzYWdlKCksIGUpOwogICAgICAgIHRocm93IE1hbGFnYUV4Y2VwdGlvbi5uZXdFcnJvcihFcnJvckNvbnN0YW50cy5JTlZBTElEX1JFUVVFU1QsIEN4Zk1lc3NhZ2VIZWxwZXIuZ2V0TG9jYWxlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dpYy5jb252ZXJ0VG9CdWxrT3B0aW9uKG51bGwsIG51bGwsIG51bGwsIG51bGwpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKGUuZ2V0TWVzc2FnZSgpLCBlKTsKICAgICAgICAgICAgdGhyb3cgTWFsYWdhRXhjZXB0aW9uLm5ld0Vycm9yKEVycm9yQ29uc3RhbnRzLklOVkFMSURfUkVRVUVTVCwgQ3hmTWVzc2FnZUhlbHBlci5nZXRMb2NhbGUoKSk7Cg==</text>
-      </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>throw</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>void</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoZS5nZXRNZXNzYWdlKCksIGUpOwo=</text>
+      </register>
+      <register name="4" type="4">
+        <text>Exception</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKGUuZ2V0TWVzc2FnZSgpLCBlKTsKICAgICAgICAgICAgdGhyb3cgTWFsYWdhRXhjZXB0aW9uLm5ld0Vycm9yKEVycm9yQ29uc3RhbnRzLklOVkFMSURfUkVRVUVTVCwgQ3hmTWVzc2FnZUhlbHBlci5nZXRMb2NhbGUoKSk7Cg==</text>
