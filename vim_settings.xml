@@ -90,6 +90,13 @@
         <mark key="." line="7" column="24" />
         <mark key="[" line="5" column="27" />
       </file>
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-bulk-validator/src/main/java/jp/co/brainpad/malaga/bulk/validator/dto/BulkOption.java" timestamp="1445330911707">
+        <mark key="'" line="32" column="0" />
+        <mark key="]" line="77" column="18" />
+        <mark key="^" line="77" column="18" />
+        <mark key="." line="77" column="18" />
+        <mark key="[" line="77" column="16" />
+      </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Adaptor/Main.java" timestamp="1440911531070">
         <mark key="]" line="5" column="19" />
         <mark key="^" line="5" column="19" />
@@ -162,11 +169,12 @@
         <mark key="." line="105" column="0" />
         <mark key="[" line="105" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" timestamp="1445326429079">
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" timestamp="1445330718543">
         <mark key="'" line="455" column="0" />
-        <mark key="]" line="545" column="44" />
-        <mark key="." line="545" column="0" />
-        <mark key="[" line="545" column="0" />
+        <mark key="]" line="524" column="69" />
+        <mark key="^" line="510" column="53" />
+        <mark key="." line="524" column="69" />
+        <mark key="[" line="524" column="69" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/ChapterNine/Practice.java" timestamp="1441009853559">
         <mark key="[" line="24" column="33" />
@@ -306,52 +314,53 @@
       <jump line="497" column="12" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" />
       <jump line="548" column="17" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" />
       <jump line="455" column="0" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-bulk-validator/src/main/java/jp/co/brainpad/malaga/bulk/validator/dto/BulkOption.java" />
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>putoption</text>
+        <text>setcampaign</text>
       </register>
       <register name="-" type="4">
-        <text>ception</text>
+        <text>throws</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpb24uc2V0KEJ1bGtPcHRpb25GbGFncy5BQ0NPVU5UKTsK</text>
+      <register name="3" type="4">
+        <text>{</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpb24uc2V0KEJ1bGtPcHRpb25GbGFncy5BQ0NPVU5UKTsK</text>
+      <register name="2" type="4">
+        <text>MalagaException</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpb24uc2V0KEJ1bGtPcHRpb25GbGFncy5BQ0NPVU5UKTsK</text>
+      <register name="1" type="4">
+        <text>throws</text>
       </register>
       <register name="0" type="4">
         <text>MalagaException.newError(ErrorConstants.INVALID_REQUEST, Locale.JAPAN))</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcHRpb24uc2V0KEJ1bGtPcHRpb25GbGFncy5BQ0NPVU5UKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcHRpb24uc2V0KEJ1bGtPcHRpb25GbGFncy5BQ0NPVU5UKTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBCdWxrT3B0aW9uIGJ1bGtvcHRpb24gPSBjb252ZXJ0VG9CdWxrT3B0aW9uKG1lZGlhcywgb3B0aW9uKTsK</text>
+      <register name="5" type="4">
+        <text>MalagaException</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>throws</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL3doZW4obG9naWMudGhyb3dNYWxhZ2FFeGNlcHRpb24oKSkudGhlblJldHVybihNYWxhZ2FFeGNlcHRpb24ubmV3RXJyb3IoRXJyb3JDb25zdGFudHMuSU5WQUxJRF9SRVFVRVNULCBMb2NhbGUuSkFQQU4pKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGxvZ2ljLmNvbnZlcnRUb0J1bGtPcHRpb24obnVsbCwgbnVsbCwgbnVsbCwgbnVsbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcHRpb24uc2V0KEJ1bGtPcHRpb25GbGFncy5BQ0NPVU5UKTsK</text>
       </register>
     </registers>
     <search>
-      <last-search>putoption</last-search>
+      <last-search>setcampaign</last-search>
       <last-offset />
-      <last-pattern>putoption</last-pattern>
+      <last-pattern>setcampaign</last-pattern>
       <last-replace>Fixture2</last-replace>
       <last-substitute>Fixture1</last-substitute>
       <last-dir>1</last-dir>
@@ -373,11 +382,12 @@
         <entry>spy</entry>
         <entry>putopiton</entry>
         <entry>putoption</entry>
+        <entry>setcampaign</entry>
       </history-search>
       <history-cmd>
-        <entry>i</entry>
         <entry>%s/Fixture1/Fixture2/gc</entry>
         <entry>wq</entry>
+        <entry>i</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
