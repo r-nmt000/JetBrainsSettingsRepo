@@ -65,7 +65,7 @@
         <mark key="." line="4" column="0" />
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-common/src/main/java/jp/co/brainpad/malaga/web/commons/helper/CxfMessageHelper.java" timestamp="1445308917690" />
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-common/src/main/java/jp/co/brainpad/malaga/web/commons/helper/CxfMessageHelper.java" timestamp="1445311146081" />
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Adaptor/Teacher.java" timestamp="1440913135041">
         <mark key="]" line="7" column="45" />
         <mark key="^" line="7" column="45" />
@@ -100,6 +100,9 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="19" />
         <mark key="[" line="5" column="13" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/Locale.java" timestamp="1445309512451">
+        <mark key="'" line="349" column="19" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.9.5/mockito-all-1.9.5-sources.jar!/org/mockito/Matchers.java" timestamp="1445242186203" />
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Iterator/StudentList.java" timestamp="1440852842590">
@@ -138,6 +141,7 @@
         <mark key="." line="3" column="16" />
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/service/impl/CampaignServiceImplTest.java" timestamp="1445309570679" />
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/Main.java" timestamp="1440852050153">
         <mark key="]" line="3" column="19" />
         <mark key="^" line="3" column="19" />
@@ -150,18 +154,17 @@
         <mark key="." line="10" column="0" />
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" timestamp="1445308456527">
-        <mark key="'" line="151" column="20" />
-        <mark key="]" line="94" column="43" />
-        <mark key="^" line="94" column="9" />
-        <mark key="." line="94" column="9" />
-        <mark key="[" line="94" column="9" />
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" timestamp="1445310485131">
+        <mark key="'" line="153" column="20" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="[" line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" timestamp="1445308904524">
-        <mark key="]" line="545" column="17" />
-        <mark key="^" line="545" column="17" />
-        <mark key="." line="545" column="17" />
-        <mark key="[" line="541" column="11" />
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" timestamp="1445309803920">
+        <mark key="]" line="500" column="104" />
+        <mark key="^" line="500" column="104" />
+        <mark key="." line="500" column="104" />
+        <mark key="[" line="500" column="105" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/ChapterNine/Practice.java" timestamp="1441009853559">
         <mark key="[" line="24" column="33" />
@@ -217,46 +220,47 @@
       <jump line="38" column="176" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" />
       <jump line="51" column="108" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" />
       <jump line="144" column="20" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" />
+      <jump line="349" column="19" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/Locale.java" />
     </jumps>
     <registers>
       <register name="/" type="4">
         <text>Fixture1</text>
       </register>
       <register name="-" type="4">
-        <text>(expected = MalagaException.class)</text>
+        <text>BulkOption</text>
       </register>
-      <register name="3" type="2">
+      <register name="3" type="4">
+        <text>bop</text>
+      </register>
+      <register name="2" type="4">
+        <text>BulkOption</text>
+      </register>
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="1" type="4">
-        <text>(expected = MalagaException.class)</text>
-      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBCdWxrT3B0aW9uIGJvcCA9IGxvZ2ljLmNvbnZlcnRUb0J1bGtPcHRpb24oZi5tZWRpYXMsIGYub3B0aW9ucywgZi5wYXJlbnRIaWVyYXJjaHksIGYucGFyZW50SWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKHNlcnZpY2VNb2NrLmZpbmQoYW55TG9uZygpLCBpc051bGwoTG9uZy5jbGFzcyksIGlzTnVsbChMb25nLmNsYXNzKSwgaXNOdWxsKFN0cmluZy5jbGFzcyksIGlzTnVsbChFbnVtU2V0LmNsYXNzKSkpLnRoZW5SZXR1cm4oZHRvcyk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>CLIENT</text>
+        <text>serviceMock</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZXhwZWN0ZWRGbGdzKEZpeHR1cmUxLm1ha2VGbGdzKG5ldyBIYXNoU2V0PEJ1bGtPcHRpb25GbGFncz4oKSwgQnVsa09wdGlvbkZsYWdzLkFDQ09VTlQpKQogICAgICAgICAgICAgICAgICAgIC5leHBlY3RlZElkTWFwKEZpeHR1cmUxLmFkZFRvSWRNYXAoRml4dHVyZTEuYWRkVG9JZE1hcChuZXcgSGFzaE1hcDxMb25nLCBMaXN0PExvbmc+PigpLCAxTCwgQXJyYXlzLmFzTGlzdCgxMDBMKSksIDJMLCBBcnJheXMuYXNMaXN0KDIwMEwpKSkK</text>
+      <register name="6" type="4">
+        <text>find</text>
       </register>
       <register name="5" type="4">
-        <text>Hierarchy.ACCOUNT</text>
+        <text>dtos</text>
       </register>
       <register name="4" type="4">
-        <text>0L</text>
+        <text>new</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGFzc2VydFRoYXQoYm9wLmdldEZsYWdzKCksIGlzKHNhbWVQcm9wZXJ0eVZhbHVlc0FzKGYuZXhwZWN0ZWRGbGdzKSkpOwovLyAgICAgICAgYXNzZXJ0VGhhdChib3AuZ2V0SWRNYXAoKSwgaXMoc2FtZVByb3BlcnR5VmFsdWVzQXMoZi5leHBlY3RlZElkTWFwKSkpOwovLyAgICAgICAgYXNzZXJ0VGhhdCgxLCBpcygyKSk7Cg==</text>
+      <register name="9" type="4">
+        <text>CampaignService</text>
       </register>
       <register name="8" type="4">
-        <text>()</text>
+        <text>serviceMock</text>
       </register>
     </registers>
     <search>
