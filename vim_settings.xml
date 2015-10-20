@@ -28,6 +28,9 @@
         <mark key="." line="32" column="0" />
         <mark key="[" line="31" column="14" />
       </file>
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" timestamp="1445323568176">
+        <mark key="'" line="919" column="16" />
+      </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Adaptor/Hanako.java" timestamp="1440913163023">
         <mark key="]" line="6" column="33" />
         <mark key="^" line="6" column="33" />
@@ -152,18 +155,15 @@
         <mark key="." line="10" column="0" />
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" timestamp="1445319870397">
-        <mark key="'" line="33" column="22" />
-        <mark key="]" line="100" column="58" />
-        <mark key="^" line="98" column="53" />
-        <mark key="." line="100" column="0" />
-        <mark key="[" line="100" column="0" />
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" timestamp="1445323962952">
+        <mark key="'" line="15" column="31" />
+        <mark key="]" line="103" column="122" />
+        <mark key="^" line="103" column="122" />
+        <mark key="." line="103" column="122" />
+        <mark key="[" line="103" column="122" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" timestamp="1445318662618">
-        <mark key="]" line="500" column="39" />
-        <mark key="^" line="499" column="17" />
-        <mark key="." line="500" column="39" />
-        <mark key="[" line="500" column="39" />
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" timestamp="1445323257716">
+        <mark key="[" line="500" column="44" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/ChapterNine/Practice.java" timestamp="1441009853559">
         <mark key="[" line="24" column="33" />
@@ -219,7 +219,6 @@
       <jump line="21" column="22" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/rest/BulkApi.java" />
       <jump line="14" column="19" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" />
       <jump line="13" column="24" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" />
-      <jump line="15" column="18" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" />
       <jump line="38" column="176" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" />
       <jump line="51" column="108" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" />
       <jump line="144" column="20" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" />
@@ -242,52 +241,110 @@
       <jump line="51" column="70" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/CampaignLogicImplTest.java" />
       <jump line="53" column="92" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/CampaignLogicImplTest.java" />
       <jump line="54" column="58" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/CampaignLogicImplTest.java" />
+      <jump line="37" column="46" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" />
+      <jump line="88" column="25" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" />
+      <jump line="101" column="13" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" />
+      <jump line="102" column="10" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" />
+      <jump line="78" column="13" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="89" column="14" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="94" column="34" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="95" column="34" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="96" column="34" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="142" column="8" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="171" column="8" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="209" column="8" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="242" column="8" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="276" column="8" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="315" column="8" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="352" column="83" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="353" column="19" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="405" column="8" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="457" column="8" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="483" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="486" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="489" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="492" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="501" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="531" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="534" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="537" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="540" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="550" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="581" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="584" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="587" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="590" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="600" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="631" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="634" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="637" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="640" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="650" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="678" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="708" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="738" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="747" column="52" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="770" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="773" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="776" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="779" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="810" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="813" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="844" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="847" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="879" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="882" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="885" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="913" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="916" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="919" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
+      <jump line="15" column="31" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" />
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>mock</text>
+        <text>spy</text>
       </register>
       <register name="-" type="4">
-        <text>doThrow</text>
+        <text>ception</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBQb3dlck1vY2tpdG8ubW9ja1N0YXRpYyhDeGZNZXNzYWdlSGVscGVyLmNsYXNzKTsKICAgICAgICB3aGVuKEN4Zk1lc3NhZ2VIZWxwZXIuZ2V0TG9jYWxlKCkpLnRoZW5SZXR1cm4oTG9jYWxlLkpBUEFOKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgdGhyb3dNYWxhZ2FFeGNlcHRpb24oKTsK</text>
       </register>
       <register name="2" type="4">
-        <text>MalagaException.newError(ErrorConstants.INVALID_REQUEST, Locale.JAPAN)</text>
+        <text>newError</text>
       </register>
       <register name="1" type="4">
-        <text>doThrow</text>
+        <text>ception</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dpYy5jb252ZXJ0VG9CdWxrT3B0aW9uKG51bGwsIG51bGwsIG51bGwsIG51bGwpOwo=</text>
+      <register name="0" type="4">
+        <text>MalagaException.newError(ErrorConstants.INVALID_REQUEST, Locale.JAPAN))</text>
       </register>
       <register name="7" type="4">
-        <text>throw</text>
+        <text>null, null, null, null</text>
       </register>
       <register name="6" type="4">
-        <text>void</text>
+        <text>f.medias, f.options, f.parentHierarchy, f.parentId</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoZS5nZXRNZXNzYWdlKCksIGUpOwo=</text>
+      <register name="5" type="4">
+        <text>Fixture2 f</text>
       </register>
-      <register name="4" type="4">
-        <text>Exception</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5Nb2NraXRvLmRvVGhyb3c7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="9" type="4">
+        <text>null</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKGUuZ2V0TWVzc2FnZSgpLCBlKTsKICAgICAgICAgICAgdGhyb3cgTWFsYWdhRXhjZXB0aW9uLm5ld0Vycm9yKEVycm9yQ29uc3RhbnRzLklOVkFMSURfUkVRVUVTVCwgQ3hmTWVzc2FnZUhlbHBlci5nZXRMb2NhbGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dpYy5jb252ZXJ0VG9CdWxrT3B0aW9uKG51bGwsIG51bGwsIEhpZXJhcmNoeS5BRCwgbnVsbCk7CiAgICAgICAgbG9naWMuY29udmVydFRvQnVsa09wdGlvbihudWxsLCBudWxsLCBIaWVyYXJjaHkuQURHUk9VUCwgbnVsbCk7CiAgICAgICAgbG9naWMuY29udmVydFRvQnVsa09wdGlvbihudWxsLCBudWxsLCBIaWVyYXJjaHkuQ0FNUEFJR04sIG51bGwpOwogICAgICAgIGxvZ2ljLmNvbnZlcnRUb0J1bGtPcHRpb24obnVsbCwgbnVsbCwgSGllcmFyY2h5LkNSSVRFUklPTiwgbnVsbCk7CiAgICAgICAgbG9naWMuY29udmVydFRvQnVsa09wdGlvbihudWxsLCBudWxsLCBIaWVyYXJjaHkuQ1JJVEVSSU9OLCBudWxsKTsK</text>
       </register>
     </registers>
     <search>
-      <last-search>mock</last-search>
+      <last-search>spy</last-search>
       <last-offset />
-      <last-pattern>mock</last-pattern>
+      <last-pattern>spy</last-pattern>
       <last-replace>Fixture2</last-replace>
       <last-substitute>Fixture1</last-substitute>
       <last-dir>1</last-dir>
@@ -303,6 +360,10 @@
         <entry>ignore</entry>
         <entry>power</entry>
         <entry>mock</entry>
+        <entry>logic</entry>
+        <entry>sut</entry>
+        <entry>when</entry>
+        <entry>spy</entry>
       </history-search>
       <history-cmd>
         <entry>i</entry>
