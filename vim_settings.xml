@@ -18,6 +18,9 @@
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" timestamp="1445323568176">
         <mark key="'" line="919" column="16" />
       </file>
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/service/CampaignService.java" timestamp="1445338445503">
+        <mark key="'" line="28" column="17" />
+      </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Adaptor/Teacher.java" timestamp="1440913135041">
         <mark key="]" line="7" column="45" />
         <mark key="^" line="7" column="45" />
@@ -67,8 +70,8 @@
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/ChapterNine/Practice.java" timestamp="1441009853559">
         <mark key="[" line="24" column="33" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" timestamp="1445333760267">
-        <mark key="'" line="493" column="25" />
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" timestamp="1445338439405">
+        <mark key="'" line="419" column="48" />
         <mark key="]" line="519" column="21" />
         <mark key="^" line="519" column="21" />
         <mark key="." line="519" column="21" />
@@ -153,12 +156,12 @@
         <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-common/src/main/java/jp/co/brainpad/malaga/web/commons/helper/CxfMessageHelper.java" timestamp="1445311146081" />
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" timestamp="1445337706312">
-        <mark key="'" line="102" column="8" />
-        <mark key="]" line="109" column="59" />
-        <mark key="^" line="109" column="59" />
-        <mark key="." line="109" column="59" />
-        <mark key="[" line="108" column="54" />
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" timestamp="1445338784585">
+        <mark key="'" line="165" column="4" />
+        <mark key="]" line="115" column="59" />
+        <mark key="^" line="115" column="59" />
+        <mark key="." line="115" column="59" />
+        <mark key="[" line="115" column="57" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Adaptor/NewTaro.java" timestamp="1440911946091">
         <mark key="]" line="5" column="66" />
@@ -243,10 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="4" filename="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Observer/Teacher.java" />
-      <jump line="66" column="4" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/rest/BulkApi.java" />
-      <jump line="21" column="22" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/rest/BulkApi.java" />
-      <jump line="14" column="19" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" />
       <jump line="13" column="24" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" />
       <jump line="38" column="176" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" />
       <jump line="51" column="108" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" />
@@ -342,52 +341,57 @@
       <jump line="157" column="89" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" />
       <jump line="115" column="30" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" />
       <jump line="102" column="8" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" />
+      <jump line="123" column="8" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" />
+      <jump line="161" column="4" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" />
+      <jump line="102" column="39" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" />
+      <jump line="419" column="48" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" />
+      <jump line="28" column="17" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/service/CampaignService.java" />
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>setparam</text>
+        <text>find</text>
       </register>
       <register name="-" type="4">
-        <text>QUERY_PARAM_CAMPAIGN_ID</text>
+        <text>CAMPAIGN</text>
       </register>
       <register name="3" type="4">
-        <text>campaignId</text>
-      </register>
-      <register name="2" type="4">
         <text>Long</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>QUERY_PARAM_CAMPAIGN_ID</text>
+      </register>
+      <register name="1" type="4">
+        <text>CAMPAIGN</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQFF1ZXJ5UGFyYW0oUXVlcnlQYXJhbUNvbnN0YW50cy5RVUVSWV9QQVJBTV9QQVJFTlRfSElFUkFSQ0hZKSBAQ2lwaGVyUGFyYW0gZmluYWwgSGllcmFyY2h5IHBhcmVudEhpZXJhcmNoeSwKICAgICAgICAgICAgQFF1ZXJ5UGFyYW0oUXVlcnlQYXJhbUNvbnN0YW50cy5RVUVSWV9QQVJBTV9QQVJFTlRfSUQpIEBDaXBoZXJQYXJhbSBmaW5hbCBMb25nIHBhcmVudElkLAogICAgICAgICAgICBAUXVlcnlQYXJhbShRdWVyeVBhcmFtQ29uc3RhbnRzLlFVRVJZX1BBUkFNX1RBUkdFVF9ISUVSQVJDSFkpIEBDaXBoZXJQYXJhbSBmaW5hbCBIaWVyYXJjaHkgdGFyZ2V0SGllcmFyY2h5LAo=</text>
       </register>
       <register name="7" type="4">
-        <text>Long</text>
+        <text>campaignId</text>
       </register>
       <register name="6" type="4">
         <text>campaignId</text>
       </register>
       <register name="5" type="4">
-        <text>campaignId</text>
+        <text>Long</text>
       </register>
       <register name="4" type="4">
-        <text>Long</text>
+        <text>campaignId</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCB0ZXN0KCkgewogICAgICAgIFN0cmluZyBzdHI7CiAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oKTsKICAgIH0K</text>
+      </register>
+      <register name="8" type="4">
+        <text>Long</text>
       </register>
     </registers>
     <search>
-      <last-search>setparam</last-search>
+      <last-search>find</last-search>
       <last-offset />
-      <last-pattern>setparam</last-pattern>
+      <last-pattern>find</last-pattern>
       <last-replace>Fixture2</last-replace>
       <last-substitute>Fixture1</last-substitute>
       <last-dir>1</last-dir>
@@ -413,6 +417,7 @@
         <entry>converttobulk</entry>
         <entry>download</entry>
         <entry>setparam</entry>
+        <entry>find</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Fixture1/Fixture2/gc</entry>
