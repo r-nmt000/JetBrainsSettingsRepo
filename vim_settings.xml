@@ -154,11 +154,12 @@
         <mark key="." line="10" column="0" />
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" timestamp="1445310485131">
-        <mark key="'" line="153" column="20" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="[" line="33" column="0" />
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" timestamp="1445315325598">
+        <mark key="'" line="152" column="20" />
+        <mark key="]" line="103" column="45" />
+        <mark key="^" line="106" column="55" />
+        <mark key="." line="103" column="45" />
+        <mark key="[" line="103" column="45" />
       </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" timestamp="1445309803920">
         <mark key="]" line="500" column="104" />
@@ -200,6 +201,10 @@
         <mark key="." line="5" column="0" />
         <mark key="[" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/OptimizationEnabledApplyLogicImplTest.java" timestamp="1445314880343">
+        <mark key="'" line="205" column="78" />
+        <mark key="[" line="231" column="0" />
+      </file>
       <file name="/File Header.txt.ft" timestamp="1440853076641">
         <mark key="[" line="0" column="0" />
       </file>
@@ -221,52 +226,63 @@
       <jump line="51" column="108" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" />
       <jump line="144" column="20" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" />
       <jump line="349" column="19" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/Locale.java" />
+      <jump line="76" column="13" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/OptimizationEnabledApplyLogicImplTest.java" />
+      <jump line="80" column="13" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/OptimizationEnabledApplyLogicImplTest.java" />
+      <jump line="127" column="35" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/OptimizationEnabledApplyLogicImplTest.java" />
+      <jump line="90" column="40" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/OptimizationEnabledApplyLogicImplTest.java" />
+      <jump line="126" column="46" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/OptimizationEnabledApplyLogicImplTest.java" />
+      <jump line="81" column="28" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/OptimizationEnabledApplyLogicImplTest.java" />
+      <jump line="134" column="68" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/OptimizationEnabledApplyLogicImplTest.java" />
+      <jump line="150" column="69" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/OptimizationEnabledApplyLogicImplTest.java" />
+      <jump line="169" column="68" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/OptimizationEnabledApplyLogicImplTest.java" />
+      <jump line="188" column="70" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/OptimizationEnabledApplyLogicImplTest.java" />
+      <jump line="205" column="78" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/OptimizationEnabledApplyLogicImplTest.java" />
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>Fixture1</text>
+        <text>ignore</text>
       </register>
       <register name="-" type="4">
-        <text>BulkOption</text>
+        <text>Fixture2 f</text>
       </register>
       <register name="3" type="4">
-        <text>bop</text>
+        <text>Fixture2</text>
       </register>
       <register name="2" type="4">
-        <text>BulkOption</text>
+        <text>f.medias, f.options, f.parentHierarchy, f.parentId</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>Fixture2 f</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB3aGVuKHNlcnZpY2VNb2NrLmZpbmQoYW55TG9uZygpLCBpc051bGwoTG9uZy5jbGFzcyksIGlzTnVsbChMb25nLmNsYXNzKSwgaXNOdWxsKFN0cmluZy5jbGFzcyksIGlzTnVsbChFbnVtU2V0LmNsYXNzKSkpLnRoZW5SZXR1cm4oZHRvcyk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>serviceMock</text>
+        <text>Theories.class</text>
       </register>
-      <register name="6" type="4">
-        <text>find</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBNb2NrKG5hbWU9ImN4Zk1lc3NhZ2VIZWxwZXIiKQogICAgcHJpdmF0ZSBDeGZNZXNzYWdlSGVscGVyIGhlbHBlcjsK</text>
       </register>
-      <register name="5" type="4">
-        <text>dtos</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB3aGVuKGhlbHBlci5nZXRMb2NhbGUoKSkudGhlblJldHVybihMb2NhbGUuSkFQQU4pOwo=</text>
       </register>
       <register name="4" type="4">
-        <text>new</text>
+        <text />
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>CampaignService</text>
+        <text>BulkOption</text>
       </register>
-      <register name="8" type="4">
-        <text>serviceMock</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>is</last-search>
+      <last-search>ignore</last-search>
       <last-offset />
-      <last-pattern>Fixture1</last-pattern>
+      <last-pattern>ignore</last-pattern>
       <last-replace>Fixture2</last-replace>
       <last-substitute>Fixture1</last-substitute>
       <last-dir>1</last-dir>
@@ -277,10 +293,15 @@
         <entry>long</entry>
         <entry>is</entry>
         <entry>Fixture1</entry>
+        <entry>power</entry>
+        <entry>helper</entry>
+        <entry>exception</entry>
+        <entry>ignore</entry>
       </history-search>
       <history-cmd>
         <entry>i</entry>
         <entry>%s/Fixture1/Fixture2/gc</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
