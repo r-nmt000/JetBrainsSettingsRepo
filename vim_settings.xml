@@ -155,15 +155,18 @@
         <mark key="." line="10" column="0" />
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" timestamp="1445323962952">
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" timestamp="1445325722070">
         <mark key="'" line="15" column="31" />
-        <mark key="]" line="103" column="122" />
-        <mark key="^" line="103" column="122" />
-        <mark key="." line="103" column="122" />
-        <mark key="[" line="103" column="122" />
+        <mark key="]" line="105" column="0" />
+        <mark key="^" line="41" column="37" />
+        <mark key="." line="105" column="0" />
+        <mark key="[" line="105" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" timestamp="1445323257716">
-        <mark key="[" line="500" column="44" />
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" timestamp="1445326429079">
+        <mark key="'" line="455" column="0" />
+        <mark key="]" line="545" column="44" />
+        <mark key="." line="545" column="0" />
+        <mark key="[" line="545" column="0" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/ChapterNine/Practice.java" timestamp="1441009853559">
         <mark key="[" line="24" column="33" />
@@ -299,52 +302,56 @@
       <jump line="916" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
       <jump line="919" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" />
       <jump line="15" column="31" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" />
+      <jump line="502" column="8" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" />
+      <jump line="497" column="12" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" />
+      <jump line="548" column="17" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" />
+      <jump line="455" column="0" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" />
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>spy</text>
+        <text>putoption</text>
       </register>
       <register name="-" type="4">
         <text>ception</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgdGhyb3dNYWxhZ2FFeGNlcHRpb24oKTsK</text>
+        <text encoding="base64">ICAgICAgICBvcHRpb24uc2V0KEJ1bGtPcHRpb25GbGFncy5BQ0NPVU5UKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text>newError</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBvcHRpb24uc2V0KEJ1bGtPcHRpb25GbGFncy5BQ0NPVU5UKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>ception</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBvcHRpb24uc2V0KEJ1bGtPcHRpb25GbGFncy5BQ0NPVU5UKTsK</text>
       </register>
       <register name="0" type="4">
         <text>MalagaException.newError(ErrorConstants.INVALID_REQUEST, Locale.JAPAN))</text>
       </register>
-      <register name="7" type="4">
-        <text>null, null, null, null</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>f.medias, f.options, f.parentHierarchy, f.parentId</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>Fixture2 f</text>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBCdWxrT3B0aW9uIGJ1bGtvcHRpb24gPSBjb252ZXJ0VG9CdWxrT3B0aW9uKG1lZGlhcywgb3B0aW9uKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5Nb2NraXRvLmRvVGhyb3c7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>null</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAvL3doZW4obG9naWMudGhyb3dNYWxhZ2FFeGNlcHRpb24oKSkudGhlblJldHVybihNYWxhZ2FFeGNlcHRpb24ubmV3RXJyb3IoRXJyb3JDb25zdGFudHMuSU5WQUxJRF9SRVFVRVNULCBMb2NhbGUuSkFQQU4pKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dpYy5jb252ZXJ0VG9CdWxrT3B0aW9uKG51bGwsIG51bGwsIEhpZXJhcmNoeS5BRCwgbnVsbCk7CiAgICAgICAgbG9naWMuY29udmVydFRvQnVsa09wdGlvbihudWxsLCBudWxsLCBIaWVyYXJjaHkuQURHUk9VUCwgbnVsbCk7CiAgICAgICAgbG9naWMuY29udmVydFRvQnVsa09wdGlvbihudWxsLCBudWxsLCBIaWVyYXJjaHkuQ0FNUEFJR04sIG51bGwpOwogICAgICAgIGxvZ2ljLmNvbnZlcnRUb0J1bGtPcHRpb24obnVsbCwgbnVsbCwgSGllcmFyY2h5LkNSSVRFUklPTiwgbnVsbCk7CiAgICAgICAgbG9naWMuY29udmVydFRvQnVsa09wdGlvbihudWxsLCBudWxsLCBIaWVyYXJjaHkuQ1JJVEVSSU9OLCBudWxsKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIGxvZ2ljLmNvbnZlcnRUb0J1bGtPcHRpb24obnVsbCwgbnVsbCwgbnVsbCwgbnVsbCk7Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>spy</last-search>
+      <last-search>putoption</last-search>
       <last-offset />
-      <last-pattern>spy</last-pattern>
+      <last-pattern>putoption</last-pattern>
       <last-replace>Fixture2</last-replace>
       <last-substitute>Fixture1</last-substitute>
       <last-dir>1</last-dir>
@@ -364,6 +371,8 @@
         <entry>sut</entry>
         <entry>when</entry>
         <entry>spy</entry>
+        <entry>putopiton</entry>
+        <entry>putoption</entry>
       </history-search>
       <history-cmd>
         <entry>i</entry>
