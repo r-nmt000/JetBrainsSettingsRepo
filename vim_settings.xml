@@ -154,12 +154,12 @@
         <mark key="." line="10" column="0" />
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" timestamp="1445300457238">
-        <mark key="'" line="38" column="176" />
-        <mark key="]" line="40" column="26" />
-        <mark key="^" line="40" column="26" />
-        <mark key="." line="40" column="26" />
-        <mark key="[" line="40" column="3" />
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" timestamp="1445304823153">
+        <mark key="'" line="36" column="176" />
+        <mark key="]" line="46" column="92" />
+        <mark key="^" line="46" column="92" />
+        <mark key="." line="46" column="92" />
+        <mark key="[" line="46" column="92" />
       </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" timestamp="1445238192999">
         <mark key="]" line="444" column="55" />
@@ -227,40 +227,40 @@
         <text>is</text>
       </register>
       <register name="-" type="4">
-        <text>parentHierarchy</text>
+        <text>is(contains(BulkOptionFlags.ACCOUNT, BulkOptionFlags.AD</text>
       </register>
-      <register name="3" type="4">
-        <text>i</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGJvcC5nZXRGbGFncygpLCBpcyhjb250YWlucyhCdWxrT3B0aW9uRmxhZ3MuQUNDT1VOVCwgQnVsa09wdGlvbkZsYWdzLkFECiAgICAgICAgICAgICAgICAsIEJ1bGtPcHRpb25GbGFncy5BREdST1VQLCBCdWxrT3B0aW9uRmxhZ3MuQ1JJVEVSSU9OLCBCdWxrT3B0aW9uRmxhZ3MuQ0FNUEFJR04KICAgICAgICAgICAgICAgICwgQnVsa09wdGlvbkZsYWdzLkNSSVRFUklPTiwgQnVsa09wdGlvbkZsYWdzLk5FR0FUSVZFX0NBTVBBSUdOX0tFWVdPUkQKICAgICAgICAgICAgICAgICwgQnVsa09wdGlvbkZsYWdzLk5FR0FUSVZFX0FER1JPVVBfS0VZV09SRCkpKTsK</text>
       </register>
       <register name="2" type="4">
-        <text>vowd</text>
+        <text>is(contains(BulkOptionFlags.ACCOUNT, BulkOptionFlags.AD</text>
       </register>
-      <register name="1" type="4">
-        <text>parentHierarchy</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICwgQnVsa09wdGlvbkZsYWdzLkFER1JPVVAsIEJ1bGtPcHRpb25GbGFncy5DUklURVJJT04sIEJ1bGtPcHRpb25GbGFncy5DQU1QQUlHTiAsIEJ1bGtPcHRpb25GbGFncy5DUklURVJJT04sIEJ1bGtPcHRpb25GbGFncy5ORUdBVElWRV9DQU1QQUlHTl9LRVlXT1JECiAgICAgICAgICAgICAgICAsIEJ1bGtPcHRpb25GbGFncy5ORUdBVElWRV9BREdST1VQX0tFWVdPUkQpKSk7Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRoaXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLCBCdWxrT3B0aW9uRmxhZ3MuQUNDT1VOVCwgQnVsa09wdGlvbkZsYWdzLkFELCBCdWxrT3B0aW9uRmxhZ3MuQURHUk9VUAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAsIEJ1bGtPcHRpb25GbGFncy5DUklURVJJT04sIEJ1bGtPcHRpb25GbGFncy5DQU1QQUlHTiwgQnVsa09wdGlvbkZsYWdzLkNSSVRFUklPTgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAsIEJ1bGtPcHRpb25GbGFncy5ORUdBVElWRV9DQU1QQUlHTl9LRVlXT1JELCBCdWxrT3B0aW9uRmxhZ3MuTkVHQVRJVkVfQURHUk9VUF9LRVlXT1JEKSkK</text>
       </register>
       <register name="7" type="4">
-        <text>options</text>
+        <text>hasEntry</text>
       </register>
-      <register name="6" type="4">
-        <text>medias</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGJvcC5nZXRJZE1hcCgpLCBoYXNFbnRyeSgyMDBMLCBBcnJheXMuYXNMaXN0KDJMKSkpOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>void</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>void</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGJvcC5nZXRGbGFncygpLCBpcyhjb250YWlucyhCdWxrT3B0aW9uRmxhZ3MuQUNDT1VOVCwgQnVsa09wdGlvbkZsYWdzLkFECiAgICAgICAgICAgICAgICAsIEJ1bGtPcHRpb25GbGFncy5BREdST1VQLCBCdWxrT3B0aW9uRmxhZ3MuQ1JJVEVSSU9OLCBCdWxrT3B0aW9uRmxhZ3MuQ0FNUEFJR04KICAgICAgICAgICAgICAgICwgQnVsa09wdGlvbkZsYWdzLkNSSVRFUklPTiwgQnVsa09wdGlvbkZsYWdzLk5FR0FUSVZFX0NBTVBBSUdOX0tFWVdPUkQKICAgICAgICAgICAgICAgICwgQnVsa09wdGlvbkZsYWdzLk5FR0FUSVZFX0FER1JPVVBfS0VZV09SRCkpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>parentId</text>
+        <text>BulkOptionFlags</text>
       </register>
       <register name="8" type="4">
-        <text>parentHierarchy</text>
+        <text>100L</text>
       </register>
     </registers>
     <search>
