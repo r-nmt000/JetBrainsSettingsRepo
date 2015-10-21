@@ -31,11 +31,17 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-commons/src/main/java/jp/co/brainpad/malaga/type/Hierarchy.java" timestamp="1445404868113" />
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/RuledTargetLogicImplTest.java" timestamp="1445429354820">
+        <mark key="'" line="44" column="13" />
+      </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/rest/CampaignRuleApi.java" timestamp="1445404579783">
         <mark key="'" line="53" column="12" />
       </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/ScheduleSettingLogicImplTest.java" timestamp="1445323568176">
         <mark key="'" line="919" column="16" />
+      </file>
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/BidPriceAdjustmentTargetLogicImplTest.java" timestamp="1445429344899">
+        <mark key="'" line="75" column="8" />
       </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/CampaignLogicImplTest.java" timestamp="1445317727368">
         <mark key="'" line="54" column="58" />
@@ -59,6 +65,9 @@
         <mark key="^" line="11" column="50" />
         <mark key="." line="13" column="0" />
         <mark key="[" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/BidPriceLimittedTargetLogicImplTest.java" timestamp="1445429367671">
+        <mark key="'" line="44" column="13" />
       </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-commons/src/test/java/jp/co/brainpad/malaga/main/dao/CampaignDaoTest.java" timestamp="1445405401590">
         <mark key="]" line="95" column="0" />
@@ -97,12 +106,12 @@
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/service/impl/CampaignServiceImplTest.java" timestamp="1445418952625">
         <mark key="'" line="99" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" timestamp="1445428755156">
-        <mark key="'" line="159" column="41" />
-        <mark key="]" line="155" column="0" />
-        <mark key="^" line="153" column="45" />
-        <mark key="." line="155" column="0" />
-        <mark key="[" line="155" column="0" />
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" timestamp="1445430598109">
+        <mark key="'" line="162" column="29" />
+        <mark key="]" line="162" column="54" />
+        <mark key="^" line="162" column="54" />
+        <mark key="." line="162" column="54" />
+        <mark key="[" line="162" column="53" />
       </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" timestamp="1445422836452">
         <mark key="'" line="114" column="4" />
@@ -127,7 +136,7 @@
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/ChapterNine/Practice.java" timestamp="1441009853559">
         <mark key="[" line="24" column="33" />
       </file>
-      <file name="/fragment.java" timestamp="1445405206253">
+      <file name="/fragment.java" timestamp="1445430288137">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/rest/BulkApi.java" timestamp="1445403792410">
@@ -154,16 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="354" column="37" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-commons/src/main/java/jp/co/brainpad/malaga/main/dao/hibernate/CampaignDaoImpl.java" />
-      <jump line="364" column="31" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-commons/src/main/java/jp/co/brainpad/malaga/main/dao/hibernate/CampaignDaoImpl.java" />
-      <jump line="654" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-commons/src/main/java/jp/co/brainpad/malaga/main/dao/hibernate/CampaignDaoImpl.java" />
-      <jump line="428" column="3" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-commons/src/main/java/jp/co/brainpad/malaga/main/dao/hibernate/CampaignDaoImpl.java" />
-      <jump line="417" column="23" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-commons/src/main/java/jp/co/brainpad/malaga/main/dao/hibernate/CampaignDaoImpl.java" />
-      <jump line="168" column="28" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" />
-      <jump line="172" column="26" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" />
-      <jump line="199" column="18" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" />
-      <jump line="167" column="17" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" />
-      <jump line="144" column="8" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" />
       <jump line="136" column="12" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" />
       <jump line="124" column="52" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" />
       <jump line="91" column="13" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/CampaignRuleLogicImpl.java" />
@@ -254,52 +253,62 @@
       <jump line="146" column="32" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" />
       <jump line="155" column="31" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" />
       <jump line="159" column="41" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" />
+      <jump line="39" column="13" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/BidPriceAdjustmentTargetLogicImplTest.java" />
+      <jump line="69" column="8" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/BidPriceAdjustmentTargetLogicImplTest.java" />
+      <jump line="71" column="8" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/BidPriceAdjustmentTargetLogicImplTest.java" />
+      <jump line="72" column="8" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/BidPriceAdjustmentTargetLogicImplTest.java" />
+      <jump line="73" column="8" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/BidPriceAdjustmentTargetLogicImplTest.java" />
+      <jump line="74" column="8" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/BidPriceAdjustmentTargetLogicImplTest.java" />
+      <jump line="75" column="8" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/BidPriceAdjustmentTargetLogicImplTest.java" />
+      <jump line="44" column="13" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/RuledTargetLogicImplTest.java" />
+      <jump line="44" column="13" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/BidPriceLimittedTargetLogicImplTest.java" />
+      <jump line="162" column="29" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" />
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>expectedcam</text>
+        <text>assert</text>
       </register>
       <register name="-" type="4">
-        <text>theAccounts</text>
+        <text>for</text>
       </register>
-      <register name="3" type="4">
-        <text>theAccounts</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHRoZUFjY291bnRzLCBpcyhhcmdzLmV4cGVjdGVkQWNjb3VudHMpKTsKICAgICAgICBhc3NlcnRUaGF0KHRoZUNhbXBhaWducywgaXMoYXJncy5leHBlY3RlZENhbXBhaWducykpOwo=</text>
-      </register>
-      <register name="1" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text>for</text>
+      </register>
+      <register name="1" type="4">
+        <text>for</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKEFjY291bnQgYSA6IGFyZ3MuZXhwZWN0ZWRBY2NvdW50cykgewogICAgICAgICAgICBhc3NlcnRUaGF0KHRoZUFjY291bnRzLCBoYXNJdGVtKGEpKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBJdGVyYXRvcjxBY2NvdW50PiBhY3RBY0l0ciA9IHRoZUFjY291bnRzLml0ZXJhdG9yKCk7CiAgICAgICAgSXRlcmF0b3I8QWNjb3VudD4gZXhBY0l0ciA9IGFyZ3MuZXhwZWN0ZWRBY2NvdW50cy5pdGVyYXRvcigpOwogICAgICAgIGZvciAoYWN0QWNJdHIuaGFzTmV4dCgpICYgZXhBY0l0ci5oYXNOZXh0KCkpIHsKICAgICAgICAgICAgYXNzZXJ0VGhhdChhY3RBY0l0ci5uZXh0KCkuZ2V0SWQoKSwgaXMoZXhBY0l0ci5uZXh0KCkuZ2V0SWQoKSkpOwogICAgICAgIH0K</text>
       </register>
       <register name="7" type="4">
-        <text>args</text>
+        <text>theAccounts</text>
       </register>
       <register name="6" type="4">
-        <text>expectedAccounts</text>
+        <text>hasItem</text>
       </register>
       <register name="5" type="4">
-        <text>Account</text>
+        <text>theAccounts</text>
       </register>
-      <register name="4" type="4">
-        <text>expectedAccounts</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKENhbXBhaWduIGMgOiBhcmdzLmV4cGVjdGVkQ2FtcGFpZ25zKSB7CiAgICAgICAgICAgIGFzc2VydFRoYXQodGhlQ2FtcGFpZ25zLCBoYXNJdGVtKGMpKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>expected</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="8" type="4">
+        <text>Account a : args.expectedAccounts</text>
       </register>
     </registers>
     <search>
-      <last-search>expectedcam</last-search>
+      <last-search>assert</last-search>
       <last-offset />
-      <last-pattern>expectedcam</last-pattern>
+      <last-pattern>assert</last-pattern>
       <last-replace>Fixture2</last-replace>
       <last-substitute>therulemap</last-substitute>
       <last-dir>1</last-dir>
@@ -307,8 +316,6 @@
     </search>
     <history>
       <history-search>
-        <entry>byclient</entry>
-        <entry>findbyclientid</entry>
         <entry>setpara</entry>
         <entry>getbean</entry>
         <entry>servicemock</entry>
@@ -327,6 +334,8 @@
         <entry>[]</entry>
         <entry>[</entry>
         <entry>expectedcam</entry>
+        <entry>assertthat</entry>
+        <entry>assert</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Fixture1/Fixture2/gc</entry>
