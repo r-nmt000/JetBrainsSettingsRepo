@@ -97,12 +97,12 @@
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/service/impl/CampaignServiceImplTest.java" timestamp="1445418952625">
         <mark key="'" line="99" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" timestamp="1445424665436">
-        <mark key="'" line="145" column="22" />
-        <mark key="]" line="67" column="0" />
-        <mark key="^" line="69" column="7" />
-        <mark key="." line="67" column="0" />
-        <mark key="[" line="67" column="0" />
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" timestamp="1445426074751">
+        <mark key="'" line="127" column="0" />
+        <mark key="]" line="66" column="7" />
+        <mark key="^" line="66" column="7" />
+        <mark key="." line="66" column="7" />
+        <mark key="[" line="65" column="19" />
       </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" timestamp="1445422836452">
         <mark key="'" line="114" column="4" />
@@ -154,7 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="26" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-commons/src/main/java/jp/co/brainpad/malaga/main/dao/CampaignDao.java" />
       <jump line="179" column="14" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-commons/src/main/java/jp/co/brainpad/malaga/main/dao/CampaignDao.java" />
       <jump line="113" column="27" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-commons/src/main/java/jp/co/brainpad/malaga/main/dao/CampaignDao.java" />
       <jump line="112" column="31" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-commons/src/main/java/jp/co/brainpad/malaga/main/dao/CampaignDao.java" />
@@ -254,52 +253,53 @@
       <jump line="60" column="45" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" />
       <jump line="62" column="21" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" />
       <jump line="145" column="22" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" />
+      <jump line="127" column="0" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" />
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>expectedacc</text>
+        <text>theclients</text>
       </register>
       <register name="-" type="4">
-        <text>CLIENT</text>
+        <text>ACCOUNT</text>
       </register>
       <register name="3" type="4">
-        <text>CLIENT</text>
+        <text>Hierarchy</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEFjY291bnQ+IGFjY291bnRMaXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgTGlzdDxDYW1wYWlnbj4gY2FtcGFpZ25MaXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgTGlzdDxDYW1wYWlnbj4gY2FtcGFpZ25MaXN0MiA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIExpc3Q8UnVsZT4gcnVsZUxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsKCiAgICAgICAgQWNjb3VudCBhY2NvdW50MSA9IG5ldyBBY2NvdW50KCk7CiAgICAgICAgYWNjb3VudDEuc2V0SWQoMUwpOwogICAgICAgIGFjY291bnQxLnNldE5hbWUoImFjY291bnQxIik7CiAgICAgICAgQ2FtcGFpZ24gY2FtcGFpZ24xID0gbmV3IENhbXBhaWduKCk7CiAgICAgICAgY2FtcGFpZ24xLnNldElkKDJMKTsKICAgICAgICBjYW1wYWlnbjEuc2V0TmFtZSgiY2FtcGFpZ24yIik7CiAgICAgICAgQ2FtcGFpZ24gY2FtcGFpZ24zID0gbmV3IENhbXBhaWduKCk7CiAgICAgICAgY2FtcGFpZ24zLnNldElkKDNMKTsKICAgICAgICBjYW1wYWlnbjMuc2V0TmFtZSgiY2FtcGFpZ24zIik7CiAgICAgICAgUnVsZSBydWxlID0gbmV3IFJ1bGUoKTsKICAgICAgICBydWxlLnNldElkKDRMKTsKICAgICAgICBydWxlLnNldE5hbWUoInJ1bGU0Iik7CgogICAgICAgIGFjY291bnRMaXN0LmFkZChhY2NvdW50MSk7CiAgICAgICAgY2FtcGFpZ25MaXN0LmFkZChjYW1wYWlnbjEpOwogICAgICAgIGNhbXBhaWduTGlzdC5hZGQoY2FtcGFpZ24zKTsKICAgICAgICBjYW1wYWlnbkxpc3QyLmFkZChjYW1wYWlnbjEpOwogICAgICAgIGNhbXBhaWduTGlzdDIuYWRkKGNhbXBhaWduMyk7CiAgICAgICAgcnVsZUxpc3QuYWRkKHJ1bGUpOwoKICAgICAgICB3aGVuKGFjY291bnREYW8uZmluZChhbnlMb25nKCkpKS50aGVuUmV0dXJuKGFjY291bnRMaXN0KTsKICAgICAgICB3aGVuKGNhbXBhaWduRGFvLmZpbmQoYW55TG9uZygpKSkudGhlblJldHVybihjYW1wYWlnbkxpc3QpOwogICAgICAgIHdoZW4oY2FtcGFpZ25EYW8uZmluZEJ5Q2xpZW50SWQoYW55TG9uZygpKSkudGhlblJldHVybihjYW1wYWlnbkxpc3QyKTsK</text>
+      <register name="2" type="4">
+        <text>ACCOUNT</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IExlZ2FsQXJncygpLnBhcmVudElkKDBMKS5wYXJlbnRIaWVyYXJjaHkoSGllcmFyY2h5LkNMSUVOVCkudGFyZ2V0SGllcmFyY2hpZXMoTGVnYWxBcmdzLm1ha2VIaWVyYXJjaGllcyhIaWVyYXJjaHkuQ0FNUEFJR04sIEhpZXJhcmNoeS5BQ0NPVU5UKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgLmV4cGVjdGVkQWNjb3VudHMoKS5leHBlY3RlZGNhbXBhaWducygpLAo=</text>
+        <text encoding="base64">ICAgICAgICBhY2NvdW50TGlzdC5hZGQoYWNjb3VudDEpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ID0gSGllcmFyY2h5LkFDQ09VTlQ7</text>
-      </register>
-      <register name="6" type="4">
-        <text>[1] = Hierarchy.CAMPAIGN;</text>
-      </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>account3</text>
+      </register>
       <register name="4" type="4">
-        <text>CLIENT</text>
+        <text>ampaign4</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFF1ZXJ5UGFyYW0oUXVlcnlQYXJhbUNvbnN0YW50cy5RVUVSWV9QQVJBTV9UQVJHRVRfSElFUkFSQ0hZKSBAQ2lwaGVyUGFyYW0gZmluYWwgTGlzdDxIaWVyYXJjaHk+IHRhcmdldEhpZXJhcmNoaWVzLAogICAgICAgICAgICBAUXVlcnlQYXJhbShRdWVyeVBhcmFtQ29uc3RhbnRzLlFVRVJZX1BBUkFNX0FDQ0VTU19UT0tFTikgZmluYWwgU3RyaW5nIGFjY2Vzc1Rva2VuKSB0aHJvd3MgTWFsYWdhRXhjZXB0aW9uIHsK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PENhbXBhaWduPiBjYW1wYWlnbkxpc3QyID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>Hierarchy[2];</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>expectedacc</last-search>
+      <last-search>theclients</last-search>
       <last-offset />
-      <last-pattern>expectedacc</last-pattern>
+      <last-pattern>theclients</last-pattern>
       <last-replace>Fixture2</last-replace>
       <last-substitute>therulemap</last-substitute>
       <last-dir>1</last-dir>
@@ -307,7 +307,6 @@
     </search>
     <history>
       <history-search>
-        <entry>thrown</entry>
         <entry>illegal</entry>
         <entry>throw</entry>
         <entry>illega</entry>
@@ -327,6 +326,7 @@
         <entry>setparams</entry>
         <entry>target</entry>
         <entry>expectedacc</entry>
+        <entry>theclients</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Fixture1/Fixture2/gc</entry>
