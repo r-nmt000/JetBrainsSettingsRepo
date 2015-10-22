@@ -74,11 +74,12 @@
         <mark key="." line="95" column="0" />
         <mark key="[" line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" timestamp="1445479050425">
-        <mark key="'" line="249" column="4" />
-        <mark key="]" line="219" column="0" />
-        <mark key="." line="219" column="0" />
-        <mark key="[" line="219" column="0" />
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" timestamp="1445480205495">
+        <mark key="'" line="228" column="15" />
+        <mark key="]" line="183" column="109" />
+        <mark key="^" line="183" column="109" />
+        <mark key="." line="183" column="109" />
+        <mark key="[" line="183" column="98" />
       </file>
       <file name="/Enum.txt.ft" timestamp="1445402071237">
         <mark key="[" line="0" column="0" />
@@ -105,12 +106,12 @@
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/service/impl/CampaignServiceImplTest.java" timestamp="1445418952625">
         <mark key="'" line="99" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" timestamp="1445477806060">
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" timestamp="1445479494396">
         <mark key="'" line="154" column="8" />
-        <mark key="]" line="65" column="126" />
-        <mark key="^" line="65" column="126" />
-        <mark key="." line="65" column="126" />
-        <mark key="[" line="65" column="126" />
+        <mark key="]" line="87" column="16" />
+        <mark key="^" line="87" column="16" />
+        <mark key="." line="87" column="16" />
+        <mark key="[" line="87" column="8" />
       </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" timestamp="1445477224962">
         <mark key="'" line="115" column="17" />
@@ -162,13 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="22" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" />
-      <jump line="61" column="17" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" />
-      <jump line="74" column="23" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" />
-      <jump line="100" column="37" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" />
-      <jump line="133" column="29" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" />
-      <jump line="37" column="46" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" />
-      <jump line="102" column="8" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" />
       <jump line="72" column="4" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" />
       <jump line="186" column="0" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" />
       <jump line="81" column="6" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-bulk-validator/src/main/java/jp/co/brainpad/malaga/bulk/validator/dto/BulkOption.java" />
@@ -262,52 +256,59 @@
       <jump line="580" column="8" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" />
       <jump line="541" column="18" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" />
       <jump line="511" column="18" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" />
+      <jump line="176" column="20" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" />
+      <jump line="179" column="31" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" />
+      <jump line="234" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" />
+      <jump line="225" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" />
+      <jump line="180" column="19" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" />
+      <jump line="204" column="43" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" />
+      <jump line="218" column="15" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" />
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>throwmalaga</text>
+        <text>theruleids</text>
       </register>
       <register name="-" type="4">
-        <text>theRuleMap</text>
+        <text>Long</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRhcmdldEhpZXJhcmNoaWVzICE9IEhpZXJhcmNoeS5DQU1QQUlHTikgewo=</text>
+      <register name="3" type="4">
+        <text>List</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="2" type="4">
+        <text>Long</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIE1hcDxMb25nLCBSdWxlPiB0aGVSdWxlTWFwKSB7Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgdGhyb3dNYWxhZ2FFeGNlcHRpb24oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSGllcmFyY2h5IHBhcmVudEhpZXJhcmNoeSwKICAgICAgICAgICAgTG9uZyBwYXJlbnRJZCwKICAgICAgICAgICAgTGlzdDxIaWVyYXJjaHk+IHRhcmdldEhpZXJhcmNoaWVzLAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>theCampaigns</text>
-      </register>
-      <register name="6" type="4">
-        <text>theRuleMap</text>
-      </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxDbGllbnQ+IHRoZUNsaWVudHMsCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZXRQYXJhbXNXaXRoUGFyZW50KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>theClients</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAocGFyZW50SGllcmFyY2h5ICE9IG51bGwgJiYgdGFyZ2V0SGllcmFyY2hpZXMgPT0gbnVsbCkgewogICAgICAgICAgICB0aHJvdyB0aHJvd01hbGFnYUV4Y2VwdGlvbigpOwogICAgICAgIH0KCgoKICAgICAgICBpZiAocGFyZW50SGllcmFyY2h5ID09IEhpZXJhcmNoeS5DTElFTlQpIHsKICAgICAgICAgICAgZm9yIChIaWVyYXJjaHkgdGFyZ2V0IDogdGFyZ2V0SGllcmFyY2hpZXMpIHsKICAgICAgICAgICAgICAgIGlmICh0YXJnZXQgPT0gSGllcmFyY2h5LkFDQ09VTlQpIHsKICAgICAgICAgICAgICAgICAgICB0aGVBY2NvdW50cy5hZGRBbGwoYWNjb3VudERhby5maW5kKHBhcmVudElkKSk7CiAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKHRhcmdldCA9PSBIaWVyYXJjaHkuQ0FNUEFJR04pIHsKICAgICAgICAgICAgICAgICAgICB0aGVDYW1wYWlnbnMuYWRkQWxsKGNhbXBhaWduRGFvLmZpbmRCeUNsaWVudElkKHBhcmVudElkKSk7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIHRocm93IHRocm93TWFsYWdhRXhjZXB0aW9uKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9IGVsc2UgaWYgKHBhcmVudEhpZXJhcmNoeSA9PSBIaWVyYXJjaHkuQUNDT1VOVCkgewogICAgICAgICAgICAgICAgdGhlQ2FtcGFpZ25zLmFkZEFsbChjYW1wYWlnbkRhby5maW5kKHBhcmVudElkKSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgdGhyb3cgdGhyb3dNYWxhZ2FFeGNlcHRpb24oKTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>theAccounts</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>throwmalaga</last-search>
+      <last-search>theruleids</last-search>
       <last-offset />
-      <last-pattern>throwmalaga</last-pattern>
+      <last-pattern>theruleids</last-pattern>
       <last-replace>Fixture2</last-replace>
       <last-substitute>therulemap</last-substitute>
       <last-dir>1</last-dir>
@@ -315,8 +316,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setparams</entry>
-        <entry>target</entry>
         <entry>expectedacc</entry>
         <entry>theclients</entry>
         <entry>name</entry>
@@ -335,6 +334,8 @@
         <entry>setparam</entry>
         <entry>malaga</entry>
         <entry>throwmalaga</entry>
+        <entry>rule</entry>
+        <entry>theruleids</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Fixture1/Fixture2/gc</entry>
@@ -378,6 +379,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
