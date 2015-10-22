@@ -74,12 +74,12 @@
         <mark key="." line="95" column="0" />
         <mark key="[" line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" timestamp="1445481491473">
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" timestamp="1445483093383">
         <mark key="'" line="169" column="9" />
-        <mark key="]" line="184" column="8" />
-        <mark key="^" line="184" column="8" />
-        <mark key="." line="184" column="8" />
-        <mark key="[" line="183" column="101" />
+        <mark key="]" line="185" column="121" />
+        <mark key="^" line="185" column="121" />
+        <mark key="." line="185" column="121" />
+        <mark key="[" line="185" column="110" />
       </file>
       <file name="/Enum.txt.ft" timestamp="1445402071237">
         <mark key="[" line="0" column="0" />
@@ -102,6 +102,9 @@
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Adaptor/Chairperson.java" timestamp="1440911357199">
         <mark key="[" line="5" column="30" />
+      </file>
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-commons/src/main/java/jp/co/brainpad/malaga/main/dao/hibernate/RuleDaoImpl.java" timestamp="1445482252105">
+        <mark key="'" line="112" column="38" />
       </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/service/impl/CampaignServiceImplTest.java" timestamp="1445418952625">
         <mark key="'" line="99" column="0" />
@@ -146,6 +149,7 @@
         <mark key="." line="97" column="69" />
         <mark key="[" line="97" column="29" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/3.5.5-Final/hibernate-core-3.5.5-Final-sources.jar!/org/hibernate/impl/AbstractQueryImpl.java" timestamp="1445482563050" />
       <file name="/Interface.txt.ft" timestamp="1445402071723">
         <mark key="[" line="0" column="0" />
       </file>
@@ -163,8 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="495" column="12" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" />
-      <jump line="31" column="4" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/constant/QueryParamConstants.java" />
       <jump line="28" column="17" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/rest/CampaignRuleApi.java" />
       <jump line="41" column="11" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/rest/CampaignRuleApi.java" />
       <jump line="43" column="87" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/rest/CampaignRuleApi.java" />
@@ -262,53 +264,55 @@
       <jump line="183" column="8" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" />
       <jump line="182" column="8" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" />
       <jump line="112" column="8" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" />
+      <jump line="165" column="8" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" />
       <jump line="169" column="9" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" />
+      <jump line="112" column="38" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-commons/src/main/java/jp/co/brainpad/malaga/main/dao/hibernate/RuleDaoImpl.java" />
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>setparams</text>
+        <text>sub</text>
       </register>
       <register name="-" type="4">
-        <text>Long</text>
-      </register>
-      <register name="3" type="4">
         <text>List</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBMaXN0PFJ1bGU+IHRoZVJ1bGVzID0gcnVsZURhby5saXN0KHRoZVJ1bGVJZHMpOwoKICAgICAgICBmb3IgKFJ1bGUgdGhlUnVsZSA6IHRoZVJ1bGVzKSB7CiAgICAgICAgICAgIHRoZVJ1bGVNYXAucHV0KHRoZVJ1bGUuZ2V0SWQoKSwgdGhlUnVsZSk7CiAgICAgICAgfQo=</text>
+      </register>
       <register name="2" type="4">
-        <text>Long</text>
+        <text>List</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE1hcDxMb25nLCBSdWxlPiB0aGVSdWxlTWFwKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgSGllcmFyY2h5IHBhcmVudEhpZXJhcmNoeSwKICAgICAgICAgICAgTG9uZyBwYXJlbnRJZCwKICAgICAgICAgICAgTGlzdDxIaWVyYXJjaHk+IHRhcmdldEhpZXJhcmNoaWVzLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXRQYXJhbXNXaXRoUGFyZW50KCk7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxDbGllbnQ+IHRoZUNsaWVudHMsCg==</text>
+      <register name="6" type="4">
+        <text>List</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Long</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRQYXJhbXNXaXRoUGFyZW50KCk7Cg==</text>
+        <text encoding="base64">ICAgIE1hcDxMb25nLCBSdWxlPiB0aGVSdWxlTWFwKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocGFyZW50SGllcmFyY2h5ICE9IG51bGwgJiYgdGFyZ2V0SGllcmFyY2hpZXMgPT0gbnVsbCkgewogICAgICAgICAgICB0aHJvdyB0aHJvd01hbGFnYUV4Y2VwdGlvbigpOwogICAgICAgIH0KCgoKICAgICAgICBpZiAocGFyZW50SGllcmFyY2h5ID09IEhpZXJhcmNoeS5DTElFTlQpIHsKICAgICAgICAgICAgZm9yIChIaWVyYXJjaHkgdGFyZ2V0IDogdGFyZ2V0SGllcmFyY2hpZXMpIHsKICAgICAgICAgICAgICAgIGlmICh0YXJnZXQgPT0gSGllcmFyY2h5LkFDQ09VTlQpIHsKICAgICAgICAgICAgICAgICAgICB0aGVBY2NvdW50cy5hZGRBbGwoYWNjb3VudERhby5maW5kKHBhcmVudElkKSk7CiAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKHRhcmdldCA9PSBIaWVyYXJjaHkuQ0FNUEFJR04pIHsKICAgICAgICAgICAgICAgICAgICB0aGVDYW1wYWlnbnMuYWRkQWxsKGNhbXBhaWduRGFvLmZpbmRCeUNsaWVudElkKHBhcmVudElkKSk7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIHRocm93IHRocm93TWFsYWdhRXhjZXB0aW9uKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9IGVsc2UgaWYgKHBhcmVudEhpZXJhcmNoeSA9PSBIaWVyYXJjaHkuQUNDT1VOVCkgewogICAgICAgICAgICAgICAgdGhlQ2FtcGFpZ25zLmFkZEFsbChjYW1wYWlnbkRhby5maW5kKHBhcmVudElkKSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgdGhyb3cgdGhyb3dNYWxhZ2FFeGNlcHRpb24oKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxDbGllbnQ+IHRoZUNsaWVudHMsCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
-      <last-search>setparams</last-search>
+      <last-search>sub</last-search>
       <last-offset />
-      <last-pattern>setparams</last-pattern>
+      <last-pattern>sub</last-pattern>
       <last-replace>Fixture2</last-replace>
       <last-substitute>therulemap</last-substitute>
       <last-dir>1</last-dir>
@@ -316,8 +320,6 @@
     </search>
     <history>
       <history-search>
-        <entry>theclients</entry>
-        <entry>name</entry>
         <entry>client</entry>
         <entry>test</entry>
         <entry>[]</entry>
@@ -336,6 +338,8 @@
         <entry>rule</entry>
         <entry>theruleids</entry>
         <entry>setparams</entry>
+        <entry>ids</entry>
+        <entry>sub</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Fixture1/Fixture2/gc</entry>
