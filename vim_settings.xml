@@ -140,10 +140,13 @@
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-commons/src/main/java/jp/co/brainpad/malaga/main/dao/hibernate/RuleDaoImpl.java" timestamp="1445482252105">
         <mark key="'" line="112" column="38" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" timestamp="1445568055629">
-        <mark key="'" line="219" column="44" />
-        <mark key="a" line="98" column="29" />
-        <mark key="[" line="220" column="89" />
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" timestamp="1445570187002">
+        <mark key="'" line="202" column="44" />
+        <mark key="a" line="94" column="29" />
+        <mark key="]" line="180" column="0" />
+        <mark key="^" line="147" column="31" />
+        <mark key="." line="180" column="0" />
+        <mark key="[" line="180" column="0" />
       </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" timestamp="1445477224962">
         <mark key="'" line="115" column="17" />
@@ -311,40 +314,40 @@
         <text>setparams</text>
       </register>
       <register name="-" type="4">
-        <text>asList</text>
+        <text>clientList1</text>
       </register>
-      <register name="3" type="4">
-        <text>44L</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBUaGVvcnkKICAgIHB1YmxpYyB2b2lkIHRlc3RTZXRQYXJhbXNXaXRoUGFyZW50KExlZ2FsQXJncyBhcmdzKSB0aHJvd3MgTWFsYWdhRXhjZXB0aW9uIHsKCiAgICAgICAgTWFwPExvbmcsIEFjY291bnQ+IHRoZUFjY291bnRzICAgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICAgICAgTWFwPExvbmcsIENhbXBhaWduPiB0aGVDYW1wYWlnbnMgPSBuZXcgSGFzaE1hcDw+KCk7CgogICAgICAgIEFjY291bnQgYWNjb3VudDAgPSBuZXcgQWNjb3VudCgpOwogICAgICAgIGFjY291bnQwLnNldElkKDBMKTsKICAgICAgICBDYW1wYWlnbiBjYW1wYWlnbjAgPSBuZXcgQ2FtcGFpZ24oKTsKICAgICAgICBjYW1wYWlnbjAuc2V0SWQoMEwpOwoKICAgICAgICB0aGVBY2NvdW50cy5wdXQoYWNjb3VudDAuZ2V0SWQoKSwgYWNjb3VudDApOwogICAgICAgIHRoZUNhbXBhaWducy5wdXQoY2FtcGFpZ24wLmdldElkKCksIGNhbXBhaWduMCk7CgogICAgICAgIGxvZ2ljLnNldFBhcmFtc1dpdGhQYXJlbnQodGhlQWNjb3VudHMsIHRoZUNhbXBhaWducywKICAgICAgICAgICAgICAgIGFyZ3MucGFyZW50SGllcmFyY2h5LCBhcmdzLnBhcmVudElkLCBhcmdzLnRhcmdldEhpZXJhcmNoaWVzKTsKCiAgICAgICAgYXNzZXJ0VGhhdCh0aGVBY2NvdW50cy5zaXplKCksIGlzKGFyZ3MuZXhwZWN0ZWRBY2NvdW50cy5zaXplKCkpKTsKICAgICAgICBhc3NlcnRUaGF0KHRoZUNhbXBhaWducy5zaXplKCksIGlzKGFyZ3MuZXhwZWN0ZWRDYW1wYWlnbnMuc2l6ZSgpKSk7CgogICAgICAgIGZvciAoTWFwLkVudHJ5PExvbmcsIEFjY291bnQ+IGVudCA6IGFyZ3MuZXhwZWN0ZWRBY2NvdW50cy5lbnRyeVNldCgpKSB7CiAgICAgICAgICAgIGFzc2VydFRoYXQodGhlQWNjb3VudHMsIGhhc0tleShlbnQuZ2V0S2V5KCkpKTsKICAgICAgICB9CiAgICAgICAgZm9yIChNYXAuRW50cnk8TG9uZywgQ2FtcGFpZ24+IGVudCA6IGFyZ3MuZXhwZWN0ZWRDYW1wYWlnbnMuZW50cnlTZXQoKSkgewogICAgICAgICAgICBhc3NlcnRUaGF0KHRoZUNhbXBhaWducywgaGFzS2V5KGVudC5nZXRLZXkoKSkpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
-      <register name="2" type="4">
-        <text>Arrays</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>asList</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHRoZUFjY291bnRzLnNpemUoKSwgaXMoYXJncy5leHBlY3RlZEFjY291bnRzLnNpemUoKSkpOwogICAgICAgIGFzc2VydFRoYXQodGhlQ2FtcGFpZ25zLnNpemUoKSwgaXMoYXJncy5leHBlY3RlZENhbXBhaWducy5zaXplKCkpKTsKCiAgICAgICAgZm9yIChNYXAuRW50cnk8TG9uZywgQWNjb3VudD4gZW50IDogYXJncy5leHBlY3RlZEFjY291bnRzLmVudHJ5U2V0KCkpIHsKICAgICAgICAgICAgYXNzZXJ0VGhhdCh0aGVBY2NvdW50cywgaGFzS2V5KGVudC5nZXRLZXkoKSkpOwogICAgICAgIH0KICAgICAgICBmb3IgKE1hcC5FbnRyeTxMb25nLCBDYW1wYWlnbj4gZW50IDogYXJncy5leHBlY3RlZENhbXBhaWducy5lbnRyeVNldCgpKSB7CiAgICAgICAgICAgIGFzc2VydFRoYXQodGhlQ2FtcGFpZ25zLCBoYXNLZXkoZW50LmdldEtleSgpKSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIEBUZXN0KGV4cGVjdGVkID0gTWFsYWdhRXhjZXB0aW9uLmNsYXNzKQogICAgQFRoZW9yeQogICAgcHVibGljIHZvaWQgdGVzdFNldFBhcmFtc1dpdGhQYXJlbnRFcnJvcihJbGxlZ2FsQXJncyBhcmdzKSB0aHJvd3MgTWFsYWdhRXhjZXB0aW9uIHsKICAgICAgICBkb1JldHVybihNYWxhZ2FFeGNlcHRpb24ubmV3RXJyb3IoRXJyb3JDb25zdGFudHMuSU5WQUxJRF9SRVFVRVNULCBMb2NhbGUuSkFQQU4pKS53aGVuKGxvZ2ljKS50aHJvd01hbGFnYUV4Y2VwdGlvbigpOwogICAgICAgIGxvZ2ljLnNldFBhcmFtc1dpdGhQYXJlbnQobmV3IEhhc2hNYXA8TG9uZywgQWNjb3VudD4oKSwgbmV3IEhhc2hNYXA8TG9uZywgQ2FtcGFpZ24+KCksCiAgICAgICAgICAgICAgICBhcmdzLnBhcmVudEhpZXJhcmNoeSwgYXJncy5wYXJlbnRJZCwgYXJncy50YXJnZXRIaWVyYXJjaGllcyk7CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8TG9uZywgUnVsZT4gdGhlUnVsZU1hcCA9IG5ldyBIYXNoTWFwPExvbmcsIFJ1bGU+KCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>Long, Rule</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5JdGVyYXRvcjsK</text>
       </register>
-      <register name="5" type="4">
-        <text>Hierarchy</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuaGFtY3Jlc3QuTWF0Y2hlcnMuaGFzU2l6ZTsK</text>
       </register>
-      <register name="4" type="4">
-        <text>CLIENT</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5NYXRjaGVycy5hbnlPYmplY3Q7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>account0</text>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGNsaWVudExpc3QuYWRkKGNsaWVudDEpOwovLyAgICAgICAgY2xpZW50TGlzdC5hZGQoY2xpZW50Mik7Ci8vICAgICAgICBhY2NvdW50TGlzdC5hZGQoYWNjb3VudDEpOwovLyAgICAgICAgYWNjb3VudExpc3QuYWRkKGFjY291bnQyKTsKLy8gICAgICAgIGNhbXBhaWduTGlzdC5hZGQoY2FtcGFpZ24xKTsKLy8gICAgICAgIGNhbXBhaWduTGlzdC5hZGQoY2FtcGFpZ24yKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>account0</text>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gICAgICAgIENsaWVudCBjbGllbnQxID0gbmV3IENsaWVudCgpOwovLyAgICAgICAgY2xpZW50MS5zZXRJZCgxTCk7Ci8vICAgICAgICBDbGllbnQgY2xpZW50MiA9IG5ldyBDbGllbnQoKTsKLy8gICAgICAgIGNsaWVudDIuc2V0SWQoMkwpOwovLyAgICAgICAgQWNjb3VudCBhY2NvdW50MSA9IG5ldyBBY2NvdW50KCk7Ci8vICAgICAgICBhY2NvdW50MS5zZXRJZCgxTCk7Ci8vICAgICAgICBBY2NvdW50IGFjY291bnQyID0gbmV3IEFjY291bnQoKTsKLy8gICAgICAgIGFjY291bnQyLnNldElkKDJMKTsKLy8gICAgICAgIENhbXBhaWduIGNhbXBhaWduMSA9IG5ldyBDYW1wYWlnbigpOwovLyAgICAgICAgY2FtcGFpZ24xLnNldElkKDFMKTsKLy8gICAgICAgIENhbXBhaWduIGNhbXBhaWduMiA9IG5ldyBDYW1wYWlnbigpOwovLyAgICAgICAgY2FtcGFpZ24yLnNldElkKDJMKTsK</text>
       </register>
     </registers>
     <search>
