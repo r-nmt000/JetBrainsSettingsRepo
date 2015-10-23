@@ -140,13 +140,10 @@
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-commons/src/main/java/jp/co/brainpad/malaga/main/dao/hibernate/RuleDaoImpl.java" timestamp="1445482252105">
         <mark key="'" line="112" column="38" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" timestamp="1445566065075">
-        <mark key="'" line="167" column="0" />
-        <mark key="a" line="99" column="29" />
-        <mark key="]" line="134" column="38" />
-        <mark key="^" line="134" column="38" />
-        <mark key="." line="134" column="38" />
-        <mark key="[" line="134" column="27" />
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" timestamp="1445568055629">
+        <mark key="'" line="219" column="44" />
+        <mark key="a" line="98" column="29" />
+        <mark key="[" line="220" column="89" />
       </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" timestamp="1445477224962">
         <mark key="'" line="115" column="17" />
@@ -170,7 +167,7 @@
         <mark key="." line="85" column="74" />
         <mark key="[" line="85" column="74" />
       </file>
-      <file name="/fragment.java" timestamp="1445565450087">
+      <file name="/fragment.java" timestamp="1445567904757">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-commons/src/main/java/jp/co/brainpad/malaga/main/dao/hibernate/CampaignDaoImpl.java" timestamp="1445499864153">
@@ -208,8 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="21" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" />
-      <jump line="145" column="22" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" />
       <jump line="127" column="0" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" />
       <jump line="98" column="0" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" />
       <jump line="119" column="0" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" />
@@ -308,46 +303,48 @@
       <jump line="163" column="0" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" />
       <jump line="108" column="0" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" />
       <jump line="111" column="8" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" />
+      <jump line="206" column="8" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" />
+      <jump line="219" column="44" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" />
     </jumps>
     <registers>
       <register name="/" type="4">
         <text>setparams</text>
       </register>
       <register name="-" type="4">
-        <text>accountDao</text>
+        <text>asList</text>
       </register>
       <register name="3" type="4">
-        <text>campaignDao</text>
+        <text>44L</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEBNb2NrKG5hbWU9ImNsaWVudERhbyIpCiAgICBwcml2YXRlIENsaWVudERhbyBjbGllbnREYW87Cg==</text>
+      <register name="2" type="4">
+        <text>Arrays</text>
       </register>
       <register name="1" type="4">
-        <text>accountDao</text>
+        <text>asList</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBNb2NrKG5hbWU9ImNhbXBhaWduRGFvIikKICAgIHByaXZhdGUgQ2FtcGFpZ25EYW8gY2FtcGFpZ25EYW87Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHRoZUFjY291bnRzLnNpemUoKSwgaXMoYXJncy5leHBlY3RlZEFjY291bnRzLnNpemUoKSkpOwogICAgICAgIGFzc2VydFRoYXQodGhlQ2FtcGFpZ25zLnNpemUoKSwgaXMoYXJncy5leHBlY3RlZENhbXBhaWducy5zaXplKCkpKTsKCiAgICAgICAgZm9yIChNYXAuRW50cnk8TG9uZywgQWNjb3VudD4gZW50IDogYXJncy5leHBlY3RlZEFjY291bnRzLmVudHJ5U2V0KCkpIHsKICAgICAgICAgICAgYXNzZXJ0VGhhdCh0aGVBY2NvdW50cywgaGFzS2V5KGVudC5nZXRLZXkoKSkpOwogICAgICAgIH0KICAgICAgICBmb3IgKE1hcC5FbnRyeTxMb25nLCBDYW1wYWlnbj4gZW50IDogYXJncy5leHBlY3RlZENhbXBhaWducy5lbnRyeVNldCgpKSB7CiAgICAgICAgICAgIGFzc2VydFRoYXQodGhlQ2FtcGFpZ25zLCBoYXNLZXkoZW50LmdldEtleSgpKSk7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>throwMalagaException</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBNYXA8TG9uZywgUnVsZT4gdGhlUnVsZU1hcCA9IG5ldyBIYXNoTWFwPExvbmcsIFJ1bGU+KCk7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkb1JldHVybihNYWxhZ2FFeGNlcHRpb24ubmV3RXJyb3IoRXJyb3JDb25zdGFudHMuSU5WQUxJRF9SRVFVRVNULCBMb2NhbGUuSkFQQU4pKS53aGVuKGxvZ2ljKS50aHJvd01hbGFnYUV4Y2VwdGlvbigpOwo=</text>
+      <register name="6" type="4">
+        <text>Long, Rule</text>
       </register>
       <register name="5" type="4">
-        <text>campaignDao</text>
+        <text>Hierarchy</text>
       </register>
       <register name="4" type="4">
-        <text>CampaignDao</text>
+        <text>CLIENT</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">cmFtcygpIHRocm93cyBNYWxhZ2FFeGNlcHRpb24gewogICAgICAgIE1hcDxMb25nLCBDbGllbg==</text>
+        <text>account0</text>
       </register>
       <register name="8" type="4">
-        <text>MalagaException.newError(ErrorConstants.INVALID_REQUEST, Locale.JAPAN)</text>
+        <text>account0</text>
       </register>
     </registers>
     <search>
