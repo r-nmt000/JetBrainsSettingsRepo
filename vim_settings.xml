@@ -72,12 +72,6 @@
         <mark key="." line="13" column="0" />
         <mark key="[" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/packages/rtoaster-theme/sass/src/setting/Setting.scss" timestamp="1445827757134">
-        <mark key="]" line="38" column="4" />
-        <mark key="^" line="38" column="4" />
-        <mark key="." line="38" column="4" />
-        <mark key="[" line="38" column="4" />
-      </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/BidPriceLimittedTargetLogicImplTest.java" timestamp="1445429367671">
         <mark key="'" line="44" column="13" />
       </file>
@@ -93,20 +87,21 @@
         <mark key="." line="87" column="16" />
         <mark key="[" line="87" column="9" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" timestamp="1445589061387">
-        <mark key="'" line="111" column="8" />
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" timestamp="1445830162081">
+        <mark key="'" line="211" column="20" />
         <mark key="]" line="219" column="0" />
         <mark key="." line="219" column="0" />
+        <mark key="k" line="209" column="25" />
         <mark key="[" line="219" column="0" />
       </file>
       <file name="/Enum.txt.ft" timestamp="1445402071237">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/AbstractSettings.js" timestamp="1445591274068">
-        <mark key="]" line="71" column="44" />
-        <mark key="^" line="71" column="44" />
-        <mark key="." line="71" column="44" />
-        <mark key="[" line="71" column="36" />
+        <mark key="]" line="64" column="44" />
+        <mark key="^" line="64" column="44" />
+        <mark key="." line="64" column="44" />
+        <mark key="[" line="64" column="36" />
       </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/RuleSettings.js" timestamp="1445582932033">
         <mark key="]" line="22" column="8" />
@@ -229,7 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="10" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" />
       <jump line="86" column="31" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" />
       <jump line="106" column="8" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" />
       <jump line="148" column="0" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" />
@@ -329,10 +323,11 @@
       <jump line="92" column="4" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-commons/src/main/java/jp/co/brainpad/malaga/main/dto/account/Criterion.java" />
       <jump line="91" column="41" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-commons/src/main/java/jp/co/brainpad/malaga/main/dto/account/Criterion.java" />
       <jump line="86" column="108" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-commons/src/main/java/jp/co/brainpad/malaga/main/dto/account/Criterion.java" />
+      <jump line="211" column="20" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" />
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>type</text>
+        <text>target</text>
       </register>
       <register name="-" type="4">
         <text>containsAll</text>
@@ -372,9 +367,9 @@
       </register>
     </registers>
     <search>
-      <last-search>type</last-search>
+      <last-search>target</last-search>
       <last-offset />
-      <last-pattern>type</last-pattern>
+      <last-pattern>target</last-pattern>
       <last-replace>Fixture2</last-replace>
       <last-substitute>therulemap</last-substitute>
       <last-dir>1</last-dir>
@@ -382,7 +377,6 @@
     </search>
     <history>
       <history-search>
-        <entry>malagaerror</entry>
         <entry>parameter</entry>
         <entry>param</entry>
         <entry>throw</entry>
@@ -402,6 +396,7 @@
         <entry>map</entry>
         <entry>setparams</entry>
         <entry>type</entry>
+        <entry>target</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Fixture1/Fixture2/gc</entry>
