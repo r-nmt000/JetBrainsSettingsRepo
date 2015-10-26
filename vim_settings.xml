@@ -146,13 +146,12 @@
       <file name="/a.txt" timestamp="1445841488663">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" timestamp="1445835930959">
-        <mark key="'" line="212" column="44" />
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" timestamp="1445849442250">
+        <mark key="'" line="57" column="31" />
         <mark key="a" line="103" column="29" />
-        <mark key="]" line="105" column="27" />
-        <mark key="^" line="105" column="27" />
-        <mark key="." line="105" column="27" />
-        <mark key="[" line="104" column="54" />
+        <mark key="]" line="333" column="0" />
+        <mark key="." line="333" column="0" />
+        <mark key="[" line="333" column="0" />
       </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" timestamp="1445477224962">
         <mark key="'" line="115" column="17" />
@@ -271,7 +270,6 @@
       <jump line="122" column="31" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" />
       <jump line="82" column="69" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" />
       <jump line="70" column="67" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" />
-      <jump line="57" column="12" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" />
       <jump line="21" column="46" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" />
       <jump line="56" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" />
       <jump line="67" column="113" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" />
@@ -323,46 +321,47 @@
       <jump line="375" column="8" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-common/src/main/java/jp/co/brainpad/malaga/web/commons/error/ErrorConstants.java" />
       <jump line="266" column="51" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" />
       <jump line="191" column="0" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-common/src/main/resources/error-message_ja_JP.properties" />
+      <jump line="57" column="31" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImplTest.java" />
     </jumps>
     <registers>
       <register name="/" type="4">
         <text>withparent</text>
       </register>
       <register name="-" type="4">
-        <text>parentHierarchy != Hierarchy.CLIENT || parentHierarchy != Hirarchy.ACOUNT</text>
+        <text>public</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAvLyDjgr/jg7zjgrLjg4Pjg4jpmo7lsaTjga/jgq3jg6Pjg7Pjg5rjg7zjg7Pjga7jgb8K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmIChwYXJlbnRIaWVyYXJjaHkgPT0gSGllcmFyY2h5LkNMSUVOVCkgewovLyAgICAgICAgICAgIGlmICh0YXJnZXRIaWVyYXJjaGllcy5zaXplKCkgPj0gMyB8fCBjaGtIaWVyYXJjaHlDb250ZW50cyh0YXJnZXRIaWVyYXJjaGllcykpIHsKLy8gICAgICAgICAgICAgICAgdGhyb3cgdGhyb3dNYWxhZ2FFeGNlcHRpb24oRXJyb3JDb25zdGFudHMuT1BUSU1JWkFUSU9OX0NPTlNUUkFJTlRTX0lMTEVHQUxfVEFSR0VUKTsKLy8gICAgICAgICAgICB9Ci8vICAgICAgICAgICAgZm9yIChIaWVyYXJjaHkgdGFyZ2V0IDogdGFyZ2V0SGllcmFyY2hpZXMpIHsKLy8gICAgICAgICAgICAgICAgaWYgKHRhcmdldCA9PSBIaWVyYXJjaHkuQUNDT1VOVCkgewovLyAgICAgICAgICAgICAgICAgICAgbG9hZEFjY291bnRzKHRoZUFjY291bnRzLCBwYXJlbnRJZCk7Ci8vICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAodGFyZ2V0ID09IEhpZXJhcmNoeS5DQU1QQUlHTikgewovLyAgICAgICAgICAgICAgICAgICAgbG9hZENhbXBhaWducyh0aGVDYW1wYWlnbnMsIHBhcmVudEhpZXJhcmNoeSwgcGFyZW50SWQpOwovLyAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgfQovLyAgICAgICAgfSBlbHNlIGlmIChwYXJlbnRIaWVyYXJjaHkgPT0gSGllcmFyY2h5LkFDQ09VTlQpIHsKLy8gICAgICAgICAgICBpZiAodGFyZ2V0SGllcmFyY2hpZXMuc2l6ZSgpICE9IDEgfHwgIXRhcmdldEhpZXJhcmNoaWVzLmNvbnRhaW5zKEhpZXJhcmNoeS5DQU1QQUlHTikpIHsKLy8gICAgICAgICAgICAgICAgdGhyb3cgdGhyb3dNYWxhZ2FFeGNlcHRpb24oRXJyb3JDb25zdGFudHMuT1BUSU1JWkFUSU9OX0NPTlNUUkFJTlRTX0lMTEVHQUxfVEFSR0VUKTsKLy8gICAgICAgICAgICB9Ci8vICAgICAgICAgICAgbG9hZENhbXBhaWducyh0aGVDYW1wYWlnbnMsIHBhcmVudEhpZXJhcmNoeSwgcGFyZW50SWQpOwovLyAgICAgICAgfSBlbHNlIHsKLy8gICAgICAgICAgICB0aHJvdyB0aHJvd01hbGFnYUV4Y2VwdGlvbihFcnJvckNvbnN0YW50cy5PUFRJTUlaQVRJT05fQ09OU1RSQUlOVFNfSUxMRUdBTF9QQVJFTlQpOwovLyAgICAgICAgfQo=</text>
+      <register name="2" type="4">
+        <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgTm9tb3RvKCkgewogICAgICAgIGludCBpOwogICAgICAgIH0K</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChIaWVyYXJjaHkgdGFyZ2V0IDogdGFyZ2V0SGllcmFyY2hpZXMpIHsKICAgICAgICAgICAgICAgIGlmICh0YXJnZXQgPT0gSGllcmFyY2h5LkFDQ09VTlQpIHsKICAgICAgICAgICAgICAgICAgICBsb2FkQWNjb3VudHModGhlQWNjb3VudHMsIHBhcmVudElkKTsKICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAodGFyZ2V0ID09IEhpZXJhcmNoeS5DQU1QQUlHTikgewogICAgICAgICAgICAgICAgICAgIGxvYWRDYW1wYWlnbnModGhlQ2FtcGFpZ25zLCBwYXJlbnRIaWVyYXJjaHksIHBhcmVudElkKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCB0ZXN0TGlzdChMaXN0PEludGVnZXI+IGxzdCkgewogICAgICAgIGxzdCA9IEFycmF5cy5hc0xpc3QoMSwyLDMpOwogICAgICAgIGZvciAoSW50ZWdlciBpIDogbHN0KSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihpKTsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2FkQWNjb3VudHModGhlQWNjb3VudHMsIHBhcmVudElkKTsKICAgICAgICBsb2FkQ2FtcGFpZ25zKHRoZUNhbXBhaWducywgcGFyZW50SGllcmFyY2h5LCBwYXJlbnRJZCk7Cg==</text>
+      <register name="7" type="4">
+        <text>testList</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDopqrpmo7lsaTjga/jgq/jg6njgqTjgqLjg7Pjg4jjgYvjgqLjgqvjgqbjg7Pjg4gK</text>
+      <register name="6" type="4">
+        <text encoding="base64">TGlzdDxJbnRlZ2VyPiBsc3Q=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAvLyDjgr/jg7zjgrLjg4Pjg4jpmo7lsaTjga/jgqLjgqvjgqbjg7Pjg4jjgYvjgq3jg6Pjg7Pjg5rjg7zjg7PjgIHjgoLjgZfjgY/jga/jgZ3jga7kuKHmlrkK</text>
+        <text encoding="base64">ICAgICAgICBsc3QgPSBBcnJheXMuYXNMaXN0KDEsMiwzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAvLyDjgr/jg7zjgrLjg4Pjg4jpmo7lsaTjga/jgq3jg6Pjg7Pjg5rjg7zjg7Pjga7jgb8K</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKEludGVnZXIgaSA6IGxzdCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKEhpZXJhcmNoeSB0YXJnZXQgOiB0YXJnZXRIaWVyYXJjaGllcykgewo=</text>
+        <text encoding="base64">ICAgICAgICBsc3QgPSB0bXBMaXN0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
