@@ -64,9 +64,14 @@
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-commons/src/main/java/jp/co/brainpad/malaga/main/dao/hibernate/RuleDaoImpl.java" timestamp="1445482252105">
         <mark key="'" line="112" column="38" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/home/setting/Settings.js" timestamp="1445585910784">
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/home/setting/Settings.js" timestamp="1445915894414">
+        <mark key="'" line="323" column="29" />
+        <mark key="]" line="323" column="29" />
+        <mark key="^" line="323" column="29" />
         <mark key="m" line="17" column="18" />
+        <mark key="." line="323" column="29" />
         <mark key="k" line="38" column="30" />
+        <mark key="[" line="323" column="26" />
       </file>
       <file name="/a.txt" timestamp="1445841488663">
         <mark key="[" line="0" column="0" />
@@ -109,6 +114,12 @@
         <mark key="^" line="125" column="13" />
         <mark key="." line="101" column="85" />
         <mark key="[" line="101" column="85" />
+      </file>
+      <file name="/a.regexp" timestamp="1445915606277">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/packages/rtoaster-theme/build/resources/rtoaster-theme-all-debug_01.css" timestamp="1445915678688">
+        <mark key="'" line="14167" column="0" />
       </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/setting/AbstractSettingController.js" timestamp="1445861950900">
         <mark key="'" line="54" column="2" />
@@ -196,6 +207,10 @@
       <file name="/Dummy.txt" timestamp="1445858712150">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/client/ClientMain.js" timestamp="1445915691047">
+        <mark key="]" line="43" column="39" />
+        <mark key="[" line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/DetailConfirmAbstractController.js" timestamp="1445911219485" />
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" timestamp="1445477224962">
         <mark key="'" line="115" column="17" />
@@ -239,14 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="4" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" />
-      <jump line="114" column="67" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" />
-      <jump line="115" column="17" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" />
-      <jump line="580" column="8" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" />
-      <jump line="541" column="18" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" />
-      <jump line="511" column="18" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImpl.java" />
-      <jump line="176" column="20" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" />
-      <jump line="234" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" />
       <jump line="225" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" />
       <jump line="180" column="19" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" />
       <jump line="240" column="30" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" />
@@ -339,10 +346,18 @@
       <jump line="1690" column="17" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/setting/BaseSettingController.js" />
       <jump line="1155" column="0" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/setting/BaseSettingController.js" />
       <jump line="168" column="8" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/bulk/Bulk.js" />
+      <jump line="14167" column="0" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/packages/rtoaster-theme/build/resources/rtoaster-theme-all-debug_01.css" />
+      <jump line="88" column="29" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/home/setting/Settings.js" />
+      <jump line="161" column="22" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/home/setting/Settings.js" />
+      <jump line="224" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/home/setting/Settings.js" />
+      <jump line="225" column="22" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/home/setting/Settings.js" />
+      <jump line="233" column="22" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/home/setting/Settings.js" />
+      <jump line="291" column="21" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/home/setting/Settings.js" />
+      <jump line="323" column="29" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/home/setting/Settings.js" />
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>view</text>
+        <text>bp_button</text>
       </register>
       <register name="-" type="4">
         <text>chkHierarchyContents</text>
@@ -357,7 +372,7 @@
         <text encoding="base64">ICAgICAgICAgIEV4dC5pc0RlZmluZWQobWUuX2NyaXRlcmlvbkljb25DbHNbbWVkaWFdKSkgewo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBtZS5fY3JpdGVyaW9uSWNvbkt3Q2xzW21lZGlhXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpY29uQ2xzOidicF9lZGl0QnV0dG9uSWNvbicK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Ly8gICAgICAgIGlmICghdmFsaWRhdGVIaWVyYXJjaHkocGFyZW50SGllcmFyY2h5LCB0YXJnZXRIaWVyYXJjaGllcykpIHsKLy8gICAgICAgICAgICB0aHJvdyB0aHJvd01hbGFnYUV4Y2VwdGlvbihlKTsKLy8gICAgICAgIH0K</text>
@@ -382,9 +397,9 @@
       </register>
     </registers>
     <search>
-      <last-search>view</last-search>
+      <last-search>bp_button</last-search>
       <last-offset />
-      <last-pattern>view</last-pattern>
+      <last-pattern>bp_button</last-pattern>
       <last-replace>Fixture2</last-replace>
       <last-substitute>therulemap</last-substitute>
       <last-dir>1</last-dir>
@@ -392,9 +407,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setparamswith</entry>
-        <entry>client</entry>
-        <entry>parentid</entry>
         <entry>clientdao</entry>
         <entry>makefile</entry>
         <entry>thecli</entry>
@@ -412,6 +424,9 @@
         <entry>chk</entry>
         <entry>type</entry>
         <entry>view</entry>
+        <entry>bp_importbutton</entry>
+        <entry>import</entry>
+        <entry>bp_button</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Fixture1/Fixture2/gc</entry>
