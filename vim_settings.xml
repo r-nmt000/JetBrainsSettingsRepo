@@ -40,7 +40,12 @@
       <file name="/Enum.txt.ft" timestamp="1445402071237">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/AbstractSettings.js" timestamp="1445926219878" />
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/AbstractSettings.js" timestamp="1445930792084">
+        <mark key="'" line="95" column="12" />
+        <mark key="]" line="81" column="40" />
+        <mark key="." line="81" column="40" />
+        <mark key="[" line="81" column="40" />
+      </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Adaptor/Chairperson.java" timestamp="1440911357199">
         <mark key="[" line="5" column="30" />
       </file>
@@ -77,6 +82,13 @@
         <mark key="." line="97" column="69" />
         <mark key="[" line="97" column="29" />
       </file>
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/setting/BaseSettingController.js" timestamp="1445930807271">
+        <mark key="'" line="1108" column="0" />
+        <mark key="]" line="179" column="30" />
+        <mark key="^" line="178" column="31" />
+        <mark key="." line="179" column="30" />
+        <mark key="[" line="179" column="30" />
+      </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-commons/src/main/java/jp/co/brainpad/malaga/main/dao/CampaignDao.java" timestamp="1445413624548">
         <mark key="'" line="158" column="19" />
       </file>
@@ -99,7 +111,11 @@
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/packages/rtoaster-theme/build/resources/rtoaster-theme-all-debug_01.css" timestamp="1445915678688">
         <mark key="'" line="14167" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/setting/AbstractSettingController.js" timestamp="1445926448785" />
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/setting/AbstractSettingController.js" timestamp="1445930779123">
+        <mark key="]" line="153" column="30" />
+        <mark key="." line="153" column="30" />
+        <mark key="[" line="153" column="30" />
+      </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/RuledTargetLogicImplTest.java" timestamp="1445429354820">
         <mark key="'" line="44" column="13" />
       </file>
@@ -122,6 +138,12 @@
         <mark key="^" line="11" column="50" />
         <mark key="." line="13" column="0" />
         <mark key="[" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/packages/rtoaster-theme/sass/src/setting/Setting.scss" timestamp="1445930705394">
+        <mark key="]" line="39" column="51" />
+        <mark key="^" line="39" column="51" />
+        <mark key="." line="39" column="51" />
+        <mark key="[" line="39" column="46" />
       </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/BidPriceLimittedTargetLogicImplTest.java" timestamp="1445429367671">
         <mark key="'" line="44" column="13" />
@@ -197,8 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="4" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/setting/BaseSettingController.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/setting/BaseSettingController.js" />
       <jump line="34" column="0" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/OptimizationEnabledDetailConfirmController.js" />
       <jump line="352" column="6" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/setting/AbstractSettingController.js" />
       <jump line="322" column="3" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/setting/AbstractSettingController.js" />
@@ -297,52 +317,54 @@
       <jump line="41" column="29" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/bulk/BulkDownloadEditor.js" />
       <jump line="35" column="29" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/bulk/BulkDownloadEditor.js" />
       <jump line="26" column="29" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/bulk/BulkDownloadEditor.js" />
+      <jump line="1108" column="0" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/setting/BaseSettingController.js" />
+      <jump line="95" column="12" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/AbstractSettings.js" />
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>vbox</text>
+        <text>mg_setting</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZWRpYSA=</text>
+        <text>CriterionEtcIcon {</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICBFeHQuY3JlYXRlKCdFeHQuY29udGFpbmVyLkNvbnRhaW5lcicsIHsKICAgICAgICAgICAgIGxheW91dCA6IHt0eXBlOid2Ym94JywgYWxpZ246J3N0cmV0Y2gnfSwKICAgICAgICAgICAgIGl0ZW1zIDogWwogICAgICAgICAgICAgXQogICAgICAgICAgIH0pLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIF9hZEljb25DbHM6IHsKICAgICAgICAgICAgR09PR0xFOiAgICdtZ19zZXR0aW5nR29vZ2xlQ3JpdGVyaW9uRXRjSWNvbicsCiAgICAgICAgICAgIFlBSE9POiAgICAnbWdfc2V0dGluZ1lhaG9vQ3JpdGVyaW9uRXRjSWNvbicsCiAgICAgICAgICAgIFlBSE9PX0lNOiAnbWdfc2V0dGluZ1lETkNyaXRlcmlvbkV0Y0ljb24nCiAgICAgICAgICB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAge3h0eXBlOidjaGVja2JveCcsIG5hbWU6J25lZ2F0aXZlX2NhbXBhaWduX2tleXdvcmQnLCBib3hMYWJlbDpNZy5TdHJpbmcudCgnYnVsa0Rvd25sb2FkL25lZ2F0aXZlQ2FtcGFpZ25Ld3MnKSwgY2hlY2tlZDogdHJ1ZX0KICAgICAgICAgICAgICAge3h0eXBlOidjaGVja2JveCcsIG5hbWU6J25lZ2F0aXZlX2FkZ3JvdXBfa2V5d29yZCcsIGJveExhYmVsOk1nLlN0cmluZy50KCdidWxrRG93bmxvYWQvbmVnYXRpdmVBZGdyb3VwS3dzJyksIGNoZWNrZWQ6IHRydWV9Cg==</text>
+        <text encoding="base64">ICBfYWRJY29uQ2xzOiB7CiAgICBHT09HTEU6ICAgJ21nX3NldHRpbmdHb29nbGVDcml0ZXJpb25FdGNJY29uJywKICAgIFlBSE9POiAgICAnbWdfc2V0dGluZ1lhaG9vQ3JpdGVyaW9uRXRjSWNvbicsCiAgICBZQUhPT19JTTogJ21nX3NldHRpbmdZRE5Dcml0ZXJpb25FdGNJY29uJwogIH0sCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICBfYWRJY29uQ2xzOiB7CiAgICBHT09HTEU6ICAgJ21nX3NldHRpbmdHb29nbGVDcml0ZXJpb25FdGNJY29uJywKICAgIFlBSE9POiAgICAnbWdfc2V0dGluZ1lhaG9vQ3JpdGVyaW9uRXRjSWNvbicsCiAgICBZQUhPT19JTTogJ21nX3NldHRpbmdZRE5Dcml0ZXJpb25FdGNJY29uJwogIH0sCg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIF9hZEljb25DbHM6IHsKICAgICAgICAgICAgICBHT09HTEU6ICAgJ21nX3NldHRpbmdHb29nbGVBZEV0Y0ljb24nLAogICAgICAgICAgICAgIFlBSE9POiAgICAnbWdfc2V0dGluZ1lhaG9vQWRFdGNJY29uJywKICAgICAgICAgICAgICBZQUhPT19JTTogJ21nX3NldHRpbmdZRE5BZEV0Y0ljb24nCiAgICAgICAgICB9LAo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICBFeHQuY3JlYXRlKCdFeHQuY29udGFpbmVyLkNvbnRhaW5lcicsIHsKICAgICAgICAgICAgIGxheW91dCA6IHt0eXBlOid2Ym94JywgYWxpZ246J3N0cmV0Y2gnfSwKICAgICAgICAgICAgIGl0ZW1zIDogWwogICAgICAgICAgICAgXQogICAgICAgICAgIH0pLAo=</text>
       </register>
-      <register name="0" type="4">
-        <text>me.parentTree[depth].media</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ZWRpYSA=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7eHR5cGU6J2NoZWNrYm94JywgbmFtZTonb3B0aW9uYWxfY29sdW1ucycsIGJveExhYmVsOk1nLlN0cmluZy50KCdidWxrRG93bmxvYWQvb3B0aW9uRmllbGRzJyl9LAogICAgICAgICAgICAgIHt4dHlwZTonY2hlY2tib3gnLCBuYW1lOidvcHRpb25hbF9zaGVldHMnLCBib3hMYWJlbDpNZy5TdHJpbmcudCgnYnVsa0Rvd25sb2FkL29wdGlvblNlcnZpY2VzJyl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAge3h0eXBlOidjaGVja2JveCcsIG5hbWU6J25lZ2F0aXZlX2NhbXBhaWduX2tleXdvcmQnLCBib3hMYWJlbDpNZy5TdHJpbmcudCgnYnVsa0Rvd25sb2FkL25lZ2F0aXZlQ2FtcGFpZ25Ld3MnKSwgY2hlY2tlZDogdHJ1ZX0KICAgICAgICAgICAgICAge3h0eXBlOidjaGVja2JveCcsIG5hbWU6J25lZ2F0aXZlX2FkZ3JvdXBfa2V5d29yZCcsIGJveExhYmVsOk1nLlN0cmluZy50KCdidWxrRG93bmxvYWQvbmVnYXRpdmVBZGdyb3VwS3dzJyksIGNoZWNrZWQ6IHRydWV9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAge3h0eXBlOidjaGVja2JveCcsIG5hbWU6J25lZ2F0aXZlX2FkZ3JvdXBfa2V5d29yZCcsIGJveExhYmVsOk1nLlN0cmluZy50KCdidWxrRG93bmxvYWQvbmVnYXRpdmVBZGdyb3VwS3dzJyksIGNoZWNrZWQ6IHRydWV9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICBFeHQuY3JlYXRlKCdFeHQuY29udGFpbmVyLkNvbnRhaW5lcicsIHsKICAgICAgICAgICAgIGxheW91dCA6IHt0eXBlOid2Ym94JywgYWxpZ246J3N0cmV0Y2gnfSwKICAgICAgICAgICAgIGl0ZW1zIDogWwogICAgICAgICAgICAgXQogICAgICAgICAgIH0pLAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAge3h0eXBlOidjaGVja2JveCcsIG5hbWU6J25lZ2F0aXZlX2FkZ3JvdXBfa2V5d29yZCcsIGJveExhYmVsOk1nLlN0cmluZy50KCdidWxrRG93bmxvYWQvbmVnYXRpdmVBZGdyb3VwS3dzJyksIGNoZWNrZWQ6IHRydWV9Cg==</text>
+      <register name="4" type="4">
+        <text>CriterionEtcIcon {</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIGlmIChkZXB0aCA9PSAnY3JpdGVyaW9uJykgewogICAgICAgICAgICAgIGlmKEV4dC5pc0RlZmluZWQobWVkaWEpICYmCiAgICAgICAgICAgICAgICAgIEV4dC5pc0RlZmluZWQobWUuX2NyaXRlcmlvbkljb25DbHNbbWVkaWFdKSkgewogICAgICAgICAgICAgICAgcmV0dXJuIG1lLl9jcml0ZXJpb25JY29uQ2xzW21lZGlhXTsKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0gZWxzZSBpZiAoZGVwdGggPT0gJ2FkJykgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAge3h0eXBlOidjaGVja2JveCcsIG5hbWU6J25lZ2F0aXZlX2FkZ3JvdXBfa2V5d29yZCcsIGJveExhYmVsOk1nLlN0cmluZy50KCdidWxrRG93bmxvYWQvbmVnYXRpdmVBZGdyb3VwS3dzJyksIGNoZWNrZWQ6IHRydWV9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSBpZiAoZGVwdGggPT0gJ2NyaXRlcmlvbicpIHsKICAgICAgaWYoRXh0LmlzRGVmaW5lZChtZWRpYSkgJiYKICAgICAgICAgIEV4dC5pc0RlZmluZWQobWUuX2NyaXRlcmlvbkljb25DbHNbbWVkaWFdKSkgewogICAgICAgIHJldHVybiBtZS5fY3JpdGVyaW9uSWNvbkNsc1ttZWRpYV07CiAgICAgIH0KICAgIH0gZWxzZSBpZiAoZGVwdGggPT0gJ2FkJykgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAge3h0eXBlOidjaGVja2JveCcsIG5hbWU6J25lZ2F0aXZlX2FkZ3JvdXBfa2V5d29yZCcsIGJveExhYmVsOk1nLlN0cmluZy50KCdidWxrRG93bmxvYWQvbmVnYXRpdmVBZGdyb3VwS3dzJyksIGNoZWNrZWQ6IHRydWV9Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>vbox</last-search>
+      <last-search>mg_setting</last-search>
       <last-offset />
-      <last-pattern>vbox</last-pattern>
+      <last-pattern>mg_setting</last-pattern>
       <last-replace>Fixture2</last-replace>
       <last-substitute>therulemap</last-substitute>
       <last-dir>1</last-dir>
@@ -350,7 +372,6 @@
     </search>
     <history>
       <history-search>
-        <entry>csv</entry>
         <entry>throwmalaga</entry>
         <entry>vaildation_multi</entry>
         <entry>no_parent</entry>
@@ -370,6 +391,7 @@
         <entry>rulesetting</entry>
         <entry>rulesettingedit</entry>
         <entry>vbox</entry>
+        <entry>mg_setting</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Fixture1/Fixture2/gc</entry>
