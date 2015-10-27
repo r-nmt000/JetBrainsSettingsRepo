@@ -40,11 +40,11 @@
       <file name="/Enum.txt.ft" timestamp="1445402071237">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/AbstractSettings.js" timestamp="1445930792084">
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/AbstractSettings.js" timestamp="1445931725869">
         <mark key="'" line="95" column="12" />
-        <mark key="]" line="81" column="40" />
-        <mark key="." line="81" column="40" />
-        <mark key="[" line="81" column="40" />
+        <mark key="]" line="79" column="10" />
+        <mark key="." line="79" column="10" />
+        <mark key="[" line="79" column="10" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Adaptor/Chairperson.java" timestamp="1440911357199">
         <mark key="[" line="5" column="30" />
@@ -100,6 +100,9 @@
       </file>
       <file name="/Class.txt.ft" timestamp="1445402075099">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/Application.js" timestamp="1445932436747">
+        <mark key="'" line="186" column="27" />
       </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/rest/impl/BulkApiImpl.java" timestamp="1445421628427">
         <mark key="'" line="102" column="58" />
@@ -185,6 +188,9 @@
         <mark key="." line="64" column="113" />
         <mark key="[" line="64" column="114" />
       </file>
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/Constant.js" timestamp="1445932675044">
+        <mark key="'" line="41" column="14" />
+      </file>
       <file name="/Dummy.txt" timestamp="1445858712150">
         <mark key="[" line="0" column="0" />
       </file>
@@ -219,8 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/OptimizationEnabledDetailConfirmController.js" />
-      <jump line="352" column="6" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/setting/AbstractSettingController.js" />
       <jump line="322" column="3" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/setting/AbstractSettingController.js" />
       <jump line="54" column="2" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/setting/AbstractSettingController.js" />
       <jump line="1105" column="33" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/setting/BaseSettingController.js" />
@@ -319,10 +323,12 @@
       <jump line="26" column="29" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/bulk/BulkDownloadEditor.js" />
       <jump line="1108" column="0" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/setting/BaseSettingController.js" />
       <jump line="95" column="12" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/AbstractSettings.js" />
+      <jump line="186" column="27" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/Application.js" />
+      <jump line="41" column="14" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/Constant.js" />
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>mg_setting</text>
+        <text>ajaxtimeout</text>
       </register>
       <register name="-" type="4">
         <text>CriterionEtcIcon {</text>
@@ -362,9 +368,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mg_setting</last-search>
+      <last-search>ajaxtimeout</last-search>
       <last-offset />
-      <last-pattern>mg_setting</last-pattern>
+      <last-pattern>ajaxtimeout</last-pattern>
       <last-replace>Fixture2</last-replace>
       <last-substitute>therulemap</last-substitute>
       <last-dir>1</last-dir>
@@ -372,7 +378,6 @@
     </search>
     <history>
       <history-search>
-        <entry>throwmalaga</entry>
         <entry>vaildation_multi</entry>
         <entry>no_parent</entry>
         <entry>optimization</entry>
@@ -392,6 +397,7 @@
         <entry>rulesettingedit</entry>
         <entry>vbox</entry>
         <entry>mg_setting</entry>
+        <entry>ajaxtimeout</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Fixture1/Fixture2/gc</entry>
