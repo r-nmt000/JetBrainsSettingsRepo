@@ -64,8 +64,8 @@
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-commons/src/main/java/jp/co/brainpad/malaga/main/dao/hibernate/RuleDaoImpl.java" timestamp="1445482252105">
         <mark key="'" line="112" column="38" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/home/setting/Settings.js" timestamp="1445915894414">
-        <mark key="'" line="323" column="29" />
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/home/setting/Settings.js" timestamp="1445917942262">
+        <mark key="'" line="235" column="23" />
         <mark key="]" line="323" column="29" />
         <mark key="^" line="323" column="29" />
         <mark key="m" line="17" column="18" />
@@ -107,6 +107,9 @@
         <mark key="^" line="125" column="13" />
         <mark key="." line="101" column="85" />
         <mark key="[" line="101" column="85" />
+      </file>
+      <file name="/a.regexp" timestamp="1445918060236">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/packages/rtoaster-theme/build/resources/rtoaster-theme-all-debug_01.css" timestamp="1445915678688">
         <mark key="'" line="14167" column="0" />
@@ -244,8 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="225" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" />
-      <jump line="180" column="19" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" />
       <jump line="240" column="30" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" />
       <jump line="192" column="17" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" />
       <jump line="183" column="8" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/OptimizationConstraintsSettingDownloadLogicImpl.java" />
@@ -344,10 +345,12 @@
       <jump line="233" column="22" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/home/setting/Settings.js" />
       <jump line="291" column="21" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/home/setting/Settings.js" />
       <jump line="323" column="29" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/home/setting/Settings.js" />
+      <jump line="218" column="52" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/home/setting/Settings.js" />
+      <jump line="235" column="23" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/home/setting/Settings.js" />
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>bp_button</text>
+        <text>rulesettingedit</text>
       </register>
       <register name="-" type="4">
         <text>chkHierarchyContents</text>
@@ -387,9 +390,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bp_button</last-search>
+      <last-search>rulesettingedit</last-search>
       <last-offset />
-      <last-pattern>bp_button</last-pattern>
+      <last-pattern>rulesettingedit</last-pattern>
       <last-replace>Fixture2</last-replace>
       <last-substitute>therulemap</last-substitute>
       <last-dir>1</last-dir>
@@ -397,7 +400,6 @@
     </search>
     <history>
       <history-search>
-        <entry>clientdao</entry>
         <entry>makefile</entry>
         <entry>thecli</entry>
         <entry>setparam</entry>
@@ -417,6 +419,7 @@
         <entry>bp_importbutton</entry>
         <entry>import</entry>
         <entry>bp_button</entry>
+        <entry>rulesettingedit</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Fixture1/Fixture2/gc</entry>
