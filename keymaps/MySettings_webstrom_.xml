@@ -1,4 +1,8 @@
 <keymap version="1" name="MySettings(webstrom)" parent="Mac OS X">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta F4" />
+    <keyboard-shortcut first-keystroke="meta W" />
+  </action>
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift F9" />
     <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="D" />
@@ -8,6 +12,7 @@
   <action id="DomElementsTreeView.GotoDomElementDeclarationAction" />
   <action id="EditSource" />
   <action id="EditSourceInNewWindow" />
+  <action id="EditorSelectWord" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta F12" />
     <keyboard-shortcut first-keystroke="meta SPACE" second-keystroke="S" />
