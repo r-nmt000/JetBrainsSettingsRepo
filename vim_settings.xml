@@ -160,7 +160,7 @@
         <mark key="." line="173" column="37" />
         <mark key="[" line="173" column="25" />
       </file>
-      <file name="localhost:8080/v4/app/controller/home/setting/Settings.js?_dc=1445996209608" timestamp="1445996626535" />
+      <file name="localhost:8080/v4/app/controller/home/setting/Settings.js?_dc=1445996209608" timestamp="1446006831079" />
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/BidPriceLimitSettings.js" timestamp="1445944131626">
         <mark key="]" line="173" column="39" />
         <mark key="^" line="173" column="39" />
@@ -208,7 +208,9 @@
         <mark key="[" line="511" column="23" />
       </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/home/setting/RuleSettings.js" timestamp="1445918322564" />
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/DetailConfirmAbstractController.js" timestamp="1445911219485" />
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/DetailConfirmAbstractController.js" timestamp="1446006966244">
+        <mark key="'" line="501" column="2" />
+      </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/test/java/jp/co/brainpad/malaga/web/api/logic/impl/BulkLogicImplTest.java" timestamp="1445477224962">
         <mark key="'" line="115" column="17" />
         <mark key="]" line="116" column="86" />
@@ -249,12 +251,6 @@
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/components/JQueryUploadDialog.js" timestamp="1446001043288" />
     </filemarks>
     <jumps>
-      <jump line="182" column="110" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/Settings.js" />
-      <jump line="205" column="37" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/Settings.js" />
-      <jump line="209" column="122" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/Settings.js" />
-      <jump line="232" column="39" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/Settings.js" />
-      <jump line="238" column="96" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/Settings.js" />
-      <jump line="272" column="20" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/Settings.js" />
       <jump line="304" column="11" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/Settings.js" />
       <jump line="307" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/Settings.js" />
       <jump line="308" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/Settings.js" />
@@ -349,10 +345,16 @@
       <jump line="8" column="11" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/packages/rtoaster-theme/sass/src/setting/Setting.scss" />
       <jump line="459" column="28" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/locales/ja/translation.json" />
       <jump line="82" column="32" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/home/setting/Settings.js" />
+      <jump line="561" column="4" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/DetailConfirmAbstractController.js" />
+      <jump line="258" column="3" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/DetailConfirmAbstractController.js" />
+      <jump line="157" column="8" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/DetailConfirmAbstractController.js" />
+      <jump line="259" column="3" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/DetailConfirmAbstractController.js" />
+      <jump line="260" column="19" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/DetailConfirmAbstractController.js" />
+      <jump line="501" column="2" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/DetailConfirmAbstractController.js" />
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>optsettingedit</text>
+        <text>requesttrace</text>
       </register>
       <register name="-" type="4">
         <text>client</text>
@@ -392,9 +394,9 @@
       </register>
     </registers>
     <search>
-      <last-search>optsettingedit</last-search>
+      <last-search>requesttrace</last-search>
       <last-offset />
-      <last-pattern>optsettingedit</last-pattern>
+      <last-pattern>requesttrace</last-pattern>
       <last-replace>Fixture2</last-replace>
       <last-substitute>therulemap</last-substitute>
       <last-dir>1</last-dir>
@@ -402,9 +404,6 @@
     </search>
     <history>
       <history-search>
-        <entry>view</entry>
-        <entry>bp_importbutton</entry>
-        <entry>import</entry>
         <entry>bp_button</entry>
         <entry>show</entry>
         <entry>rule</entry>
@@ -422,6 +421,9 @@
         <entry>mg_settingicon</entry>
         <entry>最適化対象</entry>
         <entry>optsettingedit</entry>
+        <entry>formatdata</entry>
+        <entry>getstore</entry>
+        <entry>requesttrace</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Fixture1/Fixture2/gc</entry>
