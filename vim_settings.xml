@@ -70,7 +70,8 @@
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-commons/src/main/java/jp/co/brainpad/malaga/main/dao/hibernate/RuleDaoImpl.java" timestamp="1445482252105">
         <mark key="'" line="112" column="38" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/home/setting/Settings.js" timestamp="1445928251341">
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/home/setting/Settings.js" timestamp="1445996564465">
+        <mark key="'" line="82" column="32" />
         <mark key="]" line="331" column="29" />
         <mark key="^" line="331" column="29" />
         <mark key="m" line="17" column="18" />
@@ -81,11 +82,12 @@
       <file name="/a.txt" timestamp="1445841488663">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/locales/ja/translation.json" timestamp="1445924022938">
-        <mark key="]" line="483" column="25" />
-        <mark key="^" line="483" column="25" />
-        <mark key="." line="483" column="25" />
-        <mark key="[" line="483" column="4" />
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/locales/ja/translation.json" timestamp="1445996708831">
+        <mark key="'" line="459" column="28" />
+        <mark key="]" line="467" column="30" />
+        <mark key="^" line="467" column="30" />
+        <mark key="." line="467" column="30" />
+        <mark key="[" line="467" column="30" />
       </file>
       <file name="/" timestamp="1445995367748">
         <mark key="[" line="0" column="0" />
@@ -102,6 +104,9 @@
         <mark key="^" line="97" column="69" />
         <mark key="." line="97" column="69" />
         <mark key="[" line="97" column="29" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1445996201385">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/setting/BaseSettingController.js" timestamp="1445944780040">
         <mark key="'" line="1787" column="6" />
@@ -199,13 +204,14 @@
         <mark key="." line="173" column="37" />
         <mark key="[" line="173" column="25" />
       </file>
+      <file name="localhost:8080/v4/app/controller/home/setting/Settings.js?_dc=1445996209608" timestamp="1445996626535" />
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/BidPriceLimitSettings.js" timestamp="1445944131626">
         <mark key="]" line="173" column="39" />
         <mark key="^" line="173" column="39" />
         <mark key="." line="173" column="39" />
         <mark key="[" line="173" column="39" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/Settings.js" timestamp="1445928205243">
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/Settings.js" timestamp="1445996610660">
         <mark key="'" line="181" column="19" />
       </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-common/src/main/resources/error-message_ja_JP.properties" timestamp="1445838496737">
@@ -260,6 +266,9 @@
         <mark key="." line="1" column="23" />
         <mark key="[" line="116" column="0" />
       </file>
+      <file name="/fragment.js" timestamp="1445996785120">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/bulk/Bulk.js" timestamp="1445908153266">
         <mark key="'" line="168" column="8" />
       </file>
@@ -295,8 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="117" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/Settings.js" />
-      <jump line="178" column="37" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/Settings.js" />
       <jump line="182" column="110" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/Settings.js" />
       <jump line="205" column="37" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/Settings.js" />
       <jump line="209" column="122" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/Settings.js" />
@@ -395,10 +402,12 @@
       <jump line="18" column="11" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/packages/rtoaster-theme/sass/src/setting/Setting.scss" />
       <jump line="13" column="11" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/packages/rtoaster-theme/sass/src/setting/Setting.scss" />
       <jump line="8" column="11" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/packages/rtoaster-theme/sass/src/setting/Setting.scss" />
+      <jump line="459" column="28" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/locales/ja/translation.json" />
+      <jump line="82" column="32" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/home/setting/Settings.js" />
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>mg_settingicon</text>
+        <text>optsettingedit</text>
       </register>
       <register name="-" type="4">
         <text>client</text>
@@ -438,9 +447,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mg_settingicon</last-search>
+      <last-search>optsettingedit</last-search>
       <last-offset />
-      <last-pattern>mg_settingicon</last-pattern>
+      <last-pattern>optsettingedit</last-pattern>
       <last-replace>Fixture2</last-replace>
       <last-substitute>therulemap</last-substitute>
       <last-dir>1</last-dir>
@@ -448,8 +457,6 @@
     </search>
     <history>
       <history-search>
-        <entry>chk</entry>
-        <entry>type</entry>
         <entry>view</entry>
         <entry>bp_importbutton</entry>
         <entry>import</entry>
@@ -468,6 +475,8 @@
         <entry>geticno</entry>
         <entry>geticon</entry>
         <entry>mg_settingicon</entry>
+        <entry>最適化対象</entry>
+        <entry>optsettingedit</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Fixture1/Fixture2/gc</entry>
