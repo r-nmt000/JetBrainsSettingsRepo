@@ -56,7 +56,7 @@
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Adaptor/Chairperson.java" timestamp="1440911357199">
         <mark key="[" line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/target/javancss-raw-report.xml" timestamp="1446086295682">
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/target/javancss-raw-report.xml" timestamp="1446094622357">
         <mark key="'" line="100" column="6" />
       </file>
       <file name="/a.txt" timestamp="1446025817363">
@@ -357,7 +357,7 @@
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>method</text>
+        <text>ncss</text>
       </register>
       <register name="-" type="4">
         <text>&quot;test&quot;</text>
@@ -397,9 +397,9 @@
       </register>
     </registers>
     <search>
-      <last-search>method</last-search>
+      <last-search>ncss</last-search>
       <last-offset />
-      <last-pattern>method</last-pattern>
+      <last-pattern>ncss</last-pattern>
       <last-replace>Fixture2</last-replace>
       <last-substitute>therulemap</last-substitute>
       <last-dir>1</last-dir>
@@ -407,7 +407,6 @@
     </search>
     <history>
       <history-search>
-        <entry>geticno</entry>
         <entry>geticon</entry>
         <entry>mg_settingicon</entry>
         <entry>最適化対象</entry>
@@ -427,6 +426,7 @@
         <entry>30</entry>
         <entry>containing</entry>
         <entry>method</entry>
+        <entry>ncss</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Fixture1/Fixture2/gc</entry>
