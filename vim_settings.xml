@@ -56,8 +56,8 @@
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Adaptor/Chairperson.java" timestamp="1440911357199">
         <mark key="[" line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/target/javancss-raw-report.xml" timestamp="1446110333967">
-        <mark key="'" line="21120" column="95" />
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/target/javancss-raw-report.xml" timestamp="1446112962615">
+        <mark key="'" line="47316" column="48" />
       </file>
       <file name="/a.txt" timestamp="1446025817363">
         <mark key="[" line="0" column="0" />
@@ -254,8 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1097" column="4" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/setting/BaseSettingController.js" />
-      <jump line="1103" column="3" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/setting/BaseSettingController.js" />
       <jump line="1101" column="2" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/setting/BaseSettingController.js" />
       <jump line="1155" column="8" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/setting/BaseSettingController.js" />
       <jump line="1169" column="19" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/setting/BaseSettingController.js" />
@@ -354,10 +352,12 @@
       <jump line="21186" column="90" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/target/javancss-raw-report.xml" />
       <jump line="21114" column="99" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/target/javancss-raw-report.xml" />
       <jump line="21120" column="95" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/target/javancss-raw-report.xml" />
+      <jump line="21184" column="14" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/target/javancss-raw-report.xml" />
+      <jump line="47316" column="48" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/target/javancss-raw-report.xml" />
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>method</text>
+        <text>malagaconvertutils</text>
       </register>
       <register name="-" type="4">
         <text>&quot;test&quot;</text>
@@ -397,9 +397,9 @@
       </register>
     </registers>
     <search>
-      <last-search>method</last-search>
+      <last-search>malagaconvertutils</last-search>
       <last-offset />
-      <last-pattern>method</last-pattern>
+      <last-pattern>malagaconvertutils</last-pattern>
       <last-replace>Fixture2</last-replace>
       <last-substitute>therulemap</last-substitute>
       <last-dir>1</last-dir>
@@ -407,7 +407,6 @@
     </search>
     <history>
       <history-search>
-        <entry>最適化対象</entry>
         <entry>optsettingedit</entry>
         <entry>formatdata</entry>
         <entry>getstore</entry>
@@ -427,6 +426,7 @@
         <entry>objects</entry>
         <entry>object</entry>
         <entry>method</entry>
+        <entry>malagaconvertutils</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Fixture1/Fixture2/gc</entry>
