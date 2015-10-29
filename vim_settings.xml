@@ -43,6 +43,9 @@
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Adaptor/Chairperson.java" timestamp="1440911357199">
         <mark key="[" line="5" column="30" />
       </file>
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/target/javancss-raw-report.xml" timestamp="1446086295682">
+        <mark key="'" line="100" column="6" />
+      </file>
       <file name="/a.txt" timestamp="1446025817363">
         <mark key="[" line="0" column="0" />
       </file>
@@ -184,16 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="42" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/Settings.js" />
-      <jump line="181" column="19" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/Settings.js" />
-      <jump line="252" column="8" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/home/setting/Settings.js" />
-      <jump line="20" column="13" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/bulk/BulkDownloadEditor.js" />
-      <jump line="22" column="59" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/bulk/BulkDownloadEditor.js" />
-      <jump line="15" column="17" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/bulk/BulkDownloadEditor.js" />
-      <jump line="29" column="59" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/bulk/BulkDownloadEditor.js" />
-      <jump line="48" column="29" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/bulk/BulkDownloadEditor.js" />
-      <jump line="41" column="29" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/bulk/BulkDownloadEditor.js" />
-      <jump line="35" column="29" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/bulk/BulkDownloadEditor.js" />
       <jump line="26" column="29" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/bulk/BulkDownloadEditor.js" />
       <jump line="1108" column="0" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/setting/BaseSettingController.js" />
       <jump line="95" column="12" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/AbstractSettings.js" />
@@ -284,10 +277,20 @@
       <jump line="201" column="4" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/rule/RuleSettingController.js" />
       <jump line="535" column="0" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/ConfigurationScheduleLogicImpl.java" />
       <jump line="69" column="13" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/logic/impl/CriterionCsvSettingLogicImpl.java" />
+      <jump line="298" column="6" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/target/javancss-raw-report.xml" />
+      <jump line="1035" column="52" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/target/javancss-raw-report.xml" />
+      <jump line="1487" column="17" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/target/javancss-raw-report.xml" />
+      <jump line="1837" column="17" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/target/javancss-raw-report.xml" />
+      <jump line="2106" column="12" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/target/javancss-raw-report.xml" />
+      <jump line="2180" column="23" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/target/javancss-raw-report.xml" />
+      <jump line="3126" column="13" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/target/javancss-raw-report.xml" />
+      <jump line="3496" column="12" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/target/javancss-raw-report.xml" />
+      <jump line="1442" column="6" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/target/javancss-raw-report.xml" />
+      <jump line="100" column="6" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/target/javancss-raw-report.xml" />
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>models</text>
+        <text>method</text>
       </register>
       <register name="-" type="4">
         <text>client</text>
@@ -327,9 +330,9 @@
       </register>
     </registers>
     <search>
-      <last-search>models</last-search>
+      <last-search>method</last-search>
       <last-offset />
-      <last-pattern>models</last-pattern>
+      <last-pattern>method</last-pattern>
       <last-replace>Fixture2</last-replace>
       <last-substitute>therulemap</last-substitute>
       <last-dir>1</last-dir>
@@ -337,11 +340,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ajaxtimeout</entry>
-        <entry>redrawbreadcrumb</entry>
-        <entry>iconsetter</entry>
-        <entry>_parent</entry>
-        <entry>geticoncls</entry>
         <entry>geticno</entry>
         <entry>geticon</entry>
         <entry>mg_settingicon</entry>
@@ -357,6 +355,11 @@
         <entry>require</entry>
         <entry>selectall</entry>
         <entry>models</entry>
+        <entry>top</entry>
+        <entry encoding="base64">dG9wIA==</entry>
+        <entry>30</entry>
+        <entry>containing</entry>
+        <entry>method</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Fixture1/Fixture2/gc</entry>
