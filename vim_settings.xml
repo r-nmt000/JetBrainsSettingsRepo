@@ -56,8 +56,8 @@
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Adaptor/Chairperson.java" timestamp="1440911357199">
         <mark key="[" line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/target/javancss-raw-report.xml" timestamp="1446098113740">
-        <mark key="'" line="20440" column="14" />
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/target/javancss-raw-report.xml" timestamp="1446106994725">
+        <mark key="'" line="12" column="0" />
       </file>
       <file name="/a.txt" timestamp="1446025817363">
         <mark key="[" line="0" column="0" />
@@ -254,7 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1108" column="0" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/setting/BaseSettingController.js" />
       <jump line="95" column="12" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/AbstractSettings.js" />
       <jump line="186" column="27" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/Application.js" />
       <jump line="41" column="14" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/Constant.js" />
@@ -354,10 +353,11 @@
       <jump line="1442" column="6" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/target/javancss-raw-report.xml" />
       <jump line="100" column="6" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/target/javancss-raw-report.xml" />
       <jump line="20440" column="14" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/target/javancss-raw-report.xml" />
+      <jump line="12" column="0" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/target/javancss-raw-report.xml" />
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>ncss</text>
+        <text>objects</text>
       </register>
       <register name="-" type="4">
         <text>&quot;test&quot;</text>
@@ -397,9 +397,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ncss</last-search>
+      <last-search>objects</last-search>
       <last-offset />
-      <last-pattern>ncss</last-pattern>
+      <last-pattern>objects</last-pattern>
       <last-replace>Fixture2</last-replace>
       <last-substitute>therulemap</last-substitute>
       <last-dir>1</last-dir>
@@ -407,7 +407,6 @@
     </search>
     <history>
       <history-search>
-        <entry>geticon</entry>
         <entry>mg_settingicon</entry>
         <entry>最適化対象</entry>
         <entry>optsettingedit</entry>
@@ -427,6 +426,7 @@
         <entry>containing</entry>
         <entry>method</entry>
         <entry>ncss</entry>
+        <entry>objects</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Fixture1/Fixture2/gc</entry>
