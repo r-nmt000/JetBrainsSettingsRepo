@@ -237,7 +237,7 @@
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>x-compile</text>
+        <text>micro</text>
       </register>
       <register name="-" type="4">
         <text>setHistId</text>
@@ -277,9 +277,9 @@
       </register>
     </registers>
     <search>
-      <last-search>x-compile</last-search>
+      <last-search>micro</last-search>
       <last-offset />
-      <last-pattern>x-compile</last-pattern>
+      <last-pattern>micro</last-pattern>
       <last-replace>Fixture2</last-replace>
       <last-substitute>therulemap</last-substitute>
       <last-dir>1</last-dir>
@@ -287,8 +287,6 @@
     </search>
     <history>
       <history-search>
-        <entry>top</entry>
-        <entry encoding="base64">dG9wIA==</entry>
         <entry>30</entry>
         <entry>containing</entry>
         <entry>ncss</entry>
@@ -307,6 +305,8 @@
         <entry>slice</entry>
         <entry>x-comp</entry>
         <entry>x-compile</entry>
+        <entry>microloader</entry>
+        <entry>micro</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Fixture1/Fixture2/gc</entry>
