@@ -23,11 +23,14 @@
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Adaptor/Chairperson.java" timestamp="1440911357199">
         <mark key="[" line="5" column="30" />
       </file>
+      <file name="/a.dummy" timestamp="1446718235052">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.txt" timestamp="1446025817363">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/packages/rtoaster-theme/.sencha/package/init-impl.xml" timestamp="1446715101700">
-        <mark key="'" line="216" column="0" />
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/packages/rtoaster-theme/.sencha/package/init-impl.xml" timestamp="1446718083720">
+        <mark key="'" line="279" column="17" />
       </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/packages/rtoaster-theme/.sencha/package/js-impl.xml" timestamp="1446689659486">
         <mark key="'" line="0" column="0" />
@@ -134,7 +137,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="198" column="7" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/rule/RuleSettingController.js" />
       <jump line="431" column="6" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/rule/RuleSettingController.js" />
       <jump line="393" column="10" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/rule/RuleSettingController.js" />
       <jump line="315" column="15" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/rule/RuleSettingController.js" />
@@ -234,10 +236,11 @@
       <jump line="192" column="16" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/packages/rtoaster-theme/.sencha/package/init-impl.xml" />
       <jump line="269" column="9" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/packages/rtoaster-theme/.sencha/package/init-impl.xml" />
       <jump line="216" column="0" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/packages/rtoaster-theme/.sencha/package/init-impl.xml" />
+      <jump line="279" column="17" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/packages/rtoaster-theme/.sencha/package/init-impl.xml" />
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>micro</text>
+        <text>x-compile</text>
       </register>
       <register name="-" type="4">
         <text>setHistId</text>
@@ -277,9 +280,9 @@
       </register>
     </registers>
     <search>
-      <last-search>micro</last-search>
+      <last-search>x-compile</last-search>
       <last-offset />
-      <last-pattern>micro</last-pattern>
+      <last-pattern>x-compile</last-pattern>
       <last-replace>Fixture2</last-replace>
       <last-substitute>therulemap</last-substitute>
       <last-dir>1</last-dir>
@@ -304,9 +307,9 @@
         <entry>load-sass</entry>
         <entry>slice</entry>
         <entry>x-comp</entry>
-        <entry>x-compile</entry>
         <entry>microloader</entry>
         <entry>micro</entry>
+        <entry>x-compile</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Fixture1/Fixture2/gc</entry>
