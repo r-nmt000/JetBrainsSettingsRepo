@@ -9,12 +9,12 @@
         <mark key="." line="6" column="27" />
         <mark key="[" line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/Notification.js" timestamp="1447062354364">
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/Notification.js" timestamp="1447065864200">
         <mark key="'" line="124" column="1" />
-        <mark key="]" line="107" column="4" />
-        <mark key="^" line="117" column="4" />
-        <mark key="." line="107" column="4" />
-        <mark key="[" line="107" column="4" />
+        <mark key="]" line="103" column="31" />
+        <mark key="^" line="103" column="40" />
+        <mark key="." line="103" column="31" />
+        <mark key="[" line="103" column="31" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/ChapterTen/A.java" timestamp="1441159174747">
         <mark key="]" line="32" column="0" />
@@ -66,7 +66,13 @@
       <file name="/a.txt" timestamp="1447058893510">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/locales/ja/translation.json" timestamp="1447058211745" />
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/locales/ja/translation.json" timestamp="1447065230173">
+        <mark key="'" line="1025" column="17" />
+        <mark key="]" line="363" column="17" />
+        <mark key="^" line="363" column="17" />
+        <mark key="." line="363" column="17" />
+        <mark key="[" line="363" column="11" />
+      </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/Main.java" timestamp="1440852050153">
         <mark key="]" line="3" column="19" />
         <mark key="^" line="3" column="19" />
@@ -197,6 +203,9 @@
         <mark key="." line="3" column="16" />
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="localhost:8080/v4/app/view/Notification.js?_dc=1447065258511" timestamp="1447065385587">
+        <mark key="'" line="106" column="51" />
+      </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/FactoryMethod/AbstractWriter.java" timestamp="1445064448035">
         <mark key="]" line="6" column="27" />
         <mark key="^" line="6" column="27" />
@@ -209,7 +218,7 @@
         <mark key="." line="7" column="18" />
         <mark key="[" line="7" column="17" />
       </file>
-      <file name="/fragment.js" timestamp="1447059754937">
+      <file name="/fragment.js" timestamp="1447065355830">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1447059731664">
@@ -240,53 +249,67 @@
       <jump line="10" column="4" filename="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Observer/Teacher.java" />
       <jump line="115" column="3" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/Notification.js" />
       <jump line="124" column="1" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/Notification.js" />
+      <jump line="1024" column="17" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/locales/ja/translation.json" />
+      <jump line="103" column="30" filename="localhost:8080/v4/app/view/Notification.js?_dc=1447065258511" />
+      <jump line="107" column="72" filename="localhost:8080/v4/app/view/Notification.js?_dc=1447065258511" />
+      <jump line="106" column="51" filename="localhost:8080/v4/app/view/Notification.js?_dc=1447065258511" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIEV4dC5Nc2cuc2hvdyh7CiAgICAgICAgICAgIHRpdGxlOiBNZy5TdHJpbmcudCgnY29tbW9uQ29uZmlybScpLAogICAgICAgICAgICBtc2c6IE1nLlN0cmluZy50KCd1c2Vycy91c2VyRGVsZXRlQ29uZmlybScpLAogICAgICAgICAgICBidXR0b25UZXh0OiB7CiAgICAgICAgICAgICAgb2s6IE1nLlN0cmluZy50KCJva0J1dHRvbiIpLAogICAgICAgICAgICAgIGNhbmNlbDogTWcuU3RyaW5nLnQoImNhbmNlbEJ1dHRvbiIpCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIGZuOiBmdW5jdGlvbiAoYnRuKSB7CiAgICAgICAgICAgICAgRXh0Lk1zZy5oaWRlKCk7CiAgICAgICAgICAgICAgaWYgKGJ0biA9PT0gJ29rJykgewogICAgICAgICAgICAgICAgZm46IGZ1bmN0aW9uICh2aWV3LCBzb21ldGhpbmcsIHJvd0luZGV4LCBjb2xJbmRleCwgaXRlbSwgcmVjb3JkKSB7CiAgICAgICAgICAgICAgICAgIHZpZXcudXAoJ2JwX2dyaWQnKS5maXJlUm93RXZlbnQoJ2RlbGV0ZU5vdGlmaWNhdGlvbicsIHJvd0luZGV4KTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIGljb246IEV4dC5Nc2cuUVVFU1RJT04KICAgICAgICAgIH0pCg==</text>
+      <register name="/" type="4">
+        <text>rowindex</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="-" type="4">
+        <text>rowIndex</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="3" type="4">
+        <text>users</text>
+      </register>
+      <register name="2" type="4">
+        <text>userDeleteConfirm</text>
+      </register>
+      <register name="1" type="4">
+        <text>rowIndex</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhciBtZSA9IHRoaXM7CiAgICBFeHQuTXNnLnNob3coewogICAgICB0aXRsZTogTWcuU3RyaW5nLnQoJ2NvbW1vbkNvbmZpcm0nKSwKICAgICAgbXNnOiBNZy5TdHJpbmcudCgndXNlcnMvdXNlckRlbGV0ZUNvbmZpcm0nKSwKICAgICAgYnV0dG9uVGV4dDogewogICAgICAgIG9rOiBNZy5TdHJpbmcudCgib2tCdXR0b24iKSwKICAgICAgICBjYW5jZWw6IE1nLlN0cmluZy50KCJjYW5jZWxCdXR0b24iKQogICAgICB9LAogICAgICBmbjogZnVuY3Rpb24oYnRuKSB7CiAgICAgICAgRXh0Lk1zZy5oaWRlKCk7CiAgICAgICAgaWYgKGJ0biA9PT0gJ29rJykgewogICAgICAgICAgdmFyIHN0b3JlID0gY21wLnN0b3JlOwogICAgICAgICAgdmFyIG1vZGVsID0gc3RvcmUuZ2V0QnlJZChyZWNvcmQuaW50ZXJuYWxJZCk7CiAgICAgICAgICB2YXIgb3JnU3RhdHVzID0gbW9kZWwuZ2V0KCdzdGF0dXMnKTsKICAgICAgICAgIGlmIChvcmdTdGF0dXMgPT0gJ1BBVVNFRCcpIHsKICAgICAgICAgICAgbW9kZWwuc2V0KCdzdGF0dXMnLCAnREVMRVRFRCcpOwogICAgICAgICAgICBtb2RlbC5zYXZlKAogICAgICAgICAgICAgIE1nLm1vZGVsQ29uZmlnKHsKICAgICAgICAgICAgICAgIHBhcmFtczp7CiAgICAgICAgICAgICAgICAgIGNsaWVudElkOiBNZy51dGlsLkhpc3RvcnlNYW5hZ2VyLmdldENsaWVudCgpLmlkCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgc3VjY2VzcyA6IGZ1bmN0aW9uKHJlY29yZHMsIG9wZXJhdGlvbikgewogICAgICAgICAgICAgICAgICBtZS5yZWxvYWQoKTsKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBmYWlsdXJlIDogZnVuY3Rpb24ocmVjb3Jkcywgb3BlcmF0aW9uKSB7CiAgICAgICAgICAgICAgICAgIG1vZGVsLnNldCgnc3RhdHVzJywgb3JnU3RhdHVzKTsKICAgICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgbm90aWZ5VHlwZSA6IGZhbHNlCiAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgKTsKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0sCiAgICAgIGljb246IEV4dC5Nc2cuUVVFU1RJT04KICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICJ0aXRsZSI6ICLpgJrnn6XkuIDopqciLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH1dCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>title</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhciBtZSA9IHRoaXM7Cg==</text>
+      <register name="4" type="4">
+        <text>通知一覧</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIHZhciBtZSA9IHRoaXM7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Owo=</text>
-      </register>
-      <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIEV4dC5Nc2cuc2hvdyh7CiAgICAgICAgICAgIHRpdGxlOiBNZy5TdHJpbmcudCgnY29tbW9uQ29uZmlybScpLAogICAgICAgICAgICBtc2c6IE1nLlN0cmluZy50KCd1c2Vycy91c2VyRGVsZXRlQ29uZmlybScpLAogICAgICAgICAgICBidXR0b25UZXh0OiB7CiAgICAgICAgICAgICAgb2s6IE1nLlN0cmluZy50KCJva0J1dHRvbiIpLAogICAgICAgICAgICAgIGNhbmNlbDogTWcuU3RyaW5nLnQoImNhbmNlbEJ1dHRvbiIpCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIGZuOiBmdW5jdGlvbiAoYnRuKSB7CiAgICAgICAgICAgICAgRXh0Lk1zZy5oaWRlKCk7CiAgICAgICAgICAgICAgaWYgKGJ0biA9PT0gJ29rJykgewogICAgICAgICAgICAgICAgZm46IGZ1bmN0aW9uICh2aWV3LCBzb21ldGhpbmcsIHJvd0luZGV4LCBjb2xJbmRleCwgaXRlbSwgcmVjb3JkKSB7CiAgICAgICAgICAgICAgICAgIHZpZXcudXAoJ2JwX2dyaWQnKS5maXJlUm93RXZlbnQoJ2RlbGV0ZU5vdGlmaWNhdGlvbicsIHJvd0luZGV4KTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIGljb246IEV4dC5Nc2cuUVVFU1RJT04KICAgICAgICAgIH0pCg==</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>rowindex</last-search>
+      <last-offset />
+      <last-pattern>rowindex</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>notification</entry>
+        <entry>rowindex</entry>
+      </history-search>
       <history-cmd>
         <entry>i</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
