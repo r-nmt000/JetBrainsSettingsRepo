@@ -9,12 +9,12 @@
         <mark key="." line="6" column="27" />
         <mark key="[" line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/Notification.js" timestamp="1447130189128">
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/Notification.js" timestamp="1447131219830">
         <mark key="'" line="122" column="1" />
-        <mark key="]" line="98" column="69" />
-        <mark key="^" line="98" column="69" />
-        <mark key="." line="98" column="69" />
-        <mark key="[" line="98" column="69" />
+        <mark key="]" line="98" column="119" />
+        <mark key="^" line="98" column="119" />
+        <mark key="." line="98" column="119" />
+        <mark key="[" line="98" column="115" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/ChapterTen/A.java" timestamp="1441159174747">
         <mark key="]" line="32" column="0" />
@@ -200,6 +200,12 @@
         <mark key="." line="19" column="9" />
         <mark key="[" line="19" column="4" />
       </file>
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/util/Util.js" timestamp="1447131165556">
+        <mark key="]" line="159" column="55" />
+        <mark key="^" line="159" column="55" />
+        <mark key="." line="159" column="55" />
+        <mark key="[" line="159" column="51" />
+      </file>
       <file name="/Dummy.txt" timestamp="1441718841497">
         <mark key="[" line="0" column="0" />
       </file>
@@ -218,9 +224,9 @@
         <mark key="." line="6" column="27" />
         <mark key="[" line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/DetailConfirmAbstractController.js" timestamp="1447130585892">
-        <mark key="]" line="412" column="10" />
-        <mark key="[" line="409" column="0" />
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/DetailConfirmAbstractController.js" timestamp="1447130958928">
+        <mark key="]" line="414" column="8" />
+        <mark key="[" line="408" column="0" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/FactoryMethod/CSVWriter.java" timestamp="1445064454268">
         <mark key="]" line="7" column="18" />
@@ -280,40 +286,40 @@
         <text>notification</text>
       </register>
       <register name="-" type="4">
-        <text>record</text>
+        <text>len</text>
       </register>
       <register name="3" type="4">
-        <text>data</text>
-      </register>
-      <register name="2" type="4">
         <text>record</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBtdWx0aWxpbmU6IHRydWUsCg==</text>
       </register>
+      <register name="1" type="4">
+        <text>len</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhciB0cnVjYXRlSW5kaWNhdG9yID0gIiAuLi4uIjsKICAgICAgICAgIGlmICh0ZXh0Lmxlbmd0aCA+IDEyKSB7CiAgICAgICAgICAgIHJldHVybiBNZy5TdHJpbmcuZXNjYXBlSHRtbCh0ZXh0LnN1YnN0cigwLCAxMikpICsgdHJ1Y2F0ZUluZGljYXRvcjsKICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB0cnVuY2F0ZTogZnVuY3Rpb24odGV4dCkgewogICAgICAgICAgdmFyIHRydWNhdGVJbmRpY2F0b3IgPSAiIC4uLi4iOwogICAgICAgICAgaWYgKHRleHQubGVuZ3RoID4gMTIpIHsKICAgICAgICAgICAgcmV0dXJuIE1nLlN0cmluZy5lc2NhcGVIdG1sKHRleHQuc3Vic3RyKDAsIDEyKSkgKyB0cnVjYXRlSW5kaWNhdG9yOwogICAgICAgICAgfQogICAgICAgICAgcmV0dXJuIE1nLlN0cmluZy5lc2NhcGVIdG1sKHRleHQpOwogICAgICAgIH0K</text>
       </register>
       <register name="7" type="4">
-        <text>record</text>
+        <text>data</text>
       </register>
       <register name="6" type="4">
-        <text>data</text>
+        <text>message</text>
       </register>
       <register name="5" type="4">
         <text>message</text>
       </register>
       <register name="4" type="4">
-        <text>message</text>
+        <text>data</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLy99Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmlldy51cCgnYnBfZ3JpZCcpLmZpcmVSb3dFdmVudCgnZGVsZXRlTm90aWZpY2F0aW9uJywgcm93SW5kZXgpOwogICAgICAgICAgZm46IGZ1bmN0aW9uICh2aWV3LCBzb21ldGhpbmcsIHJvd0luZGV4LCBjb2xJbmRleCwgaXRlbSwgcmVjb3JkKSB7Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>record</text>
       </register>
     </registers>
     <search>
