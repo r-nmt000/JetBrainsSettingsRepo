@@ -63,6 +63,9 @@
         <mark key="." line="23" column="15" />
         <mark key="[" line="22" column="65" />
       </file>
+      <file name="/a.dummy" timestamp="1447135026491">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.txt" timestamp="1447126574282">
         <mark key="[" line="0" column="0" />
       </file>
@@ -124,7 +127,10 @@
         <mark key="." line="2664" column="6" />
         <mark key="[" line="2664" column="15" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/setting/AbstractSettingController.js" timestamp="1447133307612" />
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/setting/AbstractSettingController.js" timestamp="1447134485922">
+        <mark key="]" line="935" column="4" />
+        <mark key="[" line="933" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Adaptor/Taro.java" timestamp="1440911961981">
         <mark key="]" line="5" column="17" />
         <mark key="." line="5" column="17" />
@@ -159,6 +165,13 @@
         <mark key="^" line="9" column="15" />
         <mark key="." line="29" column="0" />
         <mark key="[" line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Observer/Teacher.java" timestamp="1443353030977">
+        <mark key="'" line="10" column="4" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="11" column="50" />
+        <mark key="." line="13" column="0" />
+        <mark key="[" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Main.java" timestamp="1440852088683">
         <mark key="]" line="4" column="0" />
@@ -201,11 +214,18 @@
         <mark key="." line="19" column="9" />
         <mark key="[" line="19" column="4" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/util/Util.js" timestamp="1447131165556">
-        <mark key="]" line="159" column="55" />
-        <mark key="^" line="159" column="55" />
-        <mark key="." line="159" column="55" />
-        <mark key="[" line="159" column="51" />
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/Constant.js" timestamp="1447134734139">
+        <mark key="'" line="129" column="14" />
+        <mark key="]" line="47" column="27" />
+        <mark key="^" line="47" column="26" />
+        <mark key="." line="47" column="26" />
+        <mark key="[" line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/util/Util.js" timestamp="1447134847373">
+        <mark key="]" line="159" column="48" />
+        <mark key="^" line="159" column="48" />
+        <mark key="." line="159" column="48" />
+        <mark key="[" line="159" column="33" />
       </file>
       <file name="/Dummy.txt" timestamp="1441718841497">
         <mark key="[" line="0" column="0" />
@@ -281,52 +301,62 @@
       <jump line="1593" column="5" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/locales/ja/translation.json" />
       <jump line="1594" column="5" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/locales/ja/translation.json" />
       <jump line="1622" column="5" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/locales/ja/translation.json" />
+      <jump line="141" column="6" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/Constant.js" />
+      <jump line="241" column="23" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/Constant.js" />
+      <jump line="188" column="31" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/Constant.js" />
+      <jump line="187" column="23" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/Constant.js" />
+      <jump line="186" column="19" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/Constant.js" />
+      <jump line="117" column="14" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/Constant.js" />
+      <jump line="127" column="14" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/Constant.js" />
+      <jump line="185" column="19" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/Constant.js" />
+      <jump line="129" column="17" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/Constant.js" />
+      <jump line="128" column="14" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/Constant.js" />
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>notification</text>
+        <text>length</text>
       </register>
       <register name="-" type="4">
-        <text>len</text>
+        <text>breadcrumbMaxLength</text>
       </register>
       <register name="3" type="4">
-        <text>record</text>
+        <text>maxLen</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBtdWx0aWxpbmU6IHRydWUsCg==</text>
+      <register name="2" type="4">
+        <text>maxLen</text>
       </register>
       <register name="1" type="4">
-        <text>len</text>
+        <text>breadcrumbMaxLength</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0cnVuY2F0ZTogZnVuY3Rpb24odGV4dCkgewogICAgICAgICAgdmFyIHRydWNhdGVJbmRpY2F0b3IgPSAiIC4uLi4iOwogICAgICAgICAgaWYgKHRleHQubGVuZ3RoID4gMTIpIHsKICAgICAgICAgICAgcmV0dXJuIE1nLlN0cmluZy5lc2NhcGVIdG1sKHRleHQuc3Vic3RyKDAsIDEyKSkgKyB0cnVjYXRlSW5kaWNhdG9yOwogICAgICAgICAgfQogICAgICAgICAgcmV0dXJuIE1nLlN0cmluZy5lc2NhcGVIdG1sKHRleHQpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgZ2VuZXJhbE1heExlbmd0aDogMTAsCg==</text>
       </register>
       <register name="7" type="4">
         <text>data</text>
       </register>
       <register name="6" type="4">
-        <text>message</text>
+        <text>record</text>
       </register>
-      <register name="5" type="4">
-        <text>message</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBtdWx0aWxpbmU6IHRydWUsCg==</text>
       </register>
       <register name="4" type="4">
-        <text>data</text>
+        <text>len</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmlldy51cCgnYnBfZ3JpZCcpLmZpcmVSb3dFdmVudCgnZGVsZXRlTm90aWZpY2F0aW9uJywgcm93SW5kZXgpOwogICAgICAgICAgZm46IGZ1bmN0aW9uICh2aWV3LCBzb21ldGhpbmcsIHJvd0luZGV4LCBjb2xJbmRleCwgaXRlbSwgcmVjb3JkKSB7Cg==</text>
+      <register name="9" type="4">
+        <text>message</text>
       </register>
       <register name="8" type="4">
-        <text>record</text>
+        <text>message</text>
       </register>
     </registers>
     <search>
-      <last-search>notification</last-search>
+      <last-search>length</last-search>
       <last-offset />
-      <last-pattern>notification</last-pattern>
+      <last-pattern>length</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -335,6 +365,7 @@
         <entry>rowindex</entry>
         <entry>deleteconfirm</entry>
         <entry>notification</entry>
+        <entry>length</entry>
       </history-search>
       <history-cmd>
         <entry>i</entry>
