@@ -66,12 +66,13 @@
         <mark key="." line="23" column="15" />
         <mark key="[" line="22" column="65" />
       </file>
-      <file name="/a.dummy" timestamp="1447137487640">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/service/TraceDialect.java" timestamp="1447143270881">
+        <mark key="'" line="134" column="23" />
       </file>
       <file name="/a.txt" timestamp="1447126574282">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/logic/impl/TraceLogicImpl.java" timestamp="1447142226974" />
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/locales/ja/translation.json" timestamp="1447137401402">
         <mark key="'" line="354" column="8" />
         <mark key="]" line="363" column="25" />
@@ -91,10 +92,16 @@
         <mark key="." line="10" column="0" />
         <mark key="[" line="10" column="0" />
       </file>
+      <file name="/" timestamp="1447141949533">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/ChapterNine/Practice.java" timestamp="1441009853559">
         <mark key="[" line="24" column="33" />
       </file>
-      <file name="/JavaScript Console" timestamp="1447137594085">
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/service/impl/TraceServiceImpl.java" timestamp="1447142611631">
+        <mark key="'" line="66" column="12" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1447141249763">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/rule/RuleSettingController.js" timestamp="1447137186326">
@@ -193,10 +200,6 @@
         <mark key="." line="4" column="0" />
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/user/User.js" timestamp="1447060015026">
-        <mark key="]" line="357" column="6" />
-        <mark key="[" line="322" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/Notification.js" timestamp="1447058982048" />
       <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/packages/rtoaster-theme/sass/src/setting/Setting.scss" timestamp="1447048492204">
         <mark key="]" line="24" column="54" />
@@ -274,7 +277,7 @@
       <file name="/fragment.js" timestamp="1447128540540">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1447059731664">
+      <file name="/fragment.java" timestamp="1447143020645">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Html.txt.ft" timestamp="1443346078882">
@@ -346,10 +349,16 @@
       <jump line="291" column="3" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/DetailConfirmAbstractController.js" />
       <jump line="267" column="11" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/DetailConfirmAbstractController.js" />
       <jump line="252" column="20" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/controller/home/setting/DetailConfirmAbstractController.js" />
+      <jump line="134" column="23" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/service/TraceDialect.java" />
+      <jump line="68" column="12" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/service/impl/TraceServiceImpl.java" />
+      <jump line="75" column="51" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/service/impl/TraceServiceImpl.java" />
+      <jump line="73" column="23" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/service/impl/TraceServiceImpl.java" />
+      <jump line="67" column="12" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/service/impl/TraceServiceImpl.java" />
+      <jump line="66" column="12" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-web-api/src/main/java/jp/co/brainpad/malaga/web/api/setting/service/impl/TraceServiceImpl.java" />
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>show</text>
+        <text>other</text>
       </register>
       <register name="-" type="4">
         <text>truncate</text>
@@ -389,9 +398,9 @@
       </register>
     </registers>
     <search>
-      <last-search>show</last-search>
+      <last-search>other</last-search>
       <last-offset />
-      <last-pattern>show</last-pattern>
+      <last-pattern>other</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -407,6 +416,7 @@
         <entry>dialogtitle</entry>
         <entry>show(</entry>
         <entry>show</entry>
+        <entry>other</entry>
       </history-search>
       <history-cmd>
         <entry>i</entry>
