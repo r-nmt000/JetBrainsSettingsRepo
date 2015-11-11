@@ -9,12 +9,12 @@
         <mark key="." line="6" column="27" />
         <mark key="[" line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/Notification.js" timestamp="1447146592499">
-        <mark key="'" line="122" column="1" />
-        <mark key="]" line="98" column="151" />
-        <mark key="^" line="98" column="151" />
-        <mark key="." line="98" column="151" />
-        <mark key="[" line="98" column="134" />
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/view/Notification.js" timestamp="1447237178470">
+        <mark key="'" line="131" column="1" />
+        <mark key="]" line="107" column="92" />
+        <mark key="^" line="107" column="92" />
+        <mark key="." line="107" column="92" />
+        <mark key="[" line="107" column="84" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/ChapterTen/A.java" timestamp="1441159174747">
         <mark key="]" line="32" column="0" />
@@ -233,7 +233,7 @@
         <mark key="." line="19" column="9" />
         <mark key="[" line="19" column="4" />
       </file>
-      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/Constant.js" timestamp="1447146669688">
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/Constant.js" timestamp="1447236638115">
         <mark key="'" line="194" column="8" />
         <mark key="]" line="256" column="26" />
         <mark key="^" line="256" column="26" />
@@ -285,6 +285,7 @@
       <file name="/Html.txt.ft" timestamp="1443346078882">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-commons/src/main/java/jp/co/brainpad/malaga/main/dao/hibernate/AbstractDaoImpl.java" timestamp="1447237359297" />
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Iterator/Aggregate.java" timestamp="1440854087345">
         <mark key="]" line="6" column="30" />
         <mark key="^" line="6" column="30" />
@@ -369,7 +370,7 @@
         <text>notificationlength</text>
       </register>
       <register name="-" type="4">
-        <text>generalMaxLength</text>
+        <text>ellipsis</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgbm90aWZpY2F0aW9uTGVuZ3RoOiAyMAo=</text>
@@ -377,32 +378,32 @@
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgbm90aWZpY2F0aW9uTGVuZ3RoOiAyMAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbm90aWZpY2F0aW9uTGVuZ3RoOiAyMAo=</text>
+      <register name="1" type="4">
+        <text>ellipsis</text>
       </register>
       <register name="0" type="4">
         <text>Mg.Constant.get('generalMaxLength')</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB0cnVuY2F0ZTogZnVuY3Rpb24odGV4dCkgewogICAgICAgICAgdmFyIHRydWNhdGVJbmRpY2F0b3IgPSAiIC4uLi4iOwogICAgICAgICAgaWYgKHRleHQubGVuZ3RoID4gMTIpIHsKICAgICAgICAgICAgcmV0dXJuIE1nLlN0cmluZy5lc2NhcGVIdG1sKHRleHQuc3Vic3RyKDAsIDEyKSkgKyB0cnVjYXRlSW5kaWNhdG9yOwogICAgICAgICAgfQogICAgICAgICAgcmV0dXJuIE1nLlN0cmluZy5lc2NhcGVIdG1sKHRleHQpOwogICAgICAgIH0K</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgLy92YXIgdHJ1Y2F0ZUluZGljYXRvciA9ICIgIC4uLi4uLiI7CiAgICAgIC8vCiAgICAgIC8vaWYgKGFjY291bnRzTGlzdC5sZW5ndGggPiAxMjApIHsKICAgICAgLy8gIHJldHVybiBhY2NvdW50c0xpc3Quc3Vic3RyKDAsIDEyMCkgKyB0cnVjYXRlSW5kaWNhdG9yOwogICAgICAvL30KICAgICAgLy9yZXR1cm4gYWNjb3VudHNMaXN0Owo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>generalMaxLength</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgbm90aWZpY2F0aW9uTGVuZ3RoOiAyMAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvL190cnVuY2F0ZTogZnVuY3Rpb24odGV4dCwgbWF4TGVuKSB7CiAgLy8gIGlmIChFeHQuaXNFbXB0eShtYXhMZW4pKSB7CiAgLy8gICAgbWF4TGVuID0gTWcuQ29uc3RhbnQuZ2V0KCdicmVhZGNydW1iTWF4TGVuZ3RoJyk7CiAgLy8gIH0KICAvLwogIC8vICBpZih0ZXh0Lmxlbmd0aCA+IG1heExlbikgewogIC8vICAgIHRleHQgPSB0ZXh0LnN1YnN0cigwLCBtYXhMZW4gLSAxKSArICfigKYnOwogIC8vICB9CiAgLy8gIHJldHVybiB0ZXh0OwogIC8vfSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvL190cnVuY2F0ZTogZnVuY3Rpb24odGV4dCwgbWF4TGVuKSB7CiAgLy8gIGlmIChFeHQuaXNFbXB0eShtYXhMZW4pKSB7CiAgLy8gICAgbWF4TGVuID0gTWcuQ29uc3RhbnQuZ2V0KCdicmVhZGNydW1iTWF4TGVuZ3RoJyk7CiAgLy8gIH0KICAvLwogIC8vICBpZih0ZXh0Lmxlbmd0aCA+IG1heExlbikgewogIC8vICAgIHRleHQgPSB0ZXh0LnN1YnN0cigwLCBtYXhMZW4gLSAxKSArICfigKYnOwogIC8vICB9CiAgLy8gIHJldHVybiB0ZXh0OwogIC8vfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
