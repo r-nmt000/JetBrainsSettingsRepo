@@ -16,6 +16,9 @@
         <mark key="." line="107" column="92" />
         <mark key="[" line="107" column="84" />
       </file>
+      <file name="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-commons/src/main/resources/malaga-commons.xml" timestamp="1447245556433">
+        <mark key="'" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/ChapterTen/A.java" timestamp="1441159174747">
         <mark key="]" line="32" column="0" />
         <mark key="^" line="32" column="0" />
@@ -364,10 +367,11 @@
       <jump line="109" column="6" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/Constant.js" />
       <jump line="161" column="18" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/Constant.js" />
       <jump line="194" column="8" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-manager-client/app/Constant.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/repos/L2Mixer/malaga/malaga-core/malaga-commons/src/main/resources/malaga-commons.xml" />
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>notificationlength</text>
+        <text>maxactive</text>
       </register>
       <register name="-" type="4">
         <text>ellipsis</text>
@@ -407,9 +411,9 @@
       </register>
     </registers>
     <search>
-      <last-search>notificationlength</last-search>
+      <last-search>maxactive</last-search>
       <last-offset />
-      <last-pattern>notificationlength</last-pattern>
+      <last-pattern>maxactive</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -427,6 +431,7 @@
         <entry>notification</entry>
         <entry>length</entry>
         <entry>notificationlength</entry>
+        <entry>maxactive</entry>
       </history-search>
       <history-cmd>
         <entry>i</entry>
