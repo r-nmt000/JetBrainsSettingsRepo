@@ -6,6 +6,12 @@
       <file name="$USER_HOME$/msl/lib/python2.7/site-packages/pip/_vendor/distlib/database.py" timestamp="1449542621310">
         <mark key="'" line="1081" column="36" />
       </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/environment.py" timestamp="1449546114395">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="28" column="110" />
+        <mark key="^" line="28" column="110" />
+        <mark key="." line="28" column="110" />
+      </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/settings_test.py" timestamp="1449542774396" />
       <file name="$USER_HOME$/repos/TS/msl_app_bp/msl_app/admin.py" timestamp="1449541716506">
         <mark key="[" line="2" column="2" />
@@ -48,6 +54,10 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
