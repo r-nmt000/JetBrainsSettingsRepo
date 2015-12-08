@@ -6,6 +6,9 @@
       <file name="$USER_HOME$/repos/TS/msl_app_bp/role_init.sql" timestamp="1449570640221">
         <mark key="'" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/models.py" timestamp="1449573300198">
+        <mark key="'" line="42" column="6" />
+      </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/views/main.py" timestamp="1449554541772">
         <mark key="'" line="87" column="12" />
         <mark key="." line="112" column="269" />
@@ -36,7 +39,7 @@
       <file name="$USER_HOME$/repos/TS/msl_app_bp/sql/role_init.sql" timestamp="1449549189560">
         <mark key="'" line="145" column="97" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register.py" timestamp="1449571931378" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register.py" timestamp="1449573283944" />
     </filemarks>
     <jumps>
       <jump line="28" column="0" filename="$USER_HOME$/msl/lib/python2.7/site-packages/pip/_vendor/distlib/database.py" />
@@ -110,6 +113,7 @@
       <jump line="239" column="119" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
       <jump line="277" column="122" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
       <jump line="3" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/role_init.sql" />
+      <jump line="42" column="6" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/models.py" />
     </jumps>
     <registers>
       <register name="1" type="4">
@@ -125,13 +129,13 @@
         <text>msldev</text>
       </register>
       <register name="/" type="4">
-        <text>本部発注</text>
+        <text>kuriko</text>
       </register>
     </registers>
     <search>
-      <last-search>本部発注</last-search>
+      <last-search>kuriko</last-search>
       <last-offset />
-      <last-pattern>本部発注</last-pattern>
+      <last-pattern>kuriko</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -142,6 +146,8 @@
         <entry>role</entry>
         <entry>create</entry>
         <entry>本部発注</entry>
+        <entry>kurikoshi</entry>
+        <entry>kuriko</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
