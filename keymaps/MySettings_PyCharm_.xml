@@ -2,6 +2,11 @@
   <action id="AceJumpAction">
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta f4" />
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="EditorSelectWord" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
