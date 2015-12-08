@@ -19,6 +19,9 @@
       <file name="/a.dummy" timestamp="1449547792816">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" timestamp="1449569487946">
+        <mark key="'" line="277" column="122" />
+      </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/settings_test.py" timestamp="1449542774396" />
       <file name="$USER_HOME$/repos/TS/msl_app_bp/msl_app/admin.py" timestamp="1449549396926">
         <mark key="[" line="2" column="2" />
@@ -99,6 +102,9 @@
       <jump line="115" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/sql/role_init.sql" />
       <jump line="145" column="97" filename="$USER_HOME$/repos/TS/msl_app_bp/sql/role_init.sql" />
       <jump line="87" column="12" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/views/main.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
+      <jump line="239" column="119" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
+      <jump line="277" column="122" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
     </jumps>
     <registers>
       <register name="1" type="4">
@@ -114,13 +120,13 @@
         <text>msldev</text>
       </register>
       <register name="/" type="4">
-        <text>create</text>
+        <text>本部発注</text>
       </register>
     </registers>
     <search>
-      <last-search>create</last-search>
+      <last-search>本部発注</last-search>
       <last-offset />
-      <last-pattern>create</last-pattern>
+      <last-pattern>本部発注</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -130,6 +136,7 @@
         <entry>database</entry>
         <entry>role</entry>
         <entry>create</entry>
+        <entry>本部発注</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
