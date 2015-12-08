@@ -6,11 +6,14 @@
       <file name="$USER_HOME$/msl/lib/python2.7/site-packages/pip/_vendor/distlib/database.py" timestamp="1449542621310">
         <mark key="'" line="1081" column="36" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/environment.py" timestamp="1449546114395">
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/environment.py" timestamp="1449548069422">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="23" />
+        <mark key="^" line="4" column="23" />
+        <mark key="." line="4" column="23" />
+      </file>
+      <file name="/a.dummy" timestamp="1449547792816">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="28" column="110" />
-        <mark key="^" line="28" column="110" />
-        <mark key="." line="28" column="110" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/settings_test.py" timestamp="1449542774396" />
       <file name="$USER_HOME$/repos/TS/msl_app_bp/msl_app/admin.py" timestamp="1449541716506">
@@ -29,8 +32,17 @@
       <jump line="1081" column="36" filename="$USER_HOME$/msl/lib/python2.7/site-packages/pip/_vendor/distlib/database.py" />
     </jumps>
     <registers>
+      <register name="1" type="4">
+        <text>msldev</text>
+      </register>
+      <register name="2" type="4">
+        <text>-</text>
+      </register>
       <register name=":" type="4">
         <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>msldev</text>
       </register>
       <register name="/" type="4">
         <text>database</text>
