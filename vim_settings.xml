@@ -15,12 +15,12 @@
       <file name="/a.dummy" timestamp="1449638445753">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" timestamp="1449641964218">
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" timestamp="1449644652080">
         <mark key="'" line="282" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="28" column="66" />
-        <mark key="." line="32" column="0" />
+        <mark key="[" line="30" column="27" />
+        <mark key="]" line="30" column="27" />
+        <mark key="^" line="30" column="27" />
+        <mark key="." line="30" column="27" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/main_vehicle_reserved_job_list.html" timestamp="1449635811078">
         <mark key="'" line="8" column="6" />
@@ -135,40 +135,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>m</text>
+        <text>large_small_amount</text>
       </register>
       <register name="/" type="4">
         <text>本部発注</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkKHRoaXMpLnJlbW92ZUNsYXNzKCdidG4tc3VjY2VzcycpLmFkZENsYXNzKCdidG4tZGVmYXVsdCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJCh0aGlzKS5zaWJsaW5nKCQoJy5sYXJnZV9tZWRpdW1fYW1vdW50JykpLnZhbCgkKHRoaXMpLnZhbCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkKHRoaXMpLnRleHQoKG5ldyBEYXRlKCkpLnRvTG9jYWxlU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkKHRoaXMpLnRleHQoKG5ldyBEYXRlKCkpLnRvTG9jYWxlU3RyaW5nKCkpOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IGVsc2UgaWYgKCQodGhpcykuaGFzQ2xhc3MoJ291dGxpZXJfc21hbGxfYW1vdW50X2J0bicpKSB7CiAgICAgICAgICAgIAogICAgICAgIH0=</text>
       </register>
-      <register name="3" type="4">
-        <text>m</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>mslapp_nomoto</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoJCh0aGlzKS5oYXNDbGFzcygnb3V0bGllcl9sYXJnZV9tZWRpdW1fYW1vdW50X2J0bicpKSB7Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>outlier_large_medium_amount_btn</text>
+        <text>large_small_amount</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIOODnOOCv+ODs+OCr+ODquODg+OCr+OBp+aZguWIu+OCkuabtOaWsAo=</text>
+      <register name="6" type="4">
+        <text>outlier_large_small_btn</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPgo8L3NjcmlwdD4K</text>
+      <register name="7" type="4">
+        <text>success</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">JChmdW5jdGlvbigpewogICAgCgp9KTsK</text>
+      <register name="8" type="4">
+        <text>success</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">JChmdW5jdGlvbigpewogICAgCgp9KTsKPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPgo8L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgICAkKHRoaXMpLnRvZ2dsZUNsYXNzKCdidG4tc3VjY2VzcycpLnRvZ2dsZUNsYXNzKCdidG4tZGVmYXVsdCcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
