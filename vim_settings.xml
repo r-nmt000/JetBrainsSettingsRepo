@@ -12,15 +12,12 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
-      <file name="/a.dummy" timestamp="1449638445753">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" timestamp="1449653266902">
-        <mark key="'" line="294" column="60" />
-        <mark key="[" line="311" column="98" />
-        <mark key="]" line="311" column="98" />
-        <mark key="^" line="311" column="121" />
-        <mark key="." line="311" column="98" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" timestamp="1449660609656">
+        <mark key="'" line="315" column="101" />
+        <mark key="[" line="36" column="27" />
+        <mark key="]" line="36" column="27" />
+        <mark key="^" line="36" column="12" />
+        <mark key="." line="36" column="27" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/main_vehicle_reserved_job_list.html" timestamp="1449635811078">
         <mark key="'" line="8" column="6" />
@@ -28,7 +25,9 @@
       <file name="$USER_HOME$/repos/TS/msl_app_bp/sql/role_init.sql" timestamp="1449549189560">
         <mark key="'" line="145" column="97" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register.py" timestamp="1449573283944" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register.py" timestamp="1449655672480">
+        <mark key="'" line="61" column="50" />
+      </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/role_init.sql" timestamp="1449570640221">
         <mark key="'" line="3" column="0" />
       </file>
@@ -43,13 +42,21 @@
         <mark key="'" line="1081" column="36" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/settings_test.py" timestamp="1449542774396" />
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register_service.py" timestamp="1449636284507" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register_service.py" timestamp="1449659702783">
+        <mark key="'" line="166" column="14" />
+      </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/msl_app/admin.py" timestamp="1449549396926">
         <mark key="[" line="2" column="2" />
         <mark key="k" line="2" column="0" />
         <mark key="]" line="2" column="2" />
         <mark key="^" line="2" column="2" />
         <mark key="." line="2" column="2" />
+      </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/job_register_forms.py" timestamp="1449659606345">
+        <mark key="'" line="106" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -134,52 +141,65 @@
       <jump line="280" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
       <jump line="298" column="46" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
       <jump line="294" column="60" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
+      <jump line="61" column="50" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register.py" />
+      <jump line="49" column="8" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register_service.py" />
+      <jump line="59" column="24" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register_service.py" />
+      <jump line="131" column="32" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register_service.py" />
+      <jump line="255" column="8" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register_service.py" />
+      <jump line="244" column="24" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register_service.py" />
+      <jump line="222" column="8" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register_service.py" />
+      <jump line="200" column="8" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register_service.py" />
+      <jump line="187" column="8" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register_service.py" />
+      <jump line="158" column="8" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register_service.py" />
+      <jump line="107" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/job_register_forms.py" />
+      <jump line="166" column="14" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register_service.py" />
+      <jump line="315" column="101" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>outlier_large_medium_amount_btn</text>
+        <text>day_off_btn</text>
       </register>
       <register name="/" type="4">
-        <text>本部発注</text>
+        <text>_make</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3ZhbGlkJykK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJCgnLm91dGxpZXJfbGFyZ2VfbWVkaXVtX2Ftb3VudF9idG4nKS5oYXNDbGFzcygnYnRuLWRhbmdlcicpKSB7CiAgICAgICAgICAgICQoJy5vdXRsaWVyX2xhcmdlX21lZGl1bV9hbW91bnRfYnRuJykuY2xpY2soKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>outlier_large_medium_amount_btn</text>
+        <text>day_off_btn</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">b3V0bGllcl9zbWFsbF9hbW91bnRfYnRuIA==</text>
-      </register>
-      <register name="3" type="4">
         <text>day_off_btn</text>
       </register>
-      <register name="4" type="4">
-        <text>day_off_btn</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>initial</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0Y19pZCA9IGt3YXJncy5wb3AoJ3RjX2lkJywgTm9uZSkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0X2NlbGwuY2hpbGRyZW4oJ2lucHV0JykudmFsKHRhcmdldF9jZWxsLmF0dHIoJ2luaXRfdmFsdWUnKSk7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICBkZWY=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0X2NlbGwuY2hpbGRyZW4oJ2lucHV0JykudmFsKHRhcmdldF9yb3cuZmluZCgnLm91dGxpZXJfc21hbGxfYW1vdW50JykudGV4dCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>btn-danger</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>本部発注</last-search>
+      <last-search>_make</last-search>
       <last-offset />
-      <last-pattern>本部発注</last-pattern>
+      <last-pattern>_make</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -194,6 +214,10 @@
         <entry>job_register.js</entry>
         <entry>button_dis</entry>
         <entry>本部発注</entry>
+        <entry>fix_section</entry>
+        <entry>outlier</entry>
+        <entry>fix</entry>
+        <entry>_make</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
