@@ -15,12 +15,12 @@
       <file name="/a.dummy" timestamp="1449638445753">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" timestamp="1449644652080">
-        <mark key="'" line="282" column="0" />
-        <mark key="[" line="30" column="27" />
-        <mark key="]" line="30" column="27" />
-        <mark key="^" line="30" column="27" />
-        <mark key="." line="30" column="27" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" timestamp="1449650619431">
+        <mark key="'" line="298" column="46" />
+        <mark key="[" line="31" column="72" />
+        <mark key="]" line="31" column="72" />
+        <mark key="^" line="31" column="48" />
+        <mark key="." line="31" column="72" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/main_vehicle_reserved_job_list.html" timestamp="1449635811078">
         <mark key="'" line="8" column="6" />
@@ -132,43 +132,44 @@
       <jump line="139" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
       <jump line="66" column="8" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/views/form_data.py" />
       <jump line="280" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
+      <jump line="298" column="46" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>large_small_amount</text>
+        <text>siblings</text>
       </register>
       <register name="/" type="4">
         <text>本部発注</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCh0aGlzKS5zaWJsaW5nKCQoJy5sYXJnZV9tZWRpdW1fYW1vdW50JykpLnZhbCgkKHRoaXMpLnZhbCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3ZhbGlkJyk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>siblings</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IGVsc2UgaWYgKCQodGhpcykuaGFzQ2xhc3MoJ291dGxpZXJfc21hbGxfYW1vdW50X2J0bicpKSB7CiAgICAgICAgICAgIAogICAgICAgIH0=</text>
+        <text>outlier_large_medium_amount_btn</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJCh0aGlzKS5oYXNDbGFzcygnb3V0bGllcl9sYXJnZV9tZWRpdW1fYW1vdW50X2J0bicpKSB7Cg==</text>
+        <text encoding="base64">eyMgICAgICAgIGlmICgkKHRoaXMpLmhhc0NsYXNzKCdvdXRsaWVyX2xhcmdlX21lZGl1bV9hbW91bnRfYnRuJykpIHsjfQogICAgICAgICAgICAkKHRoaXMpLnBhcmVudCgndGQnKS5zaWJsaW5ncygkKCcubGFyZ2VfbWVkaXVtX2Ftb3VudCcpKS5jaGlsZHJlbignaW5wdXQnKS52YWwoJCh0aGlzKS52YWwoKSk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>large_small_amount</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoJCh0aGlzKS5oYXNDbGFzcygnb3V0bGllcl9sYXJnZV9tZWRpdW1fYW1vdW50X2J0bicpKSB7CiAgICAgICAgICAgICQodGhpcykuc2libGluZ3MoJCgnLmxhcmdlX21lZGl1bV9hbW91bnQnKSkuY2hpbGRyZW4oJ2lucHV0JykudmFsKCQodGhpcykudmFsKCkpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>outlier_large_small_btn</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>success</text>
+        <text encoding="base64">IGVsc2UgaWYgKCQodGhpcykuaGFzQ2xhc3MoJ291dGxpZXJfc21hbGxfYW1vdW50X2J0bicpKSB7CiAgICAgICAgICAgIAogICAgICAgIH0=</text>
       </register>
-      <register name="8" type="4">
-        <text>success</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkKHRoaXMpLnRvZ2dsZUNsYXNzKCdidG4tc3VjY2VzcycpLnRvZ2dsZUNsYXNzKCdidG4tZGVmYXVsdCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJCh0aGlzKS5oYXNDbGFzcygnb3V0bGllcl9sYXJnZV9tZWRpdW1fYW1vdW50X2J0bicpKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
