@@ -25,8 +25,8 @@
       <file name="/a.dummy" timestamp="1449547792816">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" timestamp="1449569487946">
-        <mark key="'" line="277" column="122" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" timestamp="1449634641132">
+        <mark key="'" line="264" column="21" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/settings_test.py" timestamp="1449542774396" />
       <file name="$USER_HOME$/repos/TS/msl_app_bp/msl_app/admin.py" timestamp="1449549396926">
@@ -114,6 +114,7 @@
       <jump line="277" column="122" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
       <jump line="3" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/role_init.sql" />
       <jump line="42" column="6" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/models.py" />
+      <jump line="264" column="21" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
     </jumps>
     <registers>
       <register name="1" type="4">
@@ -129,13 +130,13 @@
         <text>msldev</text>
       </register>
       <register name="/" type="4">
-        <text>kuriko</text>
+        <text>本部発注</text>
       </register>
     </registers>
     <search>
-      <last-search>kuriko</last-search>
+      <last-search>本部発注</last-search>
       <last-offset />
-      <last-pattern>kuriko</last-pattern>
+      <last-pattern>本部発注</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -145,9 +146,9 @@
         <entry>database</entry>
         <entry>role</entry>
         <entry>create</entry>
-        <entry>本部発注</entry>
         <entry>kurikoshi</entry>
         <entry>kuriko</entry>
+        <entry>本部発注</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
