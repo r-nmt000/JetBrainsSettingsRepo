@@ -12,12 +12,15 @@
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" timestamp="1449636115434">
-        <mark key="'" line="139" column="0" />
-        <mark key="[" line="239" column="21" />
-        <mark key="]" line="239" column="20" />
-        <mark key="^" line="239" column="20" />
-        <mark key="." line="239" column="20" />
+      <file name="/a.dummy" timestamp="1449638445753">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" timestamp="1449638555063">
+        <mark key="'" line="280" column="0" />
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="22" column="4" />
+        <mark key="^" line="22" column="4" />
+        <mark key="." line="22" column="4" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/main_vehicle_reserved_job_list.html" timestamp="1449635811078">
         <mark key="'" line="8" column="6" />
@@ -128,19 +131,29 @@
       <jump line="8" column="6" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/main_vehicle_reserved_job_list.html" />
       <jump line="139" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
       <jump line="66" column="8" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/views/form_data.py" />
+      <jump line="280" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text>msldev</text>
+        <text>default</text>
       </register>
       <register name="2" type="4">
+        <text>default</text>
+      </register>
+      <register name="3" type="4">
+        <text>default</text>
+      </register>
+      <register name="4" type="4">
+        <text>msldev</text>
+      </register>
+      <register name="5" type="4">
         <text>-</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>msldev</text>
+        <text>default</text>
       </register>
       <register name="/" type="4">
         <text>本部発注</text>
@@ -177,6 +190,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
