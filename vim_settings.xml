@@ -3,6 +3,26 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/environment.py" timestamp="1449548069422">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="23" />
+        <mark key="^" line="4" column="23" />
+        <mark key="." line="4" column="23" />
+      </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" timestamp="1449636115434">
+        <mark key="'" line="139" column="0" />
+        <mark key="[" line="239" column="21" />
+        <mark key="]" line="239" column="20" />
+        <mark key="^" line="239" column="20" />
+        <mark key="." line="239" column="20" />
+      </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/main_vehicle_reserved_job_list.html" timestamp="1449635811078">
+        <mark key="'" line="8" column="6" />
+      </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/sql/role_init.sql" timestamp="1449549189560">
+        <mark key="'" line="145" column="97" />
+      </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register.py" timestamp="1449573283944" />
       <file name="$USER_HOME$/repos/TS/msl_app_bp/role_init.sql" timestamp="1449570640221">
         <mark key="'" line="3" column="0" />
       </file>
@@ -16,19 +36,8 @@
       <file name="$USER_HOME$/msl/lib/python2.7/site-packages/pip/_vendor/distlib/database.py" timestamp="1449542621310">
         <mark key="'" line="1081" column="36" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/environment.py" timestamp="1449548069422">
-        <mark key="[" line="4" column="23" />
-        <mark key="]" line="4" column="23" />
-        <mark key="^" line="4" column="23" />
-        <mark key="." line="4" column="23" />
-      </file>
-      <file name="/a.dummy" timestamp="1449547792816">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" timestamp="1449634641132">
-        <mark key="'" line="264" column="21" />
-      </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/settings_test.py" timestamp="1449542774396" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register_service.py" timestamp="1449636284507" />
       <file name="$USER_HOME$/repos/TS/msl_app_bp/msl_app/admin.py" timestamp="1449549396926">
         <mark key="[" line="2" column="2" />
         <mark key="k" line="2" column="0" />
@@ -36,10 +45,6 @@
         <mark key="^" line="2" column="2" />
         <mark key="." line="2" column="2" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/sql/role_init.sql" timestamp="1449549189560">
-        <mark key="'" line="145" column="97" />
-      </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register.py" timestamp="1449573283944" />
     </filemarks>
     <jumps>
       <jump line="28" column="0" filename="$USER_HOME$/msl/lib/python2.7/site-packages/pip/_vendor/distlib/database.py" />
@@ -115,6 +120,10 @@
       <jump line="3" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/role_init.sql" />
       <jump line="42" column="6" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/models.py" />
       <jump line="264" column="21" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
+      <jump line="274" column="22" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
+      <jump line="107" column="26" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/main_vehicle_reserved_job_list.html" />
+      <jump line="8" column="6" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/main_vehicle_reserved_job_list.html" />
+      <jump line="139" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
     </jumps>
     <registers>
       <register name="1" type="4">
@@ -148,6 +157,8 @@
         <entry>create</entry>
         <entry>kurikoshi</entry>
         <entry>kuriko</entry>
+        <entry>job_register.js</entry>
+        <entry>button_dis</entry>
         <entry>本部発注</entry>
       </history-search>
       <history-cmd>
@@ -159,6 +170,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
