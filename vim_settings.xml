@@ -6,21 +6,21 @@
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/form_data.py" timestamp="1449637219284">
         <mark key="'" line="66" column="8" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/environment.py" timestamp="1449548069422">
-        <mark key="[" line="4" column="23" />
-        <mark key="]" line="4" column="23" />
-        <mark key="^" line="4" column="23" />
-        <mark key="." line="4" column="23" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/environment.py" timestamp="1449640967016">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="27" />
+        <mark key="^" line="4" column="27" />
+        <mark key="." line="4" column="27" />
       </file>
       <file name="/a.dummy" timestamp="1449638445753">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" timestamp="1449638555063">
-        <mark key="'" line="280" column="0" />
-        <mark key="[" line="22" column="5" />
-        <mark key="]" line="22" column="4" />
-        <mark key="^" line="22" column="4" />
-        <mark key="." line="22" column="4" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" timestamp="1449640563912">
+        <mark key="'" line="282" column="0" />
+        <mark key="[" line="30" column="22" />
+        <mark key="]" line="30" column="26" />
+        <mark key="^" line="30" column="26" />
+        <mark key="." line="30" column="26" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/main_vehicle_reserved_job_list.html" timestamp="1449635811078">
         <mark key="'" line="8" column="6" />
@@ -134,29 +134,44 @@
       <jump line="280" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text>default</text>
-      </register>
-      <register name="2" type="4">
-        <text>default</text>
-      </register>
-      <register name="3" type="4">
-        <text>default</text>
-      </register>
-      <register name="4" type="4">
-        <text>msldev</text>
-      </register>
-      <register name="5" type="4">
-        <text>-</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
-      </register>
       <register name="-" type="4">
-        <text>default</text>
+        <text>mslapp_nomoto</text>
       </register>
       <register name="/" type="4">
         <text>本部発注</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICQoJyNvdXRsaWVyX2xhcmdlX21lZGl1bV9hbW91bnRfYnRuJykuY2xpY2soZnVuY3Rpb24oZSkgewogICAgICAgICQodGhpcykudGV4dCgobmV3IERhdGUoKSkudG9Mb2NhbGVTdHJpbmcoKSk7CiAgICB9KTsK</text>
+      </register>
+      <register name="1" type="4">
+        <text>mslapp_nomoto</text>
+      </register>
+      <register name="2" type="4">
+        <text>outlier_large_medium_amount_btn</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vIOODnOOCv+ODs+OCr+ODquODg+OCr+OBp+aZguWIu+OCkuabtOaWsAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPgo8L3NjcmlwdD4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">JChmdW5jdGlvbigpewogICAgCgp9KTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">JChmdW5jdGlvbigpewogICAgCgp9KTsKPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPgo8L3NjcmlwdD4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">PC9zY3JpcHQ+Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>default</text>
+      </register>
+      <register name="9" type="4">
+        <text>default</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -193,6 +208,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed K</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
