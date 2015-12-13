@@ -2,19 +2,88 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/repos/temp/python_study/09_uruu.py" timestamp="1427798825817">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/temp/python_study/09_reduce.py" timestamp="1427722184742">
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/temp/python_study/02_qsort.py" timestamp="1427726335966">
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="12" column="16" />
+        <mark key="^" line="12" column="16" />
+        <mark key="." line="12" column="16" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="4">
+        <text>e</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>iuiuuuhhk</text>
+      </register>
+      <register name="2" type="4">
+        <text>t</text>
+      </register>
+      <register name="3" type="4">
+        <text>s</text>
+      </register>
+      <register name="4" type="4">
+        <text>k</text>
+      </register>
+      <register name="5" type="4">
+        <text>h</text>
+      </register>
+      <register name="6" type="4">
+        <text>iuiuuuhhk</text>
+      </register>
+      <register name="7" type="4">
+        <text>jasjdfjkjaksfj</text>
+      </register>
+      <register name="8" type="4">
+        <text>kasjfkjakfj</text>
+      </register>
+      <register name="9" type="4">
+        <text>jkasjflllkjajkjkjkdjfklllljjjkjkjksf</text>
+      </register>
+      <register name="-" type="4">
+        <text>e</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>tabprevious</entry>
+        <entry>tabnext</entry>
+        <entry>tablast | tabnew</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
