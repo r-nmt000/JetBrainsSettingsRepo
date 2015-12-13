@@ -24,6 +24,8 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/Brainpad/TS/engineer-training-basic/django_portal/config/settings/base.py" timestamp="1450015937631" />
+      <file name="$USER_HOME$/repos/Brainpad/TS/engineer-training-basic/django_portal/templates/base.html" timestamp="1450015335129" />
       <file name="$USER_HOME$/repos/temp/python_study/02_qsort.py" timestamp="1427726335966">
         <mark key="[" line="12" column="14" />
         <mark key="]" line="12" column="16" />
@@ -42,7 +44,7 @@
         <text>f</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>static</text>
       </register>
       <register name="1" type="4">
         <text>f</text>
@@ -76,15 +78,16 @@
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search>static</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>static</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
         <entry>log</entry>
+        <entry>static</entry>
       </history-search>
       <history-cmd>
         <entry>tabprevious</entry>
