@@ -9,10 +9,22 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/Brainpad/TS/engineer-training-basic/django_portal/config/settings/dev.py" timestamp="1450003013804">
+        <mark key="'" line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/temp/python_study/09_reduce.py" timestamp="1427722184742">
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1450002673608">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/Brainpad/TS/engineer-training-basic/django_portal/core/urls.py" timestamp="1450002006284">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/repos/temp/python_study/02_qsort.py" timestamp="1427726335966">
         <mark key="[" line="12" column="14" />
@@ -21,48 +33,58 @@
         <mark key="." line="12" column="16" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="16" column="0" filename="$USER_HOME$/repos/Brainpad/TS/engineer-training-basic/django_portal/config/settings/dev.py" />
+    </jumps>
     <registers>
       <register name="1" type="4">
-        <text>e</text>
+        <text>f</text>
       </register>
       <register name="&quot;" type="4">
         <text>iuiuuuhhk</text>
       </register>
       <register name="2" type="4">
-        <text>t</text>
+        <text>v</text>
       </register>
       <register name="3" type="4">
-        <text>s</text>
+        <text>e</text>
       </register>
       <register name="4" type="4">
-        <text>k</text>
+        <text>t</text>
       </register>
       <register name="5" type="4">
-        <text>h</text>
+        <text>s</text>
       </register>
       <register name="6" type="4">
-        <text>iuiuuuhhk</text>
+        <text>k</text>
       </register>
       <register name="7" type="4">
-        <text>jasjdfjkjaksfj</text>
+        <text>h</text>
       </register>
       <register name="8" type="4">
-        <text>kasjfkjakfj</text>
+        <text>iuiuuuhhk</text>
       </register>
       <register name="9" type="4">
-        <text>jkasjflllkjajkjkjkdjfklllljjjkjkjksf</text>
+        <text>jasjdfjkjaksfj</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>f</text>
+      </register>
+      <register name="/" type="4">
+        <text>log</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>log</last-search>
+      <last-offset />
+      <last-pattern>log</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>log</entry>
+      </history-search>
       <history-cmd>
         <entry>tabprevious</entry>
         <entry>tabnext</entry>
@@ -83,6 +105,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed K</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
