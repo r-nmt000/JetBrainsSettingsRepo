@@ -20,7 +20,7 @@
       <file name="/a.dummy" timestamp="1450002673608">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/Brainpad/TS/engineer-training-basic/django_portal/core/urls.py" timestamp="1450002006284">
+      <file name="$USER_HOME$/repos/Brainpad/TS/engineer-training-basic/django_portal/core/urls.py" timestamp="1450003631047">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
@@ -37,11 +37,17 @@
       <jump line="16" column="0" filename="$USER_HOME$/repos/Brainpad/TS/engineer-training-basic/django_portal/config/settings/dev.py" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text>f</text>
-      </register>
       <register name="&quot;" type="4">
         <text>iuiuuuhhk</text>
+      </register>
+      <register name="-" type="4">
+        <text>f</text>
+      </register>
+      <register name="/" type="4">
+        <text>log</text>
+      </register>
+      <register name="1" type="4">
+        <text>f</text>
       </register>
       <register name="2" type="4">
         <text>v</text>
@@ -67,11 +73,8 @@
       <register name="9" type="4">
         <text>jasjdfjkjaksfj</text>
       </register>
-      <register name="-" type="4">
-        <text>f</text>
-      </register>
-      <register name="/" type="4">
-        <text>log</text>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -89,6 +92,7 @@
         <entry>tabprevious</entry>
         <entry>tabnext</entry>
         <entry>tablast | tabnew</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
