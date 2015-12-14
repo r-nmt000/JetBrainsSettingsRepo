@@ -13,8 +13,8 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py" timestamp="1450067709817" />
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" timestamp="1450076910785">
-        <mark key="'" line="320" column="45" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" timestamp="1450080243803">
+        <mark key="'" line="318" column="12" />
         <mark key="[" line="353" column="4" />
         <mark key="m" line="330" column="18" />
         <mark key="]" line="353" column="7" />
@@ -55,6 +55,7 @@
       <jump line="110" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register_service.py" />
       <jump line="224" column="32" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register.py" />
       <jump line="320" column="45" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
+      <jump line="318" column="12" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -62,6 +63,9 @@
       </register>
       <register name="-" type="4">
         <text>center</text>
+      </register>
+      <register name="/" type="4">
+        <text>error</text>
       </register>
       <register name="0" type="4">
         <text>{{ demand_form.outlier_large_medium_amount.value }}</text>
@@ -98,11 +102,16 @@
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>error</last-search>
+      <last-offset />
+      <last-pattern>error</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>error</entry>
+      </history-search>
       <history-cmd>
         <entry>tabprevious</entry>
         <entry>tabnext</entry>
