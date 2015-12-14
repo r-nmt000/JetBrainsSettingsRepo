@@ -12,12 +12,12 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" timestamp="1450056495165">
-        <mark key="'" line="328" column="28" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="25" column="3" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" timestamp="1450064493034">
+        <mark key="'" line="82" column="1" />
+        <mark key="[" line="333" column="79" />
+        <mark key="]" line="333" column="86" />
+        <mark key="^" line="333" column="86" />
+        <mark key="." line="333" column="86" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/main_vehicle_reserved_job_list.html" timestamp="1449635811078">
         <mark key="'" line="8" column="6" />
@@ -52,15 +52,14 @@
         <mark key="^" line="2" column="2" />
         <mark key="." line="2" column="2" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/job_register_forms.py" timestamp="1449659606345">
-        <mark key="'" line="106" column="0" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/job_register_forms.py" timestamp="1450065189659">
+        <mark key="'" line="191" column="12" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="$USER_HOME$/msl/lib/python2.7/site-packages/pip/_vendor/distlib/database.py" />
       <jump line="1068" column="47" filename="$USER_HOME$/msl/lib/python2.7/site-packages/pip/_vendor/distlib/database.py" />
       <jump line="1069" column="50" filename="$USER_HOME$/msl/lib/python2.7/site-packages/pip/_vendor/distlib/database.py" />
       <jump line="1079" column="36" filename="$USER_HOME$/msl/lib/python2.7/site-packages/pip/_vendor/distlib/database.py" />
@@ -158,52 +157,55 @@
       <jump line="294" column="118" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
       <jump line="334" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
       <jump line="328" column="28" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
+      <jump line="246" column="13" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
+      <jump line="82" column="1" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
+      <jump line="191" column="12" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/job_register_forms.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>this</text>
+        <text>{{ fix_section_form.initial|lookup:section_id }}</text>
       </register>
       <register name="/" type="4">
-        <text>休日</text>
+        <text>fix</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJCh0aGlzKS50ZXh0KCfkvJHml6UnKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>{{ fix_section_form.initial|lookup:section_id }}</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0X2NlbGwuY2hpbGRyZW4oJ2lucHV0JykudmFsKHRhcmdldF9jZWxsLmF0dHIoJ2luaXRfdmFsdWUnKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">eyMgICAgJCgnLm91dGxpZXJfbGFyZ2VfbWVkaXVtX2Ftb3VudF9idG4nKS5vbignY2xpY2snLCBhcHBseV9vdXRsaWVyKHRoaXMsICdsYXJnZV9tZWRpdW0nKSk7I30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">eyMgICAgICAgICQodGhpcykuYWRkQ2xhc3MoJ2dldF9jbGlja2VkJyk7I30KeyMgICAgICAgIHZhciB0YXJnZXRfcm93ID0gJCh0aGlzKS5jbG9zZXN0KCcuZGFpbHlfYW1vdW50Jyk7I30KeyMgICAgICAgIHZhciB0YXJnZXRfY2VsbCA9IHRhcmdldF9yb3cuZmluZCgnLmxhcmdlX21lZGl1bV9hbW91bnQnKTsjfQp7IyAgICAgICAgJCh0aGlzKS50b2dnbGVDbGFzcygnYnRuLWRlZmF1bHQnKS50b2dnbGVDbGFzcygnYnRuLXN1Y2Nlc3MnKTsjfQp7IyAgICAgICAgaWYgKCQodGhpcykuaGFzQ2xhc3MoJ2J0bi1zdWNjZXNzJykpIHsjfQp7IyAgICAgICAgICAgIHRhcmdldF9jZWxsLmNoaWxkcmVuKCdpbnB1dCcpLnZhbCh0YXJnZXRfcm93LmZpbmQoJy5vdXRsaWVyX2xhcmdlX21lZGl1bV9hbW91bnQnKS50ZXh0KCkpOyN9CnsjICAgICAgICB9IGVsc2UgeyN9CnsjICAgICAgICAgICAgdGFyZ2V0X2NlbGwuY2hpbGRyZW4oJ2lucHV0JykudmFsKHRhcmdldF9jZWxsLmF0dHIoJ2luaXRfdmFsdWUnKSk7I30KeyMgICAgICAgIH0jfQp7IyAgICAgICAgaWYgKHRhcmdldF9yb3cuZmluZCgnLmRheV9vZmZfYnRuJykuaGFzQ2xhc3MoJ2J0bi1kYW5nZXInKSAmJiAhdGFyZ2V0X3Jvdy5maW5kKCcuZGF5X29mZl9idG4nKS5oYXNDbGFzcygnZ2V0X2NsaWNrZWQnKSkgeyN9CnsjICAgICAgICAgICAgdGFyZ2V0X3Jvdy5maW5kKCcuZGF5X29mZl9idG4nKS5jbGljaygpOyN9CnsjICAgICAgICB9I30KeyMgICAgICAgICQodGhpcykucmVtb3ZlQ2xhc3MoJ2dldF9jbGlja2VkJyk7I30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">eyMgICAgICAgICQodGhpcykuYWRkQ2xhc3MoJ2dldF9jbGlja2VkJyk7I30KeyMgICAgICAgIHZhciB0YXJnZXRfcm93ID0gJCh0aGlzKS5jbG9zZXN0KCcuZGFpbHlfYW1vdW50Jyk7I30KeyMgICAgICAgIHZhciB0YXJnZXRfY2VsbCA9IHRhcmdldF9yb3cuZmluZCgnLnNtYWxsX2Ftb3VudCcpOyN9CnsjICAgICAgICAkKHRoaXMpLnRvZ2dsZUNsYXNzKCdidG4tZGVmYXVsdCcpLnRvZ2dsZUNsYXNzKCdidG4tc3VjY2VzcycpOyN9CnsjICAgICAgICBpZiAoJCh0aGlzKS5oYXNDbGFzcygnYnRuLXN1Y2Nlc3MnKSkgeyN9CnsjICAgICAgICAgICAgdGFyZ2V0X2NlbGwuY2hpbGRyZW4oJ2lucHV0JykudmFsKHRhcmdldF9yb3cuZmluZCgnLm91dGxpZXJfc21hbGxfYW1vdW50JykudGV4dCgpKTsjfQp7IyAgICAgICAgfSBlbHNlIHsjfQp7IyAgICAgICAgICAgIHRhcmdldF9jZWxsLmNoaWxkcmVuKCdpbnB1dCcpLnZhbCh0YXJnZXRfY2VsbC5hdHRyKCdpbml0X3ZhbHVlJykpOyN9CnsjICAgICAgICB9I30KeyMgICAgICAgIGlmICh0YXJnZXRfcm93LmZpbmQoJy5kYXlfb2ZmX2J0bicpLmhhc0NsYXNzKCdidG4tZGFuZ2VyJykgJiYgIXRhcmdldF9yb3cuZmluZCgnLmRheV9vZmZfYnRuJykuaGFzQ2xhc3MoJ2dldF9jbGlja2VkJykpIHsjfQp7IyAgICAgICAgICAgIHRhcmdldF9yb3cuZmluZCgnLmRheV9vZmZfYnRuJykuY2xpY2soKTsjfQp7IyAgICAgICAgfSN9CnsjICAgICAgICAkKHRoaXMpLnJlbW92ZUNsYXNzKCdnZXRfY2xpY2tlZCcpOyN9Cg==</text>
+        <text encoding="base64">eyMgICAgJCgnLm91dGxpZXJfbGFyZ2VfbWVkaXVtX2Ftb3VudF9idG4nKS5vbignY2xpY2snLCBhcHBseV9vdXRsaWVyKHRoaXMsICdsYXJnZV9tZWRpdW0nKSk7I30K</text>
       </register>
-      <register name="6" type="4">
-        <text>this</text>
+      <register name="6" type="2">
+        <text encoding="base64">eyMgICAgICAgICQodGhpcykuYWRkQ2xhc3MoJ2dldF9jbGlja2VkJyk7I30KeyMgICAgICAgIHZhciB0YXJnZXRfcm93ID0gJCh0aGlzKS5jbG9zZXN0KCcuZGFpbHlfYW1vdW50Jyk7I30KeyMgICAgICAgIHZhciB0YXJnZXRfY2VsbCA9IHRhcmdldF9yb3cuZmluZCgnLmxhcmdlX21lZGl1bV9hbW91bnQnKTsjfQp7IyAgICAgICAgJCh0aGlzKS50b2dnbGVDbGFzcygnYnRuLWRlZmF1bHQnKS50b2dnbGVDbGFzcygnYnRuLXN1Y2Nlc3MnKTsjfQp7IyAgICAgICAgaWYgKCQodGhpcykuaGFzQ2xhc3MoJ2J0bi1zdWNjZXNzJykpIHsjfQp7IyAgICAgICAgICAgIHRhcmdldF9jZWxsLmNoaWxkcmVuKCdpbnB1dCcpLnZhbCh0YXJnZXRfcm93LmZpbmQoJy5vdXRsaWVyX2xhcmdlX21lZGl1bV9hbW91bnQnKS50ZXh0KCkpOyN9CnsjICAgICAgICB9IGVsc2UgeyN9CnsjICAgICAgICAgICAgdGFyZ2V0X2NlbGwuY2hpbGRyZW4oJ2lucHV0JykudmFsKHRhcmdldF9jZWxsLmF0dHIoJ2luaXRfdmFsdWUnKSk7I30KeyMgICAgICAgIH0jfQp7IyAgICAgICAgaWYgKHRhcmdldF9yb3cuZmluZCgnLmRheV9vZmZfYnRuJykuaGFzQ2xhc3MoJ2J0bi1kYW5nZXInKSAmJiAhdGFyZ2V0X3Jvdy5maW5kKCcuZGF5X29mZl9idG4nKS5oYXNDbGFzcygnZ2V0X2NsaWNrZWQnKSkgeyN9CnsjICAgICAgICAgICAgdGFyZ2V0X3Jvdy5maW5kKCcuZGF5X29mZl9idG4nKS5jbGljaygpOyN9CnsjICAgICAgICB9I30KeyMgICAgICAgICQodGhpcykucmVtb3ZlQ2xhc3MoJ2dldF9jbGlja2VkJyk7I30K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">eyMgICAgICAgICQodGhpcykuYWRkQ2xhc3MoJ2dldF9jbGlja2VkJyk7I30KeyMgICAgICAgIHZhciB0YXJnZXRfcm93ID0gJCh0aGlzKS5jbG9zZXN0KCcuZGFpbHlfYW1vdW50Jyk7I30KeyMgICAgICAgIHZhciB0YXJnZXRfY2VsbCA9IHRhcmdldF9yb3cuZmluZCgnLnNtYWxsX2Ftb3VudCcpOyN9CnsjICAgICAgICAkKHRoaXMpLnRvZ2dsZUNsYXNzKCdidG4tZGVmYXVsdCcpLnRvZ2dsZUNsYXNzKCdidG4tc3VjY2VzcycpOyN9CnsjICAgICAgICBpZiAoJCh0aGlzKS5oYXNDbGFzcygnYnRuLXN1Y2Nlc3MnKSkgeyN9CnsjICAgICAgICAgICAgdGFyZ2V0X2NlbGwuY2hpbGRyZW4oJ2lucHV0JykudmFsKHRhcmdldF9yb3cuZmluZCgnLm91dGxpZXJfc21hbGxfYW1vdW50JykudGV4dCgpKTsjfQp7IyAgICAgICAgfSBlbHNlIHsjfQp7IyAgICAgICAgICAgIHRhcmdldF9jZWxsLmNoaWxkcmVuKCdpbnB1dCcpLnZhbCh0YXJnZXRfY2VsbC5hdHRyKCdpbml0X3ZhbHVlJykpOyN9CnsjICAgICAgICB9I30KeyMgICAgICAgIGlmICh0YXJnZXRfcm93LmZpbmQoJy5kYXlfb2ZmX2J0bicpLmhhc0NsYXNzKCdidG4tZGFuZ2VyJykgJiYgIXRhcmdldF9yb3cuZmluZCgnLmRheV9vZmZfYnRuJykuaGFzQ2xhc3MoJ2dldF9jbGlja2VkJykpIHsjfQp7IyAgICAgICAgICAgIHRhcmdldF9yb3cuZmluZCgnLmRheV9vZmZfYnRuJykuY2xpY2soKTsjfQp7IyAgICAgICAgfSN9CnsjICAgICAgICAkKHRoaXMpLnJlbW92ZUNsYXNzKCdnZXRfY2xpY2tlZCcpOyN9Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0X3Jvdy5maW5kKCcub3V0bGllcl9sYXJnZV9tZWRpdW1fYW1vdW50X2J0bicpLnRvZ2dsZUNsYXNzKCdnZXRfY2xpY2tlZCcpOwo=</text>
+      <register name="8" type="4">
+        <text>this</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0X3Jvdy5maW5kKCcub3V0bGllcl9sYXJnZV9tZWRpdW1fYW1vdW50X2J0bicpLnRvZ2dsZUNsYXNzKCdnZXRfY2xpY2tlZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>休日</last-search>
+      <last-search>fix</last-search>
       <last-offset />
-      <last-pattern>休日</last-pattern>
+      <last-pattern>fix</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -220,9 +222,9 @@
         <entry>本部発注</entry>
         <entry>fix_section</entry>
         <entry>outlier</entry>
-        <entry>fix</entry>
         <entry>_make</entry>
         <entry>休日</entry>
+        <entry>fix</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
