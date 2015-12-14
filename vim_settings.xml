@@ -13,13 +13,13 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py" timestamp="1450067709817" />
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" timestamp="1450081354878">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="353" column="4" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" timestamp="1450083734820">
+        <mark key="'" line="449" column="0" />
+        <mark key="[" line="292" column="120" />
         <mark key="m" line="330" column="18" />
-        <mark key="]" line="353" column="7" />
-        <mark key="." line="353" column="7" />
-        <mark key="^" line="353" column="7" />
+        <mark key="]" line="292" column="120" />
+        <mark key="." line="292" column="120" />
+        <mark key="^" line="293" column="149" />
       </file>
       <file name="$USER_HOME$/repos/temp/python_study/09_reduce.py" timestamp="1427722184742">
         <mark key="]" line="0" column="0" />
@@ -58,6 +58,8 @@
       <jump line="318" column="12" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
       <jump line="417" column="60" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
       <jump line="4" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
+      <jump line="340" column="49" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
+      <jump line="449" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -70,7 +72,7 @@
         <text>error</text>
       </register>
       <register name="0" type="4">
-        <text>{{ demand_form.outlier_large_medium_amount.value }}</text>
+        <text encoding="base64">Jm5ic3A7</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgZGVtYW5kX2Zvcm0ub3V0bGllcl9sYXJnZV9tZWRpdW1fYW1vdW50LnZhbHVlIH19Cg==</text>
