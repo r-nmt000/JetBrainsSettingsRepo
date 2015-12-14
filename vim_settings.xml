@@ -9,8 +9,16 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1450066778805">
+      <file name="/Python Console" timestamp="1450067609139">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py" timestamp="1450067709817" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" timestamp="1450068540662">
+        <mark key="'" line="328" column="73" />
+        <mark key="[" line="50" column="58" />
+        <mark key="]" line="50" column="58" />
+        <mark key="^" line="50" column="58" />
+        <mark key="." line="50" column="58" />
       </file>
       <file name="$USER_HOME$/repos/temp/python_study/09_reduce.py" timestamp="1427722184742">
         <mark key="]" line="0" column="0" />
@@ -25,7 +33,9 @@
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/job_register_forms.py" timestamp="1450066819293" />
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="328" column="73" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
+    </jumps>
     <registers>
       <register name="1" type="4">
         <text>e</text>
@@ -57,6 +67,9 @@
       <register name="9" type="4">
         <text>jkasjflllkjajkjkjkdjfklllljjjkjkjksf</text>
       </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
       <register name="-" type="4">
         <text>e</text>
       </register>
@@ -71,6 +84,7 @@
         <entry>tabprevious</entry>
         <entry>tabnext</entry>
         <entry>tablast | tabnew</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
