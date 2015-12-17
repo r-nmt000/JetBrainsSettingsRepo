@@ -35,11 +35,8 @@
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/urls.py" timestamp="1450310590792">
         <mark key="'" line="76" column="19" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" timestamp="1450315967864">
-        <mark key="'" line="29" column="19" />
-        <mark key="[" line="285" column="0" />
-        <mark key="]" line="285" column="0" />
-        <mark key="." line="285" column="0" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" timestamp="1450321217482">
+        <mark key="'" line="33" column="19" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/staff_base_view.py" timestamp="1450310655403">
         <mark key="'" line="273" column="24" />
@@ -62,12 +59,12 @@
         <mark key="." line="71" column="0" />
         <mark key="^" line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/mst/staff_base_forms.py" timestamp="1450314144749">
-        <mark key="'" line="275" column="4" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="^" line="56" column="18" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/mst/staff_base_forms.py" timestamp="1450321113228">
+        <mark key="'" line="144" column="26" />
+        <mark key="[" line="143" column="29" />
+        <mark key="]" line="143" column="40" />
+        <mark key="^" line="143" column="40" />
+        <mark key="." line="143" column="40" />
       </file>
       <file name="$USER_HOME$/repos/temp/python_study/09_uruu.py" timestamp="1427798825817">
         <mark key="[" line="0" column="1" />
@@ -104,10 +101,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="320" column="45" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
-      <jump line="318" column="12" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
-      <jump line="417" column="60" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
-      <jump line="4" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
       <jump line="340" column="49" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
       <jump line="449" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
       <jump line="296" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
@@ -204,62 +197,64 @@
       <jump line="109" column="14" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/staff_base_detail.html" />
       <jump line="107" column="14" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/staff_base_detail.html" />
       <jump line="110" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/staff_base_detail.html" />
+      <jump line="84" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/mst/staff_base_forms.py" />
+      <jump line="126" column="56" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/mst/staff_base_forms.py" />
+      <jump line="144" column="26" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/mst/staff_base_forms.py" />
+      <jump line="33" column="19" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>target</text>
       </register>
       <register name="/" type="4">
-        <text>chk_capable_dept</text>
+        <text>json</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIDx0cj4KICAgICAgICAgICAgPHRoIGhlaWdodD01MCBjb2xzcGFuPSIxIiBzdHlsZT0idmVydGljYWwtYWxpZ246IG1pZGRsZTsiPuaJtumkiuWvvuixoTwvdGg+CiAgICAgICAgICAgIDx0ZCBoZWlnaHQ9NTAgY29sc3Bhbj0iMSIgc3R5bGU9InZlcnRpY2FsLWFsaWduOiBtaWRkbGU7Ij57eyBzdGFmZmJhc2UuZGVwZW5kZW50X2ZsZyB9fTwvdGQ+CiAgICAgICAgICA8L3RyPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRhcmdldF9zdGFmZmJhc2UuYmlydGhfZGF0ZSA9XAogICAgICAgICMgICAgIHVwZGF0ZWRfc3RhZmZfYmFzZV9mb3JtLmNsZWFuZWRfZGF0YVsnYmlydGhfZGF0ZSddCg==</text>
+      <register name="1" type="4">
+        <text>target</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRhcmdldF9zdGFmZmJhc2UubXNsX2RlcHRfaWQgPVwKICAgICAgICAjICAgICB1cGRhdGVkX3N0YWZmX2Jhc2VfZm9ybS5jbGVhbmVkX2RhdGFbJ21zbF9kZXB0X2lkJ10K</text>
+      <register name="2" type="4">
+        <text>target</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7IyA8dGFibGU+ICN9CiAgICAgICAgeyMgICA8dHI+ICN9CiAgICAgICAgeyMgICAgIDx0ZCB3aWR0aD04MD7nmbvpjLLml6U6PC90ZD4gI30KICAgICAgICB7IyAgICAgPHRkIHdpZHRoPTMwMD57eyB0Yy5jcmVhdGVkX2F0fX08L3RkPiAjfQogICAgICAgIHsjICAgICA8dGQgd2lkdGg9ODA+IOabtOaWsOaXpTo8L3RkPiAjfQogICAgICAgIHsjICAgICA8dGQgd2lkdGg9MzAwPnt7IHRjLnVwZGF0ZWRfYXR9fTwvdGQ+ICN9CiAgICAgICAgeyMgICA8L3RyPiAjfQogICAgICAgIHsjIDwvdGFibGU+ICN9Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgZiBpbiAnbXNsX3N0YWZmX2lkJzoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7IyB7eyBzdGFmZmFiaWxpdHkubGVhZGVyX2ZsZyB9feODquODvOODgOODvCZuYnNwOyZuYnNwOyAjfQogICAgICAgICAgICAgIHsjIHt7IHN0YWZmYWJpbGl0eS5zdWJsZWFkZXJfZmxnIH1944K144OW44Oq44O844OA44O8ICN9Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHRhcmdldF9zdGFmZmJhc2UuYmlydGhfZGF0ZSA9XAogICAgICAgICMgICAgIHVwZGF0ZWRfc3RhZmZfYmFzZV9mb3JtLmNsZWFuZWRfZGF0YVsnYmlydGhfZGF0ZSddCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHRhcmdldF9zdGFmZmJhc2UuYmlydGhfZGF0ZSwKICAgICAgICAgICAgICAgICAgICAgICAgIG5ld19zdGFmZl9iYXNlX05vMVsnYmlydGhfZGF0ZSddKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHRhcmdldF9zdGFmZmJhc2UubXNsX2RlcHRfaWQgPVwKICAgICAgICAjICAgICB1cGRhdGVkX3N0YWZmX2Jhc2VfZm9ybS5jbGVhbmVkX2RhdGFbJ21zbF9kZXB0X2lkJ10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdfc3RhZmZfYmFzZV9ObzFbJ2JpcnRoX2RhdGUnXSA9IGRhdGV0aW1lKDE5OTksIDEsIDIpLmRhdGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICB7IyA8dGFibGU+ICN9CiAgICAgICAgeyMgICA8dHI+ICN9CiAgICAgICAgeyMgICAgIDx0ZCB3aWR0aD04MD7nmbvpjLLml6U6PC90ZD4gI30KICAgICAgICB7IyAgICAgPHRkIHdpZHRoPTMwMD57eyB0Yy5jcmVhdGVkX2F0fX08L3RkPiAjfQogICAgICAgIHsjICAgICA8dGQgd2lkdGg9ODA+IOabtOaWsOaXpTo8L3RkPiAjfQogICAgICAgIHsjICAgICA8dGQgd2lkdGg9MzAwPnt7IHRjLnVwZGF0ZWRfYXR9fTwvdGQ+ICN9CiAgICAgICAgeyMgICA8L3RyPiAjfQogICAgICAgIHsjIDwvdGFibGU+ICN9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdfc3RhZmZfYmFzZV9ObzFbJ2JpcnRoX2RhdGUnXSA9IGRhdGV0aW1lKDE5OTksIDEsIDIpLmRhdGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7IyB7eyBzdGFmZmFiaWxpdHkubGVhZGVyX2ZsZyB9feODquODvOODgOODvCZuYnNwOyZuYnNwOyAjfQogICAgICAgICAgICAgIHsjIHt7IHN0YWZmYWJpbGl0eS5zdWJsZWFkZXJfZmxnIH1944K144OW44Oq44O844OA44O8ICN9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdfc3RhZmZfYmFzZV9ObzFbJ2JpcnRoX2RhdGUnXSA9IGRhdGV0aW1lKDE5OTksIDEsIDIpLmRhdGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHRhcmdldF9zdGFmZmJhc2UuYmlydGhfZGF0ZSwKICAgICAgICAgICAgICAgICAgICAgICAgIG5ld19zdGFmZl9iYXNlX05vMVsnYmlydGhfZGF0ZSddKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHN0YWZmYmFzZV9mb3JtLmluaXRpYWxbJ2JpcnRoX2RhdGUnXSwKICAgICAgICAgICAgICAgICAgICAgICAgIHN0YWZmX2Jhc2VfTm8xWydiaXJ0aF9kYXRlJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXdfc3RhZmZfYmFzZV9ObzFbJ2JpcnRoX2RhdGUnXSA9IGRhdGV0aW1lKDE5OTksIDEsIDIpLmRhdGUoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>chk_capable_dept</last-search>
+      <last-search>json</last-search>
       <last-offset />
-      <last-pattern>chk_capable_dept</last-pattern>
+      <last-pattern>json</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>error</entry>
-        <entry>gly]</entry>
         <entry>gly</entry>
         <entry>glyphi</entry>
         <entry>popover</entry>
@@ -269,7 +264,6 @@
         <entry>model</entry>
         <entry>form_clas</entry>
         <entry>staffbase</entry>
-        <entry>json</entry>
         <entry>sub</entry>
         <entry>leader_subleader</entry>
         <entry>birth</entry>
@@ -278,6 +272,9 @@
         <entry>無効にする</entry>
         <entry>無効</entry>
         <entry>chk_capable_dept</entry>
+        <entry>msl_staff_id</entry>
+        <entry>add_error</entry>
+        <entry>json</entry>
       </history-search>
       <history-cmd>
         <entry>tabprevious</entry>
