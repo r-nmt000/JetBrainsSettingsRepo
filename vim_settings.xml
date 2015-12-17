@@ -45,13 +45,13 @@
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/settings.py" timestamp="1450314463941">
         <mark key="'" line="117" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/staff_base_detail.html" timestamp="1450329902017">
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/staff_base_detail.html" timestamp="1450340781384">
         <mark key="'" line="13" column="48" />
         <mark key="j" line="148" column="106" />
-        <mark key="[" line="149" column="105" />
-        <mark key="]" line="149" column="105" />
-        <mark key="^" line="149" column="105" />
-        <mark key="." line="149" column="105" />
+        <mark key="[" line="65" column="23" />
+        <mark key="]" line="65" column="26" />
+        <mark key="^" line="65" column="26" />
+        <mark key="." line="65" column="26" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register.py" timestamp="1450076984229">
         <mark key="'" line="223" column="32" />
@@ -208,45 +208,40 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>komono_flg</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>id_nyuka_flg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGFiaWxpdHkuc2VjdGlvbl9pZC5uYW1lID09IHN0YWZmLmNvbnN0LktPTU9OT19TRUNUSU9OX05BTUU6CiAgICAgICAgICAgICAgICAgICAga29tb25vX2ZsZyA9IFRydWUK</text>
+        <text encoding="base64">ICAgICAgIHppbXUucmVhZE9ubHkgPSBmYWxzZTsKICAgICAgIHppbXUuZGlzYWJsZWQgPSBmYWxzZTsKICAgICAgIHN5dWtrYS5yZWFkT25seSA9IGZhbHNlOwogICAgICAgc3l1a2thLmRpc2FibGVkID0gZmFsc2U7CiAgICAgICBjb2NrLnJlYWRPbmx5ID0gZmFsc2U7CiAgICAgICBjb2NrLmRpc2FibGVkID0gZmFsc2U7CiAgICAgICBrYW5yaS5yZWFkT25seSA9IGZhbHNlOwogICAgICAga2FucmkuZGlzYWJsZWQgPSBmYWxzZTsK</text>
       </register>
       <register name="1" type="4">
-        <text>komono_flg</text>
+        <text>false</text>
       </register>
       <register name="2" type="4">
-        <text>komono_flg</text>
+        <text>false</text>
       </register>
       <register name="3" type="4">
-        <text>komono_flg</text>
+        <text>komono</text>
       </register>
       <register name="4" type="4">
-        <text>komono_flg</text>
+        <text>komono</text>
       </register>
-      <register name="5" type="8">
-        <text>{
-{
-{
-{
-{
-{</text>
+      <register name="5" type="4">
+        <text>false</text>
       </register>
       <register name="6" type="4">
-        <text>komono_flg</text>
+        <text>false</text>
       </register>
       <register name="7" type="4">
-        <text>target</text>
+        <text>komono</text>
       </register>
       <register name="8" type="4">
-        <text>target</text>
+        <text>false</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgZiBpbiAnbXNsX3N0YWZmX2lkJzoK</text>
+      <register name="9" type="4">
+        <text>false</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
