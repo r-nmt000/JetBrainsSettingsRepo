@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="65b8fb87-cb44-4059-974a-0fa0719a61bc" name="cloudstock" url="http://192.168.99.139">
+        <fileTransfer host="192.168.99.139" port="22" rootFolder="/home/ryusuke.nomoto" accessType="SFTP" password="dfe8dfe7dff2dfe0dfc9dfdbdf9ddfc7" username="ryusuke.nomoto">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
