@@ -9,12 +9,12 @@
         <mark key="." line="22" column="3" />
         <mark key="^" line="22" column="3" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/section_service.py" timestamp="1450736716850">
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/section_service.py" timestamp="1450741592105">
         <mark key="'" line="65" column="11" />
-        <mark key="[" line="134" column="123" />
-        <mark key="]" line="134" column="122" />
-        <mark key="." line="134" column="122" />
-        <mark key="^" line="134" column="122" />
+        <mark key="[" line="372" column="17" />
+        <mark key="]" line="373" column="42" />
+        <mark key="." line="373" column="42" />
+        <mark key="^" line="373" column="42" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/environment.py" timestamp="1450734490457">
         <mark key="[" line="6" column="21" />
@@ -113,24 +113,18 @@
         <mark key="." line="61" column="104" />
         <mark key="^" line="61" column="104" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/section_edit.html" timestamp="1450688443174">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="139" column="49" />
-        <mark key="]" line="139" column="52" />
-        <mark key="." line="139" column="52" />
-        <mark key="^" line="139" column="52" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/section_edit.html" timestamp="1450740298306">
+        <mark key="'" line="84" column="12" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/repos/TS/training/django_portal/apps/blogs/views.py" timestamp="1450311093590">
         <mark key="'" line="34" column="4" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="83" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/staff_base_detail.html" />
-      <jump line="144" column="73" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/staff_base_detail.html" />
-      <jump line="130" column="17" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/staff_base_detail.html" />
-      <jump line="123" column="73" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/staff_base_detail.html" />
-      <jump line="76" column="36" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/staff_base_service.py" />
-      <jump line="117" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/settings.py" />
       <jump line="108" column="37" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" />
       <jump line="48" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" />
       <jump line="88" column="36" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" />
@@ -225,62 +219,66 @@
       <jump line="106" column="21" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/section_detail.html" />
       <jump line="72" column="10" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/section_detail.html" />
       <jump line="226" column="22" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/section_detail.html" />
+      <jump line="133" column="52" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/section_edit.html" />
+      <jump line="177" column="8" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/section_edit.html" />
+      <jump line="79" column="9" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/section_edit.html" />
+      <jump line="81" column="12" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/section_edit.html" />
+      <jump line="83" column="12" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/section_edit.html" />
+      <jump line="84" column="12" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/section_edit.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>msladmin</text>
+        <text>section</text>
       </register>
       <register name="/" type="4">
-        <text>context</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAncmVxX2xlYWRlcl9zdWJsZWFkZXJfbW9uZGF5X2ZsZyc6IHJlcXVlc3QuUE9TVFtzZWN0aW9uX2JlZm9yZS5zZWN0aW9uX2lkICsgJ3JlcV9sZWFkZXJfc3VibGVhZGVyX21vbmRheV9mbGcnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAncmVxX2xlYWRlcl9zdWJsZWFkZXJfdHVlc2RheV9mbGcnOiByZXF1ZXN0LlBPU1Rbc2VjdGlvbl9iZWZvcmUuc2VjdGlvbl9pZCArICdyZXFfbGVhZGVyX3N1YmxlYWRlcl90dWVzZGF5X2ZsZyddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdyZXFfbGVhZGVyX3N1YmxlYWRlcl93ZWRuZXNkYXlfZmxnJzogcmVxdWVzdC5QT1NUW3NlY3Rpb25fYmVmb3JlLnNlY3Rpb25faWQgKyAncmVxX2xlYWRlcl9zdWJsZWFkZXJfd2VkbmVzZGF5X2ZsZyddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdyZXFfbGVhZGVyX3N1YmxlYWRlcl90aHVyc2RheV9mbGcnOiByZXF1ZXN0LlBPU1Rbc2VjdGlvbl9iZWZvcmUuc2VjdGlvbl9pZCArICdyZXFfbGVhZGVyX3N1YmxlYWRlcl90aHVyc2RheV9mbGcnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAncmVxX2xlYWRlcl9zdWJsZWFkZXJfZnJpZGF5X2ZsZyc6IHJlcXVlc3QuUE9TVFtzZWN0aW9uX2JlZm9yZS5zZWN0aW9uX2lkICsgJ3JlcV9sZWFkZXJfc3VibGVhZGVyX2ZyaWRheV9mbGcnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAncmVxX2xlYWRlcl9zdWJsZWFkZXJfc2F0dXJkYXlfZmxnJzogcmVxdWVzdC5QT1NUW3NlY3Rpb25fYmVmb3JlLnNlY3Rpb25faWQgKyAncmVxX2xlYWRlcl9zdWJsZWFkZXJfc2F0dXJkYXlfZmxnJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3JlcV9sZWFkZXJfc3VibGVhZGVyX3N1bmRheV9mbGcnOiByZXF1ZXN0LlBPU1Rbc2VjdGlvbl9iZWZvcmUuc2VjdGlvbl9pZCArICdyZXFfbGVhZGVyX3N1YmxlYWRlcl9zdW5kYXlfZmxnJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3JlcV9sZWFkZXJfc3VibGVhZGVyX2hvbGlkYXlfZmxnJzogcmVxdWVzdC5QT1NUW3NlY3Rpb25fYmVmb3JlLnNlY3Rpb25faWQgKyAncmVxX2xlYWRlcl9zdWJsZWFkZXJfaG9saWRheV9mbGcnXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoZWNrX2xlYWRlcl9zdWJsZWFkZXJfcmVxX2ZsZyA9IEZhbHNlCiAgICAgICAgICAgICAgICBpZiByZXF1ZXN0LlBPU1QuaGFzX2tleShzZWN0aW9uX2JlZm9yZS5zZWN0aW9uX2lkICsgJy1sZWFkZXJfc3VibGVhZGVyX3JlcV9mbGcnKToKICAgICAgICAgICAgICAgICAgICBjaGVja19sZWFkZXJfc3VibGVhZGVyX3JlcV9mbGcgPSBUcnVlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbGVhZGVyX3N1YmxlYWRlcl9yZXFfZmxnJzogY2hlY2tfbGVhZGVyX3N1YmxlYWRlcl9yZXFfZmxnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIGlmIHJlcXVlc3QuUE9TVC5oYXNfa2V5KHNlY3Rpb25fYmVmb3JlLnNlY3Rpb25faWQgKyAnLXJlcV9sZWFkZXJfc3VibGVhZGVyX21vbmRheV9mbGcnKToKICAgICAgICAgICAgICAgICAgICAjICAgICByZXFfbGVhZGVyX3N1YmxlYWRlcl9tb25kYXlfZmxnID0gVHJ1ZQogICAgICAgICAgICAgICAgICAgICMgZWxzZToKICAgICAgICAgICAgICAgICAgICAjICAgICByZXFfbGVhZGVyX3N1YmxlYWRlcl9tb25kYXlfZmxnID0gRmFsc2UKICAgICAgICAgICAgICAgICAgICAjIGlmIHJlcXVlc3QuUE9TVC5oYXNfa2V5KHNlY3Rpb25fYmVmb3JlLnNlY3Rpb25faWQgKyAnLXJlcV9sZWFkZXJfc3VibGVhZGVyX3R1ZXNkYXlfZmxnJyk6CiAgICAgICAgICAgICAgICAgICAgIyAgICAgcmVxX2xlYWRlcl9zdWJsZWFkZXJfdHVlc2RheV9mbGcgPSBUcnVlCiAgICAgICAgICAgICAgICAgICAgIyBlbHNlOgogICAgICAgICAgICAgICAgICAgICMgICAgIHJlcV9sZWFkZXJfc3VibGVhZGVyX3R1ZXNkYXlfZmxnID0gRmFsc2UKICAgICAgICAgICAgICAgICAgICAjIGlmIHJlcXVlc3QuUE9TVC5oYXNfa2V5KHNlY3Rpb25fYmVmb3JlLnNlY3Rpb25faWQgKyAnLXJlcV9sZWFkZXJfc3VibGVhZGVyX3dlZG5lc2RheV9mbGcnKToKICAgICAgICAgICAgICAgICAgICAjICAgICByZXFfbGVhZGVyX3N1YmxlYWRlcl93ZWRuZXNkYXlfZmxnID0gVHJ1ZQogICAgICAgICAgICAgICAgICAgICMgZWxzZToKICAgICAgICAgICAgICAgICAgICAjICAgICByZXFfbGVhZGVyX3N1YmxlYWRlcl93ZWRuZXNkYXlfZmxnID0gRmFsc2UKICAgICAgICAgICAgICAgICAgICAjIGlmIHJlcXVlc3QuUE9TVC5oYXNfa2V5KHNlY3Rpb25fYmVmb3JlLnNlY3Rpb25faWQgKyAnLXJlcV9sZWFkZXJfc3VibGVhZGVyX3RodXJzZGF5X2ZsZycpOgogICAgICAgICAgICAgICAgICAgICMgICAgIHJlcV9sZWFkZXJfc3VibGVhZGVyX3RodXJzZGF5X2ZsZyA9IFRydWUKICAgICAgICAgICAgICAgICAgICAjIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgIyAgICAgcmVxX2xlYWRlcl9zdWJsZWFkZXJfdGh1cnNkYXlfZmxnID0gRmFsc2UKICAgICAgICAgICAgICAgICAgICAjIGlmIHJlcXVlc3QuUE9TVC5oYXNfa2V5KHNlY3Rpb25fYmVmb3JlLnNlY3Rpb25faWQgKyAnLXJlcV9sZWFkZXJfc3VibGVhZGVyX2ZyaWRheV9mbGcnKToKICAgICAgICAgICAgICAgICAgICAjICAgICByZXFfbGVhZGVyX3N1YmxlYWRlcl9mcmlkYXlfZmxnID0gVHJ1ZQogICAgICAgICAgICAgICAgICAgICMgZWxzZToKICAgICAgICAgICAgICAgICAgICAjICAgICByZXFfbGVhZGVyX3N1YmxlYWRlcl9mcmlkYXlfZmxnID0gRmFsc2UKICAgICAgICAgICAgICAgICAgICAjIGlmIHJlcXVlc3QuUE9TVC5oYXNfa2V5KHNlY3Rpb25fYmVmb3JlLnNlY3Rpb25faWQgKyAnLXJlcV9sZWFkZXJfc3VibGVhZGVyX3NhdHVyZGF5X2ZsZycpOgogICAgICAgICAgICAgICAgICAgICMgICAgIHJlcV9sZWFkZXJfc3VibGVhZGVyX3NhdHVyZGF5X2ZsZyA9IFRydWUKICAgICAgICAgICAgICAgICAgICAjIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgIyAgICAgcmVxX2xlYWRlcl9zdWJsZWFkZXJfc2F0dXJkYXlfZmxnID0gRmFsc2UKICAgICAgICAgICAgICAgICAgICAjIGlmIHJlcXVlc3QuUE9TVC5oYXNfa2V5KHNlY3Rpb25fYmVmb3JlLnNlY3Rpb25faWQgKyAnLXJlcV9sZWFkZXJfc3VibGVhZGVyX3N1bmRheV9mbGcnKToKICAgICAgICAgICAgICAgICAgICAjICAgICByZXFfbGVhZGVyX3N1YmxlYWRlcl9zdW5kYXlfZmxnID0gVHJ1ZQogICAgICAgICAgICAgICAgICAgICMgZWxzZToKICAgICAgICAgICAgICAgICAgICAjICAgICByZXFfbGVhZGVyX3N1YmxlYWRlcl9zdW5kYXlfZmxnID0gRmFsc2UKICAgICAgICAgICAgICAgICAgICAjIGlmIHJlcXVlc3QuUE9TVC5oYXNfa2V5KHNlY3Rpb25fYmVmb3JlLnNlY3Rpb25faWQgKyAnLXJlcV9sZWFkZXJfc3VibGVhZGVyX2hvbGlkYXlfZmxnJyk6CiAgICAgICAgICAgICAgICAgICAgIyAgICAgcmVxX2xlYWRlcl9zdWJsZWFkZXJfaG9saWRheV9mbGcgPSBUcnVlCiAgICAgICAgICAgICAgICAgICAgIyBlbHNlOgogICAgICAgICAgICAgICAgICAgICMgICAgIHJlcV9sZWFkZXJfc3VibGVhZGVyX2hvbGlkYXlfZmxnID0gRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAncmVxX2xlYWRlcl9zdWJsZWFkZXJfbW9uZGF5X2ZsZyc6IHNlY3Rpb24ucmVxX2xlYWRlcl9zdWJsZWFkZXJfbW9uZGF5X2ZsZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAncmVxX2xlYWRlcl9zdWJsZWFkZXJfdHVlc2RheV9mbGcnOiBzZWN0aW9uLnJlcV9sZWFkZXJfc3VibGVhZGVyX3R1ZXNkYXlfZmxnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdyZXFfbGVhZGVyX3N1YmxlYWRlcl93ZWRuZXNkYXlfZmxnJzogc2VjdGlvbi5yZXFfbGVhZGVyX3N1YmxlYWRlcl93ZWRuZXNkYXlfZmxnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdyZXFfbGVhZGVyX3N1YmxlYWRlcl90aHVyc2RheV9mbGcnOiBzZWN0aW9uLnJlcV9sZWFkZXJfc3VibGVhZGVyX3RodXJzZGF5X2ZsZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAncmVxX2xlYWRlcl9zdWJsZWFkZXJfZnJpZGF5X2ZsZyc6IHNlY3Rpb24ucmVxX2xlYWRlcl9zdWJsZWFkZXJfZnJpZGF5X2ZsZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAncmVxX2xlYWRlcl9zdWJsZWFkZXJfc2F0dXJkYXlfZmxnJzogc2VjdGlvbi5yZXFfbGVhZGVyX3N1YmxlYWRlcl9zYXR1cmRheV9mbGcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3JlcV9sZWFkZXJfc3VibGVhZGVyX3N1bmRheV9mbGcnOiBzZWN0aW9uLnJlcV9sZWFkZXJfc3VibGVhZGVyX3N1bmRheV9mbGcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3JlcV9sZWFkZXJfc3VibGVhZGVyX2hvbGlkYXlfZmxnJzogc2VjdGlvbi5yZXFfbGVhZGVyX3N1YmxlYWRlcl9ob2xpZGF5X2ZsZywK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uZm9ybXMubW9kZWxzIGltcG9ydCBtb2RlbGZvcm1zZXRfZmFjdG9yeSwgbW9kZWxmb3JtX2ZhY3RvcnkK</text>
+      <register name="4" type="4">
+        <text>section</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28gaW1wb3J0IGZvcm1zCg==</text>
+      <register name="5" type="4">
+        <text>section</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uZm9ybXMubW9kZWxzIGltcG9ydCBpbmxpbmVmb3Jtc2V0X2ZhY3RvcnkK</text>
+      <register name="6" type="4">
+        <text>section</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uZGIubW9kZWxzIGltcG9ydCBRCg==</text>
+      <register name="7" type="4">
+        <text>section</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udmlld3MuZ2VuZXJpYyBpbXBvcnQgVmlldywgTGlzdFZpZXcK</text>
+      <register name="8" type="4">
+        <text>section</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBib290c3RyYXAzX2RhdGV0aW1lLndpZGdldHMgaW1wb3J0IERhdGVUaW1lUGlja2VyCg==</text>
+      <register name="9" type="4">
+        <text>section</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>context</last-search>
+      <last-search encoding="base64">PA==</last-search>
       <last-offset />
-      <last-pattern>context</last-pattern>
+      <last-pattern encoding="base64">PA==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>msl_dept</entry>
-        <entry>無効にする</entry>
         <entry>無効</entry>
         <entry>msl_staff_id</entry>
         <entry>add_error</entry>
@@ -299,6 +297,8 @@
         <entry>stripe</entry>
         <entry>リーダー</entry>
         <entry>context</entry>
+        <entry>table</entry>
+        <entry encoding="base64">PA==</entry>
       </history-search>
       <history-cmd>
         <entry>tabprevious</entry>
