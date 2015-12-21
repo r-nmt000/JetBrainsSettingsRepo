@@ -2,6 +2,26 @@
   <component name="CodeStyleSchemes">
     <option name="CURRENT_SCHEME_NAME" value="Default" />
   </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="/usr/local/bin/python" value="false" />
+        <entry key="ssh://ryusuke.nomoto@192.168.99.139:22/home/ryusuke.nomoto/.virtualenvs/tmp/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="/usr/local/bin/python" value="false" />
+        <entry key="ssh://ryusuke.nomoto@192.168.99.139:22/home/ryusuke.nomoto/.virtualenvs/tmp/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_ATTEST">
+      <map>
+        <entry key="/usr/local/bin/python" value="false" />
+        <entry key="ssh://ryusuke.nomoto@192.168.99.139:22/home/ryusuke.nomoto/.virtualenvs/tmp/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
     <recent_templates>
       <option name="RECENT_TEMPLATES">

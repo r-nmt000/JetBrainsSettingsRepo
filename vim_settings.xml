@@ -65,8 +65,8 @@
         <mark key="." line="71" column="0" />
         <mark key="^" line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/mst/staff_base_forms.py" timestamp="1450326444649">
-        <mark key="'" line="144" column="26" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/mst/staff_base_forms.py" timestamp="1450663297246">
+        <mark key="'" line="288" column="34" />
       </file>
       <file name="$USER_HOME$/repos/temp/python_study/09_uruu.py" timestamp="1427798825817">
         <mark key="[" line="0" column="1" />
@@ -104,13 +104,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="270" column="18" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/staff_base_view.py" />
-      <jump line="273" column="24" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/staff_base_view.py" />
-      <jump line="36" column="27" filename="$USER_HOME$/repos/TS/training/django_portal/apps/blogs/views.py" />
-      <jump line="50" column="4" filename="$USER_HOME$/repos/TS/training/django_portal/apps/blogs/views.py" />
-      <jump line="34" column="4" filename="$USER_HOME$/repos/TS/training/django_portal/apps/blogs/views.py" />
-      <jump line="98" column="66" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/staff_base_detail.html" />
-      <jump line="113" column="73" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/staff_base_detail.html" />
       <jump line="117" column="73" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/staff_base_detail.html" />
       <jump line="203" column="80" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/staff_base_detail.html" />
       <jump line="180" column="73" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/staff_base_detail.html" />
@@ -123,7 +116,6 @@
       <jump line="130" column="17" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/staff_base_detail.html" />
       <jump line="123" column="73" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/staff_base_detail.html" />
       <jump line="76" column="36" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/staff_base_service.py" />
-      <jump line="275" column="4" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/mst/staff_base_forms.py" />
       <jump line="117" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/settings.py" />
       <jump line="108" column="37" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" />
       <jump line="48" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" />
@@ -204,6 +196,14 @@
       <jump line="218" column="36" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/staff_base_service.py" />
       <jump line="137" column="16" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/staff_base_service.py" />
       <jump line="130" column="44" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/staff_base_service.py" />
+      <jump line="146" column="4" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/mst/staff_base_forms.py" />
+      <jump line="275" column="34" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/mst/staff_base_forms.py" />
+      <jump line="277" column="33" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/mst/staff_base_forms.py" />
+      <jump line="279" column="29" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/mst/staff_base_forms.py" />
+      <jump line="281" column="34" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/mst/staff_base_forms.py" />
+      <jump line="283" column="41" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/mst/staff_base_forms.py" />
+      <jump line="287" column="34" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/mst/staff_base_forms.py" />
+      <jump line="288" column="34" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/mst/staff_base_forms.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -213,7 +213,7 @@
         <text>daisho</text>
       </register>
       <register name="/" type="4">
-        <text>updated_staff_ability</text>
+        <text>widget.attrs['class']</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgJ2tvbW9ub19mbGcnOiBzdGFmZi5jb25zdC5DT0RFX0tPTU9OTywK</text>
@@ -250,17 +250,14 @@
       </register>
     </registers>
     <search>
-      <last-search>updated_staff_ability</last-search>
+      <last-search>widget.attrs['class']</last-search>
       <last-offset />
-      <last-pattern>updated_staff_ability</last-pattern>
+      <last-pattern>widget.attrs['class']</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>model</entry>
-        <entry>form_clas</entry>
-        <entry>staffbase</entry>
         <entry>sub</entry>
         <entry>leader_subleader</entry>
         <entry>birth</entry>
@@ -278,6 +275,9 @@
         <entry>clean</entry>
         <entry>update_staff</entry>
         <entry>updated_staff_ability</entry>
+        <entry>widget</entry>
+        <entry>widget.attrs.class</entry>
+        <entry>widget.attrs['class']</entry>
       </history-search>
       <history-cmd>
         <entry>tabprevious</entry>
