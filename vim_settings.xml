@@ -10,7 +10,6 @@
         <mark key="^" line="22" column="3" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/section_service.py" timestamp="1450764440562">
-        <mark key="'" line="310" column="8" />
         <mark key="[" line="134" column="58" />
         <mark key="]" line="134" column="58" />
         <mark key="^" line="134" column="40" />
@@ -69,14 +68,11 @@
         <mark key="." line="235" column="30" />
         <mark key="^" line="235" column="30" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_section_service.py" timestamp="1450766057963">
-        <mark key="[" line="25" column="32" />
-        <mark key="]" line="26" column="20" />
-        <mark key="^" line="26" column="20" />
-        <mark key="." line="26" column="20" />
-      </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/staff_base_service.py" timestamp="1450514517041">
-        <mark key="'" line="130" column="44" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_section_service.py" timestamp="1450768842605">
+        <mark key="[" line="66" column="69" />
+        <mark key="]" line="66" column="69" />
+        <mark key="." line="66" column="69" />
+        <mark key="^" line="66" column="76" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_section_form.py" timestamp="1450765136485">
         <mark key="'" line="34" column="16" />
@@ -135,8 +131,12 @@
         <mark key="." line="127" column="0" />
         <mark key="^" line="32" column="7" />
       </file>
-      <file name="$USER_HOME$/repos/TS/training/django_portal/apps/blogs/views.py" timestamp="1450311093590">
+      <file name="$USER_HOME$/repos/TS/training/django_portal/apps/blogs/views.py" timestamp="1450767952152">
         <mark key="'" line="34" column="4" />
+        <mark key="[" line="17" column="82" />
+        <mark key="]" line="17" column="89" />
+        <mark key="." line="17" column="89" />
+        <mark key="^" line="17" column="89" />
       </file>
       <file name="$USER_HOME$/repos/TS/training/blog/tests/test_forms.py" timestamp="1450754544388">
         <mark key="[" line="25" column="0" />
@@ -250,40 +250,40 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>day_of_the_week</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRheV9vZl90aGVfd2VlayA9ICgnbW9uZGF5JywgJ3R1ZXNkYXknLCAnd2VkbmVzZGF5JywgJ3RodXJzZGF5JywgJ2ZyaWRheScsICdzYXR1cmRheScsICdzdW5kYXknLCAnaG9saWRheScpCg==</text>
+        <text encoding="base64">ZnJvbSBzdGFmZi5tb2RlbHMgaW1wb3J0IFNlY3Rpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text>a</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgc2VydmljZSA9IFNlY3Rpb25TZXJ2aWNlKCkK</text>
+        <text encoding="base64">ZnJvbSBzdGFmZi5tb2RlbHMgaW1wb3J0IFNlY3Rpb24KZnJvbSBzdGFmZi5tb2RlbHMgaW1wb3J0IFNlY3Rpb24K</text>
       </register>
-      <register name="3" type="4">
-        <text>day_of_the_week</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobmV3X3NlY3Rpb24ucmVxX3N0YWZmc19tb25kYXksIDIpCiAgICAgICBzZWxmLmFzc2VydEVxdWFsKG5ld19zZWN0aW9uLnJlcV9zdGFmZnNfbW9uZGF5LCAyKQogICAgICAgc2VsZi5hc3NlcnRFcXVhbChuZXdfc2VjdGlvbi5yZXFfc3RhZmZzX21vbmRheSwgMikKICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobmV3X3NlY3Rpb24ucmVxX3N0YWZmc19tb25kYXksIDIpCiAgICAgICBzZWxmLmFzc2VydEVxdWFsKG5ld19zZWN0aW9uLnJlcV9zdGFmZnNfbW9uZGF5LCAyKQogICAgICAgc2VsZi5hc3NlcnRFcXVhbChuZXdfc2VjdGlvbi5yZXFfc3RhZmZzX21vbmRheSwgMikKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRheV9vZl90aGVfd2VlayA9ICgnbW9uZGF5JywgJ3R1ZXNkYXknLCAnd2VkbmVzZGF5JywgJ3RodXJzZGF5JywgJ2ZyaWRheScsICdzYXR1cmRheScsICdzdW5kYXknLCAnaG9saWRheScpCg==</text>
+        <text encoding="base64">ICAgICAgIG9sZF9zZWN0aW9uLnJlcV9zdGFmZnNfaG9saWRheSA9IDEK</text>
       </register>
       <register name="5" type="4">
-        <text>day_of_the_week</text>
+        <text>req_leader_subleader_holiday_flg</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28gaW1wb3J0IGZvcm1zCg==</text>
+        <text encoding="base64">ICAgICAgIHJlcXVlc3QuUE9TVFsncmVxX2xlYWRlcl9zdWJsZWFkZXJfaG9saWRheV9mbGcnXSA9ICdUcnVlJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGxlZ2FsX3BhcmFtc19hcnJheSA9IFt7J3JlcV9zdGFmZnNfbW9uZGF5JzogJzAnLCAncmVxX3N0YWZmc190dWVzZGF5JzogJzAnLCAncmVxX3N0YWZmc193ZWRuZXNkYXknOiAnMCcgXAogICAgICAgICMgICAgICAgICAgICAgICAgICAgICAgICAncmVxX3N0YWZmc190aHVyc2RheSc6IH0sCiAgICAgICAgIyAgICAgICAgICAgICAgICAgeyd0aXRsZSc6ICfnqbrjga7mnKzmlofjga/oqLHlj68nLCAnY29udGVudCc6ICcnfSwKICAgICAgICAjICAgICAgICAgICAgICAgICB7J3RpdGxlJzogJzUw5paH5a2X5Lul5LiL44Gu44K/44Kk44OI44Or44Gv6Kix5Y+v44CCLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nLCAnY29udGVudCc6ICfjg4bjgrnjg4jjgrPjg7Pjg4bjg7Pjg4QnfV0KICAgICAgICAjIGZvciBwYXJhbXMgaW4gbGVnYWxfcGFyYW1zX2FycmF5OgogICAgICAgICMgICAgIGZvcm0gPSBTZWN0aW9uRm9ybShwYXJhbXMsIGluc3RhbmNlPXNlbGYuZW50cnkpCiAgICAgICAgIyAgICAgc2VsZi5hc3NlcnRUcnVlKGZvcm0uaXNfdmFsaWQoKSkK</text>
+        <text encoding="base64">ICAgICAgIHJlcXVlc3QuUE9TVFsncmVxX3N0YWZmc19tb25kYXknXSA9IDIK</text>
       </register>
-      <register name="8" type="4">
-        <text>forms</text>
+      <register name="8" type="2">
+        <text encoding="base64">ZnJvbSBzdGFmZi5mb3Jtcy5zZWN0aW9uX2Zvcm1zIGltcG9ydCBTZWN0aW9uRm9ybQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>ValidationError</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgIG9sZF9zZWN0aW9uLiA9ICfkuovli5knCiAgICAgICBvbGRfc2VjdGlvbi4gPSAn5LqL5YuZJwogICAgICAgb2xkX3NlY3Rpb24uID0gJ+S6i+WLmScKICAgICAgIG9sZF9zZWN0aW9uLiA9ICfkuovli5knCiAgICAgICBvbGRfc2VjdGlvbi4gPSAn5LqL5YuZJwogICAgICAgb2xkX3NlY3Rpb24uID0gJ+S6i+WLmScK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
