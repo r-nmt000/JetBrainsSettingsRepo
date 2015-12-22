@@ -104,20 +104,16 @@
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/urls.py" timestamp="1450310590792">
         <mark key="'" line="76" column="19" />
       </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" timestamp="1450760190432">
+        <mark key="'" line="237" column="30" />
+        <mark key="k" line="60" column="1" />
+      </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/staff_base_view.py" timestamp="1450348804485">
         <mark key="'" line="288" column="15" />
         <mark key="[" line="273" column="90" />
         <mark key="]" line="274" column="7" />
         <mark key="^" line="274" column="7" />
         <mark key="." line="274" column="7" />
-      </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/staff_base_detail.html" timestamp="1450403922618">
-        <mark key="'" line="13" column="48" />
-        <mark key="j" line="148" column="106" />
-        <mark key="[" line="80" column="25" />
-        <mark key="]" line="80" column="29" />
-        <mark key="^" line="80" column="29" />
-        <mark key="." line="80" column="29" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_attendance_service.py" timestamp="1450758741288">
         <mark key="'" line="253" column="20" />
@@ -158,9 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="5" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
-      <jump line="75" column="5" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
-      <jump line="55" column="7" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
       <jump line="76" column="7" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
       <jump line="97" column="7" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
       <jump line="118" column="7" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
@@ -258,6 +251,9 @@
       <jump line="102" column="35" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_section_form.py" />
       <jump line="253" column="20" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_attendance_service.py" />
       <jump line="310" column="8" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/section_service.py" />
+      <jump line="211" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" />
+      <jump line="234" column="13" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" />
+      <jump line="237" column="30" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -267,7 +263,7 @@
         <text>forms</text>
       </register>
       <register name="/" type="4">
-        <text>post_edit</text>
+        <text>post</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBkamFuZ28udGVzdCBpbXBvcnQgVGVzdENhc2UKZnJvbSBzdGFmZi5mb3Jtcy5zZWN0aW9uX2Zvcm1zIGltcG9ydCBTZWN0aW9uRm9ybQpmcm9tIHN0YWZmLm1vZGVscyBpbXBvcnQgU2VjdGlvbgo=</text>
@@ -304,15 +300,14 @@
       </register>
     </registers>
     <search>
-      <last-search>post_edit</last-search>
+      <last-search>post</last-search>
       <last-offset />
-      <last-pattern>post_edit</last-pattern>
+      <last-pattern>post</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>chk_capable_dept</entry>
         <entry>id_nyuka_flg</entry>
         <entry>status</entry>
         <entry>update_staff</entry>
@@ -332,6 +327,7 @@
         <entry>section</entry>
         <entry>service</entry>
         <entry>post_edit</entry>
+        <entry>post</entry>
       </history-search>
       <history-cmd>
         <entry>tabprevious</entry>
