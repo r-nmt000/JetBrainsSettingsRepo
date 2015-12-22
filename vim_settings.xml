@@ -9,15 +9,12 @@
         <mark key="." line="22" column="3" />
         <mark key="^" line="22" column="3" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/section_service.py" timestamp="1450764204578">
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/section_service.py" timestamp="1450764440562">
         <mark key="'" line="310" column="8" />
-        <mark key="[" line="153" column="16" />
-        <mark key="]" line="153" column="16" />
-        <mark key="." line="153" column="16" />
-        <mark key="^" line="153" column="16" />
-      </file>
-      <file name="/Python Console" timestamp="1450067609139">
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="134" column="58" />
+        <mark key="]" line="134" column="58" />
+        <mark key="^" line="134" column="40" />
+        <mark key="." line="134" column="58" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/environment.py" timestamp="1450734490457">
         <mark key="[" line="6" column="21" />
@@ -52,12 +49,6 @@
         <mark key="]" line="123" column="72" />
         <mark key="." line="120" column="1413" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_section.py" timestamp="1450752038698">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="416" column="28" />
-      </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/tc_detail.html" timestamp="1450174877640">
         <mark key="[" line="228" column="27" />
         <mark key="]" line="228" column="28" />
@@ -78,18 +69,17 @@
         <mark key="." line="235" column="30" />
         <mark key="^" line="235" column="30" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_section_service.py" timestamp="1450758888122">
-        <mark key="[" line="25" column="3" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_section_service.py" timestamp="1450766057963">
+        <mark key="[" line="25" column="32" />
+        <mark key="]" line="26" column="20" />
+        <mark key="^" line="26" column="20" />
+        <mark key="." line="26" column="20" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/staff_base_service.py" timestamp="1450514517041">
         <mark key="'" line="130" column="44" />
-        <mark key="[" line="283" column="38" />
-        <mark key="]" line="284" column="34" />
-        <mark key="." line="284" column="34" />
-        <mark key="^" line="284" column="34" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_section_form.py" timestamp="1450758726118">
-        <mark key="'" line="95" column="35" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_section_form.py" timestamp="1450765136485">
+        <mark key="'" line="34" column="16" />
         <mark key="[" line="16" column="0" />
         <mark key="]" line="18" column="31" />
         <mark key="^" line="109" column="66" />
@@ -104,8 +94,8 @@
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/urls.py" timestamp="1450310590792">
         <mark key="'" line="76" column="19" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" timestamp="1450760190432">
-        <mark key="'" line="237" column="30" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" timestamp="1450764744183">
+        <mark key="'" line="126" column="46" />
         <mark key="k" line="60" column="1" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/staff_base_view.py" timestamp="1450348804485">
@@ -154,8 +144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="7" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
-      <jump line="97" column="7" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
       <jump line="118" column="7" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
       <jump line="139" column="7" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
       <jump line="160" column="7" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
@@ -254,46 +242,48 @@
       <jump line="211" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" />
       <jump line="234" column="13" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" />
       <jump line="237" column="30" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" />
+      <jump line="126" column="46" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" />
+      <jump line="34" column="16" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_section_form.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>forms</text>
+        <text>day_of_the_week</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udGVzdCBpbXBvcnQgVGVzdENhc2UKZnJvbSBzdGFmZi5mb3Jtcy5zZWN0aW9uX2Zvcm1zIGltcG9ydCBTZWN0aW9uRm9ybQpmcm9tIHN0YWZmLm1vZGVscyBpbXBvcnQgU2VjdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRheV9vZl90aGVfd2VlayA9ICgnbW9uZGF5JywgJ3R1ZXNkYXknLCAnd2VkbmVzZGF5JywgJ3RodXJzZGF5JywgJ2ZyaWRheScsICdzYXR1cmRheScsICdzdW5kYXknLCAnaG9saWRheScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28gaW1wb3J0IGZvcm1zCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIGxlZ2FsX3BhcmFtc19hcnJheSA9IFt7J3JlcV9zdGFmZnNfbW9uZGF5JzogJzAnLCAncmVxX3N0YWZmc190dWVzZGF5JzogJzAnLCAncmVxX3N0YWZmc193ZWRuZXNkYXknOiAnMCcgXAogICAgICAgICMgICAgICAgICAgICAgICAgICAgICAgICAncmVxX3N0YWZmc190aHVyc2RheSc6IH0sCiAgICAgICAgIyAgICAgICAgICAgICAgICAgeyd0aXRsZSc6ICfnqbrjga7mnKzmlofjga/oqLHlj68nLCAnY29udGVudCc6ICcnfSwKICAgICAgICAjICAgICAgICAgICAgICAgICB7J3RpdGxlJzogJzUw5paH5a2X5Lul5LiL44Gu44K/44Kk44OI44Or44Gv6Kix5Y+v44CCLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nLCAnY29udGVudCc6ICfjg4bjgrnjg4jjgrPjg7Pjg4bjg7Pjg4QnfV0KICAgICAgICAjIGZvciBwYXJhbXMgaW4gbGVnYWxfcGFyYW1zX2FycmF5OgogICAgICAgICMgICAgIGZvcm0gPSBTZWN0aW9uRm9ybShwYXJhbXMsIGluc3RhbmNlPXNlbGYuZW50cnkpCiAgICAgICAgIyAgICAgc2VsZi5hc3NlcnRUcnVlKGZvcm0uaXNfdmFsaWQoKSkK</text>
+        <text encoding="base64">ICAgc2VydmljZSA9IFNlY3Rpb25TZXJ2aWNlKCkK</text>
       </register>
       <register name="3" type="4">
-        <text>forms</text>
+        <text>day_of_the_week</text>
       </register>
-      <register name="4" type="4">
-        <text>ValidationError</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRheV9vZl90aGVfd2VlayA9ICgnbW9uZGF5JywgJ3R1ZXNkYXknLCAnd2VkbmVzZGF5JywgJ3RodXJzZGF5JywgJ2ZyaWRheScsICdzYXR1cmRheScsICdzdW5kYXknLCAnaG9saWRheScpCg==</text>
       </register>
       <register name="5" type="4">
-        <text>is_valid</text>
+        <text>day_of_the_week</text>
       </register>
-      <register name="6" type="4">
-        <text>is_valid</text>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBkamFuZ28gaW1wb3J0IGZvcm1zCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyDjg6rjg7zjg4Djg7zliLbntITlhajmm5zml6VGYWxzZSwg44K544K/44OD44OV5YWo5puc5pelMOS6uiwg54mp6YeP5L6d5a2Y44Gq44GXCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICduYW1lJzogJ3Rlc3QnLAogICAgICAgICAgICAgICAgJ3JlcV9zdGFmZnNfbW9uZGF5JzogJzAnLCAncmVxX3N0YWZmc190dWVzZGF5JzogJzAnLCAncmVxX3N0YWZmc193ZWRuZXNkYXknOiAnMCcsIFwKICAgICAgICAgICAgICAgICdyZXFfc3RhZmZzX3RodXJzZGF5JzogJzAnLCAncmVxX3N0YWZmc19mcmlkYXknOiAnMCcsICdyZXFfc3RhZmZzX3NhdHVyZGF5JzogJzAnLCBcCiAgICAgICAgICAgICAgICAncmVxX3N0YWZmc19zdW5kYXknOiAnMCcsICdyZXFfc3RhZmZzX2hvbGlkYXknOiAnMCcsIFwKICAgICAgICAgICAgICAgICdyZXFfbGVhZGVyX3N1YmxlYWRlcl9tb25kYXlfZmxnJzogRmFsc2UsICdyZXFfbGVhZGVyX3N1YmxlYWRlcl90dWVzZGF5X2ZsZyc6IEZhbHNlLCBcCiAgICAgICAgICAgICAgICAncmVxX2xlYWRlcl9zdWJsZWFkZXJfd2VkbmVzZGF5X2ZsZyc6IEZhbHNlLCAncmVxX2xlYWRlcl9zdWJsZWFkZXJfdGh1cnNkYXlfZmxnJzogRmFsc2UsIFwKICAgICAgICAgICAgICAgICdyZXFfbGVhZGVyX3N1YmxlYWRlcl9mcmlkYXlfZmxnJzogRmFsc2UsICdyZXFfbGVhZGVyX3N1YmxlYWRlcl9zYXR1cmRheV9mbGcnOiBGYWxzZSwgXAogICAgICAgICAgICAgICAgJ3JlcV9sZWFkZXJfc3VibGVhZGVyX3N1bmRheV9mbGcnOiBGYWxzZSwgJ3JlcV9sZWFkZXJfc3VibGVhZGVyX2hvbGlkYXlfZmxnJzogRmFsc2UsIFwKICAgICAgICAgICAgICAgICdhbW91bnRfZGVwZW5kZW50X2ZsZyc6IEZhbHNlCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICMg44Oq44O844OA44O85Yi257SE5YWo5puc5pelRmFsc2UsIOOCueOCv+ODg+ODleWFqOabnOaXpTHkurosIOeJqemHj+S+neWtmOOBquOBlwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAnbmFtZSc6ICd0ZXN0JywKICAgICAgICAgICAgICAgICdyZXFfc3RhZmZzX21vbmRheSc6ICcxJywgJ3JlcV9zdGFmZnNfdHVlc2RheSc6ICcxJywgJ3JlcV9zdGFmZnNfd2VkbmVzZGF5JzogJzEnLCBcCiAgICAgICAgICAgICAgICAncmVxX3N0YWZmc190aHVyc2RheSc6ICcxJywgJ3JlcV9zdGFmZnNfZnJpZGF5JzogJzEnLCAncmVxX3N0YWZmc19zYXR1cmRheSc6ICcxJywgXAogICAgICAgICAgICAgICAgJ3JlcV9zdGFmZnNfc3VuZGF5JzogJzEnLCAncmVxX3N0YWZmc19ob2xpZGF5JzogJzEnLCBcCiAgICAgICAgICAgICAgICAncmVxX2xlYWRlcl9zdWJsZWFkZXJfbW9uZGF5X2ZsZyc6IEZhbHNlLCAncmVxX2xlYWRlcl9zdWJsZWFkZXJfdHVlc2RheV9mbGcnOiBGYWxzZSwgXAogICAgICAgICAgICAgICAgJ3JlcV9sZWFkZXJfc3VibGVhZGVyX3dlZG5lc2RheV9mbGcnOiBGYWxzZSwgJ3JlcV9sZWFkZXJfc3VibGVhZGVyX3RodXJzZGF5X2ZsZyc6IEZhbHNlLCBcCiAgICAgICAgICAgICAgICAncmVxX2xlYWRlcl9zdWJsZWFkZXJfZnJpZGF5X2ZsZyc6IEZhbHNlLCAncmVxX2xlYWRlcl9zdWJsZWFkZXJfc2F0dXJkYXlfZmxnJzogRmFsc2UsIFwKICAgICAgICAgICAgICAgICdyZXFfbGVhZGVyX3N1YmxlYWRlcl9zdW5kYXlfZmxnJzogRmFsc2UsICdyZXFfbGVhZGVyX3N1YmxlYWRlcl9ob2xpZGF5X2ZsZyc6IEZhbHNlLCBcCiAgICAgICAgICAgICAgICAnYW1vdW50X2RlcGVuZGVudF9mbGcnOiBGYWxzZQogICAgICAgICAgICB9LAogICAgICAgICAgICAjIOODquODvOODgOODvOWItue0hOWFqOabnOaXpVRydWUsIOOCueOCv+ODg+ODleWFqOabnOaXpTEsIOeJqemHj+S+neWtmOOBquOBlwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAnbmFtZSc6ICd0ZXN0JywKICAgICAgICAgICAgICAgICdyZXFfc3RhZmZzX21vbmRheSc6ICcxJywgJ3JlcV9zdGFmZnNfdHVlc2RheSc6ICcxJywgJ3JlcV9zdGFmZnNfd2VkbmVzZGF5JzogJzEnLCBcCiAgICAgICAgICAgICAgICAncmVxX3N0YWZmc190aHVyc2RheSc6ICcxJywgJ3JlcV9zdGFmZnNfZnJpZGF5JzogJzEnLCAncmVxX3N0YWZmc19zYXR1cmRheSc6ICcxJywgXAogICAgICAgICAgICAgICAgJ3JlcV9zdGFmZnNfc3VuZGF5JzogJzEnLCAncmVxX3N0YWZmc19ob2xpZGF5JzogJzEnLCBcCiAgICAgICAgICAgICAgICAncmVxX2xlYWRlcl9zdWJsZWFkZXJfbW9uZGF5X2ZsZyc6IFRydWUsICdyZXFfbGVhZGVyX3N1YmxlYWRlcl90dWVzZGF5X2ZsZyc6IFRydWUsIFwKICAgICAgICAgICAgICAgICdyZXFfbGVhZGVyX3N1YmxlYWRlcl93ZWRuZXNkYXlfZmxnJzogVHJ1ZSwgJ3JlcV9sZWFkZXJfc3VibGVhZGVyX3RodXJzZGF5X2ZsZyc6IFRydWUsIFwKICAgICAgICAgICAgICAgICdyZXFfbGVhZGVyX3N1YmxlYWRlcl9mcmlkYXlfZmxnJzogVHJ1ZSwgJ3JlcV9sZWFkZXJfc3VibGVhZGVyX3NhdHVyZGF5X2ZsZyc6IFRydWUsIFwKICAgICAgICAgICAgICAgICdyZXFfbGVhZGVyX3N1YmxlYWRlcl9zdW5kYXlfZmxnJzogVHJ1ZSwgJ3JlcV9sZWFkZXJfc3VibGVhZGVyX2hvbGlkYXlfZmxnJzogVHJ1ZSwgXAogICAgICAgICAgICAgICAgJ2Ftb3VudF9kZXBlbmRlbnRfZmxnJzogRmFsc2UKICAgICAgICAgICAgfSwKICAgICAgICAgICAgIyDjg6rjg7zjg4Djg7zliLbntITlhajmm5zml6VUcnVlLCDjgrnjgr/jg4Pjg5Xlhajmm5zml6UwLCDnianph4/kvp3lrZjjgYLjgooKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgJ25hbWUnOiAndGVzdCcsCiAgICAgICAgICAgICAgICAncmVxX3N0YWZmc19tb25kYXknOiAnMCcsICdyZXFfc3RhZmZzX3R1ZXNkYXknOiAnMCcsICdyZXFfc3RhZmZzX3dlZG5lc2RheSc6ICcwJywgXAogICAgICAgICAgICAgICAgJ3JlcV9zdGFmZnNfdGh1cnNkYXknOiAnMCcsICdyZXFfc3RhZmZzX2ZyaWRheSc6ICcwJywgJ3JlcV9zdGFmZnNfc2F0dXJkYXknOiAnMCcsIFwKICAgICAgICAgICAgICAgICdyZXFfc3RhZmZzX3N1bmRheSc6ICcwJywgJ3JlcV9zdGFmZnNfaG9saWRheSc6ICcwJywgXAogICAgICAgICAgICAgICAgJ3JlcV9sZWFkZXJfc3VibGVhZGVyX21vbmRheV9mbGcnOiBUcnVlLCAncmVxX2xlYWRlcl9zdWJsZWFkZXJfdHVlc2RheV9mbGcnOiBUcnVlLCBcCiAgICAgICAgICAgICAgICAncmVxX2xlYWRlcl9zdWJsZWFkZXJfd2VkbmVzZGF5X2ZsZyc6IFRydWUsICdyZXFfbGVhZGVyX3N1YmxlYWRlcl90aHVyc2RheV9mbGcnOiBUcnVlLCBcCiAgICAgICAgICAgICAgICAncmVxX2xlYWRlcl9zdWJsZWFkZXJfZnJpZGF5X2ZsZyc6IFRydWUsICdyZXFfbGVhZGVyX3N1YmxlYWRlcl9zYXR1cmRheV9mbGcnOiBUcnVlLCBcCiAgICAgICAgICAgICAgICAncmVxX2xlYWRlcl9zdWJsZWFkZXJfc3VuZGF5X2ZsZyc6IFRydWUsICdyZXFfbGVhZGVyX3N1YmxlYWRlcl9ob2xpZGF5X2ZsZyc6IFRydWUsIFwKICAgICAgICAgICAgICAgICdhbW91bnRfZGVwZW5kZW50X2ZsZyc6IFRydWUKICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAjIGxlZ2FsX3BhcmFtc19hcnJheSA9IFt7J3JlcV9zdGFmZnNfbW9uZGF5JzogJzAnLCAncmVxX3N0YWZmc190dWVzZGF5JzogJzAnLCAncmVxX3N0YWZmc193ZWRuZXNkYXknOiAnMCcgXAogICAgICAgICMgICAgICAgICAgICAgICAgICAgICAgICAncmVxX3N0YWZmc190aHVyc2RheSc6IH0sCiAgICAgICAgIyAgICAgICAgICAgICAgICAgeyd0aXRsZSc6ICfnqbrjga7mnKzmlofjga/oqLHlj68nLCAnY29udGVudCc6ICcnfSwKICAgICAgICAjICAgICAgICAgICAgICAgICB7J3RpdGxlJzogJzUw5paH5a2X5Lul5LiL44Gu44K/44Kk44OI44Or44Gv6Kix5Y+v44CCLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nLCAnY29udGVudCc6ICfjg4bjgrnjg4jjgrPjg7Pjg4bjg7Pjg4QnfV0KICAgICAgICAjIGZvciBwYXJhbXMgaW4gbGVnYWxfcGFyYW1zX2FycmF5OgogICAgICAgICMgICAgIGZvcm0gPSBTZWN0aW9uRm9ybShwYXJhbXMsIGluc3RhbmNlPXNlbGYuZW50cnkpCiAgICAgICAgIyAgICAgc2VsZi5hc3NlcnRUcnVlKGZvcm0uaXNfdmFsaWQoKSkK</text>
       </register>
       <register name="8" type="4">
-        <text>リーダー制約月曜日がTrueだが月曜日のスタッフが0のためエラー</text>
+        <text>forms</text>
       </register>
       <register name="9" type="4">
-        <text>True</text>
+        <text>ValidationError</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
