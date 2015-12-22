@@ -9,11 +9,10 @@
         <mark key="." line="22" column="3" />
         <mark key="^" line="22" column="3" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/section_service.py" timestamp="1450776757829">
-        <mark key="[" line="134" column="58" />
-        <mark key="]" line="134" column="58" />
-        <mark key="^" line="134" column="40" />
-        <mark key="." line="134" column="58" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/section_service.py" timestamp="1450779397641">
+        <mark key="[" line="179" column="0" />
+        <mark key="]" line="179" column="0" />
+        <mark key="." line="179" column="0" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/environment.py" timestamp="1450734490457">
         <mark key="[" line="6" column="21" />
@@ -68,11 +67,11 @@
         <mark key="." line="235" column="30" />
         <mark key="^" line="235" column="30" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_section_service.py" timestamp="1450774177510">
-        <mark key="[" line="164" column="7" />
-        <mark key="]" line="164" column="7" />
-        <mark key="^" line="164" column="7" />
-        <mark key="." line="164" column="7" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_section_service.py" timestamp="1450782648454">
+        <mark key="[" line="166" column="26" />
+        <mark key="]" line="166" column="35" />
+        <mark key="^" line="166" column="35" />
+        <mark key="." line="166" column="35" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_section_form.py" timestamp="1450765136485">
         <mark key="'" line="34" column="16" />
@@ -255,35 +254,35 @@
       <register name="/" type="4">
         <text>post</text>
       </register>
-      <register name="0" type="4">
-        <text>d['expected']['req_leader_subleader_monday_flg'])</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICdzZWN0aW9uX2lkJzogJ3MwNCcsCiAgICAgICAgICAgICAgICAgICAnbmFtZSc6ICfkuovli5knLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICBpZiBzZWN0aW9uX2Zvcm0uaXNfdmFsaWQoKToK</text>
+      <register name="1" type="4">
+        <text>True</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICBzZWN0aW9uX2Zvcm0gPSBzZWxmLnNlcnZpY2UuX2dldF9zZWN0aW9uX2Zvcm0ocmVxdWVzdCwgc2VsZi5vbGRfc2VjdGlvbikK</text>
+      <register name="2" type="4">
+        <text>True</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIHNlY3Rpb25fZm9ybSA9IHNlbGYuc2VydmljZS5fZ2V0X3NlY3Rpb25fZm9ybShyZXF1ZXN0LCBzZWxmLm9sZF9zZWN0aW9uKQo=</text>
+        <text encoding="base64">ICAgICAgIHRjID0gVGhyb3VnaENlbnRlcigpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>True</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgIHNlbGYub2xkX3NlY3Rpb24gPSBTZWN0aW9uKCkKICAgICAgIHNlbGYub2xkX3NlY3Rpb24uc2VjdGlvbl9pZCA9ICdzMDQnCiAgICAgICBzZWxmLm9sZF9zZWN0aW9uLnRjX2lkID0gdGMKICAgICAgIHNlbGYub2xkX3NlY3Rpb24ubmFtZSA9ICfkuovli5knCiAgICAgICBzZWxmLm9sZF9zZWN0aW9uLnJlcV9zdGFmZnNfbW9uZGF5ID0gMQogICAgICAgc2VsZi5vbGRfc2VjdGlvbi5yZXFfc3RhZmZzX3R1ZXNkYXkgPSAxCiAgICAgICBzZWxmLm9sZF9zZWN0aW9uLnJlcV9zdGFmZnNfd2VkbmVzZGF5ID0gMQogICAgICAgc2VsZi5vbGRfc2VjdGlvbi5yZXFfc3RhZmZzX3RodXJzZGF5ID0gMQogICAgICAgc2VsZi5vbGRfc2VjdGlvbi5yZXFfc3RhZmZzX2ZyaWRheSA9IDEKICAgICAgIHNlbGYub2xkX3NlY3Rpb24ucmVxX3N0YWZmc19zYXR1cmRheSA9IDEKICAgICAgIHNlbGYub2xkX3NlY3Rpb24ucmVxX3N0YWZmc19zdW5kYXkgPSAxCiAgICAgICBzZWxmLm9sZF9zZWN0aW9uLnJlcV9zdGFmZnNfaG9saWRheSA9IDEK</text>
       </register>
-      <register name="5" type="4">
-        <text>True</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>)</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>True</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>True</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICMgcmVxdWVzdCA9IEh0dHBSZXF1ZXN0KCkKICAgICAgICMgcmVxdWVzdC5tZXRob2QgPSAnUE9TVCcKICAgICAgICMgcmVxdWVzdC5QT1NUWydzMDQtcmVxX3N0YWZmc19tb25kYXknXSA9IDIKICAgICAgICMgcmVxdWVzdC5QT1NUWydzMDQtcmVxX3N0YWZmc190dWVzZGF5J10gPSAyCiAgICAgICAjIHJlcXVlc3QuUE9TVFsnczA0LXJlcV9zdGFmZnNfd2VkbmVzZGF5J10gPSAyCiAgICAgICAjIHJlcXVlc3QuUE9TVFsnczA0LXJlcV9zdGFmZnNfdGh1cnNkYXknXSA9IDIKICAgICAgICMgcmVxdWVzdC5QT1NUWydzMDQtcmVxX3N0YWZmc19mcmlkYXknXSA9IDIKICAgICAgICMgcmVxdWVzdC5QT1NUWydzMDQtcmVxX3N0YWZmc19zYXR1cmRheSddID0gMgogICAgICAgIyByZXF1ZXN0LlBPU1RbJ3MwNC1yZXFfc3RhZmZzX3N1bmRheSddID0gMgogICAgICAgIyByZXF1ZXN0LlBPU1RbJ3MwNC1yZXFfc3RhZmZzX2hvbGlkYXknXSA9IDIKICAgICAgICMgcmVxdWVzdC5QT1NUWydzMDQtcmVxX2xlYWRlcl9zdWJsZWFkZXJfbW9uZGF5X2ZsZyddID0gJ1RydWUnCiAgICAgICAjIHJlcXVlc3QuUE9TVFsnczA0LXJlcV9sZWFkZXJfc3VibGVhZGVyX3R1ZXNkYXlfZmxnJ10gPSAnVHJ1ZScKICAgICAgICMgcmVxdWVzdC5QT1NUWydzMDQtcmVxX2xlYWRlcl9zdWJsZWFkZXJfd2VkbmVzZGF5X2ZsZyddID0gJ1RydWUnCiAgICAgICAjIHJlcXVlc3QuUE9TVFsnczA0LXJlcV9sZWFkZXJfc3VibGVhZGVyX3RodXJzZGF5X2ZsZyddID0gJ1RydWUnCiAgICAgICAjIHJlcXVlc3QuUE9TVFsnczA0LXJlcV9sZWFkZXJfc3VibGVhZGVyX2ZyaWRheV9mbGcnXSA9ICdUcnVlJwogICAgICAgIyByZXF1ZXN0LlBPU1RbJ3MwNC1yZXFfbGVhZGVyX3N1YmxlYWRlcl9zYXR1cmRheV9mbGcnXSA9ICdUcnVlJwogICAgICAgIyByZXF1ZXN0LlBPU1RbJ3MwNC1yZXFfbGVhZGVyX3N1YmxlYWRlcl9zdW5kYXlfZmxnJ10gPSAnVHJ1ZScKICAgICAgICMgcmVxdWVzdC5QT1NUWydzMDQtcmVxX2xlYWRlcl9zdWJsZWFkZXJfaG9saWRheV9mbGcnXSA9ICdUcnVlJwogICAgICAgIyByZXF1ZXN0LlBPU1RbJ2Ftb3VudF9kZXBlbmRlbnRfZmxnJ10gPSAnRmFsc2UnCg==</text>
       </register>
       <register name="9" type="4">
-        <text>True</text>
+        <text>leader_holiday</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
