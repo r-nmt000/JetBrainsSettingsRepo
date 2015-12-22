@@ -9,7 +9,7 @@
         <mark key="." line="22" column="3" />
         <mark key="^" line="22" column="3" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/section_service.py" timestamp="1450764440562">
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/section_service.py" timestamp="1450773826515">
         <mark key="[" line="134" column="58" />
         <mark key="]" line="134" column="58" />
         <mark key="^" line="134" column="40" />
@@ -68,11 +68,11 @@
         <mark key="." line="235" column="30" />
         <mark key="^" line="235" column="30" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_section_service.py" timestamp="1450769835597">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-        <mark key="^" line="81" column="80" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_section_service.py" timestamp="1450774177510">
+        <mark key="[" line="164" column="7" />
+        <mark key="]" line="164" column="7" />
+        <mark key="^" line="164" column="7" />
+        <mark key="." line="164" column="7" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_section_form.py" timestamp="1450765136485">
         <mark key="'" line="34" column="16" />
@@ -250,40 +250,40 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>fields</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChzZWN0aW9uX2Zvcm0uY2xlYW5lZF9kYXRhWydyZXFfbGVhZGVyX3N1YmxlYWRlcl9tb25kYXknXSwgVHJ1ZSkK</text>
+      <register name="0" type="4">
+        <text>d['expected']['req_leader_subleader_monday_flg'])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChzZWN0aW9uX2Zvcm0uY2xlYW5lZF9kYXRhWydyZXFfbGVhZGVyX3N1YmxlYWRlcl9tb25kYXknXSwgVHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICBpZiBzZWN0aW9uX2Zvcm0uaXNfdmFsaWQoKToK</text>
       </register>
-      <register name="2" type="4">
-        <text>fields</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICBzZWN0aW9uX2Zvcm0gPSBzZWxmLnNlcnZpY2UuX2dldF9zZWN0aW9uX2Zvcm0ocmVxdWVzdCwgc2VsZi5vbGRfc2VjdGlvbikK</text>
       </register>
-      <register name="3" type="4">
-        <text>a</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgIHNlY3Rpb25fZm9ybSA9IHNlbGYuc2VydmljZS5fZ2V0X3NlY3Rpb25fZm9ybShyZXF1ZXN0LCBzZWxmLm9sZF9zZWN0aW9uKQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBzdGFmZi5tb2RlbHMgaW1wb3J0IFNlY3Rpb24KZnJvbSBzdGFmZi5tb2RlbHMgaW1wb3J0IFNlY3Rpb24K</text>
+      <register name="4" type="4">
+        <text>True</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobmV3X3NlY3Rpb24ucmVxX3N0YWZmc19tb25kYXksIDIpCiAgICAgICBzZWxmLmFzc2VydEVxdWFsKG5ld19zZWN0aW9uLnJlcV9zdGFmZnNfbW9uZGF5LCAyKQogICAgICAgc2VsZi5hc3NlcnRFcXVhbChuZXdfc2VjdGlvbi5yZXFfc3RhZmZzX21vbmRheSwgMikKICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobmV3X3NlY3Rpb24ucmVxX3N0YWZmc19tb25kYXksIDIpCiAgICAgICBzZWxmLmFzc2VydEVxdWFsKG5ld19zZWN0aW9uLnJlcV9zdGFmZnNfbW9uZGF5LCAyKQogICAgICAgc2VsZi5hc3NlcnRFcXVhbChuZXdfc2VjdGlvbi5yZXFfc3RhZmZzX21vbmRheSwgMikKCg==</text>
+      <register name="5" type="4">
+        <text>True</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIG9sZF9zZWN0aW9uLnJlcV9zdGFmZnNfaG9saWRheSA9IDEK</text>
+      <register name="6" type="4">
+        <text>)</text>
       </register>
       <register name="7" type="4">
-        <text>req_leader_subleader_holiday_flg</text>
+        <text>True</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIHJlcXVlc3QuUE9TVFsncmVxX2xlYWRlcl9zdWJsZWFkZXJfaG9saWRheV9mbGcnXSA9ICdUcnVlJwo=</text>
+      <register name="8" type="4">
+        <text>True</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIHJlcXVlc3QuUE9TVFsncmVxX3N0YWZmc19tb25kYXknXSA9IDIK</text>
+      <register name="9" type="4">
+        <text>True</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
