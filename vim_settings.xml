@@ -23,9 +23,13 @@
         <mark key="^" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/repos/Brainpad/TS/engineer-training-basic/django_portal/config/settings/base.py" timestamp="1450015937631" />
-      <file name="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/views/mst/section_views.py" timestamp="1450705981291">
+      <file name="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/views/mst/section_views.py" timestamp="1450839318515">
         <mark key="k" line="35" column="0" />
+        <mark key="[" line="67" column="12" />
         <mark key="m" line="35" column="0" />
+        <mark key="]" line="67" column="14" />
+        <mark key="." line="67" column="14" />
+        <mark key="^" line="67" column="14" />
       </file>
       <file name="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/views/job_register.py" timestamp="1450706682619">
         <mark key="'" line="72" column="22" />
@@ -50,7 +54,13 @@
         <mark key="." line="228" column="28" />
         <mark key="^" line="228" column="28" />
       </file>
-      <file name="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/tests/mst/test_section_service.py" timestamp="1450838161158" />
+      <file name="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/tests/mst/test_section_service.py" timestamp="1450839300772">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="126" column="6" />
+        <mark key="]" line="126" column="6" />
+        <mark key="." line="126" column="6" />
+        <mark key="^" line="126" column="6" />
+      </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/staff_base_detail.html" timestamp="1450179350030">
         <mark key="[" line="159" column="0" />
         <mark key="]" line="159" column="0" />
@@ -84,13 +94,17 @@
         <mark key="^" line="235" column="30" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="125" column="4" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/tests/mst/test_section_service.py" />
+      <jump line="202" column="7" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/tests/mst/test_section_service.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/tests/mst/test_section_service.py" />
+    </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>msladmin</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>ilegal</text>
@@ -99,31 +113,31 @@
         <text encoding="base64">ICAgICAgICAgIDx0cj4KICAgICAgICAgICAgPHRoIGhlaWdodD01MCBjb2xzcGFuPSIxIiBzdHlsZT0idmVydGljYWwtYWxpZ246IG1pZGRsZTsiPuaJtumkiuWvvuixoTwvdGg+CiAgICAgICAgICAgIDx0ZCBoZWlnaHQ9NTAgY29sc3Bhbj0iMSIgc3R5bGU9InZlcnRpY2FsLWFsaWduOiBtaWRkbGU7Ij57eyBzdGFmZmJhc2UuZGVwZW5kZW50X2ZsZyB9fTwvdGQ+CiAgICAgICAgICA8L3RyPgo=</text>
       </register>
       <register name="1" type="4">
-        <text>msladmin</text>
+        <text>)</text>
       </register>
-      <register name="2" type="4">
-        <text>msladmin</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>msldb</text>
+        <text>msladmin</text>
       </register>
       <register name="4" type="4">
+        <text>msladmin</text>
+      </register>
+      <register name="5" type="4">
+        <text>msldb</text>
+      </register>
+      <register name="6" type="4">
         <text>',</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">eyMgICAgICAgICAgICA8dGggaGVpZ2h0PTUwIHdpZHRoPTEwMCBjb2xzcGFuPSIxIiBzdHlsZT0idmVydGljYWwtYWxpZ246IG1pZGRsZTsiPueUn+W5tOaciOaXpTwvdGg+I30KeyMgICAgICAgICAgICA8dGQgaGVpZ2h0PTUwIHdpZHRoPTEwMCBjb2xzcGFuPSIxIiBzdHlsZT0idmVydGljYWwtYWxpZ246IG1pZGRsZTsiPnt7IHN0YWZmYmFzZS5iaXJ0aF9kYXRlIH19PC90ZD4jfQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHRoIGhlaWdodD01MCBjb2xzcGFuPSIxIiBzdHlsZT0idmVydGljYWwtYWxpZ246IG1pZGRsZTsiPuacgOWkp+WLpOWLmeWPr+iDveaZgumWk1vmmYLplpNdPC90aD4KICAgICAgICAgICAgPHRkIGhlaWdodD01MCBjb2xzcGFuPSIxIiBzdHlsZT0idmVydGljYWwtYWxpZ246IG1pZGRsZTsiPnt7IHN0YWZmYmFzZS5tYXhfYXZhaWxhYmxlX2hvdXJzIH19PC90ZD4K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRoIGhlaWdodD01MCBjb2xzcGFuPSIxIiBzdHlsZT0idmVydGljYWwtYWxpZ246IG1pZGRsZTsiPuaJtumkiuWvvuixoTwvdGg+CiAgICAgICAgICAgIDx0ZCBoZWlnaHQ9NTAgY29sc3Bhbj0iMSIgc3R5bGU9InZlcnRpY2FsLWFsaWduOiBtaWRkbGU7Ij57eyBzdGFmZmJhc2UuZGVwZW5kZW50X2ZsZyB9fTwvdGQ+Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx0cj4KICAgICAgICAgICAgPHRoIGhlaWdodD01MCBjb2xzcGFuPSIxIiBzdHlsZT0idmVydGljYWwtYWxpZ246IG1pZGRsZTsiPuWvvuW/nOWPr+iDvemDqOmWgDwvdGg+CiAgICAgICAgICAgIDx0ZCBoZWlnaHQ9NTAgY29sc3Bhbj0iMSIgc3R5bGU9InZlcnRpY2FsLWFsaWduOiBtaWRkbGU7IgogICAgICAgICAgICAgICAgY2xhc3M9ImNoa19jYXBhYmxlX2RlcHQiPgogICAgICAgICAgICAgIHt7IGNhcGFibGVfZGVwdC5ueXVrYV9mbGcgfX17eyBjYXBhYmxlX2RlcHQubnl1a2FfZmxnLmxhYmVsIH19Jm5ic3A7Jm5ic3A7CiAgICAgICAgICAgICAge3sgY2FwYWJsZV9kZXB0LmRhaXNob19mbGcgfX17eyBjYXBhYmxlX2RlcHQuZGFpc2hvX2ZsZy5sYWJlbCB9fSZuYnNwOyZuYnNwOwogICAgICAgICAgICAgIHt7IGNhcGFibGVfZGVwdC5rb21vbm9fZmxnIH19e3sgY2FwYWJsZV9kZXB0LmtvbW9ub19mbGcubGFiZWwgfX0KICAgICAgICAgICAgPC90ZD4KICAgICAgICAgIDwvdHI+Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRoIGhlaWdodD01MCBjb2xzcGFuPSIxIiBzdHlsZT0idmVydGljYWwtYWxpZ246IG1pZGRsZTsgdGV4dC1hbGlnbjogcmlnaHQ7Ij4KICAgICAgICAgICAgICDnhKHlirnjgavjgZnjgosKICAgICAgICAgICAgPC90aD4KICAgICAgICAgICAgPHRkIGhlaWdodD01MCBjb2xzcGFuPSIxIiBzdHlsZT0idmVydGljYWwtYWxpZ246IG1pZGRsZTsiPnt7IHN0YWZmYmFzZS5pc19kZWxldGVkIH19CiAgICAgICAgICAgICAgPHNwYW4gaWQ9ImlzX2RlbGV0ZWRfdGV4dCIgc3R5bGU9ImNvbG9yOnJlZDsiPueEoeWKueOBp+OBmTwvc3Bhbj4KICAgICAgICAgICAgPC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRoIGhlaWdodD01MCBjb2xzcGFuPSIxIiBzdHlsZT0idmVydGljYWwtYWxpZ246IG1pZGRsZTsiPuaJtumkiuWvvuixoTwvdGg+CiAgICAgICAgICAgIDx0ZCBoZWlnaHQ9NTAgY29sc3Bhbj0iMSIgc3R5bGU9InZlcnRpY2FsLWFsaWduOiBtaWRkbGU7Ij57eyBzdGFmZmJhc2UuZGVwZW5kZW50X2ZsZyB9fTwvdGQ+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
