@@ -32,7 +32,10 @@
         <mark key="." line="17" column="21" />
         <mark key="^" line="16" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1450852255359">
+      <file name="/Python Console" timestamp="1450863991862">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1450863254567">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1450851861024">
@@ -61,6 +64,19 @@
         <mark key="^" line="160" column="32" />
         <mark key="." line="159" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" timestamp="1450862270795">
+        <mark key="'" line="154" column="0" />
+        <mark key="[" line="174" column="0" />
+        <mark key="]" line="174" column="0" />
+        <mark key="." line="174" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" timestamp="1450864069792">
+        <mark key="'" line="214" column="8" />
+        <mark key="[" line="50" column="36" />
+        <mark key="]" line="50" column="36" />
+        <mark key="." line="50" column="36" />
+        <mark key="^" line="50" column="36" />
+      </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register.py" timestamp="1450076984229">
         <mark key="'" line="223" column="32" />
         <mark key="[" line="70" column="0" />
@@ -84,6 +100,7 @@
         <mark key="^" line="60" column="51" />
         <mark key="." line="60" column="51" />
       </file>
+      <file name="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/views/mst/staff_base_service.py" timestamp="1450863357167" />
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" timestamp="1450173287284">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="239" column="0" />
@@ -117,6 +134,15 @@
       <jump line="202" column="7" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/tests/mst/test_section_service.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/tests/mst/test_section_service.py" />
       <jump line="79" column="28" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/views/mst/section_service.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
+      <jump line="75" column="5" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
+      <jump line="54" column="0" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
+      <jump line="74" column="0" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
+      <jump line="94" column="0" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
+      <jump line="114" column="0" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
+      <jump line="134" column="0" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
+      <jump line="154" column="0" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
+      <jump line="214" column="8" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -126,46 +152,46 @@
         <text>old_sectionのleader_xxxday_flg(デフォルトでFalse)がTrueに変わるか</text>
       </register>
       <register name="/" type="4">
-        <text>ilegal</text>
+        <text>leader_subleader</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyAxLiBvbGRfc2VjdGlvbuOBrmxlYWRlcl94eHhkYXlfZmxnKOODh+ODleOCqeODq+ODiOOBp0ZhbHNlKeOBjFRydWXjgavlpInjgo/jgovjgYsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAjICJsZWFkZXJfZmxnIjogVHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAjICJzdWJsZWFkZXJfZmxnIjpUcnVlCg==</text>
       </register>
       <register name="2" type="4">
-        <text>old_sectionのleader_xxxday_flg(デフォルトでFalse)がTrueに変わるか</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGhpcyBmdW5jdGlvbiBwcm92aWRlcyBDYXBhYmxlRGVwZXJ0bWVudEZvcm0uCiAgICAgICAgIiIiCiAgICAgICAgY2FwYWJsZV9kZXBhcnRtZW50X2Zvcm0gPSBDYXBhYmxlRGVwYXJ0bWVudEZvcm0oZGF0YT1kYXRhKQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJsZWFkZXJfc3VibGVhZGVyX3JlcV9mbGciOiB0cnVlLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBkYXRhLmhhc19rZXkoJ3N0YWZmc19ob2xpZGF5Jyk6Cg==</text>
+        <text encoding="base64">ICAgICJsZWFkZXJfc3VibGVhZGVyX3JlcV9mbGciOiB0cnVlLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBkYXRhWydsZWFkZXJfdGh1cnNkYXknXSA9PSAnVHJ1ZSc6Cg==</text>
+        <text encoding="base64">ICAgICJsZWFkZXJfc3VibGVhZGVyX3JlcV9mbGciOiB0cnVlLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBkYXRhWydsZWFkZXJfd2VkbmVzZGF5J10gPT0gJ1RydWUnOgo=</text>
+        <text encoding="base64">ICAgICJsZWFkZXJfc3VibGVhZGVyX3JlcV9mbGciOiB0cnVlLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBkYXRhWydsZWFkZXJfdHVlc2RheSddID09ICdUcnVlJzoK</text>
+        <text encoding="base64">ICAgICJsZWFkZXJfc3VibGVhZGVyX3JlcV9mbGciOiB0cnVlLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBkYXRhWydsZWFkZXJfbW9uZGF5J10gPT0gJ1RydWUnOgo=</text>
+        <text encoding="base64">ICAgICJsZWFkZXJfc3VibGVhZGVyX3JlcV9mbGciOiB0cnVlLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBkYXRhLmhhc19rZXkoJ3N0YWZmc19ob2xpZGF5Jyk6Cg==</text>
+        <text encoding="base64">ICAgICJsZWFkZXJfc3VibGVhZGVyX3JlcV9mbGciOiB0cnVlLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ilegal</last-search>
+      <last-search>leader_subleader</last-search>
       <last-offset />
-      <last-pattern>ilegal</last-pattern>
+      <last-pattern>leader_subleader</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -175,11 +201,13 @@
         <entry>static</entry>
         <entry>make_map_date_id_obj</entry>
         <entry>make_map_date_id</entry>
+        <entry>leader_subleader</entry>
       </history-search>
       <history-cmd>
         <entry>tabprevious</entry>
         <entry>tabnext</entry>
         <entry>tablast | tabnew</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
