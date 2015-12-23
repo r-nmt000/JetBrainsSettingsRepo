@@ -70,12 +70,12 @@
         <mark key="]" line="174" column="0" />
         <mark key="." line="174" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" timestamp="1450873777877">
-        <mark key="'" line="144" column="0" />
-        <mark key="[" line="267" column="25" />
-        <mark key="]" line="267" column="28" />
-        <mark key="." line="267" column="28" />
-        <mark key="^" line="267" column="28" />
+      <file name="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" timestamp="1450874527058">
+        <mark key="'" line="234" column="23" />
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="0" />
+        <mark key="." line="161" column="0" />
+        <mark key="^" line="97" column="3" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register.py" timestamp="1450076984229">
         <mark key="'" line="223" column="32" />
@@ -148,6 +148,7 @@
       <jump line="49" column="29" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/views/mst/staff_base_service.py" />
       <jump line="199" column="8" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" />
       <jump line="144" column="0" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" />
+      <jump line="234" column="23" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -162,26 +163,26 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBuZXdfY2FwYWJsZV9kZXB0X05vMV8xWydzeXVra2FfZmxnJ10gPSBUcnVlCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>fields</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICNzZWxmLmFzc2VydEVxdWFsKHN0YWZmYmFzZV9mb3JtLmZpZWxkc1tuYW1lXS53aWRnZXQuYXR0cnNbJ2Rpc2FibGVkJ10sICdkaXNhYmxlZCcpCg==</text>
       </register>
       <register name="2" type="4">
+        <text>fields</text>
+      </register>
+      <register name="3" type="4">
         <text>initial</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBuZXdfY2FwYWJsZV9kZXB0X05vMV8xWydkYWlzaG9fZmxnJ10gPSBUcnVlCiAgICAgICAgbmV3X2NhcGFibGVfZGVwdF9ObzFfMVsnZGFpc2hvX2ZsZyddID0gVHJ1ZQogICAgICAgIG5ld19jYXBhYmxlX2RlcHRfTm8xXzFbJ2RhaXNob19mbGcnXSA9IFRydWUK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>o</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAjICJsZWFkZXJfZmxnIjogVHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAjICJzdWJsZWFkZXJfZmxnIjpUcnVlCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICAgICAgVGhpcyBmdW5jdGlvbiBwcm92aWRlcyBDYXBhYmxlRGVwZXJ0bWVudEZvcm0uCiAgICAgICAgIiIiCiAgICAgICAgY2FwYWJsZV9kZXBhcnRtZW50X2Zvcm0gPSBDYXBhYmxlRGVwYXJ0bWVudEZvcm0oZGF0YT1kYXRhKQ==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICJsZWFkZXJfc3VibGVhZGVyX3JlcV9mbGciOiB0cnVlLAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICJsZWFkZXJfc3VibGVhZGVyX3JlcV9mbGciOiB0cnVlLAo=</text>
