@@ -32,10 +32,10 @@
         <mark key="." line="17" column="21" />
         <mark key="^" line="16" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1450869580950">
+      <file name="/Python Console" timestamp="1450869715070">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1450869286753">
+      <file name="/fragment.py" timestamp="1450869708234">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1450851861024">
@@ -100,7 +100,9 @@
         <mark key="^" line="60" column="51" />
         <mark key="." line="60" column="51" />
       </file>
-      <file name="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/views/mst/staff_base_service.py" timestamp="1450869257514" />
+      <file name="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/views/mst/staff_base_service.py" timestamp="1450870160848">
+        <mark key="'" line="49" column="29" />
+      </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" timestamp="1450173287284">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="239" column="0" />
@@ -143,6 +145,7 @@
       <jump line="134" column="0" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
       <jump line="154" column="0" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
       <jump line="214" column="8" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" />
+      <jump line="49" column="29" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/views/mst/staff_base_service.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -243,6 +246,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
