@@ -51,12 +51,12 @@
         <mark key="[" line="67" column="0" />
         <mark key="]" line="70" column="56" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/tc_forms.py" timestamp="1450943696866">
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/tc_forms.py" timestamp="1450953976452">
         <mark key="'" line="22" column="0" />
-        <mark key="[" line="181" column="0" />
-        <mark key="]" line="182" column="73" />
-        <mark key="." line="203" column="51" />
-        <mark key="^" line="203" column="51" />
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="126" column="34" />
+        <mark key="." line="166" column="7" />
+        <mark key="^" line="166" column="7" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/tc_detail.html" timestamp="1450934077470" />
       <file name="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/mslprj/environment.py" timestamp="1450834012875">
@@ -113,14 +113,14 @@
         <mark key="." line="71" column="0" />
         <mark key="^" line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/tc_service.py" timestamp="1450943833793">
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/tc_service.py" timestamp="1450954134773">
         <mark key="j" line="329" column="22" />
         <mark key="k" line="330" column="22" />
-        <mark key="[" line="356" column="29" />
+        <mark key="[" line="300" column="60" />
         <mark key="m" line="328" column="22" />
-        <mark key="]" line="358" column="63" />
-        <mark key="." line="358" column="63" />
-        <mark key="^" line="358" column="63" />
+        <mark key="]" line="300" column="60" />
+        <mark key="." line="300" column="60" />
+        <mark key="^" line="300" column="60" />
       </file>
     </filemarks>
     <jumps>
@@ -158,40 +158,40 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>hedging_scale</text>
+        <text>小物物量最低処理割合</text>
       </register>
       <register name="/" type="4">
         <text>leader_subleader</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjbGVhbmVkX2RhdGFbJ2hlZGdpbmdfc2NhbGUnXSA+IDEwMDoKICAgICAgICAgICAgcmFpc2UgZm9ybXMuVmFsaWRhdGlvbkVycm9yKHUn6YWN572uTUgv5b+F6KaBTUg6IDDjgYvjgokxMDDjga7mlbTmlbDjgpLlhaXlipvjgZfjgabjgY/jgaDjgZXjgYTjgIInKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ21heF93ZWVrX2hvdXJzX3NoYWluX3N0YWZmJywKICAgICAgICAgICAgJ21heF93ZWVrX2hvdXJzX3BhcnRfc3RhZmYnLAogICAgICAgICAgICAna3VyaWtvc2lfdGhyZXNob2xkJywKICAgICAgICAgICAgJ2tvbW9ub19rdXJpa29zaV9yYXRpbycK</text>
       </register>
       <register name="1" type="4">
-        <text>hedging_scale</text>
+        <text>小物物量最低処理割合</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>小物物量最低処理割合</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>小物物量最低処理割合[%]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGlmIHNlbGYuaXNfdmFsaWQoKToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgZm9ybXMuVmFsaWRhdGlvbkVycm9yKHUndGVzdCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHJlcXVlc3RfdGhyb3VnaF9jZW50ZXJfZm9ybSA9IHsKICAgICAgICAjICAgICAnaWQnOiB0aHJvdWdoX2NlbnRlcl9iZWZvcmUuaWQsCiAgICAgICAgIyAgICAgJ25hbWUnOiByZXF1ZXN0LlBPU1RbJ25hbWUnXSwKICAgICAgICAjICAgICAnc3RkX3dvcmtfaG91cnMnOiByZXF1ZXN0LlBPU1RbJ3N0ZF93b3JrX2hvdXJzJ10sCiAgICAgICAgIyAgICAgJ2Z1eW91X21heF9tb250aF9ob3Vycyc6IHJlcXVlc3QuUE9TVFsnZnV5b3VfbWF4X21vbnRoX2hvdXJzJ10sCiAgICAgICAgIyAgICAgJ21heF9jb25zZWN0aXZlX2RheXMnOiByZXF1ZXN0LlBPU1RbJ21heF9jb25zZWN0aXZlX2RheXMnXSwKICAgICAgICAjICAgICAnYWNjZXB0X2Rvd25zaWRlX2RpZmZfM2RheXNfc3RhZmYnOiByZXF1ZXN0LlBPU1RbJ2FjY2VwdF9kb3duc2lkZV9kaWZmXzNkYXlzX3N0YWZmJ10sCiAgICAgICAgIyAgICAgJ2FjY2VwdF91cHNpZGVfZGlmZl8zZGF5c19zdGFmZic6IHJlcXVlc3QuUE9TVFsnYWNjZXB0X3Vwc2lkZV9kaWZmXzNkYXlzX3N0YWZmJ10sCiAgICAgICAgIyAgICAgJ2FjY2VwdF9kb3duc2lkZV9kaWZmXzRkYXlzX3N0YWZmJzogcmVxdWVzdC5QT1NUWydhY2NlcHRfZG93bnNpZGVfZGlmZl80ZGF5c19zdGFmZiddLAogICAgICAgICMgICAgICdhY2NlcHRfdXBzaWRlX2RpZmZfNGRheXNfc3RhZmYnOiByZXF1ZXN0LlBPU1RbJ2FjY2VwdF91cHNpZGVfZGlmZl80ZGF5c19zdGFmZiddLAogICAgICAgICMgICAgICdhY2NlcHRfZG93bnNpZGVfZGlmZl81ZGF5c19zdGFmZic6IHJlcXVlc3QuUE9TVFsnYWNjZXB0X2Rvd25zaWRlX2RpZmZfNWRheXNfc3RhZmYnXSwKICAgICAgICAjICAgICAnYWNjZXB0X3Vwc2lkZV9kaWZmXzVkYXlzX3N0YWZmJzogcmVxdWVzdC5QT1NUWydhY2NlcHRfdXBzaWRlX2RpZmZfNWRheXNfc3RhZmYnXSwKICAgICAgICAjICAgICAnbWluX21haW5fd29ya19ob3Vycyc6IHJlcXVlc3QuUE9TVFsnbWluX21haW5fd29ya19ob3VycyddLAogICAgICAgICMgICAgICdkYWlseV9zZWN0aW9ucyc6IHJlcXVlc3QuUE9TVFsnZGFpbHlfc2VjdGlvbnMnXSwKICAgICAgICAjICAgICAnbnl1a2FfbWluX2hvdXJzJzogcmVxdWVzdC5QT1NUWydueXVrYV9taW5faG91cnMnXSwKICAgICAgICAjICAgICAnbnl1a2FfbWF4X2hvdXJzJzogcmVxdWVzdC5QT1NUWydueXVrYV9tYXhfaG91cnMnXSwKICAgICAgICAjICAgICAncmVmZXJlbmNlX2Ftb3VudF9sb3dfbGFyZ2UnOiByZXF1ZXN0LlBPU1RbJ3JlZmVyZW5jZV9hbW91bnRfbG93X2xhcmdlJ10sCiAgICAgICAgIyAgICAgJ3JlZmVyZW5jZV9hbW91bnRfaGlnaF9sYXJnZSc6IHJlcXVlc3QuUE9TVFsncmVmZXJlbmNlX2Ftb3VudF9oaWdoX2xhcmdlJ10sCiAgICAgICAgIyAgICAgJ3JlZmVyZW5jZV9hbW91bnRfbG93X3NtYWxsJzogcmVxdWVzdC5QT1NUWydyZWZlcmVuY2VfYW1vdW50X2xvd19zbWFsbCddLAogICAgICAgICMgICAgICdyZWZlcmVuY2VfYW1vdW50X2hpZ2hfc21hbGwnOiByZXF1ZXN0LlBPU1RbJ3JlZmVyZW5jZV9hbW91bnRfaGlnaF9zbWFsbCddLAogICAgICAgICMgICAgICdzaGl3YWtlX3Byb2R1Y3Rpdml0eV9sb3dfbGFyZ2UnOiByZXF1ZXN0LlBPU1RbJ3NoaXdha2VfcHJvZHVjdGl2aXR5X2xvd19sYXJnZSddLAogICAgICAgICMgICAgICdzaGl3YWtlX3Byb2R1Y3Rpdml0eV9oaWdoX2xhcmdlJzogcmVxdWVzdC5QT1NUWydzaGl3YWtlX3Byb2R1Y3Rpdml0eV9oaWdoX2xhcmdlJ10sCiAgICAgICAgIyAgICAgJ3NoaXdha2VfcHJvZHVjdGl2aXR5X2xvd19zbWFsbCc6IHJlcXVlc3QuUE9TVFsnc2hpd2FrZV9wcm9kdWN0aXZpdHlfbG93X3NtYWxsJ10sCiAgICAgICAgIyAgICAgJ3NoaXdha2VfcHJvZHVjdGl2aXR5X2hpZ2hfc21hbGwnOiByZXF1ZXN0LlBPU1RbJ3NoaXdha2VfcHJvZHVjdGl2aXR5X2hpZ2hfc21hbGwnXSwKICAgICAgICAjICAgICAnbnl1a2FfcHJvZHVjdGl2aXR5X2xvd19sYXJnZSc6IHJlcXVlc3QuUE9TVFsnbnl1a2FfcHJvZHVjdGl2aXR5X2xvd19sYXJnZSddLAogICAgICAgICMgICAgICdueXVrYV9wcm9kdWN0aXZpdHlfaGlnaF9sYXJnZSc6IHJlcXVlc3QuUE9TVFsnbnl1a2FfcHJvZHVjdGl2aXR5X2hpZ2hfbGFyZ2UnXSwKICAgICAgICAjICAgICAnbnl1a2FfcHJvZHVjdGl2aXR5X2xvd19zbWFsbCc6IHJlcXVlc3QuUE9TVFsnbnl1a2FfcHJvZHVjdGl2aXR5X2xvd19zbWFsbCddLAogICAgICAgICMgICAgICdueXVrYV9wcm9kdWN0aXZpdHlfaGlnaF9zbWFsbCc6IHJlcXVlc3QuUE9TVFsnbnl1a2FfcHJvZHVjdGl2aXR5X2hpZ2hfc21hbGwnXSwKICAgICAgICAjICAgICAnZ21zX2Ftb3VudF9tb25kYXknOiByZXF1ZXN0LlBPU1RbJ2dtc19hbW91bnRfbW9uZGF5J10sCiAgICAgICAgIyAgICAgJ2dtc19hbW91bnRfdHVlc2RheSc6IHJlcXVlc3QuUE9TVFsnZ21zX2Ftb3VudF90dWVzZGF5J10sCiAgICAgICAgIyAgICAgJ2dtc19hbW91bnRfd2VkbmVzZGF5JzogcmVxdWVzdC5QT1NUWydnbXNfYW1vdW50X3dlZG5lc2RheSddLAogICAgICAgICMgICAgICdnbXNfYW1vdW50X3RodXJzZGF5JzogcmVxdWVzdC5QT1NUWydnbXNfYW1vdW50X3RodXJzZGF5J10sCiAgICAgICAgIyAgICAgJ2dtc19hbW91bnRfZnJpZGF5JzogcmVxdWVzdC5QT1NUWydnbXNfYW1vdW50X2ZyaWRheSddLAogICAgICAgICMgICAgICdnbXNfYW1vdW50X3NhdHVyZGF5JzogcmVxdWVzdC5QT1NUWydnbXNfYW1vdW50X3NhdHVyZGF5J10sCiAgICAgICAgIyAgICAgJ2dtc19hbW91bnRfc3VuZGF5JzogcmVxdWVzdC5QT1NUWydnbXNfYW1vdW50X3N1bmRheSddLAogICAgICAgICMgICAgICdnbXNfYW1vdW50X2hvbGlkYXknOiByZXF1ZXN0LlBPU1RbJ2dtc19hbW91bnRfaG9saWRheSddLAogICAgICAgICMgICAgICdjb21wdXRhdGlvbl90aW1lJzogcmVxdWVzdC5QT1NUWydjb21wdXRhdGlvbl90aW1lJ10sCiAgICAgICAgIyAgICAgJ2hlZGdpbmdfc2NhbGUnOiByZXF1ZXN0LlBPU1RbJ2hlZGdpbmdfc2NhbGUnXSwKICAgICAgICAjICAgICAnc3VwcG9ydF9zZWN0aW9uX3Byb2R1Y3Rpdml0eV9yYXRlJzogcmVxdWVzdC5QT1NUWydzdXBwb3J0X3NlY3Rpb25fcHJvZHVjdGl2aXR5X3JhdGUnXSwKICAgICAgICAjIH0K</text>
       </register>
       <register name="6" type="4">
-        <text>class ListFilterForm(forms.Form):</text>
+        <text>hedging_scale</text>
       </register>
-      <register name="7" type="4">
-        <text>配置MH/必要MH: 0から100の整数を入力してください。</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
