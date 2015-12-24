@@ -6,10 +6,10 @@
       <file name="/Python Console" timestamp="1450931337412">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1450940012427">
+      <file name="/fragment.py" timestamp="1450941082733">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1450940086596">
+      <file name="/a.dummy" timestamp="1450940822489">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/Brainpad/TS/engineer-training-basic/django_portal/core/urls.py" timestamp="1450003631047">
@@ -54,11 +54,12 @@
         <mark key="[" line="67" column="0" />
         <mark key="]" line="70" column="56" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/tc_forms.py" timestamp="1450940097972">
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="126" column="34" />
-        <mark key="." line="62" column="71" />
-        <mark key="^" line="62" column="71" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/tc_forms.py" timestamp="1450942392455">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="203" column="42" />
+        <mark key="]" line="203" column="51" />
+        <mark key="." line="203" column="51" />
+        <mark key="^" line="203" column="51" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/tc_detail.html" timestamp="1450934077470" />
       <file name="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/mslprj/environment.py" timestamp="1450834012875">
@@ -115,14 +116,14 @@
         <mark key="." line="71" column="0" />
         <mark key="^" line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/tc_service.py" timestamp="1450937794535">
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/tc_service.py" timestamp="1450942045305">
         <mark key="j" line="329" column="22" />
         <mark key="k" line="330" column="22" />
-        <mark key="[" line="149" column="90" />
+        <mark key="[" line="356" column="29" />
         <mark key="m" line="328" column="22" />
-        <mark key="]" line="149" column="90" />
-        <mark key="." line="149" column="90" />
-        <mark key="^" line="149" column="90" />
+        <mark key="]" line="358" column="63" />
+        <mark key="." line="358" column="63" />
+        <mark key="^" line="358" column="63" />
       </file>
     </filemarks>
     <jumps>
@@ -152,46 +153,48 @@
       <jump line="159" column="5" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
       <jump line="48" column="16" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/tc_edit.html" />
       <jump line="98" column="20" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/tc_edit.html" />
+      <jump line="113" column="32" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/tc_forms.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/tc_forms.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>id_support_section_productivity_rate</text>
+        <text>hedging_scale</text>
       </register>
       <register name="/" type="4">
         <text>leader_subleader</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAkKCcjaWRfc3VwcG9ydF9zZWN0aW9uX3Byb2R1Y3Rpdml0eV9yYXRlJykudmFsKAogICAgJCgnI2lkX3N1cHBvcnRfc2VjdGlvbl9wcm9kdWN0aXZpdHlfcmF0ZScpLnZhbCgpIC8gMTAwCiAgKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgY2xlYW5lZF9kYXRhWydoZWRnaW5nX3NjYWxlJ10uaXNfaW50ZWdlcigpOgogICAgICAgICAgICByYWlzZSBmb3Jtcy5WYWxpZGF0aW9uRXJyb3IodSfphY3nva5NSC/lv4XopoFNSDog5pW05pWw44KS5YWl5Yqb44GX44Gm44GP44Gg44GV44GE44CCJykK</text>
       </register>
       <register name="1" type="4">
-        <text>id_support_section_productivity_rate</text>
-      </register>
-      <register name="2" type="4">
-        <text>id_support_section_productivity_rate</text>
-      </register>
-      <register name="3" type="4">
-        <text>through_center</text>
-      </register>
-      <register name="4" type="4">
-        <text>through_center</text>
-      </register>
-      <register name="5" type="4">
-        <text>through_center</text>
-      </register>
-      <register name="6" type="4">
-        <text>through_center</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAkKCcjaWRfaGVkZ2luZ19zY2FsZScpLnZhbCgKICAgICQoJyNpZF9oZWRnaW5nX3NjYWxlJykudmFsKCkgLyAxMDAKICApOwo=</text>
-      </register>
-      <register name="8" type="4">
         <text>hedging_scale</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgZm9ybXMuVmFsaWRhdGlvbkVycm9yKHUndGVzdCcpCg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>class ListFilterForm(forms.Form):</text>
+      </register>
+      <register name="7" type="4">
+        <text>配置MH/必要MH: 0から100の整数を入力してください。</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">eyMgIERC5YG044GuaGVkZ2luZ19zY2FsZeOBqHN1cHBvcnRfc2VjdGlvbl9wcm9kdWN0aXZpdHlfcmF0ZeOBruWNmOS9jeOBjOWQiOOBo+OBpuOBhOOBquOBhCN9CnsjICDllY/poYzjgavlr77jgZnjgovlv5zmgKXlh6bnva4jfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
