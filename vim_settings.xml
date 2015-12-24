@@ -2,9 +2,22 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/tc_detail.html" timestamp="1450920706658">
+        <mark key="[" line="136" column="59" />
+        <mark key="]" line="136" column="58" />
+        <mark key="." line="136" column="58" />
+        <mark key="^" line="136" column="58" />
+      </file>
+    </filemarks>
     <jumps />
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8dHI+CiAgICAgICAgICA8dGQgY2xhc3M9ImNvbC1sZy0yIGNvbC1tZC0yIGNvbC1zbS0yIj7nubDotorjgZfjgY3jgYTlgKTnianph49b5Y2D5YCLXTwvdGQ+CiAgICAgICAgICA8dGQgY2xhc3M9ImNvbC1sZy0yIGNvbC1tZC0yIGNvbC1zbS0yIj48aW5wdXQgdHlwZT0idGV4dCIgdmFsdWU9Int7IHRocm91Z2hfY2VudGVyLm55dWthX21heF9ob3VycyB9fSIgc3R5bGU9IndpZHRoOiA4MCU7IHRleHQtYWxpZ246IHJpZ2h0OyIgZGlzYWJsZWQ9ImRpc2FibGVkIiByZWFkb25seT0icmVhZG9ubHkiPjwvdGQ+CiAgICAgICAgPC90cj4K</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
       <register name="/" type="4">
         <text>ilegal</text>
       </register>
@@ -20,10 +33,16 @@
       <history-search>
         <entry>ilegal</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
