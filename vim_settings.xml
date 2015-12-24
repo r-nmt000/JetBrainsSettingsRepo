@@ -9,9 +9,6 @@
       <file name="/fragment.py" timestamp="1450869286753">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1450851861024">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/Brainpad/TS/engineer-training-basic/django_portal/core/urls.py" timestamp="1450003631047">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -49,17 +46,31 @@
         <mark key="^" line="60" column="51" />
         <mark key="." line="60" column="51" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/tc_detail.html" timestamp="1450174877640">
-        <mark key="[" line="228" column="27" />
-        <mark key="]" line="228" column="28" />
-        <mark key="." line="228" column="28" />
-        <mark key="^" line="228" column="28" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/models.py" timestamp="1450923553139">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="70" column="56" />
+      </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/tc_forms.py" timestamp="1450923586290">
+        <mark key="[" line="121" column="32" />
+        <mark key="]" line="121" column="32" />
+        <mark key="." line="121" column="32" />
+        <mark key="^" line="121" column="32" />
+      </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/tc_detail.html" timestamp="1450924455873">
+        <mark key="[" line="97" column="155" />
+        <mark key="]" line="97" column="159" />
+        <mark key="m" line="119" column="8" />
+        <mark key="." line="97" column="159" />
+        <mark key="^" line="97" column="159" />
       </file>
       <file name="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/mslprj/environment.py" timestamp="1450834012875">
         <mark key="[" line="17" column="21" />
         <mark key="]" line="17" column="21" />
         <mark key="." line="17" column="21" />
         <mark key="^" line="16" column="24" />
+      </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/section_detail.html" timestamp="1450924090739">
+        <mark key="'" line="127" column="12" />
       </file>
       <file name="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/views/mst/section_views.py" timestamp="1450839318515">
         <mark key="k" line="35" column="0" />
@@ -85,14 +96,6 @@
       <file name="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/views/mst/section_service.py" timestamp="1450853314805">
         <mark key="'" line="79" column="28" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" timestamp="1450173287284">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="239" column="0" />
-        <mark key="m" line="330" column="18" />
-        <mark key="]" line="239" column="0" />
-        <mark key="." line="239" column="0" />
-        <mark key="^" line="237" column="21" />
-      </file>
       <file name="$USER_HOME$/repos/temp/python_study/02_qsort.py" timestamp="1427726335966">
         <mark key="[" line="12" column="14" />
         <mark key="]" line="12" column="16" />
@@ -110,11 +113,8 @@
       <file name="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/views/job_register.py" timestamp="1450706682619">
         <mark key="'" line="72" column="22" />
       </file>
-      <file name="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/mslprj/settings.py" timestamp="1450599578124">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="23" />
-      </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/staff_base_detail.html" timestamp="1450179350030">
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/staff_base_detail.html" timestamp="1450924057553">
+        <mark key="'" line="285" column="0" />
         <mark key="[" line="159" column="0" />
         <mark key="]" line="159" column="0" />
         <mark key="^" line="160" column="32" />
@@ -147,46 +147,48 @@
       <jump line="134" column="0" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
       <jump line="154" column="0" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
       <jump line="214" column="8" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" />
+      <jump line="285" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/staff_base_detail.html" />
+      <jump line="127" column="12" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/section_detail.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>leader_subleader</text>
       </register>
-      <register name="0" type="4">
-        <text>orm</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIG1heF93ZWVrX2hvdXJzX3NoYWluX3N0YWZmID0gbW9kZWxzLkludGVnZXJGaWVsZChkZWZhdWx0PTQwKQogICAgbWF4X3dlZWtfaG91cnNfcGFydF9zdGFmZiA9IG1vZGVscy5JbnRlZ2VyRmllbGQoZGVmYXVsdD0zNSkKICAgIGt1cmlrb3NpX3RocmVzaG9sZCA9IG1vZGVscy5JbnRlZ2VyRmllbGQoZGVmYXVsdD0zMCkKICAgIGtvbW9ub19rdXJpa29zaV9yYXRpbyA9IG1vZGVscy5GbG9hdEZpZWxkKGRlZmF1bHQ9NTApCg==</text>
       </register>
       <register name="1" type="4">
-        <text>o</text>
+        <text>name</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAjICJsZWFkZXJfZmxnIjogVHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAjICJzdWJsZWFkZXJfZmxnIjpUcnVlCg==</text>
+      <register name="2" type="4">
+        <text>name</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgVGhpcyBmdW5jdGlvbiBwcm92aWRlcyBDYXBhYmxlRGVwZXJ0bWVudEZvcm0uCiAgICAgICAgIiIiCiAgICAgICAgY2FwYWJsZV9kZXBhcnRtZW50X2Zvcm0gPSBDYXBhYmxlRGVwYXJ0bWVudEZvcm0oZGF0YT1kYXRhKQ==</text>
+        <text>nyuka_max_hours</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICJsZWFkZXJfc3VibGVhZGVyX3JlcV9mbGciOiB0cnVlLAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ID0gbW9kZWxzLkludGVnZXJGaWVsZChkZWZhdWx0PTQwKQ==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICJsZWFkZXJfc3VibGVhZGVyX3JlcV9mbGciOiB0cnVlLAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ID0gbW9kZWxzLkludGVnZXJGaWVsZChkZWZhdWx0PTM1KQ==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICJsZWFkZXJfc3VibGVhZGVyX3JlcV9mbGciOiB0cnVlLAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ID0gbW9kZWxzLkZsb2F0RmllbGQoZGVmYXVsdD01MCk=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICJsZWFkZXJfc3VibGVhZGVyX3JlcV9mbGciOiB0cnVlLAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ID0gbW9kZWxzLkludGVnZXJGaWVsZChkZWZhdWx0PTMwKQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICJsZWFkZXJfc3VibGVhZGVyX3JlcV9mbGciOiB0cnVlLAo=</text>
+      <register name="8" type="4">
+        <text>o</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJsZWFkZXJfc3VibGVhZGVyX3JlcV9mbGciOiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAjICJsZWFkZXJfZmxnIjogVHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAjICJzdWJsZWFkZXJfZmxnIjpUcnVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -239,6 +241,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
