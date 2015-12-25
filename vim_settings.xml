@@ -9,6 +9,9 @@
       <file name="/fragment.py" timestamp="1451015248936">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1451032276211">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" timestamp="1450869592676">
         <mark key="'" line="214" column="8" />
         <mark key="[" line="214" column="39" />
@@ -17,12 +20,12 @@
         <mark key="^" line="50" column="36" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/msl/lib/python2.7/site-packages/django/forms/forms.py" timestamp="1450939748571" />
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_tc.py" timestamp="1451015278801">
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_tc.py" timestamp="1451031913661">
         <mark key="'" line="498" column="0" />
-        <mark key="[" line="130" column="161" />
-        <mark key="]" line="130" column="172" />
-        <mark key="." line="130" column="172" />
-        <mark key="^" line="130" column="172" />
+        <mark key="[" line="237" column="162" />
+        <mark key="]" line="237" column="162" />
+        <mark key="." line="237" column="162" />
+        <mark key="^" line="237" column="162" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/models.py" timestamp="1450925826976">
         <mark key="[" line="67" column="0" />
@@ -99,6 +102,13 @@
         <mark key="." line="294" column="59" />
         <mark key="^" line="294" column="59" />
       </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_role_auth2.json" timestamp="1451032273423">
+        <mark key="'" line="2762" column="5" />
+        <mark key="[" line="2774" column="30" />
+        <mark key="]" line="2774" column="31" />
+        <mark key="." line="2774" column="31" />
+        <mark key="^" line="2774" column="31" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="125" column="4" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/tests/mst/test_section_service.py" />
@@ -149,6 +159,26 @@
       <jump line="176" column="63" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_tc.py" />
       <jump line="628" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_tc.py" />
       <jump line="498" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_tc.py" />
+      <jump line="2787" column="31" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_role_auth2.json" />
+      <jump line="2791" column="3" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_role_auth2.json" />
+      <jump line="2832" column="5" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_role_auth2.json" />
+      <jump line="2871" column="31" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_role_auth2.json" />
+      <jump line="2907" column="31" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_role_auth2.json" />
+      <jump line="2930" column="5" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_role_auth2.json" />
+      <jump line="2918" column="5" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_role_auth2.json" />
+      <jump line="2906" column="5" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_role_auth2.json" />
+      <jump line="2894" column="5" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_role_auth2.json" />
+      <jump line="2882" column="5" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_role_auth2.json" />
+      <jump line="2870" column="5" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_role_auth2.json" />
+      <jump line="2858" column="5" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_role_auth2.json" />
+      <jump line="2846" column="5" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_role_auth2.json" />
+      <jump line="2834" column="5" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_role_auth2.json" />
+      <jump line="2822" column="5" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_role_auth2.json" />
+      <jump line="2810" column="5" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_role_auth2.json" />
+      <jump line="2798" column="5" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_role_auth2.json" />
+      <jump line="2786" column="5" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_role_auth2.json" />
+      <jump line="2774" column="5" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_role_auth2.json" />
+      <jump line="2762" column="5" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_role_auth2.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -158,10 +188,10 @@
         <text>小物物量最低処理割合</text>
       </register>
       <register name="/" type="4">
-        <text>leader_subleader</text>
+        <text>password_changed</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnbWF4X3dlZWtfaG91cnNfc2hhaW5fc3RhZmYnOiBtYXRyaXhbMzldW2ldLAogICAgICAgICAgICAgICAgICAgICdtYXhfd2Vla19ob3Vyc19wYXJ0X3N0YWZmJzogbWF0cml4WzQwXVtpXSwKICAgICAgICAgICAgICAgICAgICAna3VyaWtvc2lfdGhyZXNob2xkJzogbWF0cml4WzQxXVtpXSwKICAgICAgICAgICAgICAgICAgICAna29tb25vX2t1cmlrb3NpX3JhdGlvJzogbWF0cml4WzQyXVtpXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBbJ+WNl+Wkp+mYqlRDbmV3JywgNywgMTAwLCA2LCAgMCwgMCwgMiwgMCwgMSwgMSwgIDIsIDIsICAyLDYsMjAsNjAsNDQsNDQsMTcsMTAsOSw5LDksNSwgMjYwMSwgMCwgNDQwMCwgMCwgMCwgMCwgMCwgMCwgMzAsMC44NSwwLjg1LCAxMzAyLCAgMjAwMiwgMiwgJycsMCwwLDAsMF0sCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICJyZXFfc3RhZmZzX21vbmRheSI6IDEsCg==</text>
@@ -195,9 +225,9 @@
       </register>
     </registers>
     <search>
-      <last-search>leader_subleader</last-search>
+      <last-search>password_changed</last-search>
       <last-offset />
-      <last-pattern>leader_subleader</last-pattern>
+      <last-pattern>password_changed</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -205,6 +235,8 @@
       <history-search>
         <entry>ilegal</entry>
         <entry>leader_subleader</entry>
+        <entry>passrowd_changed_at</entry>
+        <entry>password_changed</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
