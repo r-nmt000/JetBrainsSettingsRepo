@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1450931337412">
+      <file name="/Python Console" timestamp="1451013057510">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1450955656162">
+      <file name="/fragment.py" timestamp="1451013139287">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" timestamp="1450869592676">
@@ -16,21 +16,22 @@
         <mark key="." line="214" column="39" />
         <mark key="^" line="50" column="36" />
       </file>
-      <file name="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" timestamp="1450862270795">
-        <mark key="'" line="154" column="0" />
-        <mark key="[" line="174" column="0" />
-        <mark key="]" line="174" column="0" />
-        <mark key="." line="174" column="0" />
-      </file>
       <file name="$USER_HOME$/.pyenv/versions/msl/lib/python2.7/site-packages/django/forms/forms.py" timestamp="1450939748571" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_tc.py" timestamp="1451013035640">
+        <mark key="'" line="632" column="0" />
+        <mark key="[" line="545" column="53" />
+        <mark key="]" line="545" column="53" />
+        <mark key="." line="545" column="53" />
+        <mark key="^" line="545" column="53" />
+      </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/models.py" timestamp="1450925826976">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="70" column="56" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/tc_forms.py" timestamp="1450955725420">
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/tc_forms.py" timestamp="1451011563922">
         <mark key="'" line="125" column="12" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="126" column="34" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="166" column="7" />
       </file>
@@ -142,6 +143,11 @@
       <jump line="4241" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_tc_and_section.json" />
       <jump line="4261" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_tc_and_section.json" />
       <jump line="4281" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_tc_and_section.json" />
+      <jump line="107" column="23" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_tc.py" />
+      <jump line="508" column="19" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_tc.py" />
+      <jump line="93" column="10" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_tc.py" />
+      <jump line="176" column="63" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_tc.py" />
+      <jump line="628" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_tc.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -153,8 +159,8 @@
       <register name="/" type="4">
         <text>leader_subleader</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICB7IyAgRELlgbTjga5oZWRnaW5nX3NjYWxl44Goc3VwcG9ydF9zZWN0aW9uX3Byb2R1Y3Rpdml0eV9yYXRl44Gu5Y2Y5L2N44GM5ZCI44Gj44Gm44GE44Gq44GEI30KICB7IyAg5ZWP6aGM44Gr5a++44GZ44KL5b+c5oCl5Yem572uI30K</text>
+      <register name="0" type="4">
+        <text>0,0,0,0</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICJyZXFfc3RhZmZzX21vbmRheSI6IDEsCg==</text>
@@ -200,6 +206,7 @@
         <entry>leader_subleader</entry>
       </history-search>
       <history-cmd>
+        <entry>ww</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
