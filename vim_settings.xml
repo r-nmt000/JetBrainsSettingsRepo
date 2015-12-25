@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1451013057510">
+      <file name="/Python Console" timestamp="1451013920631">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1451013139287">
+      <file name="/fragment.py" timestamp="1451015248936">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" timestamp="1450869592676">
@@ -17,23 +17,23 @@
         <mark key="^" line="50" column="36" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/msl/lib/python2.7/site-packages/django/forms/forms.py" timestamp="1450939748571" />
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_tc.py" timestamp="1451013035640">
-        <mark key="'" line="632" column="0" />
-        <mark key="[" line="545" column="53" />
-        <mark key="]" line="545" column="53" />
-        <mark key="." line="545" column="53" />
-        <mark key="^" line="545" column="53" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_tc.py" timestamp="1451015278801">
+        <mark key="'" line="498" column="0" />
+        <mark key="[" line="130" column="161" />
+        <mark key="]" line="130" column="172" />
+        <mark key="." line="130" column="172" />
+        <mark key="^" line="130" column="172" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/models.py" timestamp="1450925826976">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="70" column="56" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/tc_forms.py" timestamp="1451011563922">
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/tc_forms.py" timestamp="1451015458564">
         <mark key="'" line="125" column="12" />
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="126" column="34" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="166" column="7" />
+        <mark key="[" line="180" column="78" />
+        <mark key="]" line="181" column="37" />
+        <mark key="." line="181" column="37" />
+        <mark key="^" line="181" column="37" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/tc_detail.html" timestamp="1450960270245">
         <mark key="[" line="42" column="38" />
@@ -90,7 +90,7 @@
         <mark key="." line="71" column="0" />
         <mark key="^" line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/tc_service.py" timestamp="1450956571800">
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/tc_service.py" timestamp="1451014338740">
         <mark key="j" line="329" column="22" />
         <mark key="k" line="330" column="22" />
         <mark key="[" line="294" column="59" />
@@ -148,6 +148,7 @@
       <jump line="93" column="10" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_tc.py" />
       <jump line="176" column="63" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_tc.py" />
       <jump line="628" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_tc.py" />
+      <jump line="498" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_tc.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -159,8 +160,8 @@
       <register name="/" type="4">
         <text>leader_subleader</text>
       </register>
-      <register name="0" type="4">
-        <text>0,0,0,0</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnbWF4X3dlZWtfaG91cnNfc2hhaW5fc3RhZmYnOiBtYXRyaXhbMzldW2ldLAogICAgICAgICAgICAgICAgICAgICdtYXhfd2Vla19ob3Vyc19wYXJ0X3N0YWZmJzogbWF0cml4WzQwXVtpXSwKICAgICAgICAgICAgICAgICAgICAna3VyaWtvc2lfdGhyZXNob2xkJzogbWF0cml4WzQxXVtpXSwKICAgICAgICAgICAgICAgICAgICAna29tb25vX2t1cmlrb3NpX3JhdGlvJzogbWF0cml4WzQyXVtpXSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICJyZXFfc3RhZmZzX21vbmRheSI6IDEsCg==</text>
