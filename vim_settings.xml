@@ -3,14 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1451876976103">
+      <file name="/Python Console" timestamp="1451879161413">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1451877530112">
+      <file name="/fragment.py" timestamp="1451879135506">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1451032276211">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/vrp/tests/mst/test_version_edit_forms.py" timestamp="1451879080028">
+        <mark key="[" line="30" column="52" />
       </file>
       <file name="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" timestamp="1450869592676">
         <mark key="'" line="214" column="8" />
@@ -37,6 +40,11 @@
         <mark key="]" line="181" column="37" />
         <mark key="." line="181" column="37" />
         <mark key="^" line="181" column="37" />
+      </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_section.py" timestamp="1451881202731">
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="194" column="10" />
+        <mark key="." line="117" column="0" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/tc_detail.html" timestamp="1450960270245">
         <mark key="[" line="42" column="38" />
@@ -74,11 +82,13 @@
         <mark key="." line="2161" column="31" />
         <mark key="^" line="2161" column="31" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_section_form.py" timestamp="1451876608807">
-        <mark key="[" line="110" column="47" />
-        <mark key="]" line="112" column="28" />
-        <mark key="^" line="112" column="28" />
-        <mark key="." line="112" column="28" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_section_form.py" timestamp="1451881801955">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="46" column="19" />
+        <mark key="k" line="46" column="8" />
+        <mark key="]" line="46" column="22" />
+        <mark key="^" line="46" column="22" />
+        <mark key="." line="46" column="22" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/msl/lib/python2.7/site-packages/django/core/exceptions.py" timestamp="1450937816352" />
       <file name="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/views/job_register.py" timestamp="1450706682619">
@@ -185,46 +195,47 @@
       <jump line="2786" column="5" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_role_auth2.json" />
       <jump line="2774" column="5" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_role_auth2.json" />
       <jump line="2762" column="5" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_role_auth2.json" />
+      <jump line="45" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_section_form.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>小物物量最低処理割合</text>
+        <text>月曜日がTrueだが月曜日のスタッフが0のためエラー</text>
       </register>
       <register name="/" type="4">
         <text>password_changed</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBbJ+WNl+Wkp+mYqlRDbmV3JywgNywgMTAwLCA2LCAgMCwgMCwgMiwgMCwgMSwgMSwgIDIsIDIsICAyLDYsMjAsNjAsNDQsNDQsMTcsMTAsOSw5LDksNSwgMjYwMSwgMCwgNDQwMCwgMCwgMCwgMCwgMCwgMCwgMzAsMC44NSwwLjg1LCAxMzAyLCAgMjAwMiwgMiwgJycsMCwwLDAsMF0sCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3JtID0gU2VjdGlvbkZvcm0oaWxsZWdhbF9wYXJhbXMsIGluc3RhbmNlPXNlbGYuc2VjdGlvbikKICAgICAgICBzZWxmLmFzc2VydEZhbHNlKGZvcm0uaXNfdmFsaWQoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJyZXFfc3RhZmZzX21vbmRheSI6IDEsCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3JtID0gU2UK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICJsZWFkZXJfc3VibGVhZGVyX3JlcV9mbGciOiB0cnVlLAo=</text>
+      <register name="2" type="4">
+        <text>月曜日がTrueだが月曜日のスタッフが0のためエラー</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJsZWFkZXJfc3VibGVhZGVyX3JlcV9mbGciOiB0cnVlLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICJsZWFkZXJfc3VibGVhZGVyX3JlcV9mbGciOiB0cnVlLAo=</text>
+      <register name="4" type="4">
+        <text>False</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJsZWFkZXJfc3VibGVhZGVyX3JlcV9mbGciOiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgcGFyYW1zIGluIGlsbGVnYWxfcGFyYW1zOgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICJsZWFkZXJfc3VibGVhZGVyX3JlcV9mbGciOiB0cnVlLAo=</text>
+      <register name="6" type="4">
+        <text>illegal_params</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJsZWFkZXJfc3VibGVhZGVyX3JlcV9mbGciOiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgICAgICBmb3JtID0gU2VjdGlvbkZvcm0ocGFyYW1zLCBpbnN0YW5jZT1zZWxmLnNlY3Rpb24pCiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKGZvcm0uaXNfdmFsaWQoKSkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICJsZWFkZXJfc3VibGVhZGVyX3JlcV9mbGciOiB0cnVlLAo=</text>
+      <register name="8" type="4">
+        <text>params</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJsZWFkZXJfc3VibGVhZGVyX3JlcV9mbGciOiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgICAgICAjIOODquODvOODgOODvOWItue0hOWFqOabnOaXpUZhbHNlLCDjgrnjgr/jg4Pjg5Xlhajmm5zml6Uw5Lq6LCDnianph4/kvp3lrZjjgarjgZcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
