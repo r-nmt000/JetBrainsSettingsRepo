@@ -82,13 +82,13 @@
         <mark key="." line="2161" column="31" />
         <mark key="^" line="2161" column="31" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_section_form.py" timestamp="1451881801955">
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_section_form.py" timestamp="1451882252085">
         <mark key="'" line="45" column="0" />
-        <mark key="[" line="46" column="19" />
+        <mark key="[" line="73" column="53" />
         <mark key="k" line="46" column="8" />
-        <mark key="]" line="46" column="22" />
-        <mark key="^" line="46" column="22" />
-        <mark key="." line="46" column="22" />
+        <mark key="]" line="73" column="51" />
+        <mark key="^" line="73" column="51" />
+        <mark key="." line="73" column="51" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/msl/lib/python2.7/site-packages/django/core/exceptions.py" timestamp="1450937816352" />
       <file name="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/views/job_register.py" timestamp="1450706682619">
@@ -202,40 +202,40 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>月曜日がTrueだが月曜日のスタッフが0のためエラー</text>
+        <text>セクション</text>
       </register>
       <register name="/" type="4">
         <text>password_changed</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtID0gU2VjdGlvbkZvcm0oaWxsZWdhbF9wYXJhbXMsIGluc3RhbmNlPXNlbGYuc2VjdGlvbikKICAgICAgICBzZWxmLmFzc2VydEZhbHNlKGZvcm0uaXNfdmFsaWQoKSkK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgcGFyYW1zIGluIGlsbGVnYWxfcGFyYW1zX3NldDoKICAgICAgICAgICAgZm9ybSA9IFNlY3Rpb25Gb3JtKHBhcmFtcywgaW5zdGFuY2U9c2VsZi5zZWN0aW9uKQogICAgICAgICAgICBzZWxmLmFzc2VydEZhbHNlKGZvcm0uaXNfdmFsaWQoKSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtID0gU2UK</text>
+      <register name="1" type="4">
+        <text>セクション</text>
       </register>
       <register name="2" type="4">
-        <text>月曜日がTrueだが月曜日のスタッフが0のためエラー</text>
+        <text>変更</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>False</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBsZWdhbF9wYXJhbXNfc2V0ID0gKAogICAgICAgICAgICAjIOODquODvOODgOODvOWItue0hOWFqOabnOaXpUZhbHNlLCDjgrnjgr/jg4Pjg5Xlhajmm5zml6Uw5Lq6LCDnianph4/kvp3lrZjjgarjgZcKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgJ25hbWUnOiAndGVzdCcsCiAgICAgICAgICAgICAgICAncmVxX3N0YWZmc19tb25kYXknOiAnMCcsICdyZXFfc3RhZmZzX3R1ZXNkYXknOiAnMCcsICdyZXFfc3RhZmZzX3dlZG5lc2RheSc6ICcwJywKICAgICAgICAgICAgICAgICdyZXFfc3RhZmZzX3RodXJzZGF5JzogJzAnLCAncmVxX3N0YWZmc19mcmlkYXknOiAnMCcsICdyZXFfc3RhZmZzX3NhdHVyZGF5JzogJzAnLAogICAgICAgICAgICAgICAgJ3JlcV9zdGFmZnNfc3VuZGF5JzogJzAnLCAncmVxX3N0YWZmc19ob2xpZGF5JzogJzAnLAogICAgICAgICAgICAgICAgJ3JlcV9sZWFkZXJfc3VibGVhZGVyX21vbmRheV9mbGcnOiBGYWxzZSwgJ3JlcV9sZWFkZXJfc3VibGVhZGVyX3R1ZXNkYXlfZmxnJzogRmFsc2UsCiAgICAgICAgICAgICAgICAncmVxX2xlYWRlcl9zdWJsZWFkZXJfd2VkbmVzZGF5X2ZsZyc6IEZhbHNlLCAncmVxX2xlYWRlcl9zdWJsZWFkZXJfdGh1cnNkYXlfZmxnJzogRmFsc2UsCiAgICAgICAgICAgICAgICAncmVxX2xlYWRlcl9zdWJsZWFkZXJfZnJpZGF5X2ZsZyc6IEZhbHNlLCAncmVxX2xlYWRlcl9zdWJsZWFkZXJfc2F0dXJkYXlfZmxnJzogRmFsc2UsCiAgICAgICAgICAgICAgICAncmVxX2xlYWRlcl9zdWJsZWFkZXJfc3VuZGF5X2ZsZyc6IEZhbHNlLCAncmVxX2xlYWRlcl9zdWJsZWFkZXJfaG9saWRheV9mbGcnOiBGYWxzZSwKICAgICAgICAgICAgICAgICdhbW91bnRfZGVwZW5kZW50X2ZsZyc6IEZhbHNlCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICMg44Oq44O844OA44O85Yi257SE5YWo5puc5pelRmFsc2UsIOOCueOCv+ODg+ODleWFqOabnOaXpTHkurosIOeJqemHj+S+neWtmOOBquOBlwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAnbmFtZSc6ICd0ZXN0JywKICAgICAgICAgICAgICAgICdyZXFfc3RhZmZzX21vbmRheSc6ICcxJywgJ3JlcV9zdGFmZnNfdHVlc2RheSc6ICcxJywgJ3JlcV9zdGFmZnNfd2VkbmVzZGF5JzogJzEnLAogICAgICAgICAgICAgICAgJ3JlcV9zdGFmZnNfdGh1cnNkYXknOiAnMScsICdyZXFfc3RhZmZzX2ZyaWRheSc6ICcxJywgJ3JlcV9zdGFmZnNfc2F0dXJkYXknOiAnMScsCiAgICAgICAgICAgICAgICAncmVxX3N0YWZmc19zdW5kYXknOiAnMScsICdyZXFfc3RhZmZzX2hvbGlkYXknOiAnMScsCiAgICAgICAgICAgICAgICAncmVxX2xlYWRlcl9zdWJsZWFkZXJfbW9uZGF5X2ZsZyc6IEZhbHNlLCAncmVxX2xlYWRlcl9zdWJsZWFkZXJfdHVlc2RheV9mbGcnOiBGYWxzZSwKICAgICAgICAgICAgICAgICdyZXFfbGVhZGVyX3N1YmxlYWRlcl93ZWRuZXNkYXlfZmxnJzogRmFsc2UsICdyZXFfbGVhZGVyX3N1YmxlYWRlcl90aHVyc2RheV9mbGcnOiBGYWxzZSwKICAgICAgICAgICAgICAgICdyZXFfbGVhZGVyX3N1YmxlYWRlcl9mcmlkYXlfZmxnJzogRmFsc2UsICdyZXFfbGVhZGVyX3N1YmxlYWRlcl9zYXR1cmRheV9mbGcnOiBGYWxzZSwKICAgICAgICAgICAgICAgICdyZXFfbGVhZGVyX3N1YmxlYWRlcl9zdW5kYXlfZmxnJzogRmFsc2UsICdyZXFfbGVhZGVyX3N1YmxlYWRlcl9ob2xpZGF5X2ZsZyc6IEZhbHNlLAogICAgICAgICAgICAgICAgJ2Ftb3VudF9kZXBlbmRlbnRfZmxnJzogRmFsc2UKICAgICAgICAgICAgfSwKICAgICAgICAgICAgIyDjg6rjg7zjg4Djg7zliLbntITlhajmm5zml6VUcnVlLCDjgrnjgr/jg4Pjg5Xlhajmm5zml6UxLCDnianph4/kvp3lrZjjgarjgZcKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgJ25hbWUnOiAndGVzdCcsCiAgICAgICAgICAgICAgICAncmVxX3N0YWZmc19tb25kYXknOiAnMScsICdyZXFfc3RhZmZzX3R1ZXNkYXknOiAnMScsICdyZXFfc3RhZmZzX3dlZG5lc2RheSc6ICcxJywKICAgICAgICAgICAgICAgICdyZXFfc3RhZmZzX3RodXJzZGF5JzogJzEnLCAncmVxX3N0YWZmc19mcmlkYXknOiAnMScsICdyZXFfc3RhZmZzX3NhdHVyZGF5JzogJzEnLAogICAgICAgICAgICAgICAgJ3JlcV9zdGFmZnNfc3VuZGF5JzogJzEnLCAncmVxX3N0YWZmc19ob2xpZGF5JzogJzEnLAogICAgICAgICAgICAgICAgJ3JlcV9sZWFkZXJfc3VibGVhZGVyX21vbmRheV9mbGcnOiBUcnVlLCAncmVxX2xlYWRlcl9zdWJsZWFkZXJfdHVlc2RheV9mbGcnOiBUcnVlLAogICAgICAgICAgICAgICAgJ3JlcV9sZWFkZXJfc3VibGVhZGVyX3dlZG5lc2RheV9mbGcnOiBUcnVlLCAncmVxX2xlYWRlcl9zdWJsZWFkZXJfdGh1cnNkYXlfZmxnJzogVHJ1ZSwKICAgICAgICAgICAgICAgICdyZXFfbGVhZGVyX3N1YmxlYWRlcl9mcmlkYXlfZmxnJzogVHJ1ZSwgJ3JlcV9sZWFkZXJfc3VibGVhZGVyX3NhdHVyZGF5X2ZsZyc6IFRydWUsCiAgICAgICAgICAgICAgICAncmVxX2xlYWRlcl9zdWJsZWFkZXJfc3VuZGF5X2ZsZyc6IFRydWUsICdyZXFfbGVhZGVyX3N1YmxlYWRlcl9ob2xpZGF5X2ZsZyc6IFRydWUsCiAgICAgICAgICAgICAgICAnYW1vdW50X2RlcGVuZGVudF9mbGcnOiBGYWxzZQogICAgICAgICAgICB9LAogICAgICAgICAgICAjIOODquODvOODgOODvOWItue0hOWFqOabnOaXpVRydWUsIOOCueOCv+ODg+ODleWFqOabnOaXpTAsIOeJqemHj+S+neWtmOOBguOCigogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAnbmFtZSc6ICd0ZXN0JywKICAgICAgICAgICAgICAgICdyZXFfc3RhZmZzX21vbmRheSc6ICcwJywgJ3JlcV9zdGFmZnNfdHVlc2RheSc6ICcwJywgJ3JlcV9zdGFmZnNfd2VkbmVzZGF5JzogJzAnLAogICAgICAgICAgICAgICAgJ3JlcV9zdGFmZnNfdGh1cnNkYXknOiAnMCcsICdyZXFfc3RhZmZzX2ZyaWRheSc6ICcwJywgJ3JlcV9zdGFmZnNfc2F0dXJkYXknOiAnMCcsCiAgICAgICAgICAgICAgICAncmVxX3N0YWZmc19zdW5kYXknOiAnMCcsICdyZXFfc3RhZmZzX2hvbGlkYXknOiAnMCcsCiAgICAgICAgICAgICAgICAncmVxX2xlYWRlcl9zdWJsZWFkZXJfbW9uZGF5X2ZsZyc6IFRydWUsICdyZXFfbGVhZGVyX3N1YmxlYWRlcl90dWVzZGF5X2ZsZyc6IFRydWUsCiAgICAgICAgICAgICAgICAncmVxX2xlYWRlcl9zdWJsZWFkZXJfd2VkbmVzZGF5X2ZsZyc6IFRydWUsICdyZXFfbGVhZGVyX3N1YmxlYWRlcl90aHVyc2RheV9mbGcnOiBUcnVlLAogICAgICAgICAgICAgICAgJ3JlcV9sZWFkZXJfc3VibGVhZGVyX2ZyaWRheV9mbGcnOiBUcnVlLCAncmVxX2xlYWRlcl9zdWJsZWFkZXJfc2F0dXJkYXlfZmxnJzogVHJ1ZSwKICAgICAgICAgICAgICAgICdyZXFfbGVhZGVyX3N1YmxlYWRlcl9zdW5kYXlfZmxnJzogVHJ1ZSwgJ3JlcV9sZWFkZXJfc3VibGVhZGVyX2hvbGlkYXlfZmxnJzogVHJ1ZSwKICAgICAgICAgICAgICAgICdhbW91bnRfZGVwZW5kZW50X2ZsZyc6IFRydWUKICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgcGFyYW1zIGluIGlsbGVnYWxfcGFyYW1zOgo=</text>
+      <register name="5" type="4">
+        <text>小数点を含む</text>
       </register>
       <register name="6" type="4">
-        <text>illegal_params</text>
+        <text>マイナス</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtID0gU2VjdGlvbkZvcm0ocGFyYW1zLCBpbnN0YW5jZT1zZWxmLnNlY3Rpb24pCiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKGZvcm0uaXNfdmFsaWQoKSkK</text>
+      <register name="7" type="4">
+        <text>リーダー制約全曜日False, スタッフ全曜日0人, 物量依存なし</text>
       </register>
-      <register name="8" type="4">
-        <text>params</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIOODquODvOODgOODvOWItue0hOWFqOabnOaXpUZhbHNlLCDjgrnjgr/jg4Pjg5Xlhajmm5zml6Uw5Lq6LCDnianph4/kvp3lrZjjgarjgZcK</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiBudWxsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
