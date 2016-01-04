@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/section_service.py" timestamp="1451898586775">
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/section_service.py" timestamp="1451899608362">
         <mark key="'" line="130" column="8" />
       </file>
-      <file name="/Python Console" timestamp="1451898459820">
+      <file name="/Python Console" timestamp="1451899858474">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1451894294279">
@@ -151,7 +151,12 @@
         <mark key="." line="71" column="0" />
         <mark key="^" line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/section_forms.py" timestamp="1451898639190" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/section_forms.py" timestamp="1451899947465">
+        <mark key="[" line="63" column="104" />
+        <mark key="]" line="64" column="91" />
+        <mark key="^" line="64" column="91" />
+        <mark key="." line="64" column="91" />
+      </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/tc_service.py" timestamp="1451014338740">
         <mark key="j" line="329" column="22" />
         <mark key="k" line="330" column="22" />
@@ -264,31 +269,31 @@
         <text encoding="base64">ICAgIGRlZiBmbGF0dGVuX2Vycm9yX2RhdGEoc2VsZiwgZm9ybSk6CiAgICAgICAgIiIiZm9ybS5lcnJvcnMuYXNfZGF0YSgp44Gu5YWl44KM5a2Q5qeL6YCg44KS5bGV6ZaL44GX44Gm44Gf44Gg44Gu44Oq44K544OI44Gr44GZ44KLCgogICAgICAgIDpwYXJhbSBmb3JtOgogICAgICAgIDp0eXBlIGZvcm06CiAgICAgICAgOnJldHVybjoKICAgICAgICA6cnR5cGU6CiAgICAgICAgIiIiCiAgICAgICAgZmxhdHRlbiA9IGxhbWJkYSB4OiBbeSBmb3IgbCBpbiB4IGZvciB5IGluIGZsYXR0ZW4obCldIGlmIHR5cGUoeCkgaXMgbGlzdCBlbHNlIFt4XQogICAgICAgIHJldHVybiBmbGF0dGVuKGZvcm0uZXJyb3JzLmFzX2RhdGEoKS52YWx1ZXMoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyByYWlzZSBmb3Jtcy5WYWxpZGF0aW9uRXJyb3IocmVxX3Nob3J0X2Vycl9tc2dfcHJlZml4ICsgbCArIHUnOiDjg6rjg7zjg4Djg7zjgrXjg5bjg6rjg7zjg4Djg7zliLbntITjgYzjgYLjgovloLTlkIjjga/jgIEx5Lul5LiK44Gu5YCk44KS5YWl5Yqb44GX44Gm44GP44Gg44GV44GE44CCJykK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBmbGF0dGVuX2Vycm9yX2RhdGEoc2VsZiwgZm9ybSk6CiAgICAgICAgIiIiZm9ybS5lcnJvcnMuYXNfZGF0YSgp44Gu5YWl44KM5a2Q5qeL6YCg44KS5bGV6ZaL44GX44Gm44Gf44Gg44Gu44Oq44K544OI44Gr44GZ44KLCgogICAgICAgIDpwYXJhbSBmb3JtOgogICAgICAgIDp0eXBlIGZvcm06CiAgICAgICAgOnJldHVybjoKICAgICAgICA6cnR5cGU6CiAgICAgICAgIiIiCiAgICAgICAgZmxhdHRlbiA9IGxhbWJkYSB4OiBbeSBmb3IgbCBpbiB4IGZvciB5IGluIGZsYXR0ZW4obCldIGlmIHR5cGUoeCkgaXMgbGlzdCBlbHNlIFt4XQogICAgICAgIHJldHVybiBmbGF0dGVuKGZvcm0uZXJyb3JzLmFzX2RhdGEoKS52YWx1ZXMoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>self</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRlZiBmbGF0dGVuX2Vycm9yX2RhdGEoc2VsZiwgZm9ybSk6CiAgICAgICAgIiIiZm9ybS5lcnJvcnMuYXNfZGF0YSgp44Gu5YWl44KM5a2Q5qeL6YCg44KS5bGV6ZaL44GX44Gm44Gf44Gg44Gu44Oq44K544OI44Gr44GZ44KLCgogICAgICAgIDpwYXJhbSBmb3JtOgogICAgICAgIDp0eXBlIGZvcm06CiAgICAgICAgOnJldHVybjoKICAgICAgICA6cnR5cGU6CiAgICAgICAgIiIiCiAgICAgICAgZmxhdHRlbiA9IGxhbWJkYSB4OiBbeSBmb3IgbCBpbiB4IGZvciB5IGluIGZsYXR0ZW4obCldIGlmIHR5cGUoeCkgaXMgbGlzdCBlbHNlIFt4XQogICAgICAgIHJldHVybiBmbGF0dGVuKGZvcm0uZXJyb3JzLmFzX2RhdGEoKS52YWx1ZXMoKSkK</text>
       </register>
       <register name="5" type="4">
         <text>self</text>
       </register>
       <register name="6" type="4">
-        <text>const</text>
+        <text>self</text>
       </register>
       <register name="7" type="4">
+        <text>const</text>
+      </register>
+      <register name="8" type="4">
         <text>MESSAGE_VERSION_BOUND_TO_TC_DELETE_ERROR</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ZnJvbSBkamFuZ28uZm9ybXMgaW1wb3J0IENoZWNrYm94U2VsZWN0TXVsdGlwbGUsIFJhZGlvU2VsZWN0LCBIaWRkZW5JbnB1dApmcm9tIGRqYW5nby5mb3Jtcy5tb2RlbHMgaW1wb3J0IG1vZGVsZm9ybXNldF9mYWN0b3J5LCBtb2RlbGZvcm1fZmFjdG9yeQoKZnJvbSBjb3B5IGltcG9ydCBjb3B5CmZyb20gZGphbmdvLnRlc3Quc2lnbmFscyBpbXBvcnQgdGVtcGxhdGVfcmVuZGVyZWQKZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWVkZWx0YQoKZnJvbSBkamFuZ28udGVzdC51dGlscyBpbXBvcnQgc2V0dXBfdGVzdF9lbnZpcm9ubWVudApmcm9tIGRqYW5nby5jb250cmliLmF1dGggaW1wb3J0IGF1dGhlbnRpY2F0ZQoKZnJvbSBkamFuZ28uY29udHJpYi5hdXRoLm1vZGVscyBpbXBvcnQgVXNlciwgR3JvdXAKZnJvbSBzdGFmZiBpbXBvcnQgbW9kZWxzCmZyb20gc3RhZmYudmlld3MubXN0IGltcG9ydCBzZWN0aW9uX3NlcnZpY2UK</text>
-      </register>
-      <register name="9" type="4">
-        <text>, RequestFactory</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
