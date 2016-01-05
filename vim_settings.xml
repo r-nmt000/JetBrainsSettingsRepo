@@ -95,6 +95,12 @@
         <mark key="." line="17" column="21" />
         <mark key="^" line="16" column="24" />
       </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/const.py" timestamp="1451955812869">
+        <mark key="[" line="238" column="71" />
+        <mark key="]" line="238" column="71" />
+        <mark key="^" line="238" column="35" />
+        <mark key="." line="238" column="71" />
+      </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register_service.py" timestamp="1450073801990">
         <mark key="'" line="110" column="0" />
         <mark key="[" line="116" column="34" />
@@ -151,11 +157,11 @@
         <mark key="." line="71" column="0" />
         <mark key="^" line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/section_forms.py" timestamp="1451954956078">
-        <mark key="[" line="63" column="44" />
-        <mark key="]" line="63" column="44" />
-        <mark key="^" line="63" column="41" />
-        <mark key="." line="63" column="44" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/section_forms.py" timestamp="1451955878084">
+        <mark key="[" line="63" column="48" />
+        <mark key="]" line="63" column="74" />
+        <mark key="^" line="63" column="74" />
+        <mark key="." line="63" column="74" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/tc_service.py" timestamp="1451014338740">
         <mark key="j" line="329" column="22" />
@@ -260,40 +266,40 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>req_short_err_msg_prefix</text>
+        <text>0以上</text>
       </register>
       <register name="/" type="4">
         <text>password_changed</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBmbGF0dGVuX2Vycm9yX2RhdGEoc2VsZiwgZm9ybSk6CiAgICAgICAgIiIiZm9ybS5lcnJvcnMuYXNfZGF0YSgp44Gu5YWl44KM5a2Q5qeL6YCg44KS5bGV6ZaL44GX44Gm44Gf44Gg44Gu44Oq44K544OI44Gr44GZ44KLCgogICAgICAgIDpwYXJhbSBmb3JtOgogICAgICAgIDp0eXBlIGZvcm06CiAgICAgICAgOnJldHVybjoKICAgICAgICA6cnR5cGU6CiAgICAgICAgIiIiCiAgICAgICAgZmxhdHRlbiA9IGxhbWJkYSB4OiBbeSBmb3IgbCBpbiB4IGZvciB5IGluIGZsYXR0ZW4obCldIGlmIHR5cGUoeCkgaXMgbGlzdCBlbHNlIFt4XQogICAgICAgIHJldHVybiBmbGF0dGVuKGZvcm0uZXJyb3JzLmFzX2RhdGEoKS52YWx1ZXMoKSkK</text>
+      <register name="0" type="4">
+        <text>u'リーダーサブルーダー制約がある場合は、1以上の値を入力してください。')</text>
       </register>
       <register name="1" type="4">
-        <text>req_short_err_msg_prefix</text>
+        <text>0以上</text>
       </register>
       <register name="2" type="4">
+        <text>リーダーサブルーダー</text>
+      </register>
+      <register name="3" type="4">
         <text>req_short_err_msg_prefix</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyByYWlzZSBmb3Jtcy5WYWxpZGF0aW9uRXJyb3IocmVxX3Nob3J0X2Vycl9tc2dfcHJlZml4ICsgbCArIHUnOiAw5Lul5LiK44Gu5YCk44KS5YWl5Yqb44GX44Gm44GP44Gg44GV44GE44CCJykK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyByYWlzZSBmb3Jtcy5WYWxpZGF0aW9uRXJyb3IocmVxX3Nob3J0X2Vycl9tc2dfcHJlZml4ICsgbCArIHUnOiDjg6rjg7zjg4Djg7zjgrXjg5bjg6rjg7zjg4Djg7zliLbntITjgYzjgYLjgovloLTlkIjjga/jgIEx5Lul5LiK44Gu5YCk44KS5YWl5Yqb44GX44Gm44GP44Gg44GV44GE44CCJykK</text>
+      <register name="4" type="4">
+        <text>req_short_err_msg_prefix</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyByYWlzZSBmb3Jtcy5WYWxpZGF0aW9uRXJyb3IocmVxX3Nob3J0X2Vycl9tc2dfcHJlZml4ICsgbCArIHUnOiAw5Lul5LiK44Gu5YCk44KS5YWl5Yqb44GX44Gm44GP44Gg44GV44GE44CCJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyByYWlzZSBmb3Jtcy5WYWxpZGF0aW9uRXJyb3IocmVxX3Nob3J0X2Vycl9tc2dfcHJlZml4ICsgbCArIHUnOiDjg6rjg7zjg4Djg7zjgrXjg5bjg6rjg7zjg4Djg7zliLbntITjgYzjgYLjgovloLTlkIjjga/jgIEx5Lul5LiK44Gu5YCk44KS5YWl5Yqb44GX44Gm44GP44Gg44GV44GE44CCJykK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgIGRlZiBmbGF0dGVuX2Vycm9yX2RhdGEoc2VsZiwgZm9ybSk6CiAgICAgICAgIiIiZm9ybS5lcnJvcnMuYXNfZGF0YSgp44Gu5YWl44KM5a2Q5qeL6YCg44KS5bGV6ZaL44GX44Gm44Gf44Gg44Gu44Oq44K544OI44Gr44GZ44KLCgogICAgICAgIDpwYXJhbSBmb3JtOgogICAgICAgIDp0eXBlIGZvcm06CiAgICAgICAgOnJldHVybjoKICAgICAgICA6cnR5cGU6CiAgICAgICAgIiIiCiAgICAgICAgZmxhdHRlbiA9IGxhbWJkYSB4OiBbeSBmb3IgbCBpbiB4IGZvciB5IGluIGZsYXR0ZW4obCldIGlmIHR5cGUoeCkgaXMgbGlzdCBlbHNlIFt4XQogICAgICAgIHJldHVybiBmbGF0dGVuKGZvcm0uZXJyb3JzLmFzX2RhdGEoKS52YWx1ZXMoKSkK</text>
-      </register>
-      <register name="8" type="4">
-        <text>self</text>
-      </register>
-      <register name="9" type="4">
-        <text>self</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
