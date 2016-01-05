@@ -151,11 +151,11 @@
         <mark key="." line="71" column="0" />
         <mark key="^" line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/section_forms.py" timestamp="1451900912465">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="^" line="63" column="91" />
-        <mark key="." line="63" column="0" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/section_forms.py" timestamp="1451954956078">
+        <mark key="[" line="63" column="44" />
+        <mark key="]" line="63" column="44" />
+        <mark key="^" line="63" column="41" />
+        <mark key="." line="63" column="44" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/tc_service.py" timestamp="1451014338740">
         <mark key="j" line="329" column="22" />
@@ -260,7 +260,7 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>self</text>
+        <text>req_short_err_msg_prefix</text>
       </register>
       <register name="/" type="4">
         <text>password_changed</text>
@@ -268,32 +268,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBmbGF0dGVuX2Vycm9yX2RhdGEoc2VsZiwgZm9ybSk6CiAgICAgICAgIiIiZm9ybS5lcnJvcnMuYXNfZGF0YSgp44Gu5YWl44KM5a2Q5qeL6YCg44KS5bGV6ZaL44GX44Gm44Gf44Gg44Gu44Oq44K544OI44Gr44GZ44KLCgogICAgICAgIDpwYXJhbSBmb3JtOgogICAgICAgIDp0eXBlIGZvcm06CiAgICAgICAgOnJldHVybjoKICAgICAgICA6cnR5cGU6CiAgICAgICAgIiIiCiAgICAgICAgZmxhdHRlbiA9IGxhbWJkYSB4OiBbeSBmb3IgbCBpbiB4IGZvciB5IGluIGZsYXR0ZW4obCldIGlmIHR5cGUoeCkgaXMgbGlzdCBlbHNlIFt4XQogICAgICAgIHJldHVybiBmbGF0dGVuKGZvcm0uZXJyb3JzLmFzX2RhdGEoKS52YWx1ZXMoKSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyByYWlzZSBmb3Jtcy5WYWxpZGF0aW9uRXJyb3IocmVxX3Nob3J0X2Vycl9tc2dfcHJlZml4ICsgbCArIHUnOiAw5Lul5LiK44Gu5YCk44KS5YWl5Yqb44GX44Gm44GP44Gg44GV44GE44CCJykK</text>
+      <register name="1" type="4">
+        <text>req_short_err_msg_prefix</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyByYWlzZSBmb3Jtcy5WYWxpZGF0aW9uRXJyb3IocmVxX3Nob3J0X2Vycl9tc2dfcHJlZml4ICsgbCArIHUnOiDjg6rjg7zjg4Djg7zjgrXjg5bjg6rjg7zjg4Djg7zliLbntITjgYzjgYLjgovloLTlkIjjga/jgIEx5Lul5LiK44Gu5YCk44KS5YWl5Yqb44GX44Gm44GP44Gg44GV44GE44CCJykK</text>
+      <register name="2" type="4">
+        <text>req_short_err_msg_prefix</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyByYWlzZSBmb3Jtcy5WYWxpZGF0aW9uRXJyb3IocmVxX3Nob3J0X2Vycl9tc2dfcHJlZml4ICsgbCArIHUnOiAw5Lul5LiK44Gu5YCk44KS5YWl5Yqb44GX44Gm44GP44Gg44GV44GE44CCJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyByYWlzZSBmb3Jtcy5WYWxpZGF0aW9uRXJyb3IocmVxX3Nob3J0X2Vycl9tc2dfcHJlZml4ICsgbCArIHUnOiDjg6rjg7zjg4Djg7zjgrXjg5bjg6rjg7zjg4Djg7zliLbntITjgYzjgYLjgovloLTlkIjjga/jgIEx5Lul5LiK44Gu5YCk44KS5YWl5Yqb44GX44Gm44GP44Gg44GV44GE44CCJykK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGRlZiBmbGF0dGVuX2Vycm9yX2RhdGEoc2VsZiwgZm9ybSk6CiAgICAgICAgIiIiZm9ybS5lcnJvcnMuYXNfZGF0YSgp44Gu5YWl44KM5a2Q5qeL6YCg44KS5bGV6ZaL44GX44Gm44Gf44Gg44Gu44Oq44K544OI44Gr44GZ44KLCgogICAgICAgIDpwYXJhbSBmb3JtOgogICAgICAgIDp0eXBlIGZvcm06CiAgICAgICAgOnJldHVybjoKICAgICAgICA6cnR5cGU6CiAgICAgICAgIiIiCiAgICAgICAgZmxhdHRlbiA9IGxhbWJkYSB4OiBbeSBmb3IgbCBpbiB4IGZvciB5IGluIGZsYXR0ZW4obCldIGlmIHR5cGUoeCkgaXMgbGlzdCBlbHNlIFt4XQogICAgICAgIHJldHVybiBmbGF0dGVuKGZvcm0uZXJyb3JzLmFzX2RhdGEoKS52YWx1ZXMoKSkK</text>
       </register>
-      <register name="6" type="4">
-        <text>self</text>
-      </register>
-      <register name="7" type="4">
-        <text>self</text>
-      </register>
       <register name="8" type="4">
-        <text>const</text>
+        <text>self</text>
       </register>
       <register name="9" type="4">
-        <text>MESSAGE_VERSION_BOUND_TO_TC_DELETE_ERROR</text>
+        <text>self</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
