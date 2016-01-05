@@ -6,10 +6,10 @@
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/section_service.py" timestamp="1451899608362">
         <mark key="'" line="130" column="8" />
       </file>
-      <file name="/Python Console" timestamp="1451899858474">
+      <file name="/Python Console" timestamp="1451962613628">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1451894294279">
+      <file name="/fragment.py" timestamp="1451962690880">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/Brainpad/TS/engineer-training-basic/django_portal/core/urls.py" timestamp="1450003631047">
@@ -134,12 +134,12 @@
         <mark key="^" line="160" column="32" />
         <mark key="." line="159" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_tc_form.py" timestamp="1451895532298">
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_tc_form.py" timestamp="1451962745903">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="14" column="1" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="45" column="42" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="120" column="9" />
+        <mark key="." line="75" column="11" />
+        <mark key="^" line="75" column="11" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register.py" timestamp="1450076984229">
         <mark key="'" line="223" column="32" />
@@ -263,40 +263,40 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>0以上</text>
+        <text>assertTrue</text>
       </register>
       <register name="/" type="4">
         <text>password_changed</text>
       </register>
-      <register name="0" type="4">
-        <text>u'リーダーサブルーダー制約がある場合は、1以上の値を入力してください。')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAnbmFtZSc6ICfljZflpKfpmKpUQ25ldycsCiAgICAgICAgICAgICdzdGRfd29ya19ob3Vycyc6IDUwMCwKICAgICAgICAgICAgJ2Z1eW91X21heF9tb250aF9ob3Vycyc6IDEwMCwKICAgICAgICAgICAgJ21heF9jb25zZWN0aXZlX2RheXMnOiA2LAogICAgICAgICAgICAnYWNjZXB0X2Rvd25zaWRlX2RpZmZfM2RheXNfc3RhZmYnOiAwLAogICAgICAgICAgICAnYWNjZXB0X3Vwc2lkZV9kaWZmXzNkYXlzX3N0YWZmJzogMCwKICAgICAgICAgICAgJ2FjY2VwdF9kb3duc2lkZV9kaWZmXzRkYXlzX3N0YWZmJzogMiwKICAgICAgICAgICAgJ2FjY2VwdF91cHNpZGVfZGlmZl80ZGF5c19zdGFmZic6IDAsCiAgICAgICAgICAgICdhY2NlcHRfZG93bnNpZGVfZGlmZl81ZGF5c19zdGFmZic6IDEsCiAgICAgICAgICAgICdhY2NlcHRfdXBzaWRlX2RpZmZfNWRheXNfc3RhZmYnOiAxLAogICAgICAgICAgICAnbWluX21haW5fd29ya19ob3Vycyc6IDIsCiAgICAgICAgICAgICdkYWlseV9zZWN0aW9ucyc6IDIsCiAgICAgICAgICAgICdueXVrYV9taW5faG91cnMnOiAyLAogICAgICAgICAgICAnbnl1a2FfbWF4X2hvdXJzJzogNiwKICAgICAgICAgICAgJ3JlZmVyZW5jZV9hbW91bnRfbG93X2xhcmdlJzogMjAsCiAgICAgICAgICAgICdyZWZlcmVuY2VfYW1vdW50X2hpZ2hfbGFyZ2UnOiA2MCwKICAgICAgICAgICAgJ3JlZmVyZW5jZV9hbW91bnRfbG93X3NtYWxsJzogNDUsCiAgICAgICAgICAgICdyZWZlcmVuY2VfYW1vdW50X2hpZ2hfc21hbGwnOiA1NSwKICAgICAgICAgICAgJ3NoaXdha2VfcHJvZHVjdGl2aXR5X2xvd19sYXJnZSc6IDY1LAogICAgICAgICAgICAnc2hpd2FrZV9wcm9kdWN0aXZpdHlfaGlnaF9sYXJnZSc6IDU1LAogICAgICAgICAgICAnc2hpd2FrZV9wcm9kdWN0aXZpdHlfbG93X3NtYWxsJzogODIsCiAgICAgICAgICAgICdzaGl3YWtlX3Byb2R1Y3Rpdml0eV9oaWdoX3NtYWxsJzogNTIsCiAgICAgICAgICAgICdueXVrYV9wcm9kdWN0aXZpdHlfbG93X2xhcmdlJzogMzAsCiAgICAgICAgICAgICdueXVrYV9wcm9kdWN0aXZpdHlfaGlnaF9sYXJnZSc6IDEwLAogICAgICAgICAgICAnbnl1a2FfcHJvZHVjdGl2aXR5X2xvd19zbWFsbCc6IDUwLAogICAgICAgICAgICAnbnl1a2FfcHJvZHVjdGl2aXR5X2hpZ2hfc21hbGwnOiA0MCwKICAgICAgICAgICAgJ2dtc19hbW91bnRfbW9uZGF5JzogMTAsCiAgICAgICAgICAgICdnbXNfYW1vdW50X3R1ZXNkYXknOiAxMCwKICAgICAgICAgICAgJ2dtc19hbW91bnRfd2VkbmVzZGF5JzogMTAsCiAgICAgICAgICAgICdnbXNfYW1vdW50X3RodXJzZGF5JzogMTAsCiAgICAgICAgICAgICdnbXNfYW1vdW50X2ZyaWRheSc6IDEwLAogICAgICAgICAgICAnZ21zX2Ftb3VudF9zYXR1cmRheSc6IDEwLAogICAgICAgICAgICAnZ21zX2Ftb3VudF9zdW5kYXknOiAxMCwKICAgICAgICAgICAgJ2dtc19hbW91bnRfaG9saWRheSc6IDEwLAogICAgICAgICAgICAnY29tcHV0YXRpb25fdGltZSc6IDEwLAogICAgICAgICAgICAnaGVkZ2luZ19zY2FsZSc6IDUwLAogICAgICAgICAgICAnc3VwcG9ydF9zZWN0aW9uX3Byb2R1Y3Rpdml0eV9yYXRlJzo1MCwKCiAgICAgICAgICAgICdzaGlmdC1zcG90c3RhZmZfZWZmZWN0aXZlX3dhZ2UnOiAxMDAwLAogICAgICAgICAgICAna295b3Utc3BvdHN0YWZmX2VmZmVjdGl2ZV93YWdlJzogMjAwMCwKICAgICAgICAgICAgJ2tvbW9ub19rdXJpa29zaV9yYXRpbyc6IDQwLAogICAgICAgICAgICAna3VyaWtvc2lfdGhyZXNob2xkJzogNDAsCiAgICAgICAgICAgICdtYXhfd2Vla19ob3Vyc19wYXJ0X3N0YWZmJzogNTAsCiAgICAgICAgICAgICdtYXhfd2Vla19ob3Vyc19zaGFpbl9zdGFmZic6IDUwCiAgICAgICAgfSwK</text>
       </register>
       <register name="1" type="4">
-        <text>0以上</text>
+        <text>assertTrue</text>
       </register>
       <register name="2" type="4">
-        <text>リーダーサブルーダー</text>
+        <text>self</text>
       </register>
       <register name="3" type="4">
-        <text>req_short_err_msg_prefix</text>
+        <text>0以上</text>
       </register>
       <register name="4" type="4">
+        <text>リーダーサブルーダー</text>
+      </register>
+      <register name="5" type="4">
         <text>req_short_err_msg_prefix</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyByYWlzZSBmb3Jtcy5WYWxpZGF0aW9uRXJyb3IocmVxX3Nob3J0X2Vycl9tc2dfcHJlZml4ICsgbCArIHUnOiAw5Lul5LiK44Gu5YCk44KS5YWl5Yqb44GX44Gm44GP44Gg44GV44GE44CCJykK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyByYWlzZSBmb3Jtcy5WYWxpZGF0aW9uRXJyb3IocmVxX3Nob3J0X2Vycl9tc2dfcHJlZml4ICsgbCArIHUnOiDjg6rjg7zjg4Djg7zjgrXjg5bjg6rjg7zjg4Djg7zliLbntITjgYzjgYLjgovloLTlkIjjga/jgIEx5Lul5LiK44Gu5YCk44KS5YWl5Yqb44GX44Gm44GP44Gg44GV44GE44CCJykK</text>
+      <register name="6" type="4">
+        <text>req_short_err_msg_prefix</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyByYWlzZSBmb3Jtcy5WYWxpZGF0aW9uRXJyb3IocmVxX3Nob3J0X2Vycl9tc2dfcHJlZml4ICsgbCArIHUnOiAw5Lul5LiK44Gu5YCk44KS5YWl5Yqb44GX44Gm44GP44Gg44GV44GE44CCJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyByYWlzZSBmb3Jtcy5WYWxpZGF0aW9uRXJyb3IocmVxX3Nob3J0X2Vycl9tc2dfcHJlZml4ICsgbCArIHUnOiDjg6rjg7zjg4Djg7zjgrXjg5bjg6rjg7zjg4Djg7zliLbntITjgYzjgYLjgovloLTlkIjjga/jgIEx5Lul5LiK44Gu5YCk44KS5YWl5Yqb44GX44Gm44GP44Gg44GV44GE44CCJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBmbGF0dGVuX2Vycm9yX2RhdGEoc2VsZiwgZm9ybSk6CiAgICAgICAgIiIiZm9ybS5lcnJvcnMuYXNfZGF0YSgp44Gu5YWl44KM5a2Q5qeL6YCg44KS5bGV6ZaL44GX44Gm44Gf44Gg44Gu44Oq44K544OI44Gr44GZ44KLCgogICAgICAgIDpwYXJhbSBmb3JtOgogICAgICAgIDp0eXBlIGZvcm06CiAgICAgICAgOnJldHVybjoKICAgICAgICA6cnR5cGU6CiAgICAgICAgIiIiCiAgICAgICAgZmxhdHRlbiA9IGxhbWJkYSB4OiBbeSBmb3IgbCBpbiB4IGZvciB5IGluIGZsYXR0ZW4obCldIGlmIHR5cGUoeCkgaXMgbGlzdCBlbHNlIFt4XQogICAgICAgIHJldHVybiBmbGF0dGVuKGZvcm0uZXJyb3JzLmFzX2RhdGEoKS52YWx1ZXMoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
