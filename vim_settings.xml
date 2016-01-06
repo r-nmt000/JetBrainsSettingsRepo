@@ -3,13 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/section_service.py" timestamp="1451899608362">
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/section_service.py" timestamp="1452060484259">
         <mark key="'" line="130" column="8" />
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
+        <mark key="^" line="131" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1451978049260">
+      <file name="/Python Console" timestamp="1452060887124">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1451978025775">
+      <file name="/fragment.py" timestamp="1452060988355">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="^" line="0" column="27" />
@@ -37,6 +41,12 @@
         <mark key="]" line="17" column="23" />
         <mark key="." line="17" column="23" />
         <mark key="^" line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" timestamp="1450862270795">
+        <mark key="'" line="154" column="0" />
+        <mark key="[" line="174" column="0" />
+        <mark key="]" line="174" column="0" />
+        <mark key="." line="174" column="0" />
       </file>
       <file name="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/tests/mst/test_section_form.py" timestamp="1450852882118">
         <mark key="[" line="19" column="0" />
@@ -115,9 +125,11 @@
         <mark key="[" line="164" column="0" />
         <mark key="]" line="166" column="4" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_section_form.py" timestamp="1452046988132">
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_section_form.py" timestamp="1452061049875">
         <mark key="'" line="0" column="0" />
-        <mark key="." line="84" column="189" />
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="0" />
+        <mark key="." line="149" column="0" />
       </file>
       <file name="$USER_HOME$/repos/temp/python_study/02_qsort.py" timestamp="1427726335966">
         <mark key="[" line="12" column="14" />
@@ -151,10 +163,10 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/section_edit.html" timestamp="1452059030884">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/section_edit.html" timestamp="1452060400298">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/tc_service.py" timestamp="1451014338740">
         <mark key="j" line="329" column="22" />
@@ -265,40 +277,40 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>red</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>password_changed</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmKCQodGhpcykucHJvcCgnY2hlY2tlZCcpKSB7CiAgICAgICQodGhpcykucGFyZW50KCkuY3NzKCdiYWNrZ3JvdW5kLWNvbG9yJywgJ3JlZCcpCiAgICB9IGVsc2UgewogICAgICAkKHRoaXMpLnBhcmVudCgpLmNzcygnYmFja2dyb3VuZC1jb2xvcicsICd3aGl0ZScpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgJCh0aGlzKS5wYXJlbnQoKS5jc3MoeydiYWNrZ3JvdW5kLWNvbG9yJzonbGlnaHRibHVlJywgJ2JvcmRlci1saWdodCc6JzFweCBzb2xpZCAjZGRkJywgJ2JvcmRlci1sZWZ0JzonMXB4IHNvbGlkICNkZGQnfSkKICAgIH0gZWxzZSB7CiAgICAgICQodGhpcykucGFyZW50KCkuY3NzKHsnYmFja2dyb3VuZC1jb2xvcic6JycsICdib3JkZXItbGlnaHQnOicnLCAnYm9yZGVyLWxlZnQnOicnfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmICgkKHRoaXMpLnByb3AoJ2NoZWNrZWQnKSkgewogICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBlcnJvcl9saXN0ID0gdXRpbHMuZmxhdHRlbl9lcnJvcl9kYXRhKGZvcm0pCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChsZW4oZXJyb3JfbGlzdCksIDEpCiAgICAgICAgdGVzdF9leGNlcHRpb24gPSBlcnJvcl9saXN0LnBvcCgpCiAgICAgICAgc2VsZi5hc3NlcnRJc0luc3RhbmNlKHRlc3RfZXhjZXB0aW9uLCBmb3Jtcy5WYWxpZGF0aW9uRXJyb3IpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbCh0ZXN0X2V4Y2VwdGlvbi5tZXNzYWdlLCB1J+W/heimgemFjee9ruS6uuaVsFvkurpdIOaciOabnOaXpTog44Oq44O844OA44O844K144OW44Oq44O844OA44O85Yi257SE44GM44GC44KL5aC05ZCI44Gv44CBMeS7peS4iuOBruWApOOCkuWFpeWKm+OBl+OBpuOBj+OBoOOBleOBhOOAgicpCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBpZiAoJCgnaW5wdXQnKS5wcm9wKCdjaGVja2VkJykpIHsKICAgICQoKQogIH0K</text>
+      <register name="2" type="4">
+        <text />
       </register>
-      <register name="3" type="4">
-        <text>red</text>
+      <register name="3" type="2">
+        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPgo8L3NjcmlwdD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">JChmdW5jdGlvbigpewogICQoJ2lucHV0JykuZWFjaChmdW5jdGlvbigpewogICAgaWYoJCh0aGlzKS5wcm9wKCdjaGVja2VkJykpIHsKICAgICAgJCh0aGlzKS5wYXJlbnQoKS5jc3MoeydiYWNrZ3JvdW5kLWNvbG9yJzonbGlnaHRibHVlJywgJ2JvcmRlci1saWdodCc6JzFweCBzb2xpZCAjZGRkJywgJ2JvcmRlci1sZWZ0JzonMXB4IHNvbGlkICNkZGQnfSkKICAgIH0gZWxzZSB7CiAgICAgICQodGhpcykucGFyZW50KCkuY3NzKHsnYmFja2dyb3VuZC1jb2xvcic6JycsICdib3JkZXItbGlnaHQnOicnLCAnYm9yZGVyLWxlZnQnOicnfSkKICAgIH0KICB9KTsKICAkKCdpbnB1dCcpLm9uKCdjbGljaycsIGZ1bmN0aW9uKCkgewogICAgaWYoJCh0aGlzKS5wcm9wKCdjaGVja2VkJykpIHsKICAgICAgJCh0aGlzKS5wYXJlbnQoKS5jc3MoeydiYWNrZ3JvdW5kLWNvbG9yJzonbGlnaHRibHVlJywgJ2JvcmRlci1saWdodCc6JzFweCBzb2xpZCAjZGRkJywgJ2JvcmRlci1sZWZ0JzonMXB4IHNvbGlkICNkZGQnfSkKICAgIH0gZWxzZSB7CiAgICAgICQodGhpcykucGFyZW50KCkuY3NzKHsnYmFja2dyb3VuZC1jb2xvcic6JycsICdib3JkZXItbGlnaHQnOicnLCAnYm9yZGVyLWxlZnQnOicnfSkKICAgIH0KICB9KTsKfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJCh0aGlzKS5wYXJlbnQoKS5jc3MoJ2JhY2tncm91bmQtY29sb3InLCAnbGlnaHRibHVlJykKICAgIH0gZWxzZSB7CiAgICAgICQodGhpcykucGFyZW50KCkuY3NzKCdiYWNrZ3JvdW5kLWNvbG9yJywgJycpCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICQodGhpcykucGFyZW50KCkuY3NzKCdiYWNrZ3JvdW5kLWNvbG9yJywgJ3JlZCcpCg==</text>
+      <register name="6" type="4">
+        <text>1px solid #ddd</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0ZXN0JykK</text>
+      <register name="7" type="4">
+        <text encoding="base64">IHNvbGlkICNkZGQ=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0ZXN0JykK</text>
+      <register name="8" type="4">
+        <text>1px</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="9" type="4">
+        <text>lightblue</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
