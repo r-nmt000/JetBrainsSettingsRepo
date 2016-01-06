@@ -151,11 +151,11 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/section_edit.html" timestamp="1452052173459">
-        <mark key="[" line="17" column="14" />
-        <mark key="]" line="17" column="14" />
-        <mark key="^" line="16" column="15" />
-        <mark key="." line="17" column="14" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/section_edit.html" timestamp="1452053122128">
+        <mark key="[" line="133" column="80" />
+        <mark key="]" line="133" column="80" />
+        <mark key="^" line="133" column="80" />
+        <mark key="." line="133" column="80" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/tc_service.py" timestamp="1451014338740">
         <mark key="j" line="329" column="22" />
@@ -266,16 +266,16 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>width</text>
+        <text>style</text>
       </register>
       <register name="/" type="4">
         <text>password_changed</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAuc2VjdGlvbl9uYW1lewogICAgYm9yZGVyLXRvcC13aWR0aDogMnB4OwogIH0K</text>
+      <register name="0" type="4">
+        <text encoding="base64">IGJvcmRlci10b3Atd2lkdGg6MnB4Ow==</text>
       </register>
       <register name="1" type="4">
-        <text>width</text>
+        <text>style</text>
       </register>
       <register name="2" type="4">
         <text>width</text>
@@ -283,23 +283,23 @@
       <register name="3" type="4">
         <text>width</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">eyMgICNhbW91bnRfdGFibGUgaW5wdXR7I30KeyMgICAgd2lkdGg6IDYwcHg7I30KeyMgICAgdGV4dC1hbGlnbjpyaWdodDsjfQp7IyAgfSN9CnsjI30KeyMgICNqb2Jfc2V0dGluZ3NfdGFibGUgaW5wdXR7I30KeyMgICAgdGV4dC1hbGlnbjogcmlnaHQ7I30KeyMgIH0jfQp7IyN9CnsjICAjbGFyZ2VfbWVkaXVtX3RhYmxlIGlucHV0LCN9CnsjICAjc21hbGxfdGFibGUgaW5wdXQgeyN9CnsjICAgIHdpZHRoOiAxMDBweDsjfQp7IyAgICB0ZXh0LWFsaWduOiByaWdodDsjfQp7IyAgfSN9CnsjI30KeyMgICNtaF90YWJsZSBpbnB1dCB7I30KeyMgICAgd2lkdGg6IDEwMHB4OyN9CnsjICAgIHRleHQtYWxpZ246IHJpZ2h0OyN9CnsjICAgIG1hcmdpbi1sZWZ0OiAxNXB4OyN9CnsjICB9I30KeyMjfQp7IyAgLnBhcmFtZXRlciBpbnB1dHsjfQp7IyAgICB3aWR0aDogNjBweDsjfQp7IyAgICAvKndpZHRoOiAxMDBweDsqLyN9CnsjICAgIHRleHQtYWxpZ246cmlnaHQ7I30KeyMgICAgbWFyZ2luOiAwIDEzcHg7I30KeyMgIH0jfQp7IyN9CnsjICAuZGFpbHlfYW1vdW50eyN9CnsjICAgIHRleHQtYWxpZ246Y2VudGVyOyN9CnsjICB9I30KeyMjfQp7IyAgI2Ftb3VudF90YWJsZXsjfQp7IyAgICBtYXgtaGVpZ2h0OiA3MDBweDsjfQp7IyAgfSN9CnsjI30KeyMgICNhbW91bnRfdGFibGUgdGhlYWR7I30KeyMgICAgZGlzcGxheTpibG9jazsjfQp7IyAgICB3aWR0aDogMTI1NXB4OyN9CnsjICB9I30KeyMgICNhbW91bnRfdGFibGUgdGZvb3R7I30KeyMgICAgZGlzcGxheTpibG9jazsjfQp7IyAgICB3aWR0aDogMTI1NXB4OyN9CnsjICB9I30KeyMjfQp7IyAgI2Ftb3VudF90YWJsZSB0Ym9keXsjfQp7IyAgICBvdmVyZmxvdy14OiBoaWRkZW47I30KeyMgICAgb3ZlcmZsb3cteTogYXV0bzsjfQp7IyAgICAtbXMtb3ZlcmZsb3cteDogaGlkZGVuOyN9CnsjICAgIC1tcy1vdmVyZmxvdy15OiBhdXRvOyN9CnsjICAgIGRpc3BsYXk6YmxvY2s7I30KeyMgICAgbWF4LWhlaWdodDogNTUwcHg7I30KeyMgICAgd2lkdGg6IDEyNzJweDsjfQp7IyAgfSN9CnsjI30KeyMgIC5idG4tZGVmYXVsdCB7I30KeyMgICAgLyogYm9vdHN0cmFw44Gu44Oc44K/44Oz44GL44KJ6Imy44Gu5Yi25b6h44KS54Sh55CG44KE44KK5aWq44GE5Y+W44KLICovI30KeyMgICAgYmFja2dyb3VuZC1jb2xvcjogIzg4ODsjfQp7IyAgICBib3JkZXItY29sb3I6ICM3Nzc7I30KeyMgICAgY29sb3I6IHdoaXRlOyN9CnsjICB9I30KeyMgIC5idG4tZGVmYXVsdDpob3ZlciB7I30KeyMgICAgYmFja2dyb3VuZC1jb2xvcjogIzQ0NDsjfQp7IyAgICBib3JkZXItY29sb3I6ICM3Nzc7I30KeyMgICAgY29sb3I6IHdoaXRlOyN9CnsjICB9I30KCg==</text>
+      <register name="4" type="4">
+        <text>width</text>
       </register>
-      <register name="5" type="4">
-        <text>section_name</text>
+      <register name="5" type="2">
+        <text encoding="base64">eyMgICNhbW91bnRfdGFibGUgaW5wdXR7I30KeyMgICAgd2lkdGg6IDYwcHg7I30KeyMgICAgdGV4dC1hbGlnbjpyaWdodDsjfQp7IyAgfSN9CnsjI30KeyMgICNqb2Jfc2V0dGluZ3NfdGFibGUgaW5wdXR7I30KeyMgICAgdGV4dC1hbGlnbjogcmlnaHQ7I30KeyMgIH0jfQp7IyN9CnsjICAjbGFyZ2VfbWVkaXVtX3RhYmxlIGlucHV0LCN9CnsjICAjc21hbGxfdGFibGUgaW5wdXQgeyN9CnsjICAgIHdpZHRoOiAxMDBweDsjfQp7IyAgICB0ZXh0LWFsaWduOiByaWdodDsjfQp7IyAgfSN9CnsjI30KeyMgICNtaF90YWJsZSBpbnB1dCB7I30KeyMgICAgd2lkdGg6IDEwMHB4OyN9CnsjICAgIHRleHQtYWxpZ246IHJpZ2h0OyN9CnsjICAgIG1hcmdpbi1sZWZ0OiAxNXB4OyN9CnsjICB9I30KeyMjfQp7IyAgLnBhcmFtZXRlciBpbnB1dHsjfQp7IyAgICB3aWR0aDogNjBweDsjfQp7IyAgICAvKndpZHRoOiAxMDBweDsqLyN9CnsjICAgIHRleHQtYWxpZ246cmlnaHQ7I30KeyMgICAgbWFyZ2luOiAwIDEzcHg7I30KeyMgIH0jfQp7IyN9CnsjICAuZGFpbHlfYW1vdW50eyN9CnsjICAgIHRleHQtYWxpZ246Y2VudGVyOyN9CnsjICB9I30KeyMjfQp7IyAgI2Ftb3VudF90YWJsZXsjfQp7IyAgICBtYXgtaGVpZ2h0OiA3MDBweDsjfQp7IyAgfSN9CnsjI30KeyMgICNhbW91bnRfdGFibGUgdGhlYWR7I30KeyMgICAgZGlzcGxheTpibG9jazsjfQp7IyAgICB3aWR0aDogMTI1NXB4OyN9CnsjICB9I30KeyMgICNhbW91bnRfdGFibGUgdGZvb3R7I30KeyMgICAgZGlzcGxheTpibG9jazsjfQp7IyAgICB3aWR0aDogMTI1NXB4OyN9CnsjICB9I30KeyMjfQp7IyAgI2Ftb3VudF90YWJsZSB0Ym9keXsjfQp7IyAgICBvdmVyZmxvdy14OiBoaWRkZW47I30KeyMgICAgb3ZlcmZsb3cteTogYXV0bzsjfQp7IyAgICAtbXMtb3ZlcmZsb3cteDogaGlkZGVuOyN9CnsjICAgIC1tcy1vdmVyZmxvdy15OiBhdXRvOyN9CnsjICAgIGRpc3BsYXk6YmxvY2s7I30KeyMgICAgbWF4LWhlaWdodDogNTUwcHg7I30KeyMgICAgd2lkdGg6IDEyNzJweDsjfQp7IyAgfSN9CnsjI30KeyMgIC5idG4tZGVmYXVsdCB7I30KeyMgICAgLyogYm9vdHN0cmFw44Gu44Oc44K/44Oz44GL44KJ6Imy44Gu5Yi25b6h44KS54Sh55CG44KE44KK5aWq44GE5Y+W44KLICovI30KeyMgICAgYmFja2dyb3VuZC1jb2xvcjogIzg4ODsjfQp7IyAgICBib3JkZXItY29sb3I6ICM3Nzc7I30KeyMgICAgY29sb3I6IHdoaXRlOyN9CnsjICB9I30KeyMgIC5idG4tZGVmYXVsdDpob3ZlciB7I30KeyMgICAgYmFja2dyb3VuZC1jb2xvcjogIzQ0NDsjfQp7IyAgICBib3JkZXItY29sb3I6ICM3Nzc7I30KeyMgICAgY29sb3I6IHdoaXRlOyN9CnsjICB9I30KCg==</text>
       </register>
       <register name="6" type="4">
         <text>section_name</text>
       </register>
       <register name="7" type="4">
-        <text>none</text>
+        <text>section_name</text>
       </register>
       <register name="8" type="4">
-        <text>width</text>
+        <text>none</text>
       </register>
       <register name="9" type="4">
-        <text>max</text>
+        <text>width</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
