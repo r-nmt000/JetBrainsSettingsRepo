@@ -57,16 +57,6 @@
         <mark key="^" line="60" column="51" />
         <mark key="." line="60" column="51" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/models.py" timestamp="1452130906854">
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="132" column="51" />
-      </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/tc_forms.py" timestamp="1451986712592">
-        <mark key="[" line="210" column="0" />
-        <mark key="]" line="210" column="0" />
-        <mark key="^" line="53" column="35" />
-        <mark key="." line="210" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/tc_detail.html" timestamp="1450960270245">
         <mark key="[" line="42" column="38" />
         <mark key="]" line="42" column="39" />
@@ -86,10 +76,10 @@
         <mark key="." line="218" column="161" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/const.py" timestamp="1452135425080">
-        <mark key="[" line="242" column="43" />
-        <mark key="]" line="242" column="46" />
-        <mark key="^" line="242" column="46" />
-        <mark key="." line="242" column="46" />
+        <mark key="[" line="308" column="43" />
+        <mark key="]" line="308" column="46" />
+        <mark key="^" line="308" column="46" />
+        <mark key="." line="308" column="46" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register_service.py" timestamp="1450073801990">
         <mark key="'" line="110" column="0" />
@@ -98,11 +88,11 @@
         <mark key="." line="116" column="39" />
         <mark key="^" line="116" column="39" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/tc_edit.html" timestamp="1452136300990">
-        <mark key="'" line="106" column="20" />
-        <mark key="[" line="58" column="115" />
-        <mark key="]" line="58" column="115" />
-        <mark key="." line="58" column="115" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/tc_edit.html" timestamp="1452147885628">
+        <mark key="[" line="73" column="85" />
+        <mark key="]" line="73" column="85" />
+        <mark key="." line="73" column="85" />
+        <mark key="^" line="73" column="84" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_tc_and_section.json" timestamp="1451010967593">
         <mark key="'" line="4281" column="0" />
@@ -125,12 +115,12 @@
         <mark key="^" line="12" column="16" />
         <mark key="." line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/staff_base_detail.html" timestamp="1452136306239">
-        <mark key="'" line="300" column="0" />
-        <mark key="[" line="185" column="115" />
-        <mark key="]" line="185" column="115" />
-        <mark key="." line="185" column="115" />
-        <mark key="^" line="185" column="34" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/staff_base_detail.html" timestamp="1452147912621">
+        <mark key="'" line="294" column="0" />
+        <mark key="[" line="190" column="83" />
+        <mark key="]" line="190" column="83" />
+        <mark key="." line="190" column="83" />
+        <mark key="^" line="190" column="131" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_tc_form.py" timestamp="1451987068079">
         <mark key="'" line="0" column="0" />
@@ -152,17 +142,17 @@
         <mark key="." line="66" column="42" />
         <mark key="^" line="66" column="63" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/section_edit.html" timestamp="1452136292217">
-        <mark key="[" line="45" column="115" />
-        <mark key="]" line="45" column="115" />
-        <mark key="." line="45" column="115" />
-        <mark key="^" line="50" column="60" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/section_edit.html" timestamp="1452147899273">
+        <mark key="[" line="50" column="83" />
+        <mark key="]" line="50" column="83" />
+        <mark key="." line="50" column="83" />
+        <mark key="^" line="50" column="131" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/tc_service.py" timestamp="1452133722699">
-        <mark key="j" line="329" column="22" />
-        <mark key="k" line="330" column="22" />
+        <mark key="j" line="278" column="22" />
+        <mark key="k" line="279" column="22" />
         <mark key="[" line="24" column="0" />
-        <mark key="m" line="328" column="22" />
+        <mark key="m" line="277" column="22" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
@@ -266,7 +256,7 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>cleaned_data</text>
+        <text>style</text>
       </register>
       <register name="/" type="4">
         <text>password_changed</text>
@@ -275,31 +265,31 @@
         <text encoding="base64">ZnJvbSBzdGFmZiBpbXBvcnQgY29uc3QK</text>
       </register>
       <register name="1" type="4">
-        <text>cleaned_data</text>
+        <text>style</text>
       </register>
       <register name="2" type="4">
-        <text>label</text>
+        <text>vertical</text>
       </register>
       <register name="3" type="4">
-        <text>const</text>
+        <text>align</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAnX19hbGxfXyc6ICcnCg==</text>
+      <register name="4" type="4">
+        <text>middle</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAnbmFtZSc6IHUn44K744Kv44K344On44Oz5ZCNOicsCiAgICAgICAgICAgICMgJ2Ftb3VudF9kZXBlbmRlbnRfZmxnJzogdSfnianph4/kvp3lrZg6JywKICAgICAgICAgICAgIyAnbGVhZGVyX3N1YmxlYWRlcl9yZXFfZmxnJzogdSfjg6rjg7zjg4Djg7zjgrXjg5bjg6rjg7zjg4Djg7zliLbntIQ6JywK</text>
+      <register name="5" type="4">
+        <text>style</text>
       </register>
       <register name="6" type="4">
-        <text>REQU</text>
+        <text>vertical</text>
       </register>
       <register name="7" type="4">
-        <text>必要配置人</text>
+        <text>align</text>
       </register>
       <register name="8" type="4">
-        <text>必要配置人</text>
+        <text>middle</text>
       </register>
-      <register name="9" type="4">
-        <text>必要配置人</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxhIGhyZWY9IiMiIGNsYXNzPSJjbG9zZSBnbHlwaGljb24gZ2x5cGhpY29uLXJlbW92ZSIgZGF0YS1kaXNtaXNzPSJhbGVydCIgc3R5bGU9InZlcnRpY2FsLWFsaWduOiBtaWRkbGUiPjwvYT57eyBtZXNzYWdlIH19CiAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
