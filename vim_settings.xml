@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/section_service.py" timestamp="1452083771335">
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/section_service.py" timestamp="1452131998581">
         <mark key="'" line="130" column="8" />
-        <mark key="[" line="299" column="35" />
-        <mark key="]" line="299" column="44" />
-        <mark key="." line="141" column="0" />
-        <mark key="^" line="141" column="64" />
+        <mark key="[" line="299" column="0" />
+        <mark key="]" line="299" column="0" />
+        <mark key="." line="299" column="0" />
+        <mark key="^" line="317" column="28" />
       </file>
       <file name="/Python Console" timestamp="1452060887124">
         <mark key="[" line="0" column="0" />
@@ -57,6 +57,10 @@
         <mark key="^" line="60" column="51" />
         <mark key="." line="60" column="51" />
       </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/models.py" timestamp="1452130906854">
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="132" column="51" />
+      </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/tc_forms.py" timestamp="1451986712592">
         <mark key="[" line="210" column="0" />
         <mark key="]" line="210" column="0" />
@@ -81,11 +85,11 @@
         <mark key="^" line="218" column="161" />
         <mark key="." line="218" column="161" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/const.py" timestamp="1452128136031">
-        <mark key="[" line="246" column="36" />
-        <mark key="]" line="246" column="36" />
-        <mark key="^" line="247" column="44" />
-        <mark key="." line="246" column="36" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/const.py" timestamp="1452132694844">
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="0" />
+        <mark key="^" line="243" column="33" />
+        <mark key="." line="161" column="0" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register_service.py" timestamp="1450073801990">
         <mark key="'" line="110" column="0" />
@@ -94,12 +98,12 @@
         <mark key="." line="116" column="39" />
         <mark key="^" line="116" column="39" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/tc_edit.html" timestamp="1450959836124">
-        <mark key="'" line="98" column="20" />
-        <mark key="[" line="66" column="38" />
-        <mark key="]" line="66" column="39" />
-        <mark key="." line="66" column="39" />
-        <mark key="^" line="66" column="39" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/tc_edit.html" timestamp="1452134808099">
+        <mark key="'" line="106" column="20" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="59" column="9" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_tc_and_section.json" timestamp="1451010967593">
         <mark key="'" line="4281" column="0" />
@@ -115,10 +119,6 @@
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_section_form.py" timestamp="1452082905366">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="152" column="16" />
-        <mark key="]" line="152" column="21" />
-        <mark key="^" line="152" column="21" />
-        <mark key="." line="152" column="21" />
       </file>
       <file name="$USER_HOME$/repos/temp/python_study/02_qsort.py" timestamp="1427726335966">
         <mark key="[" line="12" column="14" />
@@ -147,19 +147,19 @@
         <mark key="." line="71" column="0" />
         <mark key="^" line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/section_forms.py" timestamp="1452128515160">
-        <mark key="[" line="59" column="126" />
-        <mark key="]" line="59" column="131" />
-        <mark key="." line="59" column="131" />
-        <mark key="^" line="59" column="131" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/section_forms.py" timestamp="1452133467831">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="67" column="38" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/section_edit.html" timestamp="1452078757768">
-        <mark key="[" line="55" column="56" />
-        <mark key="]" line="55" column="87" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/section_edit.html" timestamp="1452134795282">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="112" />
         <mark key="." line="55" column="56" />
         <mark key="^" line="55" column="7" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/tc_service.py" timestamp="1452082316230">
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/tc_service.py" timestamp="1452133722699">
         <mark key="j" line="329" column="22" />
         <mark key="k" line="330" column="22" />
         <mark key="[" line="24" column="0" />
@@ -267,40 +267,40 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>format</text>
+        <text>, required=True)</text>
       </register>
       <register name="/" type="4">
         <text>password_changed</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">TU9OREFZX05BTUUgPSB1J+aciCcK</text>
+        <text encoding="base64">ICAgICAgICAgIDxhIGhyZWY9IiMiIGNsYXNzPSJjbG9zZSIgZGF0YS1kaXNtaXNzPSJhbGVydCIgc3R5bGU9InZlcnRpY2FsLWFsaWduOiBtaWRkbGUiPiZ0aW1lczs8L2E+e3sgbWVzc2FnZSB9fQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>format</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIHt7IG1lc3NhZ2UgfX0K</text>
       </register>
-      <register name="2" type="4">
-        <text>self</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIHt7IG1lc3NhZ2UgfX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBzZWN0aW9uX2Zvcm0uZXJyb3JzLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHt7IG1lc3NhZ2UgfX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdvdF9lcnJvciA9IEZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHt7IG1lc3NhZ2UgfX0K</text>
       </register>
-      <register name="5" type="4">
-        <text>len</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmlzX3ZhbGlkKCk6Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgaWYgY2xlYW5lZF9kYXRhW2ZpZWxkXSA8IDA6CiAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuYWRkX2Vycm9yKGZpZWxkLCBjb25zdC5SRVFVSVJFRF9OVU1CRVJfT0ZfUEVPUExFX0xBQkVMICsgJyAnICsgY2xlYW5lZF9kYXRhWyduYW1lJ10gKyAnICcgKyBsYWJlbCArICc6ICcgKyBjb25zdC5PTUlUX05FR0FUSVZFX1ZBTFVFX01FU1NBR0UpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>not</text>
+      <register name="7" type="2">
+        <text encoding="base64">IiIiCuOCu+OCr+OCt+ODp+ODs+OBruODqeODmeODqwoiIiIKU0VDVElPTl9BTU9VTlRfREVQRU5ERU5DRV9MQUJFTCA9IHUn54mp6YeP5L6d5a2YJwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>True</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyB0cnk6CiAgICAgICAgICAgICMgICAgIGVycm9yX2ZpZWxkID0gZGljdF9wbmFtZVtlcnJvcl0KICAgICAgICAgICAgIyBleGNlcHQgS2V5RXJyb3I6CiAgICAgICAgICAgICMgICAgIGVycm9yX2ZpZWxkID0gJycK</text>
       </register>
-      <register name="9" type="4">
-        <text>False</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAjIGRpY3RfcG5hbWUgPSB7CiAgICAgICAgICAgICMgJ25hbWUnOiB1J+OCu+OCr+OCt+ODp+ODs+WQjTonLAogICAgICAgICAgICAjICdhbW91bnRfZGVwZW5kZW50X2ZsZyc6IHUn54mp6YeP5L6d5a2YOicsCiAgICAgICAgICAgICMgJ2xlYWRlcl9zdWJsZWFkZXJfcmVxX2ZsZyc6IHUn44Oq44O844OA44O844K144OW44Oq44O844OA44O85Yi257SEOicsCiAgICAgICAgICAgICMgJ3JlcV9zdGFmZnNfbW9uZGF5JzogdSflv4XopoHphY3nva7kurrmlbBb5Lq6XSDmnIjmm5zml6U6JywKICAgICAgICAgICAgIyAncmVxX3N0YWZmc190dWVzZGF5JzogdSflv4XopoHphY3nva7kurrmlbBb5Lq6XSDngavmm5zml6U6JywKICAgICAgICAgICAgIyAncmVxX3N0YWZmc193ZWRuZXNkYXknOiB1J+W/heimgemFjee9ruS6uuaVsFvkurpdIOawtOabnOaXpTonLAogICAgICAgICAgICAjICdyZXFfc3RhZmZzX3RodXJzZGF5JzogdSflv4XopoHphY3nva7kurrmlbBb5Lq6XSDmnKjmm5zml6U6JywKICAgICAgICAgICAgIyAncmVxX3N0YWZmc19mcmlkYXknOiB1J+W/heimgemFjee9ruS6uuaVsFvkurpdIOmHkeabnOaXpTonLAogICAgICAgICAgICAjICdyZXFfc3RhZmZzX3NhdHVyZGF5JzogdSflv4XopoHphY3nva7kurrmlbBb5Lq6XSDlnJ/mm5zml6U6JywKICAgICAgICAgICAgIyAncmVxX3N0YWZmc19zdW5kYXknOiB1J+W/heimgemFjee9ruS6uuaVsFvkurpdIOaXpeabnOaXpTonLAogICAgICAgICAgICAjICdyZXFfc3RhZmZzX2hvbGlkYXknOiB1J+W/heimgemFjee9ruS6uuaVsFvkurpdIOelneaXpTonLAogICAgICAgICAgICAjICdfX2FsbF9fJzogJyd9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
