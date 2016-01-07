@@ -81,11 +81,11 @@
         <mark key="^" line="218" column="161" />
         <mark key="." line="218" column="161" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/const.py" timestamp="1452126889999">
-        <mark key="[" line="164" column="34" />
-        <mark key="]" line="164" column="34" />
-        <mark key="^" line="164" column="34" />
-        <mark key="." line="164" column="34" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/const.py" timestamp="1452128136031">
+        <mark key="[" line="246" column="36" />
+        <mark key="]" line="246" column="36" />
+        <mark key="^" line="247" column="44" />
+        <mark key="." line="246" column="36" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register_service.py" timestamp="1450073801990">
         <mark key="'" line="110" column="0" />
@@ -147,11 +147,11 @@
         <mark key="." line="71" column="0" />
         <mark key="^" line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/section_forms.py" timestamp="1452126125428">
-        <mark key="[" line="59" column="117" />
-        <mark key="]" line="59" column="117" />
-        <mark key="." line="59" column="117" />
-        <mark key="^" line="59" column="117" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/section_forms.py" timestamp="1452128515160">
+        <mark key="[" line="59" column="126" />
+        <mark key="]" line="59" column="131" />
+        <mark key="." line="59" column="131" />
+        <mark key="^" line="59" column="131" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/section_edit.html" timestamp="1452078757768">
         <mark key="[" line="55" column="56" />
@@ -267,7 +267,7 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>self</text>
+        <text>format</text>
       </register>
       <register name="/" type="4">
         <text>password_changed</text>
@@ -276,31 +276,31 @@
         <text encoding="base64">TU9OREFZX05BTUUgPSB1J+aciCcK</text>
       </register>
       <register name="1" type="4">
+        <text>format</text>
+      </register>
+      <register name="2" type="4">
         <text>self</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBzZWN0aW9uX2Zvcm0uZXJyb3JzLAo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGdvdF9lcnJvciA9IEZhbHNlCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>len</text>
-      </register>
       <register name="5" type="4">
-        <text>==</text>
+        <text>len</text>
       </register>
       <register name="6" type="4">
-        <text>not</text>
+        <text>==</text>
       </register>
       <register name="7" type="4">
-        <text>True</text>
+        <text>not</text>
       </register>
       <register name="8" type="4">
-        <text>False</text>
+        <text>True</text>
       </register>
       <register name="9" type="4">
-        <text>len</text>
+        <text>False</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
