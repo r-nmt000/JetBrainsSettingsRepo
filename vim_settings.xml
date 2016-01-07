@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/section_service.py" timestamp="1452131998581">
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/section_service.py" timestamp="1452140012931">
         <mark key="'" line="130" column="8" />
-        <mark key="[" line="299" column="0" />
-        <mark key="]" line="299" column="0" />
-        <mark key="." line="299" column="0" />
-        <mark key="^" line="317" column="28" />
+        <mark key="[" line="310" column="20" />
+        <mark key="]" line="309" column="83" />
+        <mark key="." line="309" column="83" />
+        <mark key="^" line="309" column="83" />
       </file>
       <file name="/Python Console" timestamp="1452060887124">
         <mark key="[" line="0" column="0" />
@@ -146,11 +146,11 @@
         <mark key="." line="71" column="0" />
         <mark key="^" line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/section_forms.py" timestamp="1452133467831">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-        <mark key="^" line="67" column="38" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/section_forms.py" timestamp="1452140092535">
+        <mark key="[" line="66" column="42" />
+        <mark key="]" line="66" column="42" />
+        <mark key="." line="66" column="42" />
+        <mark key="^" line="66" column="63" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/section_edit.html" timestamp="1452136292217">
         <mark key="[" line="45" column="115" />
@@ -266,40 +266,40 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>times</text>
+        <text>cleaned_data</text>
       </register>
       <register name="/" type="4">
         <text>password_changed</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxhIGhyZWY9IiMiIGNsYXNzPSJjbG9zZSBnbHlwaGljb24gZ2x5cGhpY29uLXJlbW92ZSIgZGF0YS1kaXNtaXNzPSJhbGVydCIgc3R5bGU9InZlcnRpY2FsLWFsaWduOiBtaWRkbGUiPiZ0aW1lczs8L2E+e3sgbWVzc2FnZSB9fQo=</text>
+        <text encoding="base64">ZnJvbSBzdGFmZiBpbXBvcnQgY29uc3QK</text>
       </register>
       <register name="1" type="4">
-        <text>times</text>
+        <text>cleaned_data</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxhIGhyZWY9IiMiIGNsYXNzPSJjbG9zZSIgZGF0YS1kaXNtaXNzPSJhbGVydCIgc3R5bGU9InZlcnRpY2FsLWFsaWduOiBtaWRkbGUiPiZ0aW1lczs8L2E+e3sgbWVzc2FnZSB9fQo=</text>
+      <register name="2" type="4">
+        <text>label</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxhIGhyZWY9IiMiIGNsYXNzPSJjbG9zZSIgZGF0YS1kaXNtaXNzPSJhbGVydCIgc3R5bGU9InZlcnRpY2FsLWFsaWduOiBtaWRkbGUiPiZ0aW1lczs8L2E+e3sgbWVzc2FnZSB9fQo=</text>
+      <register name="3" type="4">
+        <text>const</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgeyUgaWYgbWVzc2FnZS50YWdzID09ICdzdWNjZXNzJyAlfQogICAgICAgIDxkaXYgY2xhc3M9ImFsZXJ0IGFsZXJ0LXN1Y2Nlc3MiIHJvbGU9InN1Y2Nlc3MiPgogICAgICAgICAgPGEgaHJlZj0iIyIgY2xhc3M9ImNsb3NlIiBkYXRhLWRpc21pc3M9ImFsZXJ0IiBzdHlsZT0idmVydGljYWwtYWxpZ246IG1pZGRsZSI+JnRpbWVzOzwvYT57eyBtZXNzYWdlIH19CiAgICAgICAgPC9kaXY+CiAgICAgIHslIGVuZGlmICV9CiAgICAgIHslIGlmIG1lc3NhZ2UudGFncyA9PSAnZXJyb3InICV9CiAgICAgICAgPGRpdiBjbGFzcz0iYWxlcnQgYWxlcnQtZGFuZ2VyIiByb2xlPSJhbGVydCI+CiAgICAgICAgICA8YSBocmVmPSIjIiBjbGFzcz0iY2xvc2UiIGRhdGEtZGlzbWlzcz0iYWxlcnQiIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlIj4mdGltZXM7PC9hPnt7IG1lc3NhZ2UgfX0KICAgICAgICA8L2Rpdj4KICAgICAgeyUgZW5kaWYgJX0KICAgICAgeyUgaWYgbWVzc2FnZS50YWdzID09ICd3YXJuaW5nJyAlfQogICAgICAgIDxkaXYgY2xhc3M9ImFsZXJ0IGFsZXJ0LXdhcm5pbmciIHJvbGU9Indhcm5pbmciPgogICAgICAgICAgPGEgaHJlZj0iIyIgY2xhc3M9ImNsb3NlIiBkYXRhLWRpc21pc3M9ImFsZXJ0IiBzdHlsZT0idmVydGljYWwtYWxpZ246IG1pZGRsZSI+JnRpbWVzOzwvYT57eyBtZXNzYWdlIH19CiAgICAgICAgPC9kaXY+CiAgICAgIHslIGVuZGlmICV9CiAgICAgIHslIGlmIG1lc3NhZ2UudGFncyA9PSAnaW5mbycgJX0KICAgICAgICA8ZGl2IGNsYXNzPSJhbGVydCBhbGVydC1pbmZvIiByb2xlPSJpbmZvIj4KICAgICAgICAgIDxhIGhyZWY9IiMiIGNsYXNzPSJjbG9zZSIgZGF0YS1kaXNtaXNzPSJhbGVydCIgc3R5bGU9InZlcnRpY2FsLWFsaWduOiBtaWRkbGUiPiZ0aW1lczs8L2E+e3sgbWVzc2FnZSB9fQogICAgICAgIDwvZGl2PgogICAgICB7JSBlbmRpZiAlfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAnX19hbGxfXyc6ICcnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">eyMgICAgICA8ZGl2eyUgaWYgbWVzc2FnZS50YWdzICV9IGNsYXNzPSJhbGVydCBhbGVydC17eyBtZXNzYWdlLnRhZ3MgfX0iPiN9CnsjICAgICAgICA8YSBocmVmPSIjIiBjbGFzcz0iY2xvc2UiIGRhdGEtZGlzbWlzcz0iYWxlcnQiPiZ0aW1lczs8L2E+eyUgZW5kaWYgJX0jfQp7IyAgICAgICAge3sgbWVzc2FnZSB9fSN9CnsjICAgICAgPC9kaXY+I30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAnbmFtZSc6IHUn44K744Kv44K344On44Oz5ZCNOicsCiAgICAgICAgICAgICMgJ2Ftb3VudF9kZXBlbmRlbnRfZmxnJzogdSfnianph4/kvp3lrZg6JywKICAgICAgICAgICAgIyAnbGVhZGVyX3N1YmxlYWRlcl9yZXFfZmxnJzogdSfjg6rjg7zjg4Djg7zjgrXjg5bjg6rjg7zjg4Djg7zliLbntIQ6JywK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgeyUgaWYgbWVzc2FnZS50YWdzID09ICdzdWNjZXNzJyAlfQogICAgICAgIDxkaXYgY2xhc3M9ImFsZXJ0IGFsZXJ0LXN1Y2Nlc3MiIHJvbGU9InN1Y2Nlc3MiPgogICAgICAgICAgPGEgaHJlZj0iIyIgY2xhc3M9ImNsb3NlIiBkYXRhLWRpc21pc3M9ImFsZXJ0IiBzdHlsZT0idmVydGljYWwtYWxpZ246IG1pZGRsZSI+JnRpbWVzOzwvYT57eyBtZXNzYWdlIH19CiAgICAgICAgPC9kaXY+CiAgICAgIHslIGVuZGlmICV9CiAgICAgIHslIGlmIG1lc3NhZ2UudGFncyA9PSAnZXJyb3InICV9CiAgICAgICAgPGRpdiBjbGFzcz0iYWxlcnQgYWxlcnQtZGFuZ2VyIiByb2xlPSJhbGVydCI+CiAgICAgICAgICA8YSBocmVmPSIjIiBjbGFzcz0iY2xvc2UiIGRhdGEtZGlzbWlzcz0iYWxlcnQiIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlIj4mdGltZXM7PC9hPnt7IG1lc3NhZ2UgfX0KICAgICAgICA8L2Rpdj4KICAgICAgeyUgZW5kaWYgJX0KICAgICAgeyUgaWYgbWVzc2FnZS50YWdzID09ICd3YXJuaW5nJyAlfQogICAgICAgIDxkaXYgY2xhc3M9ImFsZXJ0IGFsZXJ0LXdhcm5pbmciIHJvbGU9Indhcm5pbmciPgogICAgICAgICAgPGEgaHJlZj0iIyIgY2xhc3M9ImNsb3NlIiBkYXRhLWRpc21pc3M9ImFsZXJ0IiBzdHlsZT0idmVydGljYWwtYWxpZ246IG1pZGRsZSI+JnRpbWVzOzwvYT57eyBtZXNzYWdlIH19CiAgICAgICAgPC9kaXY+CiAgICAgIHslIGVuZGlmICV9CiAgICAgIHslIGlmIG1lc3NhZ2UudGFncyA9PSAnaW5mbycgJX0KICAgICAgICA8ZGl2IGNsYXNzPSJhbGVydCBhbGVydC1pbmZvIiByb2xlPSJpbmZvIj4KICAgICAgICAgIDxhIGhyZWY9IiMiIGNsYXNzPSJjbG9zZSIgZGF0YS1kaXNtaXNzPSJhbGVydCIgc3R5bGU9InZlcnRpY2FsLWFsaWduOiBtaWRkbGUiPiZ0aW1lczs8L2E+e3sgbWVzc2FnZSB9fQogICAgICAgIDwvZGl2PgogICAgICB7JSBlbmRpZiAlfQo=</text>
+      <register name="6" type="4">
+        <text>REQU</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgeyUgaWYgbWVzc2FnZS50YWdzID09ICdzdWNjZXNzJyAlfQogICAgICAgIDxkaXYgY2xhc3M9ImFsZXJ0IGFsZXJ0LXN1Y2Nlc3MiIHJvbGU9InN1Y2Nlc3MiPgogICAgICAgICAgPGEgaHJlZj0iIyIgY2xhc3M9ImNsb3NlIiBkYXRhLWRpc21pc3M9ImFsZXJ0IiBzdHlsZT0idmVydGljYWwtYWxpZ246IG1pZGRsZSI+JnRpbWVzOzwvYT57eyBtZXNzYWdlIH19CiAgICAgICAgPC9kaXY+CiAgICAgIHslIGVuZGlmICV9CiAgICAgIHslIGlmIG1lc3NhZ2UudGFncyA9PSAnZXJyb3InICV9CiAgICAgICAgPGRpdiBjbGFzcz0iYWxlcnQgYWxlcnQtZGFuZ2VyIiByb2xlPSJhbGVydCI+CiAgICAgICAgICA8YSBocmVmPSIjIiBjbGFzcz0iY2xvc2UiIGRhdGEtZGlzbWlzcz0iYWxlcnQiIHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlIj4mdGltZXM7PC9hPnt7IG1lc3NhZ2UgfX0KICAgICAgICA8L2Rpdj4KICAgICAgeyUgZW5kaWYgJX0KICAgICAgeyUgaWYgbWVzc2FnZS50YWdzID09ICd3YXJuaW5nJyAlfQogICAgICAgIDxkaXYgY2xhc3M9ImFsZXJ0IGFsZXJ0LXdhcm5pbmciIHJvbGU9Indhcm5pbmciPgogICAgICAgICAgPGEgaHJlZj0iIyIgY2xhc3M9ImNsb3NlIiBkYXRhLWRpc21pc3M9ImFsZXJ0IiBzdHlsZT0idmVydGljYWwtYWxpZ246IG1pZGRsZSI+JnRpbWVzOzwvYT57eyBtZXNzYWdlIH19CiAgICAgICAgPC9kaXY+CiAgICAgIHslIGVuZGlmICV9CiAgICAgIHslIGlmIG1lc3NhZ2UudGFncyA9PSAnaW5mbycgJX0KICAgICAgICA8ZGl2IGNsYXNzPSJhbGVydCBhbGVydC1pbmZvIiByb2xlPSJpbmZvIj4KICAgICAgICAgIDxhIGhyZWY9IiMiIGNsYXNzPSJjbG9zZSIgZGF0YS1kaXNtaXNzPSJhbGVydCIgc3R5bGU9InZlcnRpY2FsLWFsaWduOiBtaWRkbGUiPiZ0aW1lczs8L2E+e3sgbWVzc2FnZSB9fQogICAgICAgIDwvZGl2PgogICAgICB7JSBlbmRpZiAlfQo=</text>
+      <register name="7" type="4">
+        <text>必要配置人</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxhIGhyZWY9IiMiIGNsYXNzPSJjbG9zZSIgZGF0YS1kaXNtaXNzPSJhbGVydCIgc3R5bGU9InZlcnRpY2FsLWFsaWduOiBtaWRkbGUiPiZ0aW1lczs8L2E+e3sgbWVzc2FnZSB9fQo=</text>
+      <register name="8" type="4">
+        <text>必要配置人</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">PGEgaHJlZj0iIyIgY2xhc3M9ImNsb3NlIGdseXBoaWNvbiBnbHlwaGljb24tcmVtb3ZlIiBkYXRhLWRpc21pc3M9ImFsZXJ0IiBzdHlsZT0idmVydGljYWwtYWxpZ246IG1pZGRsZSI+PC9hPnt7IG1lc3NhZ2UgfX0KICAgICAgICAgIA==</text>
+        <text>必要配置人</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
