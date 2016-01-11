@@ -4,9 +4,16 @@
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
-  <action id="ActivateProjectToolWindow">
-    <keyboard-shortcut first-keystroke="meta 1" />
-    <keyboard-shortcut first-keystroke="space" second-keystroke="j" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
+  <action id="Console.TableResult.ColumnVisibility" />
+  <action id="DebugClass">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+    <keyboard-shortcut first-keystroke="meta space" second-keystroke="d" />
   </action>
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="back_space" />
@@ -14,9 +21,32 @@
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
   <action id="EditorCutLineEnd" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta f12" />
+    <keyboard-shortcut first-keystroke="meta space" second-keystroke="s" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="GotoSymbol" />
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift meta f12" />
+    <keyboard-shortcut first-keystroke="meta space" second-keystroke="m" />
+  </action>
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+    <keyboard-shortcut first-keystroke="meta alt o" />
+  </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+    <keyboard-shortcut first-keystroke="meta space" second-keystroke="r" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
@@ -33,5 +63,13 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="meta f8" />
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
   <action id="TypeHierarchy" />
+  <action id="ViewBreakpoints">
+    <keyboard-shortcut first-keystroke="shift meta f8" />
+    <keyboard-shortcut first-keystroke="meta space" second-keystroke="9" />
+  </action>
 </keymap>
