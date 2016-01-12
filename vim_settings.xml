@@ -10,7 +10,7 @@
         <mark key="." line="309" column="83" />
         <mark key="^" line="309" column="83" />
       </file>
-      <file name="/Python Console" timestamp="1452157210701">
+      <file name="/Python Console" timestamp="1452570379527">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1452060988355">
@@ -18,6 +18,10 @@
         <mark key="]" line="0" column="27" />
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
+      </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase_form.py" timestamp="1452571430912">
+        <mark key="'" line="145" column="8" />
+        <mark key="[" line="23" column="28" />
       </file>
       <file name="$USER_HOME$/repos/Brainpad/TS/engineer-training-basic/django_portal/core/urls.py" timestamp="1450003631047">
         <mark key="[" line="16" column="0" />
@@ -58,6 +62,10 @@
         <mark key="]" line="60" column="51" />
         <mark key="^" line="60" column="51" />
         <mark key="." line="60" column="51" />
+      </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/tc_forms.py" timestamp="1452569764353">
+        <mark key="[" line="227" column="0" />
+        <mark key="]" line="227" column="71" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/models.py" timestamp="1452230558353" />
       <file name="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/mslprj/environment.py" timestamp="1450834012875">
@@ -106,12 +114,11 @@
         <mark key="^" line="12" column="16" />
         <mark key="." line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" timestamp="1452567393106">
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" timestamp="1452571094342">
         <mark key="'" line="463" column="8" />
-        <mark key="[" line="478" column="16" />
-        <mark key="]" line="478" column="16" />
-        <mark key="^" line="478" column="16" />
-        <mark key="." line="478" column="16" />
+        <mark key="[" line="477" column="0" />
+        <mark key="]" line="477" column="0" />
+        <mark key="." line="477" column="0" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/staff_base_detail.html" timestamp="1452147912621">
         <mark key="'" line="294" column="0" />
@@ -135,11 +142,11 @@
         <mark key="." line="71" column="0" />
         <mark key="^" line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/mst/staff_base_forms.py" timestamp="1452566782381">
-        <mark key="[" line="164" column="31" />
-        <mark key="]" line="164" column="33" />
-        <mark key="." line="164" column="33" />
-        <mark key="^" line="164" column="33" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/mst/staff_base_forms.py" timestamp="1452570392478">
+        <mark key="[" line="171" column="0" />
+        <mark key="]" line="171" column="0" />
+        <mark key="." line="171" column="0" />
+        <mark key="^" line="165" column="82" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/section_forms.py" timestamp="1452140092535">
         <mark key="[" line="66" column="42" />
@@ -254,46 +261,48 @@
       <jump line="130" column="8" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/section_service.py" />
       <jump line="151" column="8" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" />
       <jump line="463" column="8" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase_form.py" />
+      <jump line="142" column="8" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase_form.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>cleaned_data.get('min_available_hours')</text>
+        <text>.import Staff</text>
       </register>
       <register name="/" type="4">
         <text>password_changed</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtaW5fYXZhaWxhYmxlX2hvdXJzID0gY2xlYW5lZF9kYXRhLmdldCgnbWluX2F2YWlsYWJsZV9ob3VycycpCg==</text>
+        <text encoding="base64">ZnJvbSBzdGFmZi5tb2RlbHMgaW1wb3J0IFNlY3Rpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>.import Staff</text>
       </register>
       <register name="2" type="4">
-        <text>cleaned_data.get('min_available_hours')</text>
+        <text>section_forms</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuZmllbGRzWydtaW5fYXZhaWxhYmxlX2hvdXJzJ10ubGFiZWwgPSBzdGFmZi5jb25zdC5NU0xfU1RBRkZfTUlOX0FWQUlMQUJMRV9IT1VSU19OQU1FCiAgICAgICAgIyBzZWxmLmZpZWxkc1snbWF4X2F2YWlsYWJsZV9ob3VycyddLmxhYmVsID0gc3RhZmYuY29uc3QuTVNMX1NUQUZGX01BWF9BVkFJTEFCTEVfSE9VUlNfTkFNRQo=</text>
+        <text encoding="base64">ZnJvbSBzdGFmZi5tb2RlbHMgaW1wb3J0IFNlY3Rpb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgc2VsZi5maWVsZHNbJ21pbl9hdmFpbGFibGVfaG91cnMnXS5sYWJlbCA9IHN0YWZmLmNvbnN0Lk1TTF9TVEFGRl9NSU5fQVZBSUxBQkxFX0hPVVJTX05BTUUKICAgICMgc2VsZi5maWVsZHNbJ21heF9hdmFpbGFibGVfaG91cnMnXS5sYWJlbCA9IHN0YWZmLmNvbnN0Lk1TTF9TVEFGRl9NQVhfQVZBSUxBQkxFX0hPVVJTX05BTUUK</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uZm9ybXMgaW1wb3J0IGZvcm1zCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZnJvbSBzdGFmZi50ZXN0cyBpbXBvcnQgdXRpbHMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIHBvc3QoKSB7CiAgICAgICQoJyNtc3Rfc2F2ZV9mb3JtJykuc3VibWl0KCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3NuaXBwZXQoc2VsZik6CiAgICAgICAgaWYgTm9uZSA+IDA6CiAgICAgICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZShUcnVlKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZShGYWxzZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJCgnaW5wdXQnKS5vbignY2xpY2snLCBmdW5jdGlvbigpIHsKICAgICAgICBpZigkKHRoaXMpLnByb3AoJ2NoZWNrZWQnKSkgewogICAgICAgICAgJCh0aGlzKS5wYXJlbnQoKS5jc3MoeydiYWNrZ3JvdW5kLWNvbG9yJzonbGlnaHRibHVlJywgJ2JvcmRlci1saWdodCc6JzFweCBzb2xpZCAjZGRkJywgJ2JvcmRlci1sZWZ0JzonMXB4IHNvbGlkICNkZGQnfSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgJCh0aGlzKS5wYXJlbnQoKS5jc3MoeydiYWNrZ3JvdW5kLWNvbG9yJzonJywgJ2JvcmRlci1saWdodCc6JycsICdib3JkZXItbGVmdCc6Jyd9KQogICAgICAgIH0KICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGlmIG1heF9hdmFpbGFibGVfaG91cnMgPCBtaW5fYXZhaWxhYmxlX2hvdXJzOgogICAgICAgICMgICAgIHNlbGYuYWRkX2Vycm9yKCdtYXhfYXZhaWxhYmxlX2hvdXJzJywgKHN0YWZmLmNvbnN0Lk1TTF9TVEFGRl9NQVhfQVZBSUxBQkxFX0hPVVJTX05BTUUgKwogICAgICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHUn44GvJyArCiAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RhZmYuY29uc3QuTVNMX1NUQUZGX01JTl9BVkFJTEFCTEVfSE9VUlNfTkFNRSArCiAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdSfku6XkuIrjgafjgYLjgovlv4XopoHjgYzjgYLjgorjgb7jgZnjgIInKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGlmIG1heF9hdmFpbGFibGVfaG91cnMgPCAwIGFuZCBpc2luc3RhbmNlKG1heF9hdmFpbGFibGVfaG91cnMsIHR5cGUoTm9uZSkpICE9IFRydWU6CiAgICAgICAgIyAgICAgc2VsZi5hZGRfZXJyb3IoJ21heF9hdmFpbGFibGVfaG91cnMnLCBzdGFmZi5jb25zdC5PTUlUX05FR0FUSVZFX1ZBTFVFX01FU1NBR0UpCgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>ERROR</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAjIG1pbl9hdmFpbGFibGVfaG91cnMgPSBOb25lCiAgICAgICAgIyBpZiBtaW5fYXZhaWxhYmxlX2hvdXJzIDwgMCBhbmQgaXNpbnN0YW5jZShtaW5fYXZhaWxhYmxlX2hvdXJzLCB0eXBlKE5vbmUpKSAhPSBUcnVlOgogICAgICAgICMgICAgIHNlbGYuYWRkX2Vycm9yKCdtaW5fYXZhaWxhYmxlX2hvdXJzJywgc3RhZmYuY29uc3QuT01JVF9ORUdBVElWRV9WQUxVRV9NRVNTQUdFKQogICAgICAgICMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
