@@ -117,12 +117,11 @@
         <mark key="." line="477" column="0" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/staff_base_view.py" timestamp="1452576433270" />
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/staff_base_detail.html" timestamp="1452147912621">
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/staff_base_detail.html" timestamp="1452583703689">
         <mark key="'" line="294" column="0" />
-        <mark key="[" line="190" column="83" />
-        <mark key="]" line="190" column="83" />
-        <mark key="." line="190" column="83" />
-        <mark key="^" line="190" column="131" />
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="168" column="0" />
+        <mark key="." line="168" column="0" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_tc_form.py" timestamp="1452580343414">
         <mark key="'" line="0" column="0" />
@@ -139,11 +138,11 @@
         <mark key="." line="71" column="0" />
         <mark key="^" line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/mst/staff_base_forms.py" timestamp="1452582751909">
-        <mark key="[" line="63" column="45" />
-        <mark key="]" line="63" column="45" />
-        <mark key="." line="63" column="45" />
-        <mark key="^" line="64" column="19" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/mst/staff_base_forms.py" timestamp="1452584216914">
+        <mark key="[" line="64" column="20" />
+        <mark key="]" line="65" column="20" />
+        <mark key="." line="65" column="20" />
+        <mark key="^" line="65" column="20" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/section_forms.py" timestamp="1452140092535">
         <mark key="[" line="66" column="42" />
@@ -277,31 +276,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmZpZWxkc1snd2FnZSddID0gZm9ybXMuSW50ZWdlckZpZWxkKGxhYmVsPXN0YWZmLmNvbnN0Lk1TTF9TVEFGRl9XQUdFX05BTUUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAkKCkK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>必ず入力しなければならない</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyBmb3IgcGFyYW0sIHZhbHVlIGluIHBhcmFtcy5pdGVtcygpOgogICAgICAgICAgICAjICAgICBpbGxlZ2FsX3BhcmFtcyA9IGNvcHkuZGVlcGNvcHkoc2VsZi5iYXNpY19wYXJhbXMpCiAgICAgICAgICAgICMgICAgIGlsbGVnYWxfcGFyYW1zW3BhcmFtXSA9IHZhbHVlCiAgICAgICAgICAgICMgICAgIGZvcm0gPSBUaHJvdWdoQ2VudGVyRm9ybShpbGxlZ2FsX3BhcmFtcywgaW5zdGFuY2U9c2VsZi50YykKICAgICAgICAgICAgIyAgICAgc2VsZi5hc3NlcnRGYWxzZShmb3JtLmlzX3ZhbGlkKCkpCiAgICAgICAgICAgICMKCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZm9ybS5pc192YWxpZCgpCiAgICAgICAgICAgIHByaW50KCdhYWEnKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>self</text>
-      </register>
       <register name="7" type="4">
-        <text>basic_params</text>
+        <text>self</text>
       </register>
       <register name="8" type="4">
-        <text>self</text>
+        <text>basic_params</text>
       </register>
       <register name="9" type="4">
-        <text>valid_staff_id</text>
+        <text>self</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
