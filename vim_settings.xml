@@ -3,17 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1452587536264">
+      <file name="/Python Console" timestamp="1452592598143">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1452586777124">
+      <file name="/fragment.py" timestamp="1452592729328">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase_form.py" timestamp="1452589170126">
-        <mark key="[" line="161" column="25" />
-        <mark key="]" line="161" column="25" />
-        <mark key="^" line="161" column="25" />
-        <mark key="." line="161" column="25" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase_form.py" timestamp="1452594152561">
+        <mark key="'" line="104" column="4" />
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="197" column="18" />
+        <mark key="^" line="197" column="18" />
+        <mark key="." line="197" column="18" />
       </file>
       <file name="$USER_HOME$/repos/Brainpad/TS/engineer-training-basic/django_portal/core/urls.py" timestamp="1450003631047">
         <mark key="[" line="16" column="0" />
@@ -64,6 +68,9 @@
         <mark key="^" line="312" column="46" />
         <mark key="." line="312" column="46" />
       </file>
+      <file name="/Django Console" timestamp="1452591770547">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/tc_edit.html" timestamp="1452147885628">
         <mark key="[" line="73" column="85" />
         <mark key="]" line="73" column="85" />
@@ -108,7 +115,7 @@
         <mark key="." line="295" column="0" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/tc_views.py" timestamp="1452230733638" />
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/mst/staff_base_forms.py" timestamp="1452588538700">
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/mst/staff_base_forms.py" timestamp="1452593214006">
         <mark key="[" line="173" column="70" />
         <mark key="]" line="173" column="81" />
         <mark key="." line="173" column="81" />
@@ -229,46 +236,47 @@
       <jump line="142" column="8" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase_form.py" />
       <jump line="61" column="22" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" />
       <jump line="47" column="4" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/tc_forms.py" />
+      <jump line="104" column="4" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase_form.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>valid_available_days_week</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChmb3JtLl9jYWxjX2F2YWlsYWJsZV9kYXlzX3dlZWsoZm9ybS5jbGVhbmVkX2RhdGEpLCA3KQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaWQgaW4gaW52YWxpZF9zdGFmZl9pZHM6CiAgICAgICAgICAgIGludmFsaWRfcGFyYW1zID0gY29weS5kZWVwY29weShzZWxmLmJhc2ljX3BhcmFtcykKICAgICAgICAgICAgZmllbGRzID0gaWQua2V5cygpCiAgICAgICAgICAgIGZvciBmaWVsZCBpbiBmaWVsZHM6CiAgICAgICAgICAgICAgICBpbnZhbGlkX3BhcmFtc1tmaWVsZF0gPSBpZFtmaWVsZF0KICAgICAgICAgICAgZm9ybSA9IFN0YWZmQmFzZUZvcm0oaW52YWxpZF9wYXJhbXMsIGluc3RhbmNlPXNlbGYuc3RhZmZiYXNlLCBzZXNzaW9uPXNlbGYuc2Vzc2lvbl9nb2QpCiAgICAgICAgICAgIHNlbGYuYXNzZXJ0RmFsc2UoZm9ybS5pc192YWxpZCgpKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>valid_available_days_week</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>valid_available_days_week</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>個人番号のバリデーション:正常系</text>
+        <text>id</text>
       </register>
       <register name="4" type="4">
-        <text>半角英数、アンスコのみ。文字列長は10文字以内</text>
+        <text>invalid_params</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNsZWFuZWRfZGF0YSA9IHN1cGVyKFN0YWZmQmFzZUZvcm0sIGZvcm0pLmNsZWFuKCkK</text>
+      <register name="5" type="4">
+        <text>id</text>
       </register>
       <register name="6" type="4">
-        <text>form</text>
+        <text>valid_params</text>
       </register>
       <register name="7" type="4">
-        <text>self</text>
+        <text>params</text>
       </register>
       <register name="8" type="4">
-        <text>self</text>
+        <text>valid_params</text>
       </register>
       <register name="9" type="4">
-        <text>form</text>
+        <text>id</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
