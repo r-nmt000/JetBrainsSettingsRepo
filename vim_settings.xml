@@ -9,11 +9,11 @@
       <file name="/fragment.py" timestamp="1452586777124">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase_form.py" timestamp="1452587475045">
-        <mark key="[" line="162" column="25" />
-        <mark key="]" line="162" column="67" />
-        <mark key="^" line="162" column="67" />
-        <mark key="." line="162" column="67" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase_form.py" timestamp="1452589170126">
+        <mark key="[" line="161" column="25" />
+        <mark key="]" line="161" column="25" />
+        <mark key="^" line="161" column="25" />
+        <mark key="." line="161" column="25" />
       </file>
       <file name="$USER_HOME$/repos/Brainpad/TS/engineer-training-basic/django_portal/core/urls.py" timestamp="1450003631047">
         <mark key="[" line="16" column="0" />
@@ -70,16 +70,11 @@
         <mark key="." line="73" column="85" />
         <mark key="^" line="73" column="84" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/utils.py" timestamp="1452585816783">
-        <mark key="[" line="189" column="0" />
-        <mark key="]" line="189" column="0" />
-        <mark key="." line="189" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/staff_base_service.py" timestamp="1452586891888">
-        <mark key="[" line="75" column="57" />
-        <mark key="]" line="75" column="57" />
-        <mark key="^" line="75" column="57" />
-        <mark key="." line="75" column="57" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/staff_base_service.py" timestamp="1452588653356">
+        <mark key="[" line="75" column="58" />
+        <mark key="]" line="76" column="48" />
+        <mark key="^" line="76" column="48" />
+        <mark key="." line="76" column="48" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" timestamp="1452076803314">
         <mark key="[" line="241" column="6" />
@@ -113,10 +108,11 @@
         <mark key="." line="295" column="0" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/tc_views.py" timestamp="1452230733638" />
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/mst/staff_base_forms.py" timestamp="1452587316032">
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="179" column="46" />
-        <mark key="." line="162" column="0" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/mst/staff_base_forms.py" timestamp="1452588538700">
+        <mark key="[" line="173" column="70" />
+        <mark key="]" line="173" column="81" />
+        <mark key="." line="173" column="81" />
+        <mark key="^" line="173" column="81" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/section_forms.py" timestamp="1452140092535">
         <mark key="[" line="66" column="42" />
@@ -239,40 +235,40 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>valid_staff_id</text>
+        <text>valid_available_days_week</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzdF9maWVsZHMgPSBbJ2NvbnRyYWN0aW9uX21vbmRheScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICdjb250cmFjdGlvbl90dWVzZGF5JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2NvbnRyYWN0aW9uX3dlZG5lc2RheScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICdjb250cmFjdGlvbl90aHVyc2RheScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICdjb250cmFjdGlvbl9mcmlkYXknLAogICAgICAgICAgICAgICAgICAgICAgICAgICAnY29udHJhY3Rpb25fc2F0dXJkYXknLAogICAgICAgICAgICAgICAgICAgICAgICAgICAnY29udHJhY3Rpb25fc3VuZGF5Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChmb3JtLl9jYWxjX2F2YWlsYWJsZV9kYXlzX3dlZWsoZm9ybS5jbGVhbmVkX2RhdGEpLCA3KQo=</text>
       </register>
       <register name="1" type="4">
-        <text>valid_staff_id</text>
+        <text>valid_available_days_week</text>
       </register>
       <register name="2" type="4">
-        <text>valid_staff_id</text>
+        <text>valid_available_days_week</text>
       </register>
       <register name="3" type="4">
-        <text>msl_staff_id</text>
-      </register>
-      <register name="4" type="4">
-        <text>valid_staff_id</text>
-      </register>
-      <register name="5" type="4">
         <text>個人番号のバリデーション:正常系</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>半角英数、アンスコのみ。文字列長は10文字以内</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHdhZ2UgPSBjbGVhbmVkX2RhdGEuZ2V0KCd3YWdlJykKICAgICAgICAjIGlmIHdhZ2UgPCAwIGFuZCBpc2luc3RhbmNlKHdhZ2UsIHR5cGUoTm9uZSkpICE9IFRydWU6CiAgICAgICAgIyAgICAgc2VsZi5hZGRfZXJyb3IoJ3dhZ2UnLCBzdGFmZi5jb25zdC5PTUlUX05FR0FUSVZFX1ZBTFVFX01FU1NBR0UpCg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAjIGNsZWFuZWRfZGF0YSA9IHN1cGVyKFN0YWZmQmFzZUZvcm0sIGZvcm0pLmNsZWFuKCkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuZmllbGRzWyd3YWdlJ10gPSBmb3Jtcy5JbnRlZ2VyRmllbGQobGFiZWw9c3RhZmYuY29uc3QuTVNMX1NUQUZGX1dBR0VfTkFNRSkKICAgICAgICAjIHNlbGYuX19kaWN0X19bJ3dhZ2UnXSA9IGludChzZWxmLl9fZGljdF9fWyd3YWdlJ10pCg==</text>
+      <register name="6" type="4">
+        <text>form</text>
+      </register>
+      <register name="7" type="4">
+        <text>self</text>
+      </register>
+      <register name="8" type="4">
+        <text>self</text>
       </register>
       <register name="9" type="4">
-        <text>fields</text>
+        <text>form</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
