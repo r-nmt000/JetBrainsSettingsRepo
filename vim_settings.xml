@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/section_service.py" timestamp="1452140012931">
-        <mark key="'" line="130" column="8" />
-        <mark key="[" line="310" column="20" />
-        <mark key="]" line="309" column="83" />
-        <mark key="." line="309" column="83" />
-        <mark key="^" line="309" column="83" />
-      </file>
       <file name="/Python Console" timestamp="1452671740471">
         <mark key="[" line="0" column="0" />
       </file>
@@ -19,12 +12,9 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase_form.py" timestamp="1452671534180">
-        <mark key="'" line="366" column="16" />
-        <mark key="[" line="433" column="12" />
-        <mark key="]" line="433" column="12" />
-        <mark key="^" line="379" column="50" />
-        <mark key="." line="433" column="12" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase_form.py" timestamp="1452676899515">
+        <mark key="'" line="431" column="59" />
+        <mark key="^" line="145" column="50" />
       </file>
       <file name="$USER_HOME$/repos/Brainpad/TS/engineer-training-basic/django_portal/core/urls.py" timestamp="1450003631047">
         <mark key="[" line="16" column="0" />
@@ -34,13 +24,6 @@
       </file>
       <file name="/a.dummy" timestamp="1452644971521">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" timestamp="1450869592676">
-        <mark key="'" line="214" column="8" />
-        <mark key="[" line="214" column="39" />
-        <mark key="]" line="214" column="39" />
-        <mark key="." line="214" column="39" />
-        <mark key="^" line="50" column="36" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/utils.py" timestamp="1451895636040">
         <mark key="[" line="17" column="23" />
@@ -105,13 +88,6 @@
         <mark key="." line="73" column="85" />
         <mark key="^" line="73" column="84" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_tc_and_section.json" timestamp="1451010967593">
-        <mark key="'" line="4281" column="0" />
-        <mark key="[" line="2161" column="30" />
-        <mark key="]" line="2161" column="31" />
-        <mark key="." line="2161" column="31" />
-        <mark key="^" line="2161" column="31" />
-      </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/staff_base_service.py" timestamp="1452668277049" />
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" timestamp="1452665498649">
         <mark key="[" line="225" column="116" />
@@ -156,7 +132,12 @@
         <mark key="." line="70" column="35" />
         <mark key="^" line="70" column="35" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/mst/staff_base_forms.py" timestamp="1452672190058" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/mst/staff_base_forms.py" timestamp="1452677358964">
+        <mark key="[" line="294" column="11" />
+        <mark key="]" line="294" column="14" />
+        <mark key="." line="294" column="14" />
+        <mark key="^" line="294" column="14" />
+      </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/section_forms.py" timestamp="1452140092535">
         <mark key="[" line="66" column="42" />
         <mark key="]" line="66" column="42" />
@@ -173,13 +154,6 @@
         <mark key="]" line="60" column="18" />
         <mark key="^" line="60" column="18" />
         <mark key="." line="60" column="18" />
-      </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_role_auth2.json" timestamp="1451032273423">
-        <mark key="'" line="2762" column="5" />
-        <mark key="[" line="2774" column="30" />
-        <mark key="]" line="2774" column="31" />
-        <mark key="." line="2774" column="31" />
-        <mark key="^" line="2774" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -275,6 +249,7 @@
       <jump line="346" column="12" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase_form.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase_form.py" />
       <jump line="366" column="16" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase_form.py" />
+      <jump line="471" column="59" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase_form.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -290,31 +265,31 @@
         <text encoding="base64">ICAgICAgICAgICAgIyDlh7rli6Tlj6/og73ml6Uv6YCx44GvN+OBqOOBquOCiwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9ybS5pc192YWxpZCgpCiAgICAgICAgICAgIHByaW50KCdhYWEnKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGlmIGlzaW5zdGFuY2UobWluX2F2YWlsYWJsZV9ob3VycywgdHlwZShOb25lKSkgIT0gVHJ1ZToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICMgJ3dhZ2UnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBzdGFmZi5tb2RlbHMgaW1wb3J0IFRocm91Z2hDZW50ZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGZpZWxkcyA9IGludmFsaWRfbWluX2F2YWlsYWJsZV9ob3Vycy5rZXlzKCkKICAgICAgICAjIGZvciBmaWVsZCBpbiBmaWVsZHM6CiAgICAgICAgIyAgICAgc2VsZi5iYXNpY19wYXJhbXNbZmllbGRdID0gaW52YWxpZF9taW5fYXZhaWxhYmxlX2hvdXJzW2ZpZWxkXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBmaWVsZHMgPSBhdmFpbGFibGVfaG91cnMua2V5cygpCiAgICAgICAgICAgICMgZm9yIGZpZWxkIGluIGZpZWxkczoKICAgICAgICAgICAgIyAgICAgdmFsaWRfcGFyYW1zW2ZpZWxkXSA9IGF2YWlsYWJsZV9ob3Vyc1tmaWVsZF0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgZGVmIHRlc3RfdmFsaWRfYXZhaWxhYmxlX2RheXNfd2VlayhzZWxmKToKICAgICMgICAgICIiIiDlh7rli6Tlj6/og73ml6Uv6YCx44Gu44OQ44Oq44OH44O844K344On44OzCiAgICAjICAgICAiIiIKICAgICMgICAgICMg5Y2K6KeS6Iux5pWw44CB44Ki44Oz44K544Kz44Gu44G/44CC5paH5a2X5YiX6ZW344GvMTDmloflrZfku6XlhoUKICAgICMgICAgIHZhbGlkX3BhcmFtcyA9IHsnYXZhaWxhYmxlX2RheXNfd2Vlayc6IDMsCiAgICAjICAgICAgICAgICAgICAgICAgICAgJyd9CiAgICAjCiAgICAjCiAgICAjICAgICBmaWVsZHMgPSB2YWxpZF9zdGFmZl9pZC5rZXlzKCkKICAgICMgICAgIGZvciBmaWVsZCBpbiBmaWVsZHM6CiAgICAjICAgICAgICAgc2VsZi5iYXNpY19wYXJhbXNbZmllbGRdID0gdmFsaWRfc3RhZmZfaWRbZmllbGRdCiAgICAjICAgICBmb3JtID0gU3RhZmZCYXNlRm9ybShzZWxmLmJhc2ljX3BhcmFtcywgaW5zdGFuY2U9c2VsZi5zdGFmZmJhc2UsIHNlc3Npb249c2VsZi5zZXNzaW9uX2dvZCkKICAgICMgICAgIHNlbGYuYXNzZXJ0VHJ1ZShmb3JtLmlzX3ZhbGlkKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBmaWVsZHMgPSBhdmFpbGFibGVfaG91cnMua2V5cygpCiAgICAgICAgICAgICMgZm9yIGZpZWxkIGluIGZpZWxkczoKICAgICAgICAgICAgIyAgICAgaW52YWxpZF9wYXJhbXNbZmllbGRdID0gYXZhaWxhYmxlX2hvdXJzW2ZpZWxkXQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>出勤可能日週</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBmaWVsZHMgPSBhdmFpbGFibGVfaG91cnMua2V5cygpCiAgICAgICAgICAgICMgZm9yIGZpZWxkIGluIGZpZWxkczoKICAgICAgICAgICAgIyAgICAgdmFsaWRfcGFyYW1zW2ZpZWxkXSA9IGF2YWlsYWJsZV9ob3Vyc1tmaWVsZF0K</text>
       </register>
-      <register name="8" type="4">
-        <text>/</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBmaWVsZHMgPSBhdmFpbGFibGVfaG91cnMua2V5cygpCiAgICAgICAgICAgICMgZm9yIGZpZWxkIGluIGZpZWxkczoKICAgICAgICAgICAgIyAgICAgdmFsaWRfcGFyYW1zW2ZpZWxkXSA9IGF2YWlsYWJsZV9ob3Vyc1tmaWVsZF0K</text>
       </register>
-      <register name="9" type="4">
-        <text>出勤可能日</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBmaWVsZHMgPSBhdmFpbGFibGVfaG91cnMua2V5cygpCiAgICAgICAgICAgICMgZm9yIGZpZWxkIGluIGZpZWxkczoKICAgICAgICAgICAgIyAgICAgdmFsaWRfcGFyYW1zW2ZpZWxkXSA9IGF2YWlsYWJsZV9ob3Vyc1tmaWVsZF0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
