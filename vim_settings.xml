@@ -6,7 +6,7 @@
       <file name="/Python Console" timestamp="1452657233589">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1452653080971">
+      <file name="/fragment.py" timestamp="1452662708367">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -24,9 +24,9 @@
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/tc_forms.py" timestamp="1452583070066">
         <mark key="'" line="47" column="4" />
-        <mark key="[" line="227" column="0" />
-        <mark key="]" line="227" column="71" />
-        <mark key="." line="227" column="176" />
+        <mark key="[" line="226" column="0" />
+        <mark key="]" line="226" column="71" />
+        <mark key="." line="226" column="176" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/models.py" timestamp="1452580202731" />
       <file name="/Django Console" timestamp="1452591770547">
@@ -36,16 +36,14 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="42" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/staff_base_service.py" timestamp="1452652248835">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="3" />
-        <mark key="^" line="78" column="3" />
-        <mark key="." line="78" column="3" />
-      </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/staff_base_service.py" timestamp="1452652248835" />
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" timestamp="1452076803314">
         <mark key="[" line="241" column="6" />
         <mark key="]" line="241" column="6" />
         <mark key="." line="241" column="6" />
+      </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_section_form.py" timestamp="1452082905366">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" timestamp="1452575251762">
         <mark key="'" line="61" column="22" />
@@ -62,33 +60,19 @@
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_tc_form.py" timestamp="1452580343414">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="127" column="50" />
-        <mark key="^" line="82" column="11" />
-        <mark key="." line="295" column="0" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/tc_views.py" timestamp="1452230733638" />
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/mst/staff_base_forms.py" timestamp="1452652155152">
-        <mark key="[" line="173" column="70" />
-        <mark key="]" line="173" column="81" />
-        <mark key="." line="173" column="81" />
-        <mark key="^" line="173" column="81" />
-      </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/section_edit.html" timestamp="1452228141565">
-        <mark key="]" line="31" column="8" />
-        <mark key="." line="50" column="83" />
-        <mark key="^" line="50" column="131" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register.py" timestamp="1452662883988">
+        <mark key="'" line="215" column="32" />
+        <mark key="[" line="70" column="35" />
+        <mark key="]" line="70" column="35" />
+        <mark key="." line="70" column="35" />
+        <mark key="^" line="70" column="35" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/utils/custom_fields.py" timestamp="1452585628103">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/tc_service.py" timestamp="1452586528283">
-        <mark key="[" line="215" column="0" />
-        <mark key="]" line="222" column="28" />
-        <mark key="." line="137" column="48" />
-        <mark key="^" line="137" column="48" />
       </file>
     </filemarks>
     <jumps>
@@ -189,7 +173,7 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>support</text>
@@ -198,25 +182,25 @@
         <text encoding="base64">ICAgIGRlZiB0ZXN0X2Z1eW91X3dvcmtfdGltZV92YWxpZGF0aW9uKHNlbGYpOgogICAgICAgICIiIiDmibbppIrlr77osaHkvZzmpa3lk6Hjga7nqLzlg43mmYLplpPjga/mibbppIrmnIjmnIDlpKfnqLzlg43mmYLplpPku6XkuIvjgavjgarjgonjgarjgZHjgozjgbDjgarjgonjgarjgYQ65q2j5bi457O7CiAgICAgICAgIiIiCgogICAgICAgIHZhbGlkX2Z1eW91X3BhcmFtcyA9ICgKICAgICAgICAgICAgIyBUaHJvdWdoQ2VudGVy44Gu5om26aSK5pyI5pyA5aSn56i85YON5pmC6ZaT44GvdGVzdF9zdGFmZmJhc2UuanNvbuOBq+Wumue+qeOBleOCjOOBpuOBhOOCiwogICAgICAgICAgICAjIOaJtumkiuaciOacgOWkp+WPr+WLleaZgumWkzoxMDAKICAgICAgICAgICAgIwogICAgICAgICAgICAjIOWHuuWLpOW4jOacm+aXpeaVsOOBjO+8leaXpeS7peS4igogICAgICAgICAgICAjIGFjY2VwdF91cHNpZGVfZGlmZl81ZGF5c19zdGFmZiA9IDEKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgJ2NvbnRyYWN0aW9uX21vbmRheSc6ICcwJywKICAgICAgICAgICAgICAgICdjb250cmFjdGlvbl90dWVzZGF5JzogJzAnLAogICAgICAgICAgICAgICAgJ2NvbnRyYWN0aW9uX3dlZG5lc2RheSc6ICcxJywKICAgICAgICAgICAgICAgICdjb250cmFjdGlvbl90aHVyc2RheSc6ICcxJywKICAgICAgICAgICAgICAgICdjb250cmFjdGlvbl9mcmlkYXknOiAnMScsCiAgICAgICAgICAgICAgICAnY29udHJhY3Rpb25fc2F0dXJkYXknOiAnMScsCiAgICAgICAgICAgICAgICAnY29udHJhY3Rpb25fc3VuZGF5JzogJzEnLAogICAgICAgICAgICAgICAgJ2RlcGVuZGVudF9mbGcnOiBUcnVlLAogICAgICAgICAgICAgICAgJ21pbl9hdmFpbGFibGVfaG91cnMnOiAxCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICMg5Ye65Yuk5biM5pyb5pel5pWw44GM77yU5pelCiAgICAgICAgICAgICMgYWNjZXB0X3Vwc2lkZV9kaWZmXzRkYXlzX3N0YWZmID0gMAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAnY29udHJhY3Rpb25fbW9uZGF5JzogJzAnLAogICAgICAgICAgICAgICAgJ2NvbnRyYWN0aW9uX3R1ZXNkYXknOiAnMCcsCiAgICAgICAgICAgICAgICAnY29udHJhY3Rpb25fd2VkbmVzZGF5JzogJzAnLAogICAgICAgICAgICAgICAgJ2NvbnRyYWN0aW9uX3RodXJzZGF5JzogJzEnLAogICAgICAgICAgICAgICAgJ2NvbnRyYWN0aW9uX2ZyaWRheSc6ICcxJywKICAgICAgICAgICAgICAgICdjb250cmFjdGlvbl9zYXR1cmRheSc6ICcxJywKICAgICAgICAgICAgICAgICdjb250cmFjdGlvbl9zdW5kYXknOiAnMScsCiAgICAgICAgICAgICAgICAnZGVwZW5kZW50X2ZsZyc6IFRydWUsCiAgICAgICAgICAgICAgICAnbWluX2F2YWlsYWJsZV9ob3Vycyc6IDEKICAgICAgICAgICAgfSwKICAgICAgICAgICAgIyDlh7rli6TluIzmnJvml6XmlbDjgYzvvJPml6Xku6XkuIsKICAgICAgICAgICAgIyBhY2NlcHRfZG93bnNpZGVfZGlmZl8zZGF5c19zdGFmZiA9IDAKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgJ2NvbnRyYWN0aW9uX21vbmRheSc6ICcwJywKICAgICAgICAgICAgICAgICdjb250cmFjdGlvbl90dWVzZGF5JzogJzAnLAogICAgICAgICAgICAgICAgJ2NvbnRyYWN0aW9uX3dlZG5lc2RheSc6ICcwJywKICAgICAgICAgICAgICAgICdjb250cmFjdGlvbl90aHVyc2RheSc6ICcwJywKICAgICAgICAgICAgICAgICdjb250cmFjdGlvbl9mcmlkYXknOiAnMScsCiAgICAgICAgICAgICAgICAnY29udHJhY3Rpb25fc2F0dXJkYXknOiAnMScsCiAgICAgICAgICAgICAgICAnY29udHJhY3Rpb25fc3VuZGF5JzogJzEnLAogICAgICAgICAgICAgICAgJ2RlcGVuZGVudF9mbGcnOiBUcnVlLAogICAgICAgICAgICAgICAgJ21pbl9hdmFpbGFibGVfaG91cnMnOiAxCiAgICAgICAgICAgIH0KICAgICAgICApCgogICAgICAgIGZvciBhdmFpbGFibGVfaG91cnMgaW4gdmFsaWRfZnV5b3VfcGFyYW1zOgogICAgICAgICAgICB2YWxpZF9wYXJhbXMgPSBjb3B5LmRlZXBjb3B5KHNlbGYuYmFzaWNfcGFyYW1zKQogICAgICAgICAgICBmaWVsZHMgPSBhdmFpbGFibGVfaG91cnMua2V5cygpCiAgICAgICAgICAgIGZvciBmaWVsZCBpbiBmaWVsZHM6CiAgICAgICAgICAgICAgICB2YWxpZF9wYXJhbXNbZmllbGRdID0gYXZhaWxhYmxlX2hvdXJzW2ZpZWxkXQogICAgICAgICAgICBmb3JtID0gU3RhZmZCYXNlRm9ybSh2YWxpZF9wYXJhbXMsIGluc3RhbmNlPXNlbGYuc3RhZmZiYXNlLCBzZXNzaW9uPXNlbGYuc2Vzc2lvbl9nb2QpCiAgICAgICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZShmb3JtLmlzX3ZhbGlkKCkpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>True</text>
+        <text />
       </register>
       <register name="2" type="4">
+        <text>True</text>
+      </register>
+      <register name="3" type="4">
         <text>valid_available_hours</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgeydtYXhfYXZhaWxhYmxlX2hvdXJzJzogM30sCiAgICAgICAgICAgICMg5pyA5aSn5Yuk5YuZ5Y+v6IO95pmC6ZaT44Go5pyA5bCP56i85YON5pmC6ZaT44GM562J44GX44GECiAgICAgICAgICAgIHsnbWF4X2F2YWlsYWJsZV9ob3Vycyc6IDJ9Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyBmb3JtLmlzX3ZhbGlkKCkKICAgICAgICAgICAgIyBwcmludCgnYWFhJykK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAjIHN0YWZmX2Jhc2VfZm9ybS5fX2RpY3RfX1snd2FnZSddID0gaW50KHN0YWZmX2Jhc2VfZm9ybS5fX2RpY3RfX1snd2FnZSddKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgeydtc2xfc3RhZmZfaWQnOiAnJywgJ3R5cGUnOiAnbmV3X2VudHJ5J30K</text>
-      </register>
-      <register name="7" type="4">
-        <text>available_days_week</text>
       </register>
       <register name="8" type="4">
         <text>available_days_week</text>
