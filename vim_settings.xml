@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1452592598143">
+      <file name="/Python Console" timestamp="1452646115930">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1452592729328">
@@ -12,18 +12,21 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase_form.py" timestamp="1452594152561">
-        <mark key="'" line="104" column="4" />
-        <mark key="[" line="196" column="0" />
-        <mark key="]" line="197" column="18" />
-        <mark key="^" line="197" column="18" />
-        <mark key="." line="197" column="18" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase_form.py" timestamp="1452646112512">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="196" column="37" />
+        <mark key="]" line="196" column="37" />
+        <mark key="^" line="205" column="11" />
+        <mark key="." line="196" column="37" />
       </file>
       <file name="$USER_HOME$/repos/Brainpad/TS/engineer-training-basic/django_portal/core/urls.py" timestamp="1450003631047">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1452644971521">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/utils.py" timestamp="1451895636040">
         <mark key="[" line="17" column="23" />
@@ -237,46 +240,47 @@
       <jump line="61" column="22" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" />
       <jump line="47" column="4" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/tc_forms.py" />
       <jump line="104" column="4" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase_form.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase_form.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>ThroughCenterMock</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaWQgaW4gaW52YWxpZF9zdGFmZl9pZHM6CiAgICAgICAgICAgIGludmFsaWRfcGFyYW1zID0gY29weS5kZWVwY29weShzZWxmLmJhc2ljX3BhcmFtcykKICAgICAgICAgICAgZmllbGRzID0gaWQua2V5cygpCiAgICAgICAgICAgIGZvciBmaWVsZCBpbiBmaWVsZHM6CiAgICAgICAgICAgICAgICBpbnZhbGlkX3BhcmFtc1tmaWVsZF0gPSBpZFtmaWVsZF0KICAgICAgICAgICAgZm9ybSA9IFN0YWZmQmFzZUZvcm0oaW52YWxpZF9wYXJhbXMsIGluc3RhbmNlPXNlbGYuc3RhZmZiYXNlLCBzZXNzaW9uPXNlbGYuc2Vzc2lvbl9nb2QpCiAgICAgICAgICAgIHNlbGYuYXNzZXJ0RmFsc2UoZm9ybS5pc192YWxpZCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9ybSA9IFN0YWZmQmFzZUZvcm0oc2VsZi5iYXNpY19wYXJhbXMsIGluc3RhbmNlPXNlbGYuc3RhZmZiYXNlLCBzZXNzaW9uPXNlbGYuc2Vzc2lvbl9nb2QpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>ThroughCenterMock</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>models</text>
       </register>
-      <register name="3" type="4">
-        <text>id</text>
+      <register name="3" type="2">
+        <text encoding="base64">QHBhdGNoKCdzdGFmZi5tb2RlbHMuVGhyb3VnaENlbnRlcicpCg==</text>
       </register>
       <register name="4" type="4">
-        <text>invalid_params</text>
+        <text>test</text>
       </register>
       <register name="5" type="4">
-        <text>id</text>
+        <text>Through</text>
       </register>
-      <register name="6" type="4">
-        <text>valid_params</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>params</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>valid_params</text>
+        <text>id</text>
       </register>
       <register name="9" type="4">
-        <text>id</text>
+        <text>invalid_params</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
