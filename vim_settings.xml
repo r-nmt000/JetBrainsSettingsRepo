@@ -104,12 +104,11 @@
         <mark key="." line="70" column="35" />
         <mark key="^" line="70" column="35" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/mst/staff_base_forms.py" timestamp="1452835368088">
-        <mark key="a" line="191" column="19" />
-        <mark key="[" line="203" column="0" />
-        <mark key="]" line="203" column="0" />
-        <mark key="^" line="206" column="42" />
-        <mark key="." line="203" column="0" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/mst/staff_base_forms.py" timestamp="1452836886998">
+        <mark key="[" line="96" column="38" />
+        <mark key="]" line="96" column="38" />
+        <mark key="^" line="96" column="38" />
+        <mark key="." line="96" column="38" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/section_forms.py" timestamp="1452140092535">
         <mark key="[" line="66" column="42" />
@@ -225,7 +224,7 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>が拠点マスタの最大連続勤務日数を超えています</text>
+        <text>==</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
@@ -234,31 +233,31 @@
         <text>扶養月最大稼働時間以下となるようにする必要があります。</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgaWYoc2VsZi5hdmFpbGFibGVfZGF5c193ZWVrICogbWluX2F2YWlsYWJsZV9ob3VycyA+IHRjLmZ1eW91X21heF9tb250aF9ob3Vycwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIHJhaXNlIGZvcm1zLlZhbGlkYXRpb25FcnJvcih1J+aJtumkiuWvvuixoeOBq+OBguOBn+OCi+S9nOalreWToeOBrueovOWDjeaZgumWk+OBr+OAgScgKwogICAgICAgICAgICAgICAgICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHUn5om26aSK5pyI5pyA5aSn56i85YON5pmC6ZaT5Lul5LiL44Go44Gq44KL44KI44GG44Gr44GZ44KL5b+F6KaB44GM44GC44KK44G+44GZ44CCJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIHN0YWZmLmNvbnN0Lk1TTF9TVEFGRl9NSU5fQVZBSUxBQkxFX0hPVVJTX05BTUUgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIHUn4pyVICgnICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBzdGFmZi5jb25zdC5NU0xfU1RBRkZfQ09OVFJBQ1RJT05fV0VFS19EQVlfTkFNRSArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgdSfkuK3jga4nICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBzdGFmZi5jb25zdC5NQVBfV09SS19ERVNJUkVEW3N0YWZmLmNvbnN0LkNPREVfS0lCT1VdICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyB1J+WQiOioiOaVsCnjgYzjgIHmiYDlsZ7jgZnjgovmi6Dngrnjga4nICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBzdGFmZi5jb25zdC5NU0xfU1RBRkZfRlVZT1VfTUFYX01PTlRIX0hPVVJTX05BTUUgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIHUn5Lul5LiL44Gr44GZ44KL5b+F6KaB44GM44GC44KK44G+44GZ44CCJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1pbl9tYWluX3dvcmtfaG91cnMgPSB0Yy5taW5fbWFpbl93b3JrX2hvdXJzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIHJhaXNlIGZvcm1zLlZhbGlkYXRpb25FcnJvcih1J+WHuuWLpOW4jOacm+aXpeaVsOOBjOaLoOeCueODnuOCueOCv+OBruacgOWkp+mAo+e2muWLpOWLmeaXpeaVsOOCkui2heOBiOOBpuOBhOOBvuOBmScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjbWF4X2F2YWlsYWJsZV9ob3VycwogICAgICAgICAgICAgICAgICAgIG1pbl9tYWluX3dvcmtfaG91cnMgPSB0Yy5taW5fbWFpbl93b3JrX2hvdXJzCiAgICAgICAgICAgICAgICAgICAgaWYgbWF4X2F2YWlsYWJsZV9ob3VycyBpcyBub3QgTm9uZSBhbmQgbWF4X2F2YWlsYWJsZV9ob3VycyA8IG1pbl9tYWluX3dvcmtfaG91cnM6CiAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuYWRkX2Vycm9yKCdtYXhfYXZhaWxhYmxlX2hvdXJzJywgKHN0YWZmLmNvbnN0Lk1TTF9TVEFGRl9NQVhfQVZBSUxBQkxFX0hPVVJTX05BTUUgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1JyDiiacgJyArIHN0YWZmLmNvbnN0Lk1TTF9TVEFGRl9NSU5fTUFJTl9XT1JLX0hPVVJTICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdSfjgafjgYLjgovlv4XopoHjgYzjgYLjgorjgb7jgZnjgIInKSkK</text>
       </register>
-      <register name="4" type="4">
-        <text>が拠点マスタの最大連続勤務日数を超えています</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>出勤希望日数</text>
+        <text>==</text>
       </register>
-      <register name="6" type="4">
-        <text>min_available_hours</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmF2YWlsYWJsZV9kYXlzX3dlZWsgPSBzZWxmLl9jYWxjX2F2YWlsYWJsZV9kYXlzX3dlZWsoY2xlYW5lZF9kYXRhKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1J+S7peS4i+OBp+OBguOCi+W/heimgeOBjOOBguOCiuOBvuOBmeOAgicpKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBtaW5fYXZhaWxhYmxlX2hvdXJzIGlzIG5vdCBOb25lOgogICAgICAgICAgICBzZWxmLmF2YWlsYWJsZV9kYXlzX3dlZWsgPSBzZWxmLl9jYWxjX2F2YWlsYWJsZV9kYXlzX3dlZWsoY2xlYW5lZF9kYXRhKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1J+OBrycgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YWZmLmNvbnN0Lk1TTF9TVEFGRl9NQVhfQVZBSUxBQkxFX0hPVVJTX05BTUUgKwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgaWYoc2VsZi5hdmFpbGFibGVfZGF5c193ZWVrICogbWluX2F2YWlsYWJsZV9ob3VycyA+IHRjLmZ1eW91X21heF9tb250aF9ob3Vycwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>staff.const. +</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIHJhaXNlIGZvcm1zLlZhbGlkYXRpb25FcnJvcih1J+aJtumkiuWvvuixoeOBq+OBguOBn+OCi+S9nOalreWToeOBrueovOWDjeaZgumWk+OBr+OAgScgKwogICAgICAgICAgICAgICAgICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHUn5om26aSK5pyI5pyA5aSn56i85YON5pmC6ZaT5Lul5LiL44Go44Gq44KL44KI44GG44Gr44GZ44KL5b+F6KaB44GM44GC44KK44G+44GZ44CCJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIHN0YWZmLmNvbnN0Lk1TTF9TVEFGRl9NSU5fQVZBSUxBQkxFX0hPVVJTX05BTUUgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIHUn4pyVICgnICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBzdGFmZi5jb25zdC5NU0xfU1RBRkZfQ09OVFJBQ1RJT05fV0VFS19EQVlfTkFNRSArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgdSfkuK3jga4nICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBzdGFmZi5jb25zdC5NQVBfV09SS19ERVNJUkVEW3N0YWZmLmNvbnN0LkNPREVfS0lCT1VdICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyB1J+WQiOioiOaVsCnjgYzjgIHmiYDlsZ7jgZnjgovmi6Dngrnjga4nICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBzdGFmZi5jb25zdC5NU0xfU1RBRkZfRlVZT1VfTUFYX01PTlRIX0hPVVJTX05BTUUgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIHUn5Lul5LiL44Gr44GZ44KL5b+F6KaB44GM44GC44KK44G+44GZ44CCJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
