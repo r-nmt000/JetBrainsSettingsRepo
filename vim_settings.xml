@@ -61,6 +61,7 @@
       <file name="/Django Console" timestamp="1452591770547">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register_service.py" timestamp="1452844126619" />
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/tc_edit.html" timestamp="1452750216570">
         <mark key="[" line="73" column="85" />
         <mark key="]" line="73" column="85" />
@@ -72,11 +73,12 @@
         <mark key="]" line="248" column="46" />
         <mark key="." line="248" column="46" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" timestamp="1452843068459">
-        <mark key="[" line="230" column="12" />
-        <mark key="]" line="230" column="15" />
-        <mark key="^" line="230" column="15" />
-        <mark key="." line="230" column="15" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" timestamp="1452845323456">
+        <mark key="'" line="270" column="27" />
+        <mark key="[" line="239" column="3" />
+        <mark key="]" line="239" column="3" />
+        <mark key="^" line="253" column="4" />
+        <mark key="." line="239" column="3" />
       </file>
       <file name="$USER_HOME$/repos/temp/python_study/02_qsort.py" timestamp="1427726335966">
         <mark key="[" line="12" column="14" />
@@ -209,46 +211,47 @@
       <jump line="366" column="16" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase_form.py" />
       <jump line="471" column="59" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase_form.py" />
       <jump line="385" column="37" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase_form.py" />
+      <jump line="269" column="27" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>var</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICQodGhpcykuc2libGluZygnLmhpZGRlbi1vdXRsaWVyX2xhcmdlX21lZGl1bV9hbW91bnRfYnRuLCAuaGlkZGVuLW91dGxpZXJfc21hbGxfYW1vdW50X2J0bicpLnZhbCgnb2ZmJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICQodGhpcykudGV4dCgn5LyR5pelJyk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>this</text>
+        <text>var</text>
       </register>
       <register name="2" type="4">
-        <text>this</text>
+        <text>var</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICQodGhpcykuc2libGluZygnLmhpZGRlbi1kYXlfb2ZmX2J0bicpLnZhbCgnb2ZmJyk7Cg==</text>
+      <register name="3" type="4">
+        <text>day_off_btn</text>
       </register>
       <register name="4" type="4">
-        <text>hidden</text>
+        <text>.-</text>
       </register>
       <register name="5" type="4">
-        <text>class_name</text>
+        <text>hidden</text>
       </register>
       <register name="6" type="4">
-        <text>btns</text>
+        <text>hidden</text>
       </register>
       <register name="7" type="4">
-        <text>input</text>
+        <text>,</text>
       </register>
       <register name="8" type="4">
-        <text>t</text>
+        <text>outlier_small_amount_btn</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>.-</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
