@@ -10,6 +10,10 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
+  <action id="CallHierarchy">
+    <keyboard-shortcut first-keystroke="ctrl alt h" />
+    <keyboard-shortcut first-keystroke="meta space" second-keystroke="c" />
+  </action>
   <action id="Console.TableResult.ColumnVisibility" />
   <action id="DebugClass">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
