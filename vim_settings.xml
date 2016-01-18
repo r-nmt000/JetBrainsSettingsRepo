@@ -6,15 +6,17 @@
       <file name="/Python Console" timestamp="1453092956027">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/locale/ja/LC_MESSAGES/django.po" timestamp="1453109314493">
+        <mark key="[" line="96" column="17" />
+        <mark key="]" line="96" column="12" />
+        <mark key="^" line="96" column="12" />
+        <mark key="." line="96" column="12" />
+      </file>
       <file name="/fragment.py" timestamp="1452819536811">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
-      </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase_form.py" timestamp="1452835467069">
-        <mark key="'" line="385" column="37" />
-        <mark key="^" line="145" column="50" />
       </file>
       <file name="$USER_HOME$/repos/TS/training/django_portal/config/settings/base.py" timestamp="1453103113761">
         <mark key="[" line="64" column="0" />
@@ -64,11 +66,11 @@
         <mark key="^" line="60" column="51" />
         <mark key="." line="60" column="51" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/models.py" timestamp="1453104511466">
-        <mark key="[" line="33" column="24" />
-        <mark key="]" line="33" column="27" />
-        <mark key="^" line="33" column="27" />
-        <mark key="." line="33" column="27" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/models.py" timestamp="1453108734613">
+        <mark key="[" line="56" column="38" />
+        <mark key="]" line="56" column="38" />
+        <mark key="^" line="56" column="38" />
+        <mark key="." line="56" column="38" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/lib/xls_output/input/input_staff_data.py" timestamp="1453103787677">
         <mark key="[" line="153" column="57" />
@@ -85,12 +87,12 @@
         <mark key="." line="17" column="21" />
         <mark key="^" line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/const.py" timestamp="1453104260787">
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/const.py" timestamp="1453107399788">
         <mark key="'" line="313" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
         <mark key="^" line="312" column="46" />
-        <mark key="." line="32" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="/Django Console" timestamp="1452591770547">
         <mark key="[" line="0" column="0" />
@@ -140,8 +142,8 @@
         <mark key="^" line="96" column="38" />
         <mark key="." line="96" column="38" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/section_forms.py" timestamp="1453103956864">
-        <mark key="'" line="66" column="20" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/section_forms.py" timestamp="1453107590861">
+        <mark key="'" line="58" column="0" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="50" />
         <mark key="." line="68" column="49" />
@@ -154,6 +156,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/utils/custom_fields.py" timestamp="1453107593511">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="50" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="55" column="78" />
+      </file>
       <file name="$USER_HOME$/repos/TS/training/django_portal/apps/blogs/views.py" timestamp="1452831367907">
         <mark key="[" line="58" column="29" />
         <mark key="]" line="58" column="18" />
@@ -162,7 +170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/tests/mst/test_section_service.py" />
       <jump line="79" column="28" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/views/mst/section_service.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
       <jump line="75" column="5" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
@@ -262,46 +269,47 @@
       <jump line="313" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/const.py" />
       <jump line="43" column="8" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/tc_forms.py" />
       <jump line="66" column="20" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/section_forms.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/section_forms.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>拠点名</text>
+        <text>Kurikosi threshold</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJib3NlX25hbWU9Xygn5Y+C54Wn54mp6YePOuWkp+S4reeJqTrlsJHph48nKQo=</text>
+        <text encoding="base64">bXNnc3RyICLoqLHlrrnkuZbpm6LkvLzmlbA66YCx5LiJOuS4i+aMryIK</text>
       </register>
-      <register name="1" type="4">
-        <text>拠点名</text>
+      <register name="1" type="2">
+        <text encoding="base64">bXNnc3RyICIiCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>拠点ID</text>
+      <register name="2" type="2">
+        <text encoding="base64">bXNnc3RyICIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJib3NlX25hbWU9Y29uc3QuVENfUkVGRVJFTkNFX0FNT1VOVF9MT1dfTEFSR0VfTEFCRUwK</text>
+        <text encoding="base64">bXNnc3RyICIiCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>const</text>
+      <register name="4" type="2">
+        <text encoding="base64">bXNnc3RyICIiCg==</text>
       </register>
       <register name="5" type="4">
-        <text>TC_SUPPORT_SECTION_PRODUCTIVITY_RATE_LABEL</text>
+        <text>Kurikosi threshold</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJib3NlX25hbWU9Y29uc3QuVENfTllVS0FfTUFYX0hPVVJTX0xBQkVMCg==</text>
+        <text encoding="base64">ICAgICAgICB2ZXJib3NlX25hbWU9Y29uc3QuVENfS09NT05PX0tVUklLT1NJX1JBVElPX0xBQkVMCg==</text>
       </register>
       <register name="7" type="4">
-        <text>const</text>
+        <text>Max week hours:part</text>
       </register>
-      <register name="8" type="4">
-        <text>TC_NYUKA_MIN_HOURS_LABEL</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB2ZXJib3NlX25hbWU9Y29uc3QuVENfS1VSSUtPU0lfVEhSRVNIT0xEX0xBQkVMCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>const</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB2ZXJib3NlX25hbWU9Y29uc3QuVENfTUFYX1dFRUtfSE9VUlNfUEFSVF9TVEFGRl9MQUJFTAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
