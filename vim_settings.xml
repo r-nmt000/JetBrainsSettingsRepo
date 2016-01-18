@@ -39,12 +39,12 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/settings.py" timestamp="1453093107995">
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/settings.py" timestamp="1453096427570">
         <mark key="'" line="121" column="6" />
-        <mark key="[" line="113" column="19" />
-        <mark key="]" line="114" column="0" />
+        <mark key="[" line="105" column="19" />
+        <mark key="]" line="105" column="19" />
         <mark key="^" line="114" column="0" />
-        <mark key="." line="114" column="0" />
+        <mark key="." line="105" column="19" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/locale/ja/LC_MESSAGES/django.po" timestamp="1453095147518">
         <mark key="[" line="17" column="44" />
@@ -90,7 +90,8 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/TS/training/django_portal/locale/ja/LC_MESSAGES/django.po" timestamp="1453095142408">
+      <file name="$USER_HOME$/repos/TS/training/django_portal/locale/ja/LC_MESSAGES/django.po" timestamp="1453096283804">
+        <mark key="'" line="99" column="0" />
         <mark key="[" line="101" column="0" />
         <mark key="]" line="102" column="11" />
       </file>
@@ -128,6 +129,13 @@
         <mark key="]" line="5" column="50" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="63" column="103" />
+      </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/section_edit.html" timestamp="1453096121190">
+        <mark key="'" line="109" column="4" />
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/repos/TS/training/django_portal/apps/blogs/views.py" timestamp="1452831367907">
         <mark key="[" line="58" column="29" />
@@ -235,6 +243,8 @@
       <jump line="116" column="6" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/settings.py" />
       <jump line="184" column="23" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/job_register_forms.py" />
       <jump line="66" column="51" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/section_forms.py" />
+      <jump line="109" column="4" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/section_edit.html" />
+      <jump line="99" column="0" filename="$USER_HOME$/repos/TS/training/django_portal/locale/ja/LC_MESSAGES/django.po" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
