@@ -46,11 +46,10 @@
         <mark key="^" line="114" column="0" />
         <mark key="." line="105" column="19" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/locale/ja/LC_MESSAGES/django.po" timestamp="1453097001189">
-        <mark key="[" line="16" column="12" />
-        <mark key="]" line="16" column="12" />
-        <mark key="." line="16" column="12" />
-        <mark key="^" line="16" column="12" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/locale/ja/LC_MESSAGES/django.po" timestamp="1453100694287">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="14" column="9" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/repos/temp/python_study/09_uruu.py" timestamp="1427798825817">
         <mark key="[" line="0" column="1" />
@@ -90,10 +89,10 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/TS/training/django_portal/locale/ja/LC_MESSAGES/django.po" timestamp="1453096283804">
+      <file name="$USER_HOME$/repos/TS/training/django_portal/locale/ja/LC_MESSAGES/django.po" timestamp="1453100599501">
         <mark key="'" line="99" column="0" />
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="102" column="11" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="18" column="38" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/staff_base_service.py" timestamp="1452837856775">
         <mark key="[" line="248" column="46" />
@@ -257,34 +256,34 @@
         <text>support</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bXNnaWQgIkphcGFuZXNlIgptc2dzdHIgIuaXpeacrOiqniIK</text>
+        <text encoding="base64">bXNnaWQgIiIKbXNnc3RyICIiCiJQcm9qZWN0LUlkLVZlcnNpb246IFBBQ0tBR0UgVkVSU0lPTlxuIgoiUmVwb3J0LU1zZ2lkLUJ1Z3MtVG86IFxuIgoiUE9ULUNyZWF0aW9uLURhdGU6IDIwMTUtMTItMDggMTk6MTArMDkwMFxuIgoiUE8tUmV2aXNpb24tRGF0ZTogWUVBUi1NTy1EQSBITzpNSStaT05FXG4iCiJMYXN0LVRyYW5zbGF0b3I6IEZVTEwgTkFNRSA8RU1BSUxAQUREUkVTUz5cbiIKIkxhbmd1YWdlLVRlYW06IExBTkdVQUdFIDxMTEBsaS5vcmc+XG4iCiJMYW5ndWFnZTogXG4iCiJNSU1FLVZlcnNpb246IDEuMFxuIgoiQ29udGVudC1UeXBlOiB0ZXh0L3BsYWluOyBjaGFyc2V0PVVURi04XG4iCiJDb250ZW50LVRyYW5zZmVyLUVuY29kaW5nOiA4Yml0XG4iCiJQbHVyYWwtRm9ybXM6IG5wbHVyYWxzPTE7IHBsdXJhbD0wO1xuIgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IG92ZXIgMSB3aGVuIGxlYWRlciBzdWJsZWFkZXIgY29uc3RyYWludCBpcyBzcGVjaWZpZWQuIg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">bXNnaWQgIiIKbXNnc3RyICIiCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>Input over 1 when leader subleader constraint is specified.</text>
+      <register name="2" type="2">
+        <text encoding="base64">IlByb2plY3QtSWQtVmVyc2lvbjogUEFDS0FHRSBWRVJTSU9OXG4iCiJSZXBvcnQtTXNnaWQtQnVncy1UbzogXG4iCiJQT1QtQ3JlYXRpb24tRGF0ZTogMjAxNi0wMS0xOCAxNjowMyswOTAwXG4iCiJQTy1SZXZpc2lvbi1EYXRlOiBZRUFSLU1PLURBIEhPOk1JK1pPTkVcbiIKIkxhc3QtVHJhbnNsYXRvcjogRlVMTCBOQU1FIDxFTUFJTEBBRERSRVNTPlxuIgoiTGFuZ3VhZ2UtVGVhbTogTEFOR1VBR0UgPExMQGxpLm9yZz5cbiIKIkxhbmd1YWdlOiBcbiIKIk1JTUUtVmVyc2lvbjogMS4wXG4iCiJDb250ZW50LVR5cGU6IHRleHQvcGxhaW47IGNoYXJzZXQ9VVRGLThcbiIKIkNvbnRlbnQtVHJhbnNmZXItRW5jb2Rpbmc6IDhiaXRcbiIKIlBsdXJhbC1Gb3JtczogbnBsdXJhbHM9MTsgcGx1cmFsPTA7XG4iCg==</text>
       </register>
       <register name="3" type="4">
-        <text>const</text>
+        <text encoding="base64">IG92ZXIgMSB3aGVuIGxlYWRlciBzdWJsZWFkZXIgY29uc3RyYWludCBpcyBzcGVjaWZpZWQuIg==</text>
       </register>
       <register name="4" type="4">
-        <text>LEADER_CONSTRAINT_ERROR_MESSAGE</text>
+        <text>Input over 1 when leader subleader constraint is specified.</text>
       </register>
       <register name="5" type="4">
-        <text>m</text>
+        <text>const</text>
       </register>
       <register name="6" type="4">
-        <text>パスワード</text>
+        <text>LEADER_CONSTRAINT_ERROR_MESSAGE</text>
       </register>
       <register name="7" type="4">
-        <text>Password</text>
+        <text>m</text>
       </register>
       <register name="8" type="4">
-        <text>hidenari.uoi</text>
+        <text>パスワード</text>
       </register>
       <register name="9" type="4">
-        <text>PROJECTOT</text>
+        <text>Password</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
