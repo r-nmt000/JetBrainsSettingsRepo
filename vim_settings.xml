@@ -64,11 +64,11 @@
         <mark key="^" line="60" column="51" />
         <mark key="." line="60" column="51" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/models.py" timestamp="1453104365527">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="^" line="81" column="7" />
-        <mark key="." line="81" column="0" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/models.py" timestamp="1453104511466">
+        <mark key="[" line="33" column="24" />
+        <mark key="]" line="33" column="27" />
+        <mark key="^" line="33" column="27" />
+        <mark key="." line="33" column="27" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/lib/xls_output/input/input_staff_data.py" timestamp="1453103787677">
         <mark key="[" line="153" column="57" />
@@ -268,7 +268,7 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text>拠点名</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
@@ -276,29 +276,29 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2ZXJib3NlX25hbWU9Xygn5Y+C54Wn54mp6YePOuWkp+S4reeJqTrlsJHph48nKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJib3NlX25hbWU9Y29uc3QuVENfUkVGRVJFTkNFX0FNT1VOVF9MT1dfTEFSR0VfTEFCRUwK</text>
+      <register name="1" type="4">
+        <text>拠点名</text>
       </register>
       <register name="2" type="4">
+        <text>拠点ID</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB2ZXJib3NlX25hbWU9Y29uc3QuVENfUkVGRVJFTkNFX0FNT1VOVF9MT1dfTEFSR0VfTEFCRUwK</text>
+      </register>
+      <register name="4" type="4">
         <text>const</text>
-      </register>
-      <register name="3" type="4">
-        <text>TC_SUPPORT_SECTION_PRODUCTIVITY_RATE_LABEL</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJib3NlX25hbWU9Y29uc3QuVENfTllVS0FfTUFYX0hPVVJTX0xBQkVMCg==</text>
       </register>
       <register name="5" type="4">
-        <text>const</text>
+        <text>TC_SUPPORT_SECTION_PRODUCTIVITY_RATE_LABEL</text>
       </register>
-      <register name="6" type="4">
-        <text>TC_NYUKA_MIN_HOURS_LABEL</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB2ZXJib3NlX25hbWU9Y29uc3QuVENfTllVS0FfTUFYX0hPVVJTX0xBQkVMCg==</text>
       </register>
       <register name="7" type="4">
         <text>const</text>
       </register>
       <register name="8" type="4">
-        <text>TC_DAILY_SECTIONS_LABEL</text>
+        <text>TC_NYUKA_MIN_HOURS_LABEL</text>
       </register>
       <register name="9" type="4">
         <text>const</text>
