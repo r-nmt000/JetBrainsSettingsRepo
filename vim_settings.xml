@@ -16,9 +16,9 @@
         <mark key="'" line="385" column="37" />
         <mark key="^" line="145" column="50" />
       </file>
-      <file name="$USER_HOME$/repos/TS/training/django_portal/config/settings/base.py" timestamp="1453084877410">
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="135" column="0" />
+      <file name="$USER_HOME$/repos/TS/training/django_portal/config/settings/base.py" timestamp="1453090060959">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="52" />
       </file>
       <file name="$USER_HOME$/repos/Brainpad/TS/engineer-training-basic/django_portal/core/urls.py" timestamp="1450003631047">
         <mark key="[" line="16" column="0" />
@@ -38,11 +38,18 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/settings.py" timestamp="1453084922711">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="^" line="118" column="0" />
-        <mark key="." line="102" column="0" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/settings.py" timestamp="1453090199823">
+        <mark key="'" line="117" column="6" />
+        <mark key="[" line="117" column="18" />
+        <mark key="]" line="117" column="25" />
+        <mark key="^" line="117" column="25" />
+        <mark key="." line="117" column="25" />
+      </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/locale/ja/LC_MESSAGES/django.po" timestamp="1453090518524">
+        <mark key="[" line="12" column="1" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/repos/temp/python_study/09_uruu.py" timestamp="1427798825817">
         <mark key="[" line="0" column="1" />
@@ -76,6 +83,11 @@
         <mark key="]" line="73" column="85" />
         <mark key="." line="73" column="85" />
         <mark key="^" line="73" column="84" />
+      </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/job_register_forms.py" timestamp="1453090479084">
+        <mark key="'" line="184" column="23" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/staff_base_service.py" timestamp="1452837856775">
         <mark key="[" line="248" column="46" />
@@ -214,46 +226,48 @@
       <jump line="471" column="59" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase_form.py" />
       <jump line="385" column="37" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_staffbase_form.py" />
       <jump line="269" column="27" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" />
+      <jump line="116" column="6" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/settings.py" />
+      <jump line="184" column="23" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/job_register_forms.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text>hidenari.uoi</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBodHRwczovL2RvY3MuZGphbmdvcHJvamVjdC5jb20vZW4vMS45L3JlZi9zZXR0aW5ncy8jbG9jYWxlLXBhdGhzCkxPQ0FMRV9QQVRIUyA9IFsKICAgIG5vcm1wYXRoKGpvaW4oUFJPSkVDVF9ST09ULCAnbG9jYWxlJykpCl0K</text>
+        <text encoding="base64">IyBAKCMpam9iX3JlZ2lzdGVyX2Zvcm1zLnB5ICAgICAgICAyMDE1LzA0LzE1CiMKIyBDb3B5cmlnaHQgKGMpIDIwMTUgQnJhaW5QYWQsIEluYy4gQWxsIHJpZ2h0cyByZXNlcnZlZC4KIwojIFRoaXMgc29mdHdhcmUgaXMgdGhlIGNvbmZpZGVudGlhbCBhbmQgcHJvcHJpZXRhcnkgaW5mb3JtYXRpb24gb2YKIyBCcmFpblBhZCwgSW5jLiAoIkNvbmZpZGVudGlhbCBJbmZvcm1hdGlvbiI6KS4KIyBZb3Ugc2hhbGwgbm90IGRpc2Nsb3NlIHN1Y2ggQ29uZmlkZW50aWFsIEluZm9ybWF0aW9uIGFuZCBzaGFsbAojIHVzZSBpdCBvbmx5IGluIGFjY29yZGFuY2Ugd2l0aCB0aGUgdGVybXMgb2YgdGhlIGxpY2Vuc2UgYWdyZWVtZW50CiMgeW91IGVudGVyZWQgaW50byB3aXRoIEJyYWluUGFkLCBJbmMuCiMKIwojIEF1dGhvcjogaGlkZW5hcmkudW9pCiMK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>hidenari.uoi</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">IyBodHRwczovL2RvY3MuZGphbmdvcHJvamVjdC5jb20vZW4vMS45L3JlZi9zZXR0aW5ncy8jbG9jYWxlLXBhdGhzCkxPQ0FMRV9QQVRIUyA9IFsKICAgIG5vcm1wYXRoKGpvaW4oUFJPSkVDVF9ST09ULCAnbG9jYWxlJykpCl0K</text>
+      <register name="2" type="4">
+        <text>PROJECTOT</text>
       </register>
       <register name="3" type="4">
-        <text>var</text>
+        <text>RO</text>
       </register>
       <register name="4" type="4">
-        <text>var</text>
+        <text>_</text>
       </register>
       <register name="5" type="4">
-        <text>day_off_btn</text>
+        <text>path</text>
       </register>
       <register name="6" type="4">
-        <text>.-</text>
+        <text>os</text>
       </register>
       <register name="7" type="4">
-        <text>hidden</text>
+        <text>path</text>
       </register>
-      <register name="8" type="4">
-        <text>hidden</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>,</text>
+      <register name="9" type="2">
+        <text encoding="base64">IyBodHRwczovL2RvY3MuZGphbmdvcHJvamVjdC5jb20vZW4vMS45L3JlZi9zZXR0aW5ncy8jbG9jYWxlLXBhdGhzCkxPQ0FMRV9QQVRIUyA9IFsKICAgIG5vcm1wYXRoKGpvaW4oUFJPSkVDVF9ST09ULCAnbG9jYWxlJykpCl0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
