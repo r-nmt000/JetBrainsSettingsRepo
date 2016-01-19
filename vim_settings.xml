@@ -6,6 +6,13 @@
       <file name="/Python Console" timestamp="1453172680953">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/locale/ja/LC_MESSAGES/django.po" timestamp="1453185454449">
+        <mark key="'" line="154" column="0" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+        <mark key="^" line="94" column="16" />
+      </file>
       <file name="/fragment.py" timestamp="1453178036628">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -42,11 +49,15 @@
         <mark key="^" line="114" column="0" />
         <mark key="." line="105" column="19" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/locale/ja/LC_MESSAGES/django.po" timestamp="1453168791343">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="10" column="18" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/locale/ja/LC_MESSAGES/django.po" timestamp="1453185733097">
+        <mark key="'" line="5" column="7" />
+        <mark key="[" line="39" column="8" />
+        <mark key="]" line="39" column="11" />
+        <mark key="^" line="39" column="11" />
+        <mark key="." line="39" column="11" />
+      </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/views/job_service.py" timestamp="1453181234071">
+        <mark key="[" line="41" column="47" />
       </file>
       <file name="$USER_HOME$/repos/temp/python_study/09_uruu.py" timestamp="1427798825817">
         <mark key="[" line="0" column="1" />
@@ -66,12 +77,12 @@
         <mark key="]" line="15" column="82" />
         <mark key="." line="119" column="26" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/tc_forms.py" timestamp="1453179482140">
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/tc_forms.py" timestamp="1453182164546">
         <mark key="'" line="50" column="4" />
-        <mark key="[" line="262" column="40" />
-        <mark key="]" line="262" column="44" />
-        <mark key="." line="262" column="123" />
-        <mark key="^" line="262" column="44" />
+        <mark key="[" line="231" column="80" />
+        <mark key="]" line="231" column="80" />
+        <mark key="." line="231" column="80" />
+        <mark key="^" line="231" column="80" />
       </file>
       <file name="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/mslprj/environment.py" timestamp="1450834012875">
         <mark key="[" line="17" column="21" />
@@ -79,12 +90,12 @@
         <mark key="." line="17" column="21" />
         <mark key="^" line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/const.py" timestamp="1453169613919">
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/const.py" timestamp="1453181248854">
         <mark key="'" line="313" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
         <mark key="^" line="312" column="46" />
-        <mark key="." line="29" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="/Django Console" timestamp="1452591770547">
         <mark key="[" line="0" column="0" />
@@ -93,11 +104,11 @@
         <mark key="[" line="5" column="26" />
         <mark key="]" line="5" column="45" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/tc_edit.html" timestamp="1453174481882">
-        <mark key="[" line="150" column="64" />
-        <mark key="]" line="150" column="80" />
-        <mark key="." line="150" column="80" />
-        <mark key="^" line="150" column="80" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/tc_edit.html" timestamp="1453185692773">
+        <mark key="[" line="7" column="54" />
+        <mark key="]" line="7" column="54" />
+        <mark key="." line="7" column="54" />
+        <mark key="^" line="7" column="49" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/job_register_forms.py" timestamp="1453090479084">
         <mark key="'" line="184" column="23" />
@@ -143,8 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="12" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/section_detail.html" />
-      <jump line="225" column="8" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/tc_edit.html" />
       <jump line="184" column="4" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
       <jump line="180" column="5" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
       <jump line="54" column="5" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
@@ -243,46 +252,48 @@
       <jump line="41" column="8" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/tc_forms.py" />
       <jump line="118" column="4" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/models.py" />
       <jump line="50" column="4" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/tc_forms.py" />
+      <jump line="154" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/locale/ja/LC_MESSAGES/django.po" />
+      <jump line="5" column="7" filename="$USER_HOME$/repos/TS/msl_app_bp/locale/ja/LC_MESSAGES/django.po" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>Standard</text>
+        <text>人員拠点変更画面</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
       </register>
-      <register name="0" type="4">
-        <text>基準生産性:[大中物、GMS]: 入荷生産性は、少量 ≧ 多量 となる値を入力してください。</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHRoIGNsYXNzPSJjb2wtbGctMiBjb2wtbWQtMiBjb2wtc20tMiI+eyUgdHJhbnMgIlJlZmVyZW5jZSBBbW91bnQiICV9PC90aD4KICAgICAgICAgICAgPHRoIGNsYXNzPSJjb2wtbGctMiBjb2wtbWQtMiBjb2wtc20tMiI+eyUgdHJhbnMgIlNoaXdha2UgcHJvZHVjdGl2aXR5IiAlfTwvdGg+CiAgICAgICAgICAgIDx0aCBjbGFzcz0iY29sLWxnLTIgY29sLW1kLTIgY29sLXNtLTIiPnslIHRyYW5zICJOeXVrYSBwcm9kdWN0aXZpdHkiICV9PC90aD4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Izogc3RhZmYvZm9ybXMvdGNfZm9ybXMucHk6MjM4Cm1zZ2lkICIiCiJTdGFuZGFyZCBwcm9kdWN0aXZpdHk6W2xhcmdlLEdNU11TbWFsbCByZWZlcmVuY2VkIGFtb3VudCBtdXN0IGJlIHNtYWxsZXIgIgoidGhhbiBsYXJnZSBvbmUuIgptc2dzdHIgIiIKIuWfuua6lueUn+eUo+aApzpb5aSn5Lit54mpLCBHTVNdOiDlj4Lnhafnianph4/jga/jgIHlsJHph48gPCDlpJrph4/jgajjgarjgovlgKTjgpLlhaXlipvjgZfjgabjgY/jgaDjgZXjgYTjgIIiCgojOiBzdGFmZi9mb3Jtcy90Y19mb3Jtcy5weToyNDQKbXNnaWQgIiIKIk55dWthIHByb2R1Y3Rpdml0eTpbbGFyZ2UsR01TXVNtYWxsIHByb2R1Y3Rpdml0eSBtdXN0IGJlIGhpZ2hlciB0aGFuIGxhcmdlICIKIm9uZS4iCm1zZ3N0ciAiIgoi5Z+65rqW55Sf55Sj5oCnOlvlpKfkuK3nianjgIFHTVNdOiDlhaXojbfnlJ/nlKPmgKfjga/jgIHlsJHph48g4omnIOWkmumHjyDjgajjgarjgovlgKTjgpLlhaXlipvjgZfjgabjgY/jgaDjgZUiCiLjgYTjgIIiCgojOiBzdGFmZi9mb3Jtcy90Y19mb3Jtcy5weToyNTAKbXNnaWQgIiIKIlNoaXdha2UgcHJvZHVjdGl2aXR5W2xhcmdlLEdNU11TbWFsbCBwcm9kdWN0aXZpdHkgbXVzdCBiZSBoaWdoZXIgdGhhbiBsYXJnZSAiCiJvbmUuIgptc2dzdHIgIiIKIuWfuua6lueUn+eUo+aApzpb5aSn5Lit54mp44CBR01TXTog5LuV5YiG55Sf55Sj5oCn44Gv44CB5bCR6YePIOKJpyDlpJrph48g44Go44Gq44KL5YCk44KS5YWl5Yqb44GX44Gm44GP44Gg44GVIgoi44GE44CCIgoKIzogc3RhZmYvZm9ybXMvdGNfZm9ybXMucHk6MjU3Cm1zZ2lkICIiCiJTdGFuZGFyZCBwcm9kdWN0aXZpdHk6W3NtYWxsXVNtYWxsIHJlZmVyZW5jZWQgYW1vdW50IG11c3QgYmUgc21hbGxlciB0aGFuICIKImxhcmdlIG9uZSIKbXNnc3RyICIiCiLln7rmupbnlJ/nlKPmgKc6W+Wwj+eJqeOAgUdNU106IOWPgueFp+eJqemHj+OBr+OAgeWwkemHjyDiiacg5aSa6YePIOOBqOOBquOCi+WApOOCkuWFpeWKm+OBl+OBpuOBj+OBoOOBleOBhOOAgiIKCiM6IHN0YWZmL2Zvcm1zL3RjX2Zvcm1zLnB5OjI2Mwptc2dpZCAiIgoiTnl1a2EgcHJvZHVjdGl2aXR5W3NtYWxsLEdNU11TbWFsbCBwcm9kdWN0aXZpdHkgbXVzdCBiZSBoaWdoZXIgdGhhbiBsYXJnZSBvbmUiCm1zZ3N0ciAiIgoi5Z+65rqW55Sf55Sj5oCnOlvlpKfkuK3nianjgIFHTVNdOiDlhaXojbfnlJ/nlKPmgKfjga/jgIHlsJHph48g4omnIOWkmumHjyDjgajjgarjgovlgKTjgpLlhaXlipvjgZfjgabjgY/jgaDjgZUiCiLjgYTjgIIiCgojOiBzdGFmZi9mb3Jtcy90Y19mb3Jtcy5weToyNjkKbXNnaWQgIiIKIlNoaXdha2UgcHJvZHVjdGl2aXR5W3NtYWxsLEdNU11TbWFsbCBwcm9kdWN0aXZpdHkgbXVzdCBiZSBoaWdoZXIgdGhhbiBsYXJnZSAiCiJvbmUiCm1zZ3N0ciAiIgoi5Z+65rqW55Sf55Sj5oCnOlvlpKfkuK3nianjgIFHTVNdOiDku5XliIbnlJ/nlKPmgKfjga/jgIHlsJHph48g4omnIOWkmumHjyDjgajjgarjgovlgKTjgpLlhaXlipvjgZfjgabjgY/jgaDjgZUiCiLjgYTjgIIiCg==</text>
+      <register name="1" type="4">
+        <text>人員拠点変更画面</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Izogc3RhZmYvZm9ybXMvdGNfZm9ybXMucHk6MjYzCiMsIGZ1enp5CiN8IG1zZ2lkICIiCiN8ICJOeXVrYSBwcm9kdWN0aXZpdHk6W2xhcmdlLEdNU11TbWFsbCBwcm9kdWN0aXZpdHkgbXVzdCBiZSBoaWdoZXIgdGhhbiAiCiN8ICJsYXJnZSBvbmUuIgo=</text>
+      <register name="2" type="4">
+        <text>人員拠点変更画面</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Izogc3RhZmYvZm9ybXMvdGNfZm9ybXMucHk6MjY5CiMsIGZ1enp5CiN8IG1zZ2lkICIiCiN8ICJTaGl3YWtlIHByb2R1Y3Rpdml0eVtsYXJnZSxHTVNdU21hbGwgcHJvZHVjdGl2aXR5IG11c3QgYmUgaGlnaGVyIHRoYW4gIgojfCAibGFyZ2Ugb25lLiIK</text>
+        <text encoding="base64">IywgZnV6enkKI3wgbXNnaWQgIkRvd25zaWRlIGRpZmY6M2RheXMiCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>Standard</text>
+      <register name="4" type="2">
+        <text encoding="base64">IywgZnV6enkKI3wgbXNnaWQgIkhlYWRnaW5nIHNjYWxlIgo=</text>
       </register>
-      <register name="5" type="4">
-        <text>Standard</text>
+      <register name="5" type="2">
+        <text encoding="base64">IywgZnV6enkKI3wgbXNnaWQgIlRoaXMgbXVzdCBiZSBoaWdoZXIgdGhhbiB3b3JrIGRheXMgb2YgdGhlIHdlZWsgb2YgZWFjaCBzdGFmZiIK</text>
       </register>
-      <register name="6" type="4">
-        <text>大中物</text>
+      <register name="6" type="2">
+        <text encoding="base64">IywgZnV6enkKI3wgbXNnaWQgIk1pbmltdW0gd29yayBob3VycyBtdXN0IGJlIHNtYWxsZXIgdGhhbiBNYXggd29yayBob3Vycy4iCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>大中物</text>
+      <register name="7" type="2">
+        <text encoding="base64">IywgZnV6enkKI3wgbXNnaWQgIiIKI3wgIlN0YW5kYXJkIHByb2R1Y3Rpdml0eVtzbWFsbCxHTVNdU21hbGwgcHJvZHVjdGl2aXR5IG11c3QgYmUgaGlnaGVyIHRoYW4gIgojfCAibGFyZ2Ugb25lIgo=</text>
       </register>
-      <register name="8" type="4">
-        <text>worker</text>
+      <register name="8" type="2">
+        <text encoding="base64">IywgZnV6enkKI3wgbXNnaWQgIiIKI3wgIlN0YW5kYXJkIHByb2R1Y3Rpdml0eVtzbWFsbCxHTVNdU21hbGwgcHJvZHVjdGl2aXR5IG11c3QgYmUgaGlnaGVyIHRoYW4gIgojfCAibGFyZ2Ugb25lIgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>TC_STAFF_KIBOU_DAYS_EXCEEDS_MAX_CONSECTIVE_DAYS_ERROR_MESSAGE_FMT</text>
+      <register name="9" type="2">
+        <text encoding="base64">IywgZnV6enkKI3wgbXNnaWQgIiIKI3wgIlN0YW5kYXJkIHByb2R1Y3Rpdml0eVtzbWFsbCxHTVNdU21hbGwgcHJvZHVjdGl2aXR5IG11c3QgYmUgaGlnaGVyIHRoYW4gIgojfCAibGFyZ2Ugb25lIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
