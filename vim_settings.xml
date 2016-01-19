@@ -49,12 +49,12 @@
         <mark key="^" line="114" column="0" />
         <mark key="." line="105" column="19" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/locale/ja/LC_MESSAGES/django.po" timestamp="1453185733097">
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/locale/ja/LC_MESSAGES/django.po" timestamp="1453186728405">
         <mark key="'" line="5" column="7" />
-        <mark key="[" line="39" column="8" />
-        <mark key="]" line="39" column="11" />
-        <mark key="^" line="39" column="11" />
-        <mark key="." line="39" column="11" />
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
+        <mark key="^" line="123" column="19" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/views/job_service.py" timestamp="1453181234071">
         <mark key="[" line="41" column="47" />
@@ -104,11 +104,11 @@
         <mark key="[" line="5" column="26" />
         <mark key="]" line="5" column="45" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/tc_edit.html" timestamp="1453185692773">
-        <mark key="[" line="7" column="54" />
-        <mark key="]" line="7" column="54" />
-        <mark key="." line="7" column="54" />
-        <mark key="^" line="7" column="49" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/tc_edit.html" timestamp="1453186669356">
+        <mark key="[" line="247" column="26" />
+        <mark key="]" line="247" column="45" />
+        <mark key="." line="247" column="45" />
+        <mark key="^" line="247" column="45" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/job_register_forms.py" timestamp="1453090479084">
         <mark key="'" line="184" column="23" />
@@ -260,7 +260,7 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>人員拠点変更画面</text>
+        <text>祝日</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
@@ -268,32 +268,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHRoIGNsYXNzPSJjb2wtbGctMiBjb2wtbWQtMiBjb2wtc20tMiI+eyUgdHJhbnMgIlJlZmVyZW5jZSBBbW91bnQiICV9PC90aD4KICAgICAgICAgICAgPHRoIGNsYXNzPSJjb2wtbGctMiBjb2wtbWQtMiBjb2wtc20tMiI+eyUgdHJhbnMgIlNoaXdha2UgcHJvZHVjdGl2aXR5IiAlfTwvdGg+CiAgICAgICAgICAgIDx0aCBjbGFzcz0iY29sLWxnLTIgY29sLW1kLTIgY29sLXNtLTIiPnslIHRyYW5zICJOeXVrYSBwcm9kdWN0aXZpdHkiICV9PC90aD4K</text>
       </register>
-      <register name="1" type="4">
-        <text>人員拠点変更画面</text>
+      <register name="1" type="2">
+        <text encoding="base64">IywgZnV6enkKI3wgbXNnaWQgIlNtYWxsIGFtb3VudCIK</text>
       </register>
       <register name="2" type="4">
-        <text>人員拠点変更画面</text>
+        <text>祝日</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">IywgZnV6enkKI3wgbXNnaWQgIkRvd25zaWRlIGRpZmY6M2RheXMiCg==</text>
+      <register name="3" type="4">
+        <text>日曜日</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">IywgZnV6enkKI3wgbXNnaWQgIkhlYWRnaW5nIHNjYWxlIgo=</text>
+      <register name="4" type="4">
+        <text>土曜日</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">IywgZnV6enkKI3wgbXNnaWQgIlRoaXMgbXVzdCBiZSBoaWdoZXIgdGhhbiB3b3JrIGRheXMgb2YgdGhlIHdlZWsgb2YgZWFjaCBzdGFmZiIK</text>
+      <register name="5" type="4">
+        <text>金曜日</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">IywgZnV6enkKI3wgbXNnaWQgIk1pbmltdW0gd29yayBob3VycyBtdXN0IGJlIHNtYWxsZXIgdGhhbiBNYXggd29yayBob3Vycy4iCg==</text>
+      <register name="6" type="4">
+        <text>木曜日</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">IywgZnV6enkKI3wgbXNnaWQgIiIKI3wgIlN0YW5kYXJkIHByb2R1Y3Rpdml0eVtzbWFsbCxHTVNdU21hbGwgcHJvZHVjdGl2aXR5IG11c3QgYmUgaGlnaGVyIHRoYW4gIgojfCAibGFyZ2Ugb25lIgo=</text>
+      <register name="7" type="4">
+        <text>水曜日</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">IywgZnV6enkKI3wgbXNnaWQgIiIKI3wgIlN0YW5kYXJkIHByb2R1Y3Rpdml0eVtzbWFsbCxHTVNdU21hbGwgcHJvZHVjdGl2aXR5IG11c3QgYmUgaGlnaGVyIHRoYW4gIgojfCAibGFyZ2Ugb25lIgo=</text>
+      <register name="8" type="4">
+        <text>火曜日</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">IywgZnV6enkKI3wgbXNnaWQgIiIKI3wgIlN0YW5kYXJkIHByb2R1Y3Rpdml0eVtzbWFsbCxHTVNdU21hbGwgcHJvZHVjdGl2aXR5IG11c3QgYmUgaGlnaGVyIHRoYW4gIgojfCAibGFyZ2Ugb25lIgo=</text>
+      <register name="9" type="4">
+        <text>月曜日</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
