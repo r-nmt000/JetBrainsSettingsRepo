@@ -66,9 +66,10 @@
         <mark key="^" line="60" column="51" />
         <mark key="." line="60" column="51" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/models.py" timestamp="1453110944307">
-        <mark key="[" line="125" column="26" />
-        <mark key="]" line="125" column="26" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/models.py" timestamp="1453170328241">
+        <mark key="'" line="147" column="4" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="50" />
         <mark key="^" line="125" column="26" />
         <mark key="." line="125" column="26" />
       </file>
@@ -79,12 +80,12 @@
         <mark key="." line="153" column="60" />
         <mark key="^" line="153" column="60" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/tc_forms.py" timestamp="1453169238038">
-        <mark key="'" line="61" column="37" />
-        <mark key="[" line="61" column="4" />
-        <mark key="]" line="61" column="57" />
-        <mark key="." line="61" column="57" />
-        <mark key="^" line="61" column="57" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/tc_forms.py" timestamp="1453170330142">
+        <mark key="'" line="26" column="45" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="50" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="26" column="45" />
       </file>
       <file name="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/mslprj/environment.py" timestamp="1450834012875">
         <mark key="[" line="17" column="21" />
@@ -106,7 +107,8 @@
         <mark key="[" line="5" column="26" />
         <mark key="]" line="5" column="45" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/tc_edit.html" timestamp="1453168162383">
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/tc_edit.html" timestamp="1453170643212">
+        <mark key="'" line="130" column="10" />
         <mark key="[" line="150" column="32" />
         <mark key="]" line="150" column="35" />
         <mark key="." line="150" column="35" />
@@ -135,12 +137,6 @@
         <mark key="^" line="282" column="8" />
         <mark key="." line="282" column="8" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/mst/staff_base_forms.py" timestamp="1452836886998">
-        <mark key="[" line="96" column="38" />
-        <mark key="]" line="96" column="38" />
-        <mark key="^" line="96" column="38" />
-        <mark key="." line="96" column="38" />
-      </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/section_forms.py" timestamp="1453111226157">
         <mark key="[" line="3" column="42" />
         <mark key="]" line="3" column="42" />
@@ -161,9 +157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="0" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
-      <jump line="74" column="0" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
-      <jump line="94" column="0" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
       <jump line="114" column="0" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
       <jump line="134" column="0" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
       <jump line="154" column="0" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
@@ -261,37 +254,40 @@
       <jump line="157" column="8" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/lib/xls_output/input/input_staff_data.py" />
       <jump line="68" column="8" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/section_edit.html" />
       <jump line="78" column="37" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/tc_forms.py" />
+      <jump line="26" column="45" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/tc_forms.py" />
+      <jump line="147" column="4" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/models.py" />
+      <jump line="130" column="10" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/tc_edit.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text>TC_MAX_VALUE_ERROR_MESSAGE_FMT</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
       </register>
-      <register name="0" type="4">
-        <text>{% trans &quot;TC ID&quot; %}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMudHJhbnNsYXRpb24gaW1wb3J0IHVnZXR0ZXh0IGFzIF8K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>TC_MAX_VALUE_ERROR_MESSAGE_FMT</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">IyBUQyBhY2NlcHRfKipzaWRlX2RpZmZfKmRheXNfc3RhZmYK</text>
+      <register name="2" type="4">
+        <text>const</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBUQyBsYWJlbHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">IyBUQyBhY2NlcHRfKipzaWRlX2RpZmZfKmRheXNfc3RhZmYK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyBUQyBsYWJlbHMK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">VENfSURfTEFCRUwgPSB1J+aLoOeCuUlEJwpUQ19OQU1FX0xBQkVMID0gdSfmi6DngrnlkI0nClRDX0FERFJFU1NfTEFCRUwgPSB1J+S9j+aJgCcKVENfU1REX1dPUktfSE9VUlNfTEFCRUwgPSB1J+WbuuWumuOCu+OCr+OCt+ODp+ODs+aomea6lueovOWLleaZgumWkycKVENfRlVZT1VfTUFYX01PTlRIX0hPVVJTX0xBQkVMID0gdSfmibbppIrmnIjmnIDlpKfnqLzlg43mmYLplpMnClRDX01BWF9DT05TRUNUSVZFX0RBWVNfTEFCRUwgPSB1J+acgOWkp+mAo+e2muWLpOWLmeaXpeaVsCcKVENfQUNDRVBUX0RPV05TSURFX0RJRkZfM0RBWVNfU1RBRkZfTEFCRUwgPSB1J+ioseWuueS5lumbouaXpeaVsDrpgLHkuIk65LiL5oyvJwpUQ19BQ0NFUFRfVVBTSURFX0RJRkZfM0RBWVNfU1RBRkZfTEFCRUwgPSB1J+ioseWuueS5lumbouaXpeaVsDrpgLHkuIk65LiK5oyvJwpUQ19BQ0NFUFRfRE9XTlNJREVfRElGRl80REFZU19TVEFGRl9MQUJFTCA9IHUn6Kix5a655LmW6Zui5pel5pWwOumAseWbmzrkuIvmjK8nClRDX0FDQ0VQVF9VUFNJREVfRElGRl80REFZU19TVEFGRl9MQUJFTCA9IHUn6Kix5a655LmW6Zui5pel5pWwOumAseWbmzrkuIrmjK8nClRDX0FDQ0VQVF9ET1dOU0lERV9ESUZGXzVEQVlTX1NUQUZGX0xBQkVMID0gdSfoqLHlrrnkuZbpm6Lml6XmlbA66YCx5LqUOuS4i+aMrycKVENfQUNDRVBUX1VQU0lERV9ESUZGXzVEQVlTX1NUQUZGX0xBQkVMID0gdSfoqLHlrrnkuZbpm6Lml6XmlbA66YCx5LqUOuS4iuaMrycKVENfTUlOX01BSU5fV09SS19IT1VSU19MQUJFTCA9IHUn5Li744K744Kv44K344On44Oz5pyA5bCP56i85YuV5pmC6ZaTJwpUQ19EQUlMWV9TRUNUSU9OU19MQUJFTCA9IHUn5pel56i85YuV44K744Kv44K344On44Oz5pWwJwpUQ19OWVVLQV9NSU5fSE9VUlNfTEFCRUwgPSB1J+WFpeiNt+acgOWwj+eovOWDjeaZgumWkycKVENfTllVS0FfTUFYX0hPVVJTX0xBQkVMID0gdSflhaXojbfmnIDlpKfnqLzlg43mmYLplpMnClRDX1JFRkVSRU5DRV9BTU9VTlRfTE9XX0xBUkdFX0xBQkVMID0gdSflj4Lnhafnianph4865aSn5Lit54mpOuWwkemHjycKVENfUkVGRVJFTkNFX0FNT1VOVF9ISUdIX0xBUkdFX0xBQkVMID0gdSflj4Lnhafnianph4865aSn5Lit54mpOuWkmumHjycKVENfUkVGRVJFTkNFX0FNT1VOVF9MT1dfU01BTExfTEFCRUwgPSB1J+WPgueFp+eJqemHjzrlsI/niak65bCR6YePJwpUQ19SRUZFUkVOQ0VfQU1PVU5UX0hJR0hfU01BTExfTEFCRUwgPSB1J+WPgueFp+eJqemHjzrlsI/niak65aSa6YePJwpUQ19TSElXQUtFX1BST0RVQ1RJVklUWV9MT1dfTEFSR0VfTEFCRUwgPSB1J+S7leWIhueUn+eUo+aApzrlpKfkuK3niak65bCR6YePJwpUQ19TSElXQUtFX1BST0RVQ1RJVklUWV9ISUdIX0xBUkdFX0xBQkVMID0gdSfku5XliIbnlJ/nlKPmgKc65aSn5Lit54mpOuWkmumHjycKVENfU0hJV0FLRV9QUk9EVUNUSVZJVFlfTE9XX1NNQUxMX0xBQkVMID0gdSfku5XliIbnlJ/nlKPmgKc65bCP54mpOuWwkemHjycKVENfU0hJV0FLRV9QUk9EVUNUSVZJVFlfSElHSF9TTUFMTF9MQUJFTCA9IHUn5LuV5YiG55Sf55Sj5oCnOuWwj+eJqTrlpJrph48nClRDX05ZVUtBX1BST0RVQ1RJVklUWV9MT1dfTEFSR0VfTEFCRUwgPSB1J+WFpeiNt+eUn+eUo+aApzrlpKfkuK3niak65bCR6YePJwpUQ19OWVVLQV9QUk9EVUNUSVZJVFlfSElHSF9MQVJHRV9MQUJFTCA9IHUn5YWl6I2355Sf55Sj5oCnOuWkp+S4reeJqTrlpJrph48nClRDX05ZVUtBX1BST0RVQ1RJVklUWV9MT1dfU01BTExfTEFCRUwgPSB1J+WFpeiNt+eUn+eUo+aApzrlsI/niak65bCR6YePJwpUQ19OWVVLQV9QUk9EVUNUSVZJVFlfSElHSF9TTUFMTF9MQUJFTCA9IHUn5YWl6I2355Sf55Sj5oCnOuWwj+eJqTrlpJrph48nClRDX0dNU19BTU9VTlRfTU9OREFZX0xBQkVMID0gdSdHTVPopo/lrprnianph4865pyI5puc5pelJwpUQ19HTVNfQU1PVU5UX1RVRVNEQVlfTEFCRUwgPSB1J0dNU+imj+WumueJqemHjzrngavmm5zml6UnClRDX0dNU19BTU9VTlRfV0VETkVTREFZX0xBQkVMID0gdSdHTVPopo/lrprnianph4865rC05puc5pelJwpUQ19HTVNfQU1PVU5UX1RIVVJTREFZX0xBQkVMID0gdSdHTVPopo/lrprnianph4865pyo5puc5pelJwpUQ19HTVNfQU1PVU5UX0ZSSURBWV9MQUJFTCA9IHUnR01T6KaP5a6a54mp6YePOumHkeabnOaXpScKVENfR01TX0FNT1VOVF9TQVRVUkRBWV9MQUJFTCA9IHUnR01T6KaP5a6a54mp6YePOuWcn+abnOaXpScKVENfR01TX0FNT1VOVF9TVU5EQVlfTEFCRUwgPSB1J0dNU+imj+WumueJqemHjzrml6Xmm5zml6UnClRDX0dNU19BTU9VTlRfSE9MSURBWV9MQUJFTCA9IHUnR01T6KaP5a6a54mp6YePOuelneaXpScKVENfQ09NUFVUQVRJT05fVElNRV9MQUJFTCA9IHUn5pyA6YGp5YyW6KiI566X5pmC6ZaTJwpUQ19IRURHSU5HX1NDQUxFX0xBQkVMID0gdSfphY3nva5NSC/lv4XopoFNSCcKVENfU1VQUE9SVF9TRUNUSU9OX1BST0RVQ1RJVklUWV9SQVRFX0xBQkVMID0gdSflv5zmj7Tpg6jnvbLnlJ/nlKPmgKcnClRDX01BWF9XRUVLX0hPVVJTX1NIQUlOX1NUQUZGX0xBQkVMID0gdSco5q2j56S+5ZOh44CB5aWR57SE56S+5ZOhKemAseW9k+OBn+OCiuacgOWkp+WKtOWDjeaZgumWkycKVENfTUFYX1dFRUtfSE9VUlNfUEFSVF9TVEFGRl9MQUJFTCA9IHUnKOODkeODvOODiOOCv+OCpOODnuOAgea0vumBo+ekvuWToSnpgLHlvZPjgZ/jgormnIDlpKflirTlg43mmYLplpMnClRDX0tVUklLT1NJX1RIUkVTSE9MRF9MQUJFTCA9IHUn57mw6LaK44GX44GN44GE5YCk54mp6YePJwpUQ19LT01PTk9fS1VSSUtPU0lfUkFUSU9fTEFCRUwgPSB1J+Wwj+eJqeeJqemHj+acgOS9juWHpueQhuWJsuWQiCcKVENfRldESU5HX1RIUkVTSE9MRF9MQVJHRV9MQUJFTCA9IHUnZndkaW5nX3RocmVzaG9sZF9sYXJnZScKVENfRldESU5HX1RIUkVTSE9MRF9TTUFMTF9MQUJFTCA9IHUnZndkaW5nX3RocmVzaG9sZF9zbWFsbCcKVENfV09SS0VSX0FERFJFU1NfTEFCRUwgPSB1J3dvcmtlcl9hZGRyZXNzJwo=</text>
-      </register>
-      <register name="5" type="4">
-        <text>const</text>
-      </register>
-      <register name="6" type="4">
-        <text>const</text>
       </register>
       <register name="7" type="4">
         <text>const</text>
