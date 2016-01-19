@@ -7,10 +7,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/locale/ja/LC_MESSAGES/django.po" timestamp="1453111193389">
-        <mark key="[" line="214" column="0" />
-        <mark key="]" line="214" column="0" />
-        <mark key="^" line="208" column="17" />
-        <mark key="." line="214" column="0" />
+        <mark key="[" line="207" column="0" />
+        <mark key="]" line="207" column="0" />
+        <mark key="." line="207" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1453174423447">
         <mark key="[" line="0" column="0" />
@@ -66,12 +65,18 @@
         <mark key="^" line="60" column="51" />
         <mark key="." line="60" column="51" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/tc_forms.py" timestamp="1453174001755">
-        <mark key="'" line="60" column="26" />
-        <mark key="[" line="61" column="58" />
-        <mark key="]" line="61" column="68" />
-        <mark key="." line="61" column="68" />
-        <mark key="^" line="61" column="68" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/models.py" timestamp="1453175151295">
+        <mark key="'" line="118" column="4" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="82" />
+        <mark key="." line="119" column="26" />
+      </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/tc_forms.py" timestamp="1453175941190">
+        <mark key="'" line="50" column="4" />
+        <mark key="[" line="231" column="37" />
+        <mark key="]" line="231" column="93" />
+        <mark key="." line="231" column="93" />
+        <mark key="^" line="231" column="93" />
       </file>
       <file name="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/mslprj/environment.py" timestamp="1450834012875">
         <mark key="[" line="17" column="21" />
@@ -110,11 +115,21 @@
         <mark key="]" line="18" column="38" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_section_service.py" timestamp="1453103998598" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/staff_base_service.py" timestamp="1452837856775">
+        <mark key="[" line="248" column="46" />
+        <mark key="]" line="248" column="46" />
+        <mark key="." line="248" column="46" />
+      </file>
       <file name="$USER_HOME$/repos/temp/python_study/02_qsort.py" timestamp="1427726335966">
         <mark key="[" line="12" column="14" />
         <mark key="]" line="12" column="16" />
         <mark key="^" line="12" column="16" />
         <mark key="." line="12" column="16" />
+      </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/staff_base_view.py" timestamp="1452819540048">
+        <mark key="[" line="198" column="42" />
+        <mark key="]" line="198" column="42" />
+        <mark key="." line="198" column="42" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_attendance_service.py" timestamp="1452759257701">
         <mark key="[" line="287" column="8" />
@@ -134,7 +149,7 @@
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/utils/custom_fields.py" timestamp="1453107593511">
         <mark key="^" line="18" column="78" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/tc_service.py" timestamp="1453174386938" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/tc_service.py" timestamp="1453175857457" />
       <file name="$USER_HOME$/repos/TS/training/django_portal/apps/blogs/views.py" timestamp="1452831367907">
         <mark key="[" line="58" column="29" />
         <mark key="]" line="58" column="18" />
@@ -143,10 +158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="0" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
-      <jump line="154" column="0" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
-      <jump line="214" column="8" filename="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/staff/tests/mst/test_staffbase.py" />
-      <jump line="285" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/staff_base_detail.html" />
       <jump line="127" column="12" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/section_detail.html" />
       <jump line="225" column="8" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/tc_edit.html" />
       <jump line="184" column="4" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
@@ -243,46 +254,50 @@
       <jump line="147" column="4" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/models.py" />
       <jump line="130" column="10" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/tc_edit.html" />
       <jump line="60" column="26" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/tc_forms.py" />
+      <jump line="168" column="8" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/models.py" />
+      <jump line="41" column="8" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/tc_forms.py" />
+      <jump line="118" column="4" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/models.py" />
+      <jump line="50" column="4" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/tc_forms.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>computation_time</text>
+        <text>TC_NYUKA_HOURS_REVERSED_ERROR_MESSAGE</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMudHJhbnNsYXRpb24gaW1wb3J0IHVnZXR0ZXh0IGFzIF8K</text>
+        <text encoding="base64">ICAgICAgICBsYWJlbD1fKCJEb3duc2lkZSBkaWZmOjNkYXlzIiksCg==</text>
       </register>
       <register name="1" type="4">
-        <text>computation_time</text>
+        <text>TC_NYUKA_HOURS_REVERSED_ERROR_MESSAGE</text>
       </register>
       <register name="2" type="4">
-        <text>label</text>
-      </register>
-      <register name="3" type="4">
-        <text>許容乖離日数</text>
-      </register>
-      <register name="4" type="4">
-        <text>Select</text>
-      </register>
-      <register name="5" type="4">
-        <text>TC_MAX_VALUE_ERROR_MESSAGE_FMT</text>
-      </register>
-      <register name="6" type="4">
         <text>const</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>const</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">IyBUQyBhY2NlcHRfKipzaWRlX2RpZmZfKmRheXNfc3RhZmYK</text>
+      <register name="4" type="4">
+        <text>TC_MAX_VALUE_ERROR_MESSAGE_FMT</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">IyBUQyBsYWJlbHMK</text>
+      <register name="5" type="4">
+        <text>const.TC_MAX_VAL_ACCEPT_UPSIDE_DIFF_5DAYS_STAFF</text>
+      </register>
+      <register name="6" type="4">
+        <text>const.TC_MAX_VAL_ACCEPT_DOWNSIDE_DIFF_5DAYS_STAFF</text>
+      </register>
+      <register name="7" type="4">
+        <text>const.TC_MAX_VAL_ACCEPT_UPSIDE_DIFF_4DAYS_STAFF</text>
+      </register>
+      <register name="8" type="4">
+        <text>const.TC_MAX_VAL_ACCEPT_DOWNSIDE_DIFF_4DAYS_STAFF</text>
+      </register>
+      <register name="9" type="4">
+        <text>const.TC_MAX_VAL_ACCEPT_UPSIDE_DIFF_3DAYS_STAFF</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
