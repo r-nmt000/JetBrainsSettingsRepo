@@ -13,7 +13,7 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="94" column="16" />
       </file>
-      <file name="/fragment.py" timestamp="1453178036628">
+      <file name="/fragment.py" timestamp="1453197706753">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -105,17 +105,13 @@
         <mark key="[" line="5" column="26" />
         <mark key="]" line="5" column="45" />
       </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register_service.py" timestamp="1453198005596">
+        <mark key="[" line="177" column="52" />
+        <mark key="]" line="177" column="55" />
+        <mark key="^" line="177" column="55" />
+        <mark key="." line="177" column="55" />
+      </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/tc_edit.html" timestamp="1453186669356" />
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/job_register_forms.py" timestamp="1453090479084">
-        <mark key="'" line="184" column="23" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/TS/training/django_portal/locale/ja/LC_MESSAGES/django.po" timestamp="1453100599501">
-        <mark key="'" line="99" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="18" column="38" />
-      </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_section_service.py" timestamp="1453103998598" />
       <file name="$USER_HOME$/repos/temp/python_study/02_qsort.py" timestamp="1427726335966">
         <mark key="[" line="12" column="14" />
@@ -129,6 +125,7 @@
         <mark key="^" line="282" column="8" />
         <mark key="." line="282" column="8" />
       </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register.py" timestamp="1453197749495" />
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/section_forms.py" timestamp="1453111226157">
         <mark key="[" line="3" column="42" />
         <mark key="]" line="3" column="42" />
@@ -256,40 +253,40 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>祝日</text>
+        <text>small_amount</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRoIGNsYXNzPSJjb2wtbGctMiBjb2wtbWQtMiBjb2wtc20tMiI+eyUgdHJhbnMgIlJlZmVyZW5jZSBBbW91bnQiICV9PC90aD4KICAgICAgICAgICAgPHRoIGNsYXNzPSJjb2wtbGctMiBjb2wtbWQtMiBjb2wtc20tMiI+eyUgdHJhbnMgIlNoaXdha2UgcHJvZHVjdGl2aXR5IiAlfTwvdGg+CiAgICAgICAgICAgIDx0aCBjbGFzcz0iY29sLWxnLTIgY29sLW1kLTIgY29sLXNtLTIiPnslIHRyYW5zICJOeXVrYSBwcm9kdWN0aXZpdHkiICV9PC90aD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnc21hbGxfYW1vdW50Jzogc21hbGxfYW1vdW50LAo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>small_amount</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">IywgZnV6enkKI3wgbXNnaWQgIlNtYWxsIGFtb3VudCIK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>祝日</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>日曜日</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>土曜日</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>金曜日</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>木曜日</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>水曜日</text>
       </register>
-      <register name="8" type="4">
-        <text>火曜日</text>
-      </register>
       <register name="9" type="4">
-        <text>月曜日</text>
+        <text>火曜日</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
