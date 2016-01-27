@@ -16,9 +16,9 @@
         <mark key="^" line="11" column="11" />
         <mark key="." line="11" column="11" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/400.html" timestamp="1453786796033">
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="5" column="18" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/400.html" timestamp="1453859172883">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="13" />
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="18" />
       </file>
@@ -68,10 +68,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/urls.py" timestamp="1453785960463">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/urls.py" timestamp="1453859484656">
+        <mark key="[" line="40" column="18" />
+        <mark key="]" line="40" column="64" />
+        <mark key="." line="40" column="64" />
+        <mark key="^" line="40" column="64" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" timestamp="1453340666875">
         <mark key="'" line="569" column="18" />
@@ -134,6 +135,12 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/503.html" timestamp="1453859208556">
+        <mark key="[" line="6" column="9" />
+        <mark key="]" line="6" column="23" />
+        <mark key="." line="6" column="23" />
+        <mark key="^" line="6" column="23" />
+      </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/utils.py" timestamp="1451895636040">
         <mark key="[" line="17" column="23" />
         <mark key="]" line="17" column="23" />
@@ -191,16 +198,6 @@
         <mark key="^" line="0" column="17" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_section_service.py" timestamp="1453103998598" />
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/staff_base_service.py" timestamp="1452837856775">
-        <mark key="[" line="248" column="46" />
-        <mark key="]" line="248" column="46" />
-        <mark key="." line="248" column="46" />
-      </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/staff_base_view.py" timestamp="1452819540048">
-        <mark key="[" line="198" column="42" />
-        <mark key="]" line="198" column="42" />
-        <mark key="." line="198" column="42" />
-      </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_attendance_service.py" timestamp="1452759257701">
         <mark key="[" line="287" column="8" />
         <mark key="]" line="282" column="8" />
@@ -316,40 +313,40 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>base</text>
+        <text>include('role.urls', namespace=mslprj.const.VIEW_ROLE)),</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVybCgnXjUwMHRlc3RpbmcvJCcsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9JzUwMC5odG1sJykpLAo=</text>
+        <text encoding="base64">ICAgIHVybChyJ15yb2xlLycsIGluY2x1ZGUoJ3JvbGUudXJscycsIG5hbWVzcGFjZT1tc2xwcmouY29uc3QuVklFV19ST0xFKSksCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHVybCgnXjQwNHRlc3RpbmcvJCcsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9JzQwNC5odG1sJykpLAogICAgdXJsKCdeNDAwdGVzdGluZy8kJywgVGVtcGxhdGVWaWV3LmFzX3ZpZXcodGVtcGxhdGVfbmFtZT0nNDAwLmh0bWwnKSksCiAgICB1cmwoJ140MDN0ZXN0aW5nLyQnLCBUZW1wbGF0ZVZpZXcuYXNfdmlldyh0ZW1wbGF0ZV9uYW1lPSc0MDMuaHRtbCcpKSwKICAgIHVybCgnXjUwMHRlc3RpbmcvJCcsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9JzUwMC5odG1sJykpLAogICAgdXJsKCdeZXJyb3IvJCcsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9J2Vycm9yLmh0bWwnKSksCg==</text>
+      <register name="1" type="4">
+        <text>include('role.urls', namespace=mslprj.const.VIEW_ROLE)),</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHVybCgnXjQwNHRlc3RpbmcvJCcsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9JzQwNC5odG1sJykpLAogICAgdXJsKCdeNDAwdGVzdGluZy8kJywgVGVtcGxhdGVWaWV3LmFzX3ZpZXcodGVtcGxhdGVfbmFtZT0nNDAwLmh0bWwnKSksCiAgICB1cmwoJ140MDN0ZXN0aW5nLyQnLCBUZW1wbGF0ZVZpZXcuYXNfdmlldyh0ZW1wbGF0ZV9uYW1lPSc0MDMuaHRtbCcpKSwKICAgIHVybCgnXjUwMHRlc3RpbmcvJCcsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9JzUwMC5odG1sJykpLAogICAgdXJsKCdeZXJyb3IvJCcsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9J2Vycm9yLmh0bWwnKSksCg==</text>
+      <register name="2" type="4">
+        <text>不正</text>
       </register>
       <register name="3" type="4">
-        <text>base</text>
+        <text>リクエスト</text>
       </register>
       <register name="4" type="4">
-        <text>500</text>
+        <text>Request</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICA8ZGl2PuODoeODg+OCu+ODvOOCuDwvZGl2PgogIDxkaXY+44OI44Os44O844K544OQ44OD44KvPC9kaXY+Cg==</text>
+      <register name="5" type="4">
+        <text>Bad</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPGgxPjUwMCBJbnRlcm5hbCBTZXJ2ZXIgRXJyb3I8L2gxPgo=</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDx0aXRsZT5UaXRsZTwvdGl0bGU+CjwvaGVhZD4KPGJvZHk+Cgo8L2JvZHk+CjwvaHRtbD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPHA+5YaF6YOo44K144O844OQ44Ko44Op44O844GM55m655Sf44GX44G+44GX44Gf44CCPC9wPgo=</text>
+        <text encoding="base64">ICAgIHVybCgnXjQwNHRlc3RpbmcvJCcsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9JzQwNC5odG1sJykpLAogICAgdXJsKCdeNDAwdGVzdGluZy8kJywgVGVtcGxhdGVWaWV3LmFzX3ZpZXcodGVtcGxhdGVfbmFtZT0nNDAwLmh0bWwnKSksCiAgICB1cmwoJ140MDN0ZXN0aW5nLyQnLCBUZW1wbGF0ZVZpZXcuYXNfdmlldyh0ZW1wbGF0ZV9uYW1lPSc0MDMuaHRtbCcpKSwKICAgIHVybCgnXjUwMHRlc3RpbmcvJCcsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9JzUwMC5odG1sJykpLAogICAgdXJsKCdeZXJyb3IvJCcsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9J2Vycm9yLmh0bWwnKSksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8aDE+44K/44Kk44OI44OrPC9oMT4K</text>
+        <text encoding="base64">ICAgIHVybCgnXjQwNHRlc3RpbmcvJCcsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9JzQwNC5odG1sJykpLAogICAgdXJsKCdeNDAwdGVzdGluZy8kJywgVGVtcGxhdGVWaWV3LmFzX3ZpZXcodGVtcGxhdGVfbmFtZT0nNDAwLmh0bWwnKSksCiAgICB1cmwoJ140MDN0ZXN0aW5nLyQnLCBUZW1wbGF0ZVZpZXcuYXNfdmlldyh0ZW1wbGF0ZV9uYW1lPSc0MDMuaHRtbCcpKSwKICAgIHVybCgnXjUwMHRlc3RpbmcvJCcsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9JzUwMC5odG1sJykpLAogICAgdXJsKCdeZXJyb3IvJCcsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9J2Vycm9yLmh0bWwnKSksCg==</text>
       </register>
       <register name="9" type="4">
-        <text>ページ</text>
+        <text>base</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
