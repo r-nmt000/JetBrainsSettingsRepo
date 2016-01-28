@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/locale/ja/LC_MESSAGES/django.po" timestamp="1453185454449">
-        <mark key="'" line="154" column="0" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-        <mark key="^" line="94" column="16" />
-      </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/environment.py" timestamp="1453776549616">
         <mark key="[" line="11" column="13" />
         <mark key="]" line="11" column="11" />
@@ -46,20 +39,6 @@
         <mark key="^" line="60" column="51" />
         <mark key="." line="60" column="51" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/models.py" timestamp="1453187532423">
-        <mark key="'" line="118" column="4" />
-        <mark key="[" line="28" column="18" />
-        <mark key="]" line="28" column="18" />
-        <mark key="." line="28" column="18" />
-        <mark key="^" line="28" column="18" />
-      </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/const.py" timestamp="1453181248854">
-        <mark key="'" line="313" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="312" column="46" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/TS/training/django_portal/templates/base.html" timestamp="1453166606680">
         <mark key="[" line="5" column="26" />
         <mark key="]" line="5" column="45" />
@@ -68,12 +47,14 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="13" />
       </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/urls.py" timestamp="1453950866684">
+        <mark key="[" line="33" column="66" />
+        <mark key="]" line="33" column="64" />
+        <mark key="." line="33" column="64" />
+        <mark key="^" line="33" column="64" />
+      </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" timestamp="1453340666875">
-        <mark key="'" line="569" column="18" />
-        <mark key="[" line="433" column="31" />
-        <mark key="]" line="433" column="36" />
-        <mark key="." line="433" column="36" />
-        <mark key="^" line="433" column="36" />
+        <mark key="'" line="574" column="18" />
       </file>
       <file name="$USER_HOME$/repos/TS/training/django_portal/manage.py" timestamp="1453771899489">
         <mark key="[" line="19" column="69" />
@@ -92,6 +73,9 @@
         <mark key="]" line="3" column="42" />
         <mark key="." line="3" column="42" />
         <mark key="^" line="3" column="49" />
+      </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/section_edit.html" timestamp="1453166519894">
+        <mark key="'" line="67" column="8" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/tc_service.py" timestamp="1453175857457" />
       <file name="$USER_HOME$/repos/TS/training/django_portal/apps/blogs/views.py" timestamp="1452831367907">
@@ -146,20 +130,6 @@
         <mark key="]" line="20" column="0" />
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/settings.py" timestamp="1453096427570">
-        <mark key="'" line="121" column="6" />
-        <mark key="[" line="105" column="19" />
-        <mark key="]" line="105" column="19" />
-        <mark key="^" line="114" column="0" />
-        <mark key="." line="105" column="19" />
-      </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/tc_forms.py" timestamp="1453189405645">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="18" column="40" />
-        <mark key="]" line="18" column="40" />
-        <mark key="." line="18" column="40" />
-        <mark key="^" line="18" column="40" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/404.html" timestamp="1453785740685">
         <mark key="[" line="4" column="2" />
@@ -313,34 +283,34 @@
         <text>support</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVybChyJ15yb2xlLycsIGluY2x1ZGUoJ3JvbGUudXJscycsIG5hbWVzcGFjZT1tc2xwcmouY29uc3QuVklFV19ST0xFKSksCg==</text>
+        <text encoding="base64">ICAgIHVybChyJ141MDAvJywgVGVtcGxhdGVWaWV3LmFzX3ZpZXcodGVtcGxhdGVfbmFtZT0nNDAwLmh0bWwnKSksCg==</text>
       </register>
       <register name="1" type="4">
         <text>include('role.urls', namespace=mslprj.const.VIEW_ROLE)),</text>
       </register>
       <register name="2" type="4">
-        <text>不正</text>
+        <text>include('role.urls', namespace=mslprj.const.VIEW_ROLE)),</text>
       </register>
       <register name="3" type="4">
-        <text>リクエスト</text>
+        <text>不正</text>
       </register>
       <register name="4" type="4">
-        <text>Request</text>
+        <text>リクエスト</text>
       </register>
       <register name="5" type="4">
+        <text>Request</text>
+      </register>
+      <register name="6" type="4">
         <text>Bad</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDx0aXRsZT5UaXRsZTwvdGl0bGU+CjwvaGVhZD4KPGJvZHk+Cgo8L2JvZHk+CjwvaHRtbD4K</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHVybCgnXjQwNHRlc3RpbmcvJCcsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9JzQwNC5odG1sJykpLAogICAgdXJsKCdeNDAwdGVzdGluZy8kJywgVGVtcGxhdGVWaWV3LmFzX3ZpZXcodGVtcGxhdGVfbmFtZT0nNDAwLmh0bWwnKSksCiAgICB1cmwoJ140MDN0ZXN0aW5nLyQnLCBUZW1wbGF0ZVZpZXcuYXNfdmlldyh0ZW1wbGF0ZV9uYW1lPSc0MDMuaHRtbCcpKSwKICAgIHVybCgnXjUwMHRlc3RpbmcvJCcsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9JzUwMC5odG1sJykpLAogICAgdXJsKCdeZXJyb3IvJCcsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9J2Vycm9yLmh0bWwnKSksCg==</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDx0aXRsZT5UaXRsZTwvdGl0bGU+CjwvaGVhZD4KPGJvZHk+Cgo8L2JvZHk+CjwvaHRtbD4K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIHVybCgnXjQwNHRlc3RpbmcvJCcsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9JzQwNC5odG1sJykpLAogICAgdXJsKCdeNDAwdGVzdGluZy8kJywgVGVtcGxhdGVWaWV3LmFzX3ZpZXcodGVtcGxhdGVfbmFtZT0nNDAwLmh0bWwnKSksCiAgICB1cmwoJ140MDN0ZXN0aW5nLyQnLCBUZW1wbGF0ZVZpZXcuYXNfdmlldyh0ZW1wbGF0ZV9uYW1lPSc0MDMuaHRtbCcpKSwKICAgIHVybCgnXjUwMHRlc3RpbmcvJCcsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9JzUwMC5odG1sJykpLAogICAgdXJsKCdeZXJyb3IvJCcsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9J2Vycm9yLmh0bWwnKSksCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>base</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHVybCgnXjQwNHRlc3RpbmcvJCcsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9JzQwNC5odG1sJykpLAogICAgdXJsKCdeNDAwdGVzdGluZy8kJywgVGVtcGxhdGVWaWV3LmFzX3ZpZXcodGVtcGxhdGVfbmFtZT0nNDAwLmh0bWwnKSksCiAgICB1cmwoJ140MDN0ZXN0aW5nLyQnLCBUZW1wbGF0ZVZpZXcuYXNfdmlldyh0ZW1wbGF0ZV9uYW1lPSc0MDMuaHRtbCcpKSwKICAgIHVybCgnXjUwMHRlc3RpbmcvJCcsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9JzUwMC5odG1sJykpLAogICAgdXJsKCdeZXJyb3IvJCcsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9J2Vycm9yLmh0bWwnKSksCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
