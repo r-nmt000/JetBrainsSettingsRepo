@@ -15,11 +15,11 @@
         <mark key="]" line="154" column="0" />
         <mark key="." line="154" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/Web/MPL/MPL/apps/mpl/forms.py" timestamp="1454780356081">
-        <mark key="[" line="10" column="51" />
-        <mark key="]" line="11" column="29" />
-        <mark key="." line="11" column="29" />
-        <mark key="^" line="11" column="29" />
+      <file name="$USER_HOME$/repos/Web/MPL/MPL/apps/mpl/forms.py" timestamp="1454939822513">
+        <mark key="[" line="11" column="67" />
+        <mark key="]" line="11" column="67" />
+        <mark key="." line="11" column="67" />
+        <mark key="^" line="11" column="67" />
       </file>
       <file name="$USER_HOME$/repos/temp/python_study/09_uruu.py" timestamp="1427798825817">
         <mark key="[" line="0" column="1" />
@@ -115,6 +115,7 @@
         <mark key="." line="6" column="4" />
         <mark key="^" line="6" column="4" />
       </file>
+      <file name="$USER_HOME$/.pyenv/versions/blog/lib/python2.7/site-packages/django/views/generic/list.py" timestamp="1454939640570" />
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/tc_detail.html" timestamp="1450960270245">
         <mark key="[" line="42" column="38" />
         <mark key="]" line="42" column="39" />
@@ -343,40 +344,40 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>inverse</text>
+        <text>Textarea</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihUaHJvdWdoQ2VudGVyRm9ybSwgc2VsZikuX19pbml0X18oKmFyZ3MsICoqa3dhcmdzKQo=</text>
+      <register name="0" type="4">
+        <text>widget=forms.Textarea(attrs={'class':'form-control'})</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>Textarea</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBsb2dpbihzZWxmLnJlcXVlc3QsIGZvcm0uZ2V0X3VzZXIoKSkK</text>
       </register>
-      <register name="2" type="4">
-        <text>inverse</text>
-      </register>
       <register name="3" type="4">
-        <text encoding="base64">PC9kaXY+</text>
+        <text>inverse</text>
       </register>
       <register name="4" type="4">
         <text encoding="base64">PC9kaXY+</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">PC9kaXY+</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjZW50ZXItYmxvY2siPgo=</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="9" type="4">
-        <text>col--9 col-md-offset-3</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjZW50ZXItYmxvY2siPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
