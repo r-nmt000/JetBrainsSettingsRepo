@@ -53,9 +53,6 @@
         <mark key="." line="40" column="15" />
         <mark key="^" line="40" column="15" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" timestamp="1453340666875">
-        <mark key="'" line="574" column="18" />
-      </file>
       <file name="$USER_HOME$/repos/TS/training/django_portal/manage.py" timestamp="1453771899489">
         <mark key="[" line="19" column="69" />
         <mark key="]" line="19" column="71" />
@@ -74,9 +71,6 @@
         <mark key="." line="3" column="42" />
         <mark key="^" line="3" column="49" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/section_edit.html" timestamp="1453166519894">
-        <mark key="'" line="67" column="8" />
-      </file>
       <file name="$USER_HOME$/repos/MP/itata_cookbooks/itata-webapp/recipes/nginx.rb" timestamp="1454655802115" />
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/tc_service.py" timestamp="1453175857457" />
       <file name="$USER_HOME$/repos/TS/training/django_portal/apps/blogs/views.py" timestamp="1452831367907">
@@ -90,6 +84,12 @@
         <mark key="]" line="96" column="30" />
         <mark key="." line="96" column="30" />
         <mark key="^" line="96" column="30" />
+      </file>
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/manage.py" timestamp="1454902487501">
+        <mark key="[" line="19" column="70" />
+        <mark key="]" line="19" column="70" />
+        <mark key="." line="19" column="70" />
+        <mark key="^" line="19" column="70" />
       </file>
       <file name="/fragment.py" timestamp="1453340600850">
         <mark key="[" line="0" column="0" />
@@ -280,7 +280,7 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>include('role.urls', namespace=mslprj.const.VIEW_ROLE)),</text>
+        <text>base</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
@@ -289,28 +289,28 @@
         <text encoding="base64">ICAgIHVybChyJ141MDAvJywgVGVtcGxhdGVWaWV3LmFzX3ZpZXcodGVtcGxhdGVfbmFtZT0nNDAwLmh0bWwnKSksCg==</text>
       </register>
       <register name="1" type="4">
-        <text>include('role.urls', namespace=mslprj.const.VIEW_ROLE)),</text>
+        <text>base</text>
       </register>
       <register name="2" type="4">
         <text>include('role.urls', namespace=mslprj.const.VIEW_ROLE)),</text>
       </register>
       <register name="3" type="4">
-        <text>不正</text>
+        <text>include('role.urls', namespace=mslprj.const.VIEW_ROLE)),</text>
       </register>
       <register name="4" type="4">
-        <text>リクエスト</text>
+        <text>不正</text>
       </register>
       <register name="5" type="4">
-        <text>Request</text>
+        <text>リクエスト</text>
       </register>
       <register name="6" type="4">
+        <text>Request</text>
+      </register>
+      <register name="7" type="4">
         <text>Bad</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDx0aXRsZT5UaXRsZTwvdGl0bGU+CjwvaGVhZD4KPGJvZHk+Cgo8L2JvZHk+CjwvaHRtbD4K</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVybCgnXjQwNHRlc3RpbmcvJCcsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9JzQwNC5odG1sJykpLAogICAgdXJsKCdeNDAwdGVzdGluZy8kJywgVGVtcGxhdGVWaWV3LmFzX3ZpZXcodGVtcGxhdGVfbmFtZT0nNDAwLmh0bWwnKSksCiAgICB1cmwoJ140MDN0ZXN0aW5nLyQnLCBUZW1wbGF0ZVZpZXcuYXNfdmlldyh0ZW1wbGF0ZV9uYW1lPSc0MDMuaHRtbCcpKSwKICAgIHVybCgnXjUwMHRlc3RpbmcvJCcsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9JzUwMC5odG1sJykpLAogICAgdXJsKCdeZXJyb3IvJCcsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9J2Vycm9yLmh0bWwnKSksCg==</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDx0aXRsZT5UaXRsZTwvdGl0bGU+CjwvaGVhZD4KPGJvZHk+Cgo8L2JvZHk+CjwvaHRtbD4K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIHVybCgnXjQwNHRlc3RpbmcvJCcsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9JzQwNC5odG1sJykpLAogICAgdXJsKCdeNDAwdGVzdGluZy8kJywgVGVtcGxhdGVWaWV3LmFzX3ZpZXcodGVtcGxhdGVfbmFtZT0nNDAwLmh0bWwnKSksCiAgICB1cmwoJ140MDN0ZXN0aW5nLyQnLCBUZW1wbGF0ZVZpZXcuYXNfdmlldyh0ZW1wbGF0ZV9uYW1lPSc0MDMuaHRtbCcpKSwKICAgIHVybCgnXjUwMHRlc3RpbmcvJCcsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9JzUwMC5odG1sJykpLAogICAgdXJsKCdeZXJyb3IvJCcsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9J2Vycm9yLmh0bWwnKSksCg==</text>
