@@ -138,6 +138,12 @@
         <mark key="." line="6" column="23" />
         <mark key="^" line="6" column="23" />
       </file>
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/accounts/models.py" timestamp="1454926359585">
+        <mark key="[" line="46" column="20" />
+        <mark key="]" line="46" column="21" />
+        <mark key="^" line="46" column="21" />
+        <mark key="." line="46" column="21" />
+      </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/utils.py" timestamp="1451895636040">
         <mark key="[" line="17" column="23" />
         <mark key="]" line="17" column="23" />
@@ -227,6 +233,9 @@
       <file name="$USER_HOME$/repos/TS/training/django_portal/config/settings/prd.py" timestamp="1454305687920" />
       <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/core/models.py" timestamp="1454906919541" />
       <file name="$USER_HOME$/repos/MP/itata_cookbooks/itata-base/files/default/ssh_config" timestamp="1454657961700" />
+      <file name="$USER_HOME$/.pyenv/versions/geo/lib/python3.5/site-packages/django/contrib/auth/base_user.py" timestamp="1454926237422">
+        <mark key="k" line="67" column="7" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="54" column="5" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
@@ -335,7 +344,7 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>sales_amount_rental</text>
+        <text>is_staff</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
@@ -343,32 +352,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNhbGVzX3ZvbHVtZV9nX2hhcmRfdXNlZCA9IG1vZGVscy5CaWdJbnRlZ2VyRmllbGQoKQogICAgc2FsZXNfYW1vdW50X2dfaGFyZF91c2VkID0gbW9kZWxzLkJpZ0ludGVnZXJGaWVsZCgpCiAgICBzYWxlc19tZW1iZXJzaGlwX2dfaGFyZF91c2VkID0gbW9kZWxzLkJpZ0ludGVnZXJGaWVsZCgpCiAgICBzYWxlc192b3VjaGVyX2dfaGFyZF91c2VkID0gbW9kZWxzLkJpZ0ludGVnZXJGaWVsZCgpCg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>is_staff</text>
+      </register>
+      <register name="2" type="4">
+        <text>is_superuser</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHNhbGVzX3ZvbHVtZV91c2VkID0gbW9kZWxzLkJpZ0ludGVnZXJGaWVsZCgpCiAgICBzYWxlc192b2x1bWVfbmV3ID0gbW9kZWxzLkJpZ0ludGVnZXJGaWVsZCgpCiAgICBzYWxlc192b2x1bWVfbmV3ID0gbW9kZWxzLkJpZ0ludGVnZXJGaWVsZCgpCiAgICBzYWxlc192b2x1bWVfbmV3ID0gbW9kZWxzLkJpZ0ludGVnZXJGaWVsZCgpCg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHNhbGVzX2Ftb3VudF9yZW50YWwgPSBtb2RlbHMuQmlnSW50ZWdlckZpZWxkKCkKICAgIHNhbGVzX2Ftb3VudF9yZW50YWwgPSBtb2RlbHMuQmlnSW50ZWdlckZpZWxkKCkKICAgIHNhbGVzX2Ftb3VudF9yZW50YWwgPSBtb2RlbHMuQmlnSW50ZWdlckZpZWxkKCkKICAgIHNhbGVzX2Ftb3VudF9yZW50YWwgPSBtb2RlbHMuQmlnSW50ZWdlckZpZWxkKCkKICAgIHNhbGVzX2Ftb3VudF9yZW50YWwgPSBtb2RlbHMuQmlnSW50ZWdlckZpZWxkKCkK</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>sales_amount_rental</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHNhbGVzX2Ftb3VudF9yZW50YWwgPQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>DurationField</text>
-      </register>
-      <register name="6" type="4">
-        <text>DurationField</text>
-      </register>
       <register name="7" type="4">
-        <text>compared_period</text>
+        <text>DurationField</text>
       </register>
       <register name="8" type="4">
-        <text>test_period</text>
+        <text>DurationField</text>
       </register>
       <register name="9" type="4">
-        <text>IntegerField</text>
+        <text>compared_period</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
