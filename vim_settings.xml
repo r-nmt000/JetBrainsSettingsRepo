@@ -47,6 +47,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="13" />
       </file>
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/config/settings/stg.py" timestamp="1454904262158">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/urls.py" timestamp="1453952784348">
         <mark key="[" line="40" column="15" />
         <mark key="]" line="40" column="15" />
@@ -163,6 +168,16 @@
         <mark key="^" line="0" column="17" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_section_service.py" timestamp="1453103998598" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/staff_base_service.py" timestamp="1452837856775">
+        <mark key="[" line="248" column="46" />
+        <mark key="]" line="248" column="46" />
+        <mark key="." line="248" column="46" />
+      </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/staff_base_view.py" timestamp="1452819540048">
+        <mark key="[" line="198" column="42" />
+        <mark key="]" line="198" column="42" />
+        <mark key="." line="198" column="42" />
+      </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_attendance_service.py" timestamp="1452759257701">
         <mark key="[" line="287" column="8" />
         <mark key="]" line="282" column="8" />
@@ -288,32 +303,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHVybChyJ141MDAvJywgVGVtcGxhdGVWaWV3LmFzX3ZpZXcodGVtcGxhdGVfbmFtZT0nNDAwLmh0bWwnKSksCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>base</text>
+      <register name="1" type="2">
+        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
       </register>
       <register name="2" type="4">
-        <text>include('role.urls', namespace=mslprj.const.VIEW_ROLE)),</text>
+        <text>base</text>
       </register>
       <register name="3" type="4">
         <text>include('role.urls', namespace=mslprj.const.VIEW_ROLE)),</text>
       </register>
       <register name="4" type="4">
-        <text>不正</text>
+        <text>include('role.urls', namespace=mslprj.const.VIEW_ROLE)),</text>
       </register>
       <register name="5" type="4">
-        <text>リクエスト</text>
+        <text>不正</text>
       </register>
       <register name="6" type="4">
-        <text>Request</text>
+        <text>リクエスト</text>
       </register>
       <register name="7" type="4">
+        <text>Request</text>
+      </register>
+      <register name="8" type="4">
         <text>Bad</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDx0aXRsZT5UaXRsZTwvdGl0bGU+CjwvaGVhZD4KPGJvZHk+Cgo8L2JvZHk+CjwvaHRtbD4K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHVybCgnXjQwNHRlc3RpbmcvJCcsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9JzQwNC5odG1sJykpLAogICAgdXJsKCdeNDAwdGVzdGluZy8kJywgVGVtcGxhdGVWaWV3LmFzX3ZpZXcodGVtcGxhdGVfbmFtZT0nNDAwLmh0bWwnKSksCiAgICB1cmwoJ140MDN0ZXN0aW5nLyQnLCBUZW1wbGF0ZVZpZXcuYXNfdmlldyh0ZW1wbGF0ZV9uYW1lPSc0MDMuaHRtbCcpKSwKICAgIHVybCgnXjUwMHRlc3RpbmcvJCcsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9JzUwMC5odG1sJykpLAogICAgdXJsKCdeZXJyb3IvJCcsIFRlbXBsYXRlVmlldy5hc192aWV3KHRlbXBsYXRlX25hbWU9J2Vycm9yLmh0bWwnKSksCg==</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDx0aXRsZT5UaXRsZTwvdGl0bGU+CjwvaGVhZD4KPGJvZHk+Cgo8L2JvZHk+CjwvaHRtbD4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
