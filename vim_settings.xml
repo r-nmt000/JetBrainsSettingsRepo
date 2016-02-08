@@ -217,11 +217,11 @@
         <mark key="^" line="282" column="8" />
         <mark key="." line="282" column="8" />
       </file>
-      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/models.py" timestamp="1454912087397">
-        <mark key="[" line="40" column="4" />
-        <mark key="]" line="40" column="20" />
-        <mark key="^" line="40" column="20" />
-        <mark key="." line="40" column="20" />
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/models.py" timestamp="1454915276493">
+        <mark key="[" line="40" column="31" />
+        <mark key="]" line="40" column="42" />
+        <mark key="^" line="40" column="42" />
+        <mark key="." line="40" column="42" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register.py" timestamp="1453269933038" />
       <file name="$USER_HOME$/repos/TS/training/django_portal/config/settings/prd.py" timestamp="1454305687920" />
@@ -335,7 +335,7 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>compared_period</text>
+        <text>DurationField</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
@@ -344,31 +344,31 @@
         <text>related_name='testresultdetail_target_stores'</text>
       </register>
       <register name="1" type="4">
-        <text>compared_period</text>
+        <text>DurationField</text>
       </register>
       <register name="2" type="4">
-        <text>test_period</text>
+        <text>DurationField</text>
       </register>
       <register name="3" type="4">
-        <text>IntegerField</text>
+        <text>compared_period</text>
       </register>
       <register name="4" type="4">
-        <text>IntegerField</text>
+        <text>test_period</text>
       </register>
       <register name="5" type="4">
-        <text>date</text>
+        <text>IntegerField</text>
       </register>
       <register name="6" type="4">
-        <text>accounts</text>
+        <text>IntegerField</text>
       </register>
       <register name="7" type="4">
+        <text>date</text>
+      </register>
+      <register name="8" type="4">
+        <text>accounts</text>
+      </register>
+      <register name="9" type="4">
         <text>duration</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZWRfYXQgPSBtb2RlbHMuRGF0ZVRpbWVGaWVsZCgpCiAgICB1cGRhdGVkX2F0ID0gbW9kZWxzLkRhdGVUaW1lRmllbGQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
