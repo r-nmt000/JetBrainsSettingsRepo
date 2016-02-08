@@ -65,6 +65,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/admin.py" timestamp="1454927379350">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="32" />
+      </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/urls.py" timestamp="1453952784348">
         <mark key="[" line="40" column="15" />
         <mark key="]" line="40" column="15" />
@@ -76,6 +80,12 @@
         <mark key="]" line="19" column="71" />
         <mark key="." line="19" column="71" />
         <mark key="^" line="19" column="71" />
+      </file>
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/accounts/admin.py" timestamp="1454927434118">
+        <mark key="[" line="18" column="33" />
+        <mark key="]" line="18" column="42" />
+        <mark key="." line="18" column="42" />
+        <mark key="^" line="18" column="42" />
       </file>
       <file name="$USER_HOME$/repos/temp/python_study/02_qsort.py" timestamp="1427726335966">
         <mark key="[" line="12" column="14" />
@@ -96,6 +106,12 @@
         <mark key="]" line="58" column="18" />
         <mark key="^" line="58" column="18" />
         <mark key="." line="40" column="79" />
+      </file>
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/config/urls.py" timestamp="1454927464023">
+        <mark key="[" line="19" column="45" />
+        <mark key="]" line="19" column="41" />
+        <mark key="^" line="19" column="41" />
+        <mark key="." line="19" column="41" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/form_data.py" timestamp="1453270317505">
         <mark key="[" line="96" column="31" />
@@ -138,11 +154,11 @@
         <mark key="." line="6" column="23" />
         <mark key="^" line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/accounts/models.py" timestamp="1454926359585">
-        <mark key="[" line="46" column="20" />
-        <mark key="]" line="46" column="21" />
-        <mark key="^" line="46" column="21" />
-        <mark key="." line="46" column="21" />
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/accounts/models.py" timestamp="1454927619577">
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="14" column="48" />
+        <mark key="." line="14" column="48" />
+        <mark key="^" line="14" column="48" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/utils.py" timestamp="1451895636040">
         <mark key="[" line="17" column="23" />
@@ -344,40 +360,49 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>is_staff</text>
+        <text>AbstractBaseUser</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHNhbGVzX3ZvbHVtZV9nX2hhcmRfdXNlZCA9IG1vZGVscy5CaWdJbnRlZ2VyRmllbGQoKQogICAgc2FsZXNfYW1vdW50X2dfaGFyZF91c2VkID0gbW9kZWxzLkJpZ0ludGVnZXJGaWVsZCgpCiAgICBzYWxlc19tZW1iZXJzaGlwX2dfaGFyZF91c2VkID0gbW9kZWxzLkJpZ0ludGVnZXJGaWVsZCgpCiAgICBzYWxlc192b3VjaGVyX2dfaGFyZF91c2VkID0gbW9kZWxzLkJpZ0ludGVnZXJGaWVsZCgpCg==</text>
+      <register name="0" type="4">
+        <text># -*- coding: utf-8 -*-
+#
+# Copyright (c) 2016 BrainPad, Inc. All rights reserved.
+#
+# This software is the confidential and proprietary information of
+# BrainPad, Inc. (&quot;Confidential Information&quot;).
+# You shall not disclose such Confidential Information and shall
+# use it only in accordance with the terms of the license agreement
+# you entered into with BrainPad, Inc.
+#</text>
       </register>
       <register name="1" type="4">
-        <text>is_staff</text>
+        <text>AbstractBaseUser</text>
       </register>
       <register name="2" type="4">
-        <text>is_superuser</text>
+        <text>AbstractBaseUser</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNhbGVzX3ZvbHVtZV91c2VkID0gbW9kZWxzLkJpZ0ludGVnZXJGaWVsZCgpCiAgICBzYWxlc192b2x1bWVfbmV3ID0gbW9kZWxzLkJpZ0ludGVnZXJGaWVsZCgpCiAgICBzYWxlc192b2x1bWVfbmV3ID0gbW9kZWxzLkJpZ0ludGVnZXJGaWVsZCgpCiAgICBzYWxlc192b2x1bWVfbmV3ID0gbW9kZWxzLkJpZ0ludGVnZXJGaWVsZCgpCg==</text>
+        <text encoding="base64">ZnJvbSBhcHBzLmFjY291bnRzLm1vZGVscyBpbXBvcnQgYWRtaW5fc2l0ZQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHNhbGVzX2Ftb3VudF9yZW50YWwgPSBtb2RlbHMuQmlnSW50ZWdlckZpZWxkKCkKICAgIHNhbGVzX2Ftb3VudF9yZW50YWwgPSBtb2RlbHMuQmlnSW50ZWdlckZpZWxkKCkKICAgIHNhbGVzX2Ftb3VudF9yZW50YWwgPSBtb2RlbHMuQmlnSW50ZWdlckZpZWxkKCkKICAgIHNhbGVzX2Ftb3VudF9yZW50YWwgPSBtb2RlbHMuQmlnSW50ZWdlckZpZWxkKCkKICAgIHNhbGVzX2Ftb3VudF9yZW50YWwgPSBtb2RlbHMuQmlnSW50ZWdlckZpZWxkKCkK</text>
+      <register name="4" type="4">
+        <text>myadmin</text>
       </register>
       <register name="5" type="4">
-        <text>sales_amount_rental</text>
+        <text>import admin</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNhbGVzX2Ftb3VudF9yZW50YWwgPQo=</text>
+        <text encoding="base64">Y2xhc3MgVXNlckFkbWluU2l0ZShBZG1pblNpdGUpOgogICAgc2l0ZV9oZWFkZXIgPSAnVGVzdGluZyBhZG1pbicKCmFkbWluX3NpdGUgPSBVc2VyQWRtaW5TaXRlKG5hbWU9J215YWRtaW4nKQphZG1pbl9zaXRlLnJlZ2lzdGVyKFVzZXIpCg==</text>
       </register>
       <register name="7" type="4">
-        <text>DurationField</text>
+        <text>urls</text>
       </register>
       <register name="8" type="4">
-        <text>DurationField</text>
+        <text>site</text>
       </register>
       <register name="9" type="4">
-        <text>compared_period</text>
+        <text>admin</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
