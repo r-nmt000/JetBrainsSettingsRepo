@@ -60,6 +60,18 @@
         <mark key="^" line="312" column="46" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/TS/training/django_portal/templates/base.html" timestamp="1453166606680">
+        <mark key="[" line="5" column="26" />
+        <mark key="]" line="5" column="45" />
+      </file>
+      <file name="$USER_HOME$/repos/TS/training/django_portal/templates/500.html" timestamp="1453774500207">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="13" />
+      </file>
+      <file name="$USER_HOME$/repos/TS/training/django_portal/templates/blogs/entry_form.html" timestamp="1454983097122">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="25" column="6" />
+      </file>
       <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/config/settings/stg.py" timestamp="1454904262158">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -125,11 +137,6 @@
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
-      </file>
-      <file name="$USER_HOME$/repos/TS/training/django_portal/config/settings/base.py" timestamp="1453794599578">
-        <mark key="[" line="40" column="4" />
-        <mark key="]" line="40" column="4" />
-        <mark key="." line="40" column="4" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/403.html" timestamp="1453785681618">
         <mark key="[" line="3" column="0" />
@@ -204,6 +211,12 @@
         <mark key="]" line="177" column="55" />
         <mark key="^" line="177" column="55" />
         <mark key="." line="177" column="55" />
+      </file>
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_campaign.html" timestamp="1454988401104">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="99" column="17" />
+        <mark key="^" line="78" column="36" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/error.html" timestamp="1453785884005">
         <mark key="[" line="0" column="12" />
@@ -355,49 +368,40 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>AbstractBaseUser</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
       </register>
-      <register name="0" type="4">
-        <text># -*- coding: utf-8 -*-
-#
-# Copyright (c) 2016 BrainPad, Inc. All rights reserved.
-#
-# This software is the confidential and proprietary information of
-# BrainPad, Inc. (&quot;Confidential Information&quot;).
-# You shall not disclose such Confidential Information and shall
-# use it only in accordance with the terms of the license agreement
-# you entered into with BrainPad, Inc.
-#</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHRkPgogICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJjaGVja2JveCI+CiAgICAgICAgICAgIDwvdGQ+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>AbstractBaseUser</text>
+        <text>class</text>
       </register>
       <register name="2" type="4">
-        <text>AbstractBaseUser</text>
+        <text>row</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBhcHBzLmFjY291bnRzLm1vZGVscyBpbXBvcnQgYWRtaW5fc2l0ZQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>myadmin</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgPAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>import admin</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgVXNlckFkbWluU2l0ZShBZG1pblNpdGUpOgogICAgc2l0ZV9oZWFkZXIgPSAnVGVzdGluZyBhZG1pbicKCmFkbWluX3NpdGUgPSBVc2VyQWRtaW5TaXRlKG5hbWU9J215YWRtaW4nKQphZG1pbl9zaXRlLnJlZ2lzdGVyKFVzZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQUFBQQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>urls</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQeW6lwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>site</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgQeW6lwogICAgICAgICAgPC90ZD4KICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgQeW6lwogICAgICAgICAgPC90ZD4K</text>
       </register>
-      <register name="9" type="4">
-        <text>admin</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQeW6lwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
