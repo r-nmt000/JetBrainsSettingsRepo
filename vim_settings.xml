@@ -77,6 +77,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/TS/training/django_portal/locale/ja/LC_MESSAGES/django.po" timestamp="1453100599501">
+        <mark key="'" line="99" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="18" column="38" />
+      </file>
       <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/admin.py" timestamp="1454927379350">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
@@ -86,6 +91,11 @@
         <mark key="]" line="40" column="15" />
         <mark key="." line="40" column="15" />
         <mark key="^" line="40" column="15" />
+      </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" timestamp="1454990555759">
+        <mark key="'" line="574" column="18" />
+        <mark key="[" line="165" column="0" />
+        <mark key="]" line="167" column="4" />
       </file>
       <file name="$USER_HOME$/repos/TS/training/django_portal/manage.py" timestamp="1453771899489">
         <mark key="[" line="19" column="69" />
@@ -212,11 +222,16 @@
         <mark key="^" line="177" column="55" />
         <mark key="." line="177" column="55" />
       </file>
-      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_campaign.html" timestamp="1454988401104">
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="99" column="17" />
-        <mark key="^" line="78" column="36" />
-        <mark key="." line="97" column="0" />
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_campaign.html" timestamp="1454991899780">
+        <mark key="[" line="223" column="5" />
+        <mark key="]" line="223" column="22" />
+        <mark key="^" line="103" column="15" />
+        <mark key="." line="223" column="5" />
+      </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/job_register_forms.py" timestamp="1453090479084">
+        <mark key="'" line="184" column="23" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/error.html" timestamp="1453785884005">
         <mark key="[" line="0" column="12" />
@@ -255,6 +270,12 @@
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register.py" timestamp="1453269933038" />
       <file name="$USER_HOME$/repos/TS/training/django_portal/config/settings/prd.py" timestamp="1454305687920" />
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/base.html" timestamp="1454992181549">
+        <mark key="[" line="32" column="7" />
+        <mark key="]" line="33" column="54" />
+        <mark key="." line="33" column="54" />
+        <mark key="^" line="33" column="54" />
+      </file>
       <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/core/models.py" timestamp="1454906919541" />
       <file name="$USER_HOME$/repos/MP/itata_cookbooks/itata-base/files/default/ssh_config" timestamp="1454657961700" />
       <file name="$USER_HOME$/.pyenv/versions/geo/lib/python3.5/site-packages/django/contrib/auth/base_user.py" timestamp="1454926237422">
@@ -368,40 +389,40 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text>outlier_large_medium_amount_btn</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRkPgogICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJjaGVja2JveCI+CiAgICAgICAgICAgIDwvdGQ+Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">IGNsYXNzPSJzdG9yZV9pZCI=</text>
       </register>
-      <register name="1" type="4">
-        <text>class</text>
+      <register name="1" type="2">
+        <text encoding="base64">PC90cj4K</text>
       </register>
-      <register name="2" type="4">
-        <text>row</text>
+      <register name="2" type="2">
+        <text encoding="base64">PHRyPgogIDx0ZD4KICAgIDxpbnB1dCB0eXBlPSJjaGVja2JveCIgY2xhc3M9InN0b3JlX2NoZWNrYm94Ij4KICA8L3RkPgogIDx0ZD4KICAgIELlupcKICA8L3RkPgogIDx0ZD4KICAgIEJCQkIKICA8L3RkPgogIDx0ZD4KICAgIDIwMTUtMDctMDIKICA8L3RkPgogIDx0ZD4KICAgIDIwMTUtMDktMDIKICA8L3RkPgogIDx0ZD4KICAgIC4uLgogIDwvdGQ+CjwvdHI+Cjx0cj4KICA8dGQ+CiAgICA8aW5wdXQgdHlwZT0iY2hlY2tib3giIGNsYXNzPSJzdG9yZV9jaGVja2JveCI+CiAgPC90ZD4KICA8dGQ+CiAgICBC5bqXCiAgPC90ZD4KICA8dGQ+CiAgICBCQkJCCiAgPC90ZD4KICA8dGQ+CiAgICAyMDE1LTA3LTAyCiAgPC90ZD4KICA8dGQ+CiAgICAyMDE1LTA5LTAyCiAgPC90ZD4KICA8dGQ+CiAgICAuLi4KICA8L3RkPgo8L3RyPgo8dHI+CiAgPHRkPgogICAgPGlucHV0IHR5cGU9ImNoZWNrYm94IiBjbGFzcz0ic3RvcmVfY2hlY2tib3giPgogIDwvdGQ+CiAgPHRkPgogICAgQuW6lwogIDwvdGQ+CiAgPHRkPgogICAgQkJCQgogIDwvdGQ+CiAgPHRkPgogICAgMjAxNS0wNy0wMgogIDwvdGQ+CiAgPHRkPgogICAgMjAxNS0wOS0wMgogIDwvdGQ+CiAgPHRkPgogICAgLi4uCiAgPC90ZD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIEJCQkIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPAo=</text>
+        <text encoding="base64">ICAgIEJCQkIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEJCQkIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQUFBQQo=</text>
+        <text encoding="base64">ICAgIEJCQkIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQeW6lwo=</text>
+        <text encoding="base64">ICAgIEJCQkIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgQeW6lwogICAgICAgICAgPC90ZD4KICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgQeW6lwogICAgICAgICAgPC90ZD4K</text>
+        <text encoding="base64">ICAgIEJCQkIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQeW6lwo=</text>
+        <text encoding="base64">ICAgICAgYXBwbHlfb3V0bGllcih0aGlzLCAnbGFyZ2VfbWVkaXVtX2Ftb3VudCcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
