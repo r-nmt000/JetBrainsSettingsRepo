@@ -75,7 +75,9 @@
     <keyboard-shortcut first-keystroke="meta f8" />
     <keyboard-shortcut first-keystroke="f9" />
   </action>
-  <action id="TypeHierarchy" />
+  <action id="TypeHierarchy">
+    <keyboard-shortcut first-keystroke="meta space" second-keystroke="t" />
+  </action>
   <action id="ViewBreakpoints">
     <keyboard-shortcut first-keystroke="shift meta f8" />
     <keyboard-shortcut first-keystroke="meta space" second-keystroke="9" />
