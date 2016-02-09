@@ -16,6 +16,11 @@
         <mark key="^" line="11" column="11" />
         <mark key="." line="11" column="11" />
       </file>
+      <file name="$USER_HOME$/.pyenv/versions/geo/lib/python3.5/site-packages/django/views/generic/base.py" timestamp="1455006746472">
+        <mark key="j" line="49" column="10" />
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="157" column="46" />
+      </file>
       <file name="$USER_HOME$/repos/TS/training/django_portal/config/settings/dev.py" timestamp="1453772149434">
         <mark key="[" line="27" column="8" />
         <mark key="]" line="27" column="12" />
@@ -76,9 +81,9 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="18" column="38" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/vrp/job_register.html" timestamp="1455002345018">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="27" column="2" />
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/vrp/job_register.html" timestamp="1455007338051">
+        <mark key="[" line="158" column="31" />
+        <mark key="]" line="158" column="70" />
       </file>
       <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/config/settings/dev.py" timestamp="1454996085250">
         <mark key="[" line="42" column="20" />
@@ -120,11 +125,11 @@
         <mark key="'" line="67" column="8" />
       </file>
       <file name="$USER_HOME$/repos/MP/itata_cookbooks/itata-webapp/recipes/nginx.rb" timestamp="1454655802115" />
-      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/views.py" timestamp="1455003941297">
-        <mark key="[" line="29" column="51" />
-        <mark key="]" line="29" column="65" />
-        <mark key="^" line="29" column="65" />
-        <mark key="." line="29" column="65" />
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/views.py" timestamp="1455007269269">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="29" column="105" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/tc_service.py" timestamp="1453175857457" />
       <file name="$USER_HOME$/repos/TS/training/django_portal/apps/blogs/views.py" timestamp="1455003919742">
@@ -134,7 +139,7 @@
         <mark key="." line="40" column="79" />
       </file>
       <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/config/urls.py" timestamp="1454927464023" />
-      <file name="/Python Console" timestamp="1455004049000">
+      <file name="/Python Console" timestamp="1455005952408">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/Brainpad/TS/engineer-training-basic/django_portal/core/urls.py" timestamp="1450003631047">
@@ -196,12 +201,12 @@
         <mark key="." line="17" column="67" />
         <mark key="^" line="17" column="67" />
       </file>
-      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_campaign.html" timestamp="1455003650742">
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_campaign.html" timestamp="1455007368033">
         <mark key="'" line="9" column="17" />
-        <mark key="[" line="10" column="39" />
-        <mark key="]" line="10" column="39" />
-        <mark key="^" line="10" column="47" />
-        <mark key="." line="10" column="39" />
+        <mark key="[" line="22" column="52" />
+        <mark key="]" line="22" column="62" />
+        <mark key="^" line="22" column="62" />
+        <mark key="." line="22" column="62" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/job_register_forms.py" timestamp="1453090479084">
         <mark key="'" line="184" column="23" />
@@ -365,40 +370,40 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>form</text>
+        <text>version</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIoRW50cnlDcmVhdGVWaWV3LCBzZWxmKS5mb3JtX3ZhbGlkKGZvcm0pCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">IHslIGlmIG5vdCB2ZXJzaW9uICV9c2VsZWN0ZWR7JSBlbmRpZiAlfQ==</text>
       </register>
       <register name="1" type="4">
-        <text>form</text>
+        <text>version</text>
       </register>
-      <register name="2" type="4">
-        <text>form_valid</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjYW1wYWlnbl9pZCA9IHJlcXVlc3QuR0VULmdldCgnY2FtcGFpZ25faWQnKQo=</text>
       </register>
       <register name="3" type="4">
-        <text>EntryCreateView</text>
+        <text>GET</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="4" type="4">
+        <text>request</text>
       </register>
       <register name="5" type="4">
-        <text>disabled</text>
+        <text>campaign_id</text>
       </register>
-      <register name="6" type="4">
-        <text>disabled</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="4">
-        <text>get_stores</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBkaWNbJ2NhbXBhaWduX2lkJ10gPSByZXF1ZXN0LkdFVC5nZXQoJycK</text>
       </register>
       <register name="8" type="4">
-        <text>input</text>
+        <text>dictionary</text>
       </register>
       <register name="9" type="4">
-        <text>value</text>
+        <text>dict</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
