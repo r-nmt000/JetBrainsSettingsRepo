@@ -59,7 +59,7 @@
         <mark key="[" line="158" column="31" />
         <mark key="]" line="158" column="70" />
       </file>
-      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/config/settings/dev.py" timestamp="1455008183202">
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/config/settings/dev.py" timestamp="1455075128082">
         <mark key="[" line="42" column="25" />
         <mark key="]" line="42" column="25" />
         <mark key="." line="42" column="25" />
@@ -94,11 +94,12 @@
         <mark key="'" line="67" column="8" />
       </file>
       <file name="$USER_HOME$/repos/MP/itata_cookbooks/itata-webapp/recipes/nginx.rb" timestamp="1454655802115" />
-      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/views.py" timestamp="1455073554721">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="40" column="64" />
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/views.py" timestamp="1455075564492">
+        <mark key="'" line="19" column="30" />
+        <mark key="[" line="56" column="21" />
+        <mark key="]" line="56" column="20" />
+        <mark key="." line="56" column="20" />
+        <mark key="^" line="56" column="20" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/mst/tc_service.py" timestamp="1453175857457" />
       <file name="$USER_HOME$/repos/TS/training/django_portal/apps/blogs/views.py" timestamp="1455003919742">
@@ -140,6 +141,13 @@
         <mark key="]" line="20" column="0" />
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/TS/msl_app_bp/locale/ja/LC_MESSAGES/django.po" timestamp="1453186728405">
+        <mark key="'" line="5" column="7" />
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
+        <mark key="^" line="123" column="19" />
       </file>
       <file name="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/mslprj/environment.py" timestamp="1450834012875">
         <mark key="[" line="17" column="21" />
@@ -200,12 +208,6 @@
         <mark key="^" line="282" column="8" />
         <mark key="." line="282" column="8" />
       </file>
-      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/models.py" timestamp="1455073488287">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="30" column="14" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register.py" timestamp="1453269933038" />
       <file name="$USER_HOME$/repos/TS/training/django_portal/config/settings/prd.py" timestamp="1454305687920" />
       <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/base.html" timestamp="1455002275082">
@@ -220,7 +222,6 @@
       <file name="$USER_HOME$/repos/MP/itata_cookbooks/itata-base/files/default/ssh_config" timestamp="1454657961700" />
     </filemarks>
     <jumps>
-      <jump line="138" column="5" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
       <jump line="159" column="5" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_staffbase.json" />
       <jump line="48" column="16" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/tc_edit.html" />
       <jump line="98" column="20" filename="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/mst/tc_edit.html" />
@@ -320,46 +321,47 @@
       <jump line="179" column="0" filename="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_campaign.html" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_campaign.html" />
       <jump line="9" column="17" filename="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_campaign.html" />
+      <jump line="19" column="30" filename="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>lg</text>
+        <text>os.environ['DBUSER_GEO_DEV'],</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ZnJvbSBhcHBzLmNhbXBhaWduX3Rlc3Rlci5tb2RlbHMgaW1wb3J0IEFCVGVzdFJlc3VsdCwgU3RvcmUsIENhbXBhaWduLCBDYW1wYWlnbkRldGFpbAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjYW1wYWlnbl9kZXRhaWxzID0gW10K</text>
+      <register name="1" type="4">
+        <text>os.environ['DBUSER_GEO_DEV'],</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2FtcGFpZ25fZGV0YWlscz1jYW1wYWlnbl9kZXRhaWxzKQo=</text>
+      <register name="2" type="4">
+        <text>os.environ['DBPASSWORD_GEO_DEV'],</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FtcGFpZ25fZGV0YWlscyA9IENhbXBhaWduRGV0YWlsLm9iamVjdHMuZmlsdGVyKGNhbXBhaWduX2lkPWNhbXBhaWduX2lkKS52YWx1ZXMoKQo=</text>
+      <register name="3" type="4">
+        <text>os.environ['DBNAME_GEO_DEV'],</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG9iamVjdHMgPSBTdG9yZU1hbmFnZXIoKQo=</text>
+      <register name="5" type="4">
+        <text>models</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgU3RvcmVNYW5hZ2VyKG1vZGVscy5NYW5hZ2VyKToKICAgIGRlZiBnZXRfYnlfY2FtcGFpZ25faWQoc2VsZiwgY2FtcGFpZ25faWQpOgogICAgICAgIHN0b3JlcyA9IFtdCiAgICAgICAgY2FtcGFpZ25fZGV0YWlscyA9IENhbXBhaWduRGV0YWlsLm9iamVjdHMuZmlsdGVyKGNhbXBhaWduX2lkPWNhbXBhaWduX2lkKS52YWx1ZXMoKQogICAgICAgIGZvciBjYW1wYWlnbl9kZXRhaWwgaW4gY2FtcGFpZ25fZGV0YWlsczoKICAgICAgICAgICAgc3RvcmVzLmFwcGVuZChTdG9yZS5vYmplY3RzLmdldChzdG9yZV9jb2RlPWNhbXBhaWduX2RldGFpbC5nZXQoJ3N0b3JlX2NvZGVfaWQnKSkpCgogICAgICAgIHJldHVybiBzdG9yZXMKCg==</text>
+      <register name="7" type="4">
+        <text>forms</text>
       </register>
       <register name="8" type="4">
-        <text>lg</text>
+        <text>ABTestResult, Store, Campaign, CampaignDetail</text>
       </register>
       <register name="9" type="4">
-        <text>col</text>
+        <text>models</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
