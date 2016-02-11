@@ -104,11 +104,10 @@
         <mark key="^" line="66" column="63" />
         <mark key="." line="66" column="42" />
       </file>
-      <file name="$USER_HOME$/repos/Web/MPL/MPL/apps/mpl/views.py" timestamp="1454941533111">
-        <mark key="[" line="35" column="25" />
-        <mark key="]" line="35" column="28" />
-        <mark key="." line="35" column="28" />
-        <mark key="^" line="35" column="28" />
+      <file name="$USER_HOME$/repos/Web/MPL/MPL/apps/mpl/views.py" timestamp="1455161066088">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_section.py" timestamp="1451890630863">
         <mark key="[" line="6" column="0" />
@@ -147,8 +146,12 @@
         <mark key="." line="24" column="46" />
         <mark key="^" line="24" column="46" />
       </file>
-      <file name="$USER_HOME$/.pyenv/versions/webmpl/lib/python3.4/site-packages/django/views/generic/base.py" timestamp="1455159625501">
+      <file name="$USER_HOME$/.pyenv/versions/webmpl/lib/python3.4/site-packages/django/views/generic/base.py" timestamp="1455160912318">
         <mark key="j" line="79" column="8" />
+        <mark key="[" line="120" column="8" />
+        <mark key="]" line="27" column="5" />
+        <mark key="." line="27" column="5" />
+        <mark key="^" line="27" column="5" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/msl/lib/python2.7/site-packages/django/forms/fields.py" timestamp="1454138834488">
         <mark key="[" line="115" column="18" />
@@ -231,9 +234,9 @@
         <mark key="'" line="71" column="4" />
         <mark key="[" line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/.pyenv/versions/webmpl/lib/python3.4/site-packages/django/views/generic/edit.py" timestamp="1455160054944">
-        <mark key="[" line="107" column="36" />
-        <mark key="]" line="107" column="57" />
+      <file name="$USER_HOME$/.pyenv/versions/webmpl/lib/python3.4/site-packages/django/views/generic/edit.py" timestamp="1455160830265">
+        <mark key="[" line="114" column="39" />
+        <mark key="]" line="114" column="70" />
       </file>
       <file name="$USER_HOME$/repos/Web/MPL/MPL/apps/accounts/urls.py" timestamp="1454678472827">
         <mark key="[" line="0" column="0" />
@@ -355,40 +358,40 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>login</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>support</text>
       </register>
       <register name="0" type="4">
-        <text>self.get_success_url()</text>
+        <text>self.get_context_data(form=form)</text>
       </register>
-      <register name="1" type="4">
-        <text>login</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>get_success_url</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>self</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIoTVBMVmlldywgc2VsZikuZm9ybV92YWxpZChmb3JtKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfY29udGV4dF9kYXRhKHNlbGYsICoqa3dhcmdzKToK</text>
       </register>
-      <register name="5" type="4">
-        <text>Textarea</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBrd2FyZ3MgPSBzdXBlcihNUExWaWV3LCBzZWxmKS5nZXRfY29udGV4dF9kYXRhKCoqa3dhcmdzKQogICAgICAgIGt3YXJnc1tSRURJUkVDVF9GSUVMRF9OQU1FXSA9IHNlbGYucmVxdWVzdC5HRVQuZ2V0KFJFRElSRUNUX0ZJRUxEX05BTUUsICcnKQogICAgICAgIHJldHVybiBrd2FyZ3MK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dpbihzZWxmLnJlcXVlc3QsIGZvcm0uZ2V0X3VzZXIoKSkK</text>
+      <register name="6" type="4">
+        <text />
       </register>
       <register name="7" type="4">
-        <text>inverse</text>
+        <text>form</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">PC9kaXY+</text>
+        <text>r</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">PC9kaXY+</text>
+        <text>render_to_response()</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
