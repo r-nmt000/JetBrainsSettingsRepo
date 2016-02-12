@@ -132,11 +132,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/views.py" timestamp="1455256638971">
-        <mark key="[" line="65" column="28" />
-        <mark key="]" line="65" column="28" />
-        <mark key="." line="65" column="28" />
-        <mark key="^" line="65" column="27" />
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/views.py" timestamp="1455258595612">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="74" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/repos/TS/training/django_portal/apps/blogs/views.py" timestamp="1455255989461">
         <mark key="j" line="16" column="54" />
@@ -241,11 +241,11 @@
         <mark key="^" line="34" column="52" />
         <mark key="." line="34" column="52" />
       </file>
-      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_similar_stores.html" timestamp="1455256751501">
-        <mark key="[" line="23" column="45" />
-        <mark key="]" line="23" column="50" />
-        <mark key="^" line="23" column="50" />
-        <mark key="." line="23" column="50" />
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_similar_stores.html" timestamp="1455258669265">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="12" column="50" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/job_register_forms.py" timestamp="1453090479084">
         <mark key="'" line="184" column="23" />
@@ -410,40 +410,43 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text>summary</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVuZGVyX3RvX3Jlc3BvbnNlKCdjYW1wYWlnbl90ZXN0ZXIvbmV3X3Rlc3Qvc2VsZWN0X3NpbWlsYXJfc3RvcmVzLmh0bWwnKQo=</text>
+        <text encoding="base64">ICAgICMg5pa9562W6YG45oqe55S76Z2i44Gn44CM6aGe5Ly85bqX6IiX5oq95Ye644Oc44K/44Oz44CN44KS5oq844GX44CB6aGe5Ly85bqX6IiX56K66KqN6YG45oqe55S76Z2i44G46aOb44G244Gf44KB44Gu5LiA5pmC55qE44Gq5a++5b+cCiAgICAjIOOCteODvOODkOWBtOOBruS7leanmOOBjOaYjueiuuOBq+axuuOBvuOBo+OBn+OCieOBk+OBk+OBr+S9nOOCiuWkieOBiOOCiwogICAgZGVmIHBvc3Qoc2VsZiwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICByZXR1cm4gcmVuZGVyX3RvX3Jlc3BvbnNlKCdjYW1wYWlnbl90ZXN0ZXIvbmV3X3Rlc3Qvc2VsZWN0X3NpbWlsYXJfc3RvcmVzLmh0bWwnKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>info</text>
+      <register name="1" type="2">
+        <text encoding="base64">eyUgYmxvY2sgZXh0cmFoZWFkICV9CjxzdHlsZT4KICAudGFyZ2V0X3N0b3JlX3RhYmxlX2hlYWRlciB7CiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjMmNhMDJjOwogICAgdGV4dC1hbGlnbjogY2VudGVyOwogIH0KICAuY29sLWxnLTIgewogICAgd2lkdGg6IDIwMHB4ICFpbXBvcnRhbnQ7CiAgfQo8L3N0eWxlPgp7JSBlbmRibG9jayBleHRyYWhlYWQgJX0K</text>
       </register>
-      <register name="2" type="4">
-        <text>info</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>primary</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICMg6aGe5Ly85bqX6IiX56K66KqN6YG45oqe55S76Z2i44Gn44CMQS9C44OG44K544OI5a6f6KGM44Oc44K/44Oz44CN44KS5oq844GX44CB44OG44K544OI57WQ5p6c44K144Oe44Oq44Oa44O844K444G46aOb44G244Gf44KB44GuZXdfdGVzdC9zZWxlY3Rfc2ltaWxhcl9zdG9yZXMuaHRtbCcpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVkaXJlY3QoJ3NlbGVjdF9zaW1pbGFyX3N0b3JlcycpCg==</text>
+      <register name="4" type="4">
+        <text>一時的な対応
+    # サーバ側の仕様が明確に決まったらここは作り変える
+    def post(self, *args, **kwargs):
+        return render_to_response('campaign_tester/n</text>
       </register>
-      <register name="5" type="4">
-        <text>new_test</text>
+      <register name="5" type="2">
+        <text encoding="base64">eyMgICAgICAgICAgPHRyIGNsYXNzPSJ0YXJnZXRfc3RvcmVfdGFibGVfaGVhZGVyIj4jfQo=</text>
       </register>
       <register name="6" type="4">
-        <text>campaign_tester</text>
+        <text>summary</text>
       </register>
       <register name="7" type="4">
-        <text>campaign_tester</text>
+        <text>results</text>
       </register>
       <register name="8" type="4">
-        <text>redirect</text>
+        <text>html</text>
       </register>
       <register name="9" type="4">
-        <text>render_to_response</text>
+        <text>select_similar_stores</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
