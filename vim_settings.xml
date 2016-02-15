@@ -44,10 +44,10 @@
         <mark key="." line="17" column="21" />
         <mark key="^" line="16" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1455162908357">
+      <file name="/Python Console" timestamp="1455545537512">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1452819536811">
+      <file name="/fragment.py" timestamp="1455545284222">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -85,8 +85,11 @@
         <mark key="]" line="174" column="0" />
         <mark key="." line="174" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/Web/MPL/MPL/libs/interpreter.py" timestamp="1455540586499">
-        <mark key="[" line="80" column="23" />
+      <file name="$USER_HOME$/repos/Web/MPL/MPL/libs/interpreter.py" timestamp="1455545534756">
+        <mark key="[" line="26" column="17" />
+        <mark key="]" line="26" column="22" />
+        <mark key="." line="26" column="22" />
+        <mark key="^" line="26" column="22" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/utils.py" timestamp="1451895636040">
         <mark key="[" line="17" column="23" />
@@ -361,40 +364,40 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>**</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
       </register>
-      <register name="0" type="4">
-        <text>self.get_context_data(form=form)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIElOQ1JFTUVOVCA9ICdhaCwnCiAgICBERUNSRU1FTlQgPSAnb2gsJwogICAgSU5DUkVNRU5UX1BPSU5URVIgPSAneWVhaCEnCiAgICBERUNSRU1FTlRfUE9JTlRFUiA9ICdmKiprIScKICAgIFdSSVRFID0gJ2NvbWVfb24hJwogICAgUkVBRCA9ICdtbS4uLicKICAgIExPT1BfU1RBUlQgPSAnb2hfbXlfZ29kIScKICAgIExPT1BfRU5EID0gJ2dvZCEnCg==</text>
       </register>
       <register name="1" type="4">
-        <text />
+        <text>**</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>yeah</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgIHN1cGVyKE1QTEZvcm0sIHNlbGYpLl9faW5pdF9fKCphcmdzLCAqKmt3YXJncykKICAgICAgICAjIHNlbGYuZmllbGRzWydlZGl0b3InXS53aWRnZXQuYXR0cnNbJ3N0eWxlJ10gPSAnd2lkdGg6IDEwMCU7IGhlaWdodDogMTAwJTsnCg==</text>
+      <register name="3" type="4">
+        <text>right</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIG91dHB1dCA9IGZvcm1zLkNoYXJGaWVsZChyZXF1aXJlZD1GYWxzZSwgd2lkZ2V0PWZvcm1zLlRleHRJbnB1dChhdHRycz17J2NsYXNzJzogJ2Zvcm0tY29udHJvbCd9KSkK</text>
+      <register name="4" type="4">
+        <text>left</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZvcm0ub3V0cHV0ID0gJ2FhYScK</text>
+      <register name="5" type="4">
+        <text>right</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>minus</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>plus</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt7IGZvcm0ub3V0cHV0IH19Cg==</text>
+      <register name="8" type="4">
+        <text>left</text>
       </register>
-      <register name="9" type="4">
-        <text />
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
