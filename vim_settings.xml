@@ -236,13 +236,13 @@
         <mark key="^" line="177" column="55" />
         <mark key="." line="177" column="55" />
       </file>
-      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_campaign.html" timestamp="1455502464688">
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_campaign.html" timestamp="1455504462351">
         <mark key="'" line="0" column="0" />
         <mark key="j" line="48" column="56" />
-        <mark key="[" line="58" column="73" />
-        <mark key="]" line="58" column="73" />
-        <mark key="^" line="58" column="73" />
-        <mark key="." line="58" column="73" />
+        <mark key="[" line="58" column="74" />
+        <mark key="]" line="58" column="74" />
+        <mark key="^" line="58" column="95" />
+        <mark key="." line="58" column="74" />
       </file>
       <file name="$USER_HOME$/Downloads/bootstrap-table-master/src/bootstrap-table.js" timestamp="1455271589534" />
       <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_similar_stores.html" timestamp="1455276937659">
@@ -422,29 +422,29 @@
       <register name="1" type="4">
         <text>data</text>
       </register>
-      <register name="2" type="8">
+      <register name="2" type="4">
+        <text>data</text>
+      </register>
+      <register name="3" type="8">
         <text encoding="base64">Pgo+Cj4KPg==</text>
       </register>
-      <register name="3" type="4">
-        <text>sortable</text>
-      </register>
       <register name="4" type="4">
-        <text>data</text>
+        <text>sortable</text>
       </register>
       <register name="5" type="4">
-        <text>class</text>
-      </register>
-      <register name="6" type="4">
-        <text>sortable</text>
-      </register>
-      <register name="7" type="4">
         <text>data</text>
       </register>
+      <register name="6" type="4">
+        <text>class</text>
+      </register>
+      <register name="7" type="4">
+        <text>sortable</text>
+      </register>
       <register name="8" type="4">
-        <text>show</text>
+        <text>data</text>
       </register>
       <register name="9" type="4">
-        <text>btSelectItem</text>
+        <text>show</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
