@@ -90,13 +90,6 @@
         <mark key="^" line="12" column="16" />
         <mark key="." line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/results/analysis_storewise.html" timestamp="1455092392856">
-        <mark key="k" line="34" column="0" />
-        <mark key="[" line="22" column="72" />
-        <mark key="]" line="22" column="72" />
-        <mark key="." line="22" column="72" />
-        <mark key="^" line="22" column="76" />
-      </file>
       <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/base.html" timestamp="1455596013170">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="22" />
@@ -121,13 +114,13 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/views.py" timestamp="1455593916756">
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/views.py" timestamp="1455603461467">
         <mark key="'" line="85" column="4" />
         <mark key="k" line="102" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="23" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="83" column="24" />
+        <mark key="[" line="27" column="21" />
+        <mark key="]" line="27" column="24" />
+        <mark key="." line="27" column="24" />
+        <mark key="^" line="27" column="24" />
       </file>
       <file name="$USER_HOME$/repos/TS/training/django_portal/apps/blogs/views.py" timestamp="1455534537045">
         <mark key="'" line="67" column="4" />
@@ -163,11 +156,11 @@
         <mark key="." line="6" column="38" />
         <mark key="^" line="6" column="38" />
       </file>
-      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/create_test_data.py" timestamp="1455595023262">
-        <mark key="[" line="40" column="3" />
-        <mark key="]" line="40" column="3" />
-        <mark key="." line="40" column="3" />
-        <mark key="^" line="40" column="3" />
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/create_test_data.py" timestamp="1455604587629">
+        <mark key="[" line="4" column="46" />
+        <mark key="]" line="5" column="9" />
+        <mark key="." line="5" column="9" />
+        <mark key="^" line="5" column="9" />
       </file>
       <file name="$USER_HOME$/repos/Brainpad/TS/engineer-training-basic/django_portal/core/urls.py" timestamp="1450003631047">
         <mark key="[" line="16" column="0" />
@@ -225,11 +218,11 @@
         <mark key="." line="17" column="67" />
         <mark key="^" line="17" column="67" />
       </file>
-      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/forms.py" timestamp="1455530588808">
-        <mark key="[" line="45" column="77" />
-        <mark key="]" line="45" column="54" />
-        <mark key="." line="45" column="54" />
-        <mark key="^" line="45" column="54" />
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/forms.py" timestamp="1455603367255">
+        <mark key="[" line="24" column="35" />
+        <mark key="]" line="24" column="28" />
+        <mark key="." line="24" column="28" />
+        <mark key="^" line="24" column="28" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register_service.py" timestamp="1453198005596">
         <mark key="[" line="177" column="52" />
@@ -285,25 +278,17 @@
         <mark key="]" line="27" column="5" />
         <mark key="." line="27" column="5" />
       </file>
-      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/static/js/webapp.js" timestamp="1455596898854">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="3" />
-        <mark key="." line="16" column="3" />
-        <mark key="^" line="16" column="3" />
-      </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_attendance_service.py" timestamp="1452759257701">
         <mark key="[" line="287" column="8" />
         <mark key="]" line="282" column="8" />
         <mark key="^" line="282" column="8" />
         <mark key="." line="282" column="8" />
       </file>
-      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/models.py" timestamp="1455092716023">
-        <mark key="'" line="102" column="75" />
-        <mark key="[" line="102" column="62" />
-        <mark key="k" line="94" column="5" />
-        <mark key="]" line="102" column="77" />
-        <mark key="." line="102" column="77" />
-        <mark key="^" line="102" column="77" />
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/models.py" timestamp="1455603691043">
+        <mark key="[" line="122" column="4" />
+        <mark key="]" line="122" column="4" />
+        <mark key="." line="122" column="4" />
+        <mark key="^" line="122" column="4" />
       </file>
       <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/base.html" timestamp="1455084807471">
         <mark key="[" line="20" column="0" />
@@ -418,7 +403,7 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>abtest_name0</text>
+        <text>test_duration</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
@@ -426,32 +411,32 @@
       <register name="0" type="2">
         <text encoding="base64">eyUgbG9hZCBzdGF0aWNmaWxlcyAlfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHNyYz0ieyUgc3RhdGljICdqcy93ZWJhcHAuanMnICV9Ij48L3NjcmlwdD4K</text>
+      <register name="1" type="4">
+        <text>test_duration</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">eyUgbG9hZCBzdGF0aWNmaWxlcyAlfQo=</text>
+      <register name="2" type="4">
+        <text>db_column</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSJ7JSBzdGF0aWMgJ2pzL3dlYmFwcC5qcycgJX0iPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAjIHJldHVybiBzZWxmLnRlc3RfcmVzdWx0LnRlc3RfbmFtZSArICc6JyArIHNlbGYudGFyZ2V0X3N0b3JlLnN0b3JlX25hbWUgKyAnOicgKyBzZWxmLmNvbnRyb2xsZWRfc3RvcmUuc3RvcmVfbmFtZQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>ABTestResult</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRlc3RfZHVyYXRpb24gPSBtb2RlbHMuSW50ZWdlckZpZWxkKCkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>ABTestResult</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">JCgnI3NlbGVjdC1idXR0b24nKS5vbignY2xpY2snLCBmdW5jdGlvbigpIHsKICAgIHZhciB0YXJnZXRzID0gJCgiI3N0b3JlLXNlbGVjdC1ib3giKS52YWwoKS5yZXBsYWNlKCAvWy9bXHNcdTMwMDBdL2cgLCAiIiApLnNwbGl0KCIsIik7CiAgICAkKCIudGFibGUiKS5ib290c3RyYXBUYWJsZSgiY2hlY2tCeSIsIHtmaWVsZDoiY29udHJvbGxlZC1zdG9yZS1pZCIsIHZhbHVlczp0YXJnZXRzfSk7Cn0pOwoKJCgnI2V4Y2x1ZGUtYnV0dG9uJykub24oJ2NsaWNrJywgZnVuY3Rpb24oKSB7CiAgICB2YXIgdGFyZ2V0cyA9ICQoIiNzdG9yZS1zZWxlY3QtYm94IikudmFsKCkucmVwbGFjZSggL1svW1xzXHUzMDAwXS9nICwgIiIgKS5zcGxpdCgiLCIpOwogICAgJCgiLnRhYmxlIikuYm9vdHN0cmFwVGFibGUoInVuY2hlY2tCeSIsIHtmaWVsZDoiY29udHJvbGxlZC1zdG9yZS1pZCIsIHZhbHVlczp0YXJnZXRzfSk7Cn0pOwoKJCgiZm9ybSIpLm9uKCJrZXlwcmVzcyIsIGZ1bmN0aW9uIChlKSB7CiAgICBpZiAoZS53aGljaCA9PT0gMTMpIHsKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9Cn0pOwoK</text>
+        <text encoding="base64">ICA8c2NyaXB0IHNyYz0ieyUgc3RhdGljICdqcy93ZWJhcHAuanMnICV9Ij48L3NjcmlwdD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eyUgbG9hZCBzdGF0aWNmaWxlcyAlfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KGZ1bmN0aW9uKCl7Cg==</text>
+        <text encoding="base64">ICA8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSJ7JSBzdGF0aWMgJ2pzL3dlYmFwcC5qcycgJX0iPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
