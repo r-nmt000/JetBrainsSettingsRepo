@@ -120,11 +120,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/views.py" timestamp="1455591152887">
-        <mark key="'" line="74" column="8" />
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/views.py" timestamp="1455593916756">
+        <mark key="'" line="85" column="4" />
         <mark key="k" line="102" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="44" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="23" />
         <mark key="." line="17" column="0" />
         <mark key="^" line="83" column="24" />
       </file>
@@ -161,6 +161,12 @@
         <mark key="]" line="8" column="7" />
         <mark key="." line="6" column="38" />
         <mark key="^" line="6" column="38" />
+      </file>
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/create_test_data.py" timestamp="1455594022120">
+        <mark key="[" line="6" column="47" />
+        <mark key="]" line="6" column="47" />
+        <mark key="." line="6" column="47" />
+        <mark key="^" line="6" column="47" />
       </file>
       <file name="$USER_HOME$/repos/Brainpad/TS/engineer-training-basic/django_portal/core/urls.py" timestamp="1450003631047">
         <mark key="[" line="16" column="0" />
@@ -301,7 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4101" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_tc_and_section.json" />
       <jump line="4121" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_tc_and_section.json" />
       <jump line="4141" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_tc_and_section.json" />
       <jump line="4161" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_tc_and_section.json" />
@@ -401,6 +406,7 @@
       <jump line="74" column="8" filename="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/views.py" />
       <jump line="4" column="16" filename="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_campaign.html" />
       <jump line="139" column="0" filename="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_campaign.html" />
+      <jump line="85" column="4" filename="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -413,7 +419,7 @@
         <text>support</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uaHR0cCBpbXBvcnQgSHR0cFJlc3BvbnNlUmVkaXJlY3QK</text>
+        <text encoding="base64">czAgPSBTdG9yZShzdG9yZV9jb2RlPScwMDAwJywgc3RvcmVfbmFtZT0nc3RvcmUwJykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSBkamFuZ28uaHR0cCBpbXBvcnQgSHR0cFJlc3BvbnNlUmVkaXJlY3QK</text>
