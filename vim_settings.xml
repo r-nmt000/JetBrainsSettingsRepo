@@ -113,13 +113,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/views.py" timestamp="1455607986246">
-        <mark key="'" line="87" column="4" />
-        <mark key="k" line="115" column="0" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/TS/training/django_portal/apps/blogs/views.py" timestamp="1455534537045">
         <mark key="'" line="67" column="4" />
         <mark key="j" line="16" column="54" />
@@ -215,12 +208,6 @@
         <mark key="]" line="17" column="67" />
         <mark key="." line="17" column="67" />
         <mark key="^" line="17" column="67" />
-      </file>
-      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/forms.py" timestamp="1455607587397">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="49" column="0" />
-        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/views/job_register_service.py" timestamp="1453198005596">
         <mark key="[" line="177" column="52" />
@@ -400,7 +387,7 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>TemplateView</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>support</text>
@@ -408,32 +395,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb250ZXh0ID0gc3VwZXIoSG9tZUxpc3RWaWV3LCBzZWxmKS5nZXRfY29udGV4dF9kYXRhKCoqa3dhcmdzKQo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBjYW1wYWlnbl9kZXRhaWxzID0gW10K</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>TemplateView</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Y2xhc3MgU2VsZWN0U2ltaWxhclN0b3Jlc0Zvcm0oZm9ybXMuRm9ybSk6CiAgICBwYXNzCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHRlc3RfbmFtZSA9IGZvcm1zLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTEwMCwgbGFiZWw9J+ODhuOCueODiOWQjScpCgogICAgZGVmIF9faW5pdF9fKHNlbGYsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgc3VwZXIoU2VsZWN0U2ltaWxhclN0b3Jlc0Zvcm0sIHNlbGYpLl9faW5pdF9fKCphcmdzLCAqKmt3YXJncykKICAgICAgICBmb3IgbGFiZWwsIGZpZWxkIGluIHNlbGYuZmllbGRzLml0ZW1zKCk6CiAgICAgICAgICAgIGZpZWxkLndpZGdldC5hdHRyc1snY2xhc3MnXSA9ICdmb3JtLWNvbnRyb2wnCiAgICAgICAgc2VsZi5maWVsZHNbJ3Rlc3RfbmFtZSddLndpZGdldC5hdHRyc1sncGxhY2Vob2xkZXInXSA9ICfil6/Dl+OCqOODquOCoiDjgrvjg6vjg5Xjg6zjgrjlsI7lhaXjg4bjgrnjg4gnCg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5jYW1wYWlnbi5jYW1wYWlnbl9uYW1lICsgJzonICsgc2VsZi5zdG9yZV9jb2RlLnN0b3JlX25hbWUK</text>
+        <text encoding="base64">ICAgIHRlc3RfbmFtZSA9IGZvcm1zLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTEwMCwgbGFiZWw9J+ODhuOCueODiOWQjScpCgogICAgZGVmIF9faW5pdF9fKHNlbGYsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgc3VwZXIoU2VsZWN0U2ltaWxhclN0b3Jlc0Zvcm0sIHNlbGYpLl9faW5pdF9fKCphcmdzLCAqKmt3YXJncykKICAgICAgICBmb3IgbGFiZWwsIGZpZWxkIGluIHNlbGYuZmllbGRzLml0ZW1zKCk6CiAgICAgICAgICAgIGZpZWxkLndpZGdldC5hdHRyc1snY2xhc3MnXSA9ICdmb3JtLWNvbnRyb2wnCiAgICAgICAgc2VsZi5maWVsZHNbJ3Rlc3RfbmFtZSddLndpZGdldC5hdHRyc1sncGxhY2Vob2xkZXInXSA9ICfil6/Dl+OCqOODquOCoiDjgrvjg6vjg5Xjg6zjgrjlsI7lhaXjg4bjgrnjg4gnCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5jYW1wYWlnbi5jYW1wYWlnbl9uYW1lICsgJzonICsgc2VsZi5zdG9yZV9jb2RlLnN0b3JlX25hbWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlzX3ZhbGlkID0gbW9kZWxzLkJvb2xlYW5GaWVsZChkZWZhdWx0PVRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5jYW1wYWlnbi5jYW1wYWlnbl9uYW1lICsgJzonICsgc2VsZi5zdG9yZV9jb2RlLnN0b3JlX25hbWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlzX3NpZ25pZmljYW50ID0gbW9kZWxzLkJvb2xlYW5GaWVsZCgpCg==</text>
+        <text encoding="base64">ICAgIGlzX3ZhbGlkID0gbW9kZWxzLkJvb2xlYW5GaWVsZChkZWZhdWx0PVRydWUpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>test_duration</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGlzX3NpZ25pZmljYW50ID0gbW9kZWxzLkJvb2xlYW5GaWVsZCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
