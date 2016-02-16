@@ -97,12 +97,13 @@
         <mark key="." line="22" column="72" />
         <mark key="^" line="22" column="76" />
       </file>
-      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/base.html" timestamp="1455520471400">
-        <mark key="[" line="31" column="52" />
-        <mark key="]" line="31" column="52" />
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/base.html" timestamp="1455596013170">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="22" />
         <mark key="." line="31" column="52" />
         <mark key="^" line="31" column="52" />
       </file>
+      <file name="$USER_HOME$/Downloads/bootstrap-table-master/src/bootstrap-table.css" timestamp="1455597694479" />
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/section_forms.py" timestamp="1453111226157">
         <mark key="[" line="3" column="42" />
         <mark key="]" line="3" column="42" />
@@ -236,22 +237,20 @@
         <mark key="^" line="177" column="55" />
         <mark key="." line="177" column="55" />
       </file>
-      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_campaign.html" timestamp="1455590943429">
-        <mark key="'" line="137" column="0" />
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_campaign.html" timestamp="1455597883509">
         <mark key="j" line="48" column="56" />
-        <mark key="[" line="87" column="4" />
-        <mark key="]" line="87" column="5" />
-        <mark key="." line="87" column="5" />
-        <mark key="^" line="87" column="5" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/bootstrap-table-master/src/bootstrap-table.js" timestamp="1455271589534" />
-      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_similar_stores.html" timestamp="1455590217463">
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_similar_stores.html" timestamp="1455597890741">
         <mark key="j" line="34" column="19" />
-        <mark key="[" line="15" column="0" />
+        <mark key="[" line="153" column="0" />
         <mark key="k" line="88" column="0" />
-        <mark key="]" line="15" column="0" />
+        <mark key="]" line="153" column="0" />
         <mark key="^" line="121" column="17" />
-        <mark key="." line="15" column="0" />
+        <mark key="." line="153" column="0" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/job_register_forms.py" timestamp="1453090479084">
         <mark key="'" line="184" column="23" />
@@ -286,6 +285,12 @@
         <mark key="]" line="27" column="5" />
         <mark key="." line="27" column="5" />
       </file>
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/static/js/webapp.js" timestamp="1455596898854">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="3" />
+        <mark key="." line="16" column="3" />
+        <mark key="^" line="16" column="3" />
+      </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_attendance_service.py" timestamp="1452759257701">
         <mark key="[" line="287" column="8" />
         <mark key="]" line="282" column="8" />
@@ -307,7 +312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4121" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_tc_and_section.json" />
       <jump line="4141" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_tc_and_section.json" />
       <jump line="4161" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_tc_and_section.json" />
       <jump line="4181" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_tc_and_section.json" />
@@ -407,6 +411,7 @@
       <jump line="4" column="16" filename="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_campaign.html" />
       <jump line="139" column="0" filename="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_campaign.html" />
       <jump line="85" column="4" filename="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/views.py" />
+      <jump line="140" column="2" filename="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_campaign.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -419,34 +424,34 @@
         <text>support</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YWJkMC5zYXZlKCkK</text>
+        <text encoding="base64">eyUgbG9hZCBzdGF0aWNmaWxlcyAlfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8c2NyaXB0IHNyYz0ieyUgc3RhdGljICdqcy93ZWJhcHAuanMnICV9Ij48L3NjcmlwdD4K</text>
       </register>
-      <register name="2" type="4">
-        <text>abtest_name0</text>
+      <register name="2" type="2">
+        <text encoding="base64">eyUgbG9hZCBzdGF0aWNmaWxlcyAlfQo=</text>
       </register>
-      <register name="3" type="4">
-        <text />
+      <register name="3" type="2">
+        <text encoding="base64">ICA8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSJ7JSBzdGF0aWMgJ2pzL3dlYmFwcC5qcycgJX0iPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uaHR0cCBpbXBvcnQgSHR0cFJlc3BvbnNlUmVkaXJlY3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJldHVybiByZW5kZXJfdG9fcmVzcG9uc2UoJ2NhbXBhaWduX3Rlc3Rlci9uZXdfdGVzdC9zZWxlY3Rfc2ltaWxhcl9zdG9yZXMuaHRtbCcpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uc2hvcnRjdXRzIGltcG9ydCByZW5kZXJfdG9fcmVzcG9uc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PC9kaXY+</text>
+      <register name="7" type="2">
+        <text encoding="base64">JCgnI3NlbGVjdC1idXR0b24nKS5vbignY2xpY2snLCBmdW5jdGlvbigpIHsKICAgIHZhciB0YXJnZXRzID0gJCgiI3N0b3JlLXNlbGVjdC1ib3giKS52YWwoKS5yZXBsYWNlKCAvWy9bXHNcdTMwMDBdL2cgLCAiIiApLnNwbGl0KCIsIik7CiAgICAkKCIudGFibGUiKS5ib290c3RyYXBUYWJsZSgiY2hlY2tCeSIsIHtmaWVsZDoiY29udHJvbGxlZC1zdG9yZS1pZCIsIHZhbHVlczp0YXJnZXRzfSk7Cn0pOwoKJCgnI2V4Y2x1ZGUtYnV0dG9uJykub24oJ2NsaWNrJywgZnVuY3Rpb24oKSB7CiAgICB2YXIgdGFyZ2V0cyA9ICQoIiNzdG9yZS1zZWxlY3QtYm94IikudmFsKCkucmVwbGFjZSggL1svW1xzXHUzMDAwXS9nICwgIiIgKS5zcGxpdCgiLCIpOwogICAgJCgiLnRhYmxlIikuYm9vdHN0cmFwVGFibGUoInVuY2hlY2tCeSIsIHtmaWVsZDoiY29udHJvbGxlZC1zdG9yZS1pZCIsIHZhbHVlczp0YXJnZXRzfSk7Cn0pOwoKJCgiZm9ybSIpLm9uKCJrZXlwcmVzcyIsIGZ1bmN0aW9uIChlKSB7CiAgICBpZiAoZS53aGljaCA9PT0gMTMpIHsKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9Cn0pOwoK</text>
       </register>
-      <register name="8" type="4">
-        <text>campaign_tester</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KGZ1bmN0aW9uKCl7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
