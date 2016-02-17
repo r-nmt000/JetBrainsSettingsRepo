@@ -85,11 +85,12 @@
         <mark key="]" line="174" column="0" />
         <mark key="." line="174" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/Web/MPL/MPL/libs/interpreter.py" timestamp="1455545534756">
-        <mark key="[" line="26" column="17" />
-        <mark key="]" line="26" column="22" />
-        <mark key="." line="26" column="22" />
-        <mark key="^" line="26" column="22" />
+      <file name="$USER_HOME$/repos/Web/MPL/MPL/libs/interpreter.py" timestamp="1455722724925">
+        <mark key="k" line="138" column="32" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
+        <mark key="^" line="136" column="59" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/utils.py" timestamp="1451895636040">
         <mark key="[" line="17" column="23" />
@@ -103,17 +104,21 @@
         <mark key="^" line="282" column="8" />
         <mark key="." line="282" column="8" />
       </file>
+      <file name="$USER_HOME$/repos/Brainpad/TS/engineer_training_basic/django_portal/apps/blogs/views.py" timestamp="1455723081452">
+        <mark key="[" line="39" column="18" />
+        <mark key="]" line="39" column="72" />
+      </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/section_forms.py" timestamp="1452140092535">
         <mark key="[" line="66" column="42" />
         <mark key="]" line="66" column="42" />
         <mark key="^" line="66" column="63" />
         <mark key="." line="66" column="42" />
       </file>
-      <file name="$USER_HOME$/repos/Web/MPL/MPL/apps/mpl/views.py" timestamp="1455166675996">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="22" column="74" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/repos/Web/MPL/MPL/apps/mpl/views.py" timestamp="1455723337704">
+        <mark key="[" line="24" column="41" />
+        <mark key="]" line="24" column="30" />
+        <mark key="^" line="24" column="30" />
+        <mark key="." line="24" column="30" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_section.py" timestamp="1451890630863">
         <mark key="[" line="6" column="0" />
@@ -146,11 +151,11 @@
         <mark key="]" line="198" column="42" />
         <mark key="." line="198" column="42" />
       </file>
-      <file name="$USER_HOME$/repos/Web/MPL/MPL/templates/index.html" timestamp="1455163739254">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="23" column="66" />
+      <file name="$USER_HOME$/repos/Web/MPL/MPL/templates/index.html" timestamp="1455723282307">
+        <mark key="[" line="23" column="68" />
+        <mark key="]" line="23" column="68" />
+        <mark key="." line="23" column="68" />
+        <mark key="^" line="23" column="81" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/webmpl/lib/python3.4/site-packages/django/views/generic/base.py" timestamp="1455162581179">
         <mark key="j" line="79" column="8" />
@@ -364,40 +369,40 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>**</text>
+        <text>placeholder</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIElOQ1JFTUVOVCA9ICdhaCwnCiAgICBERUNSRU1FTlQgPSAnb2gsJwogICAgSU5DUkVNRU5UX1BPSU5URVIgPSAneWVhaCEnCiAgICBERUNSRU1FTlRfUE9JTlRFUiA9ICdmKiprIScKICAgIFdSSVRFID0gJ2NvbWVfb24hJwogICAgUkVBRCA9ICdtbS4uLicKICAgIExPT1BfU1RBUlQgPSAnb2hfbXlfZ29kIScKICAgIExPT1BfRU5EID0gJ2dvZCEnCg==</text>
+      <register name="0" type="4">
+        <text>super(EntryCreateView, self).get_context_data(**kwargs)</text>
       </register>
       <register name="1" type="4">
-        <text>**</text>
+        <text>placeholder</text>
       </register>
       <register name="2" type="4">
-        <text>yeah</text>
+        <text>aaa</text>
       </register>
       <register name="3" type="4">
-        <text>right</text>
+        <text>EntryCreateView</text>
       </register>
       <register name="4" type="4">
-        <text>left</text>
+        <text>post</text>
       </register>
-      <register name="5" type="4">
-        <text>right</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICMgbGluZXMgPSBbCiAgICAjICAgICBsaW5lLnN0cmlwKCdcclxuJykucmVwbGFjZSgnICcsICcnKQogICAgIyAgICAgZm9yIGxpbmUgaW4gc3lzLnN0ZGluLnJlYWRsaW5lcygpCiAgICAjIF0KICAgICMgY29kZSA9ICcnLmpvaW4obGluZXMpCiAgICAjIGNvZGUgPSBbJ3BsdXMnLCdwbHVzJywncGx1cycsJ3BsdXMnLCdwbHVzJywncGx1cycsJ3BsdXMnLCdwbHVzJywncGx1cycsJ2xlZnRfYnJhY2UnLCdyaWdodCcsJ3BsdXMnLCdwbHVzJywncGx1cycsCiAgICAjICAgICAgICAgJ3BsdXMnLCdwbHVzJywncGx1cycsJ3BsdXMnLCdwbHVzJywncmlnaHQnLCdwbHVzJywncGx1cycsJ3BsdXMnLCdwbHVzJywncGx1cycsJ3BsdXMnLCdwbHVzJywncGx1cycsJ3BsdXMnLAogICAgIyAgICAgICAgICdwbHVzJywncGx1cycsJ3JpZ2h0JywncGx1cycsJ3BsdXMnLCdwbHVzJywncGx1cycsJ3BsdXMnLCdsZWZ0JywnbGVmdCcsJ2xlZnQnLCdtaW51cycsJ3JpZ2h0X2JyYWNlJywncmlnaHQnLAogICAgIyAgICAgICAgICdkb3QnLCdyaWdodCcsJ3BsdXMnLCdwbHVzJywnZG90JywncGx1cycsJ3BsdXMnLCdwbHVzJywncGx1cycsJ3BsdXMnLCdwbHVzJywncGx1cycsJ2RvdCcsJ2RvdCcsJ3BsdXMnLAogICAgIyAgICAgICAgICdwbHVzJywncGx1cycsJ2RvdCcsJ3JpZ2h0JywnbWludXMnLCdkb3QnLCdtaW51cycsJ21pbnVzJywnbWludXMnLCdtaW51cycsJ21pbnVzJywnbWludXMnLCdtaW51cycsJ21pbnVzJywKICAgICMgICAgICAgICAnbWludXMnLCdtaW51cycsJ21pbnVzJywnbWludXMnLCdkb3QnLCdsZWZ0JywncGx1cycsJ3BsdXMnLCdwbHVzJywncGx1cycsJ3BsdXMnLCdwbHVzJywncGx1cycsJ3BsdXMnLCdkb3QnLAogICAgIyAgICAgICAgICdtaW51cycsJ21pbnVzJywnbWludXMnLCdtaW51cycsJ21pbnVzJywnbWludXMnLCdtaW51cycsJ21pbnVzJywnZG90JywncGx1cycsJ3BsdXMnLCdwbHVzJywnZG90JywnbWludXMnLAogICAgIyAgICAgICAgICdtaW51cycsJ21pbnVzJywnbWludXMnLCdtaW51cycsJ21pbnVzJywnZG90JywnbWludXMnLCdtaW51cycsJ21pbnVzJywnbWludXMnLCdtaW51cycsJ21pbnVzJywnbWludXMnLAogICAgIyAgICAgICAgICdtaW51cycsJ2RvdCcsJ3JpZ2h0JywncGx1cycsJ2RvdCddCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>minus</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvZGUgPSBjb2RlLnNwbGl0KCkK</text>
       </register>
       <register name="7" type="4">
-        <text>plus</text>
+        <text>code</text>
       </register>
-      <register name="8" type="4">
-        <text>left</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvZGUK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
+      <register name="9" type="4">
+        <text>**</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
