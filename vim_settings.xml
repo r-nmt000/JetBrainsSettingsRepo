@@ -50,11 +50,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/TS/training/django_portal/locale/ja/LC_MESSAGES/django.po" timestamp="1453100599501">
-        <mark key="'" line="99" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="18" column="38" />
-      </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/urls.py" timestamp="1453952784348">
         <mark key="[" line="40" column="15" />
         <mark key="]" line="40" column="15" />
@@ -66,11 +61,6 @@
         <mark key="]" line="42" column="25" />
         <mark key="." line="42" column="25" />
         <mark key="^" line="42" column="25" />
-      </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/staff/job_register.html" timestamp="1455098454366">
-        <mark key="'" line="569" column="18" />
-        <mark key="[" line="357" column="0" />
-        <mark key="]" line="357" column="24" />
       </file>
       <file name="$USER_HOME$/repos/TS/training/django_portal/manage.py" timestamp="1453771899489">
         <mark key="[" line="19" column="69" />
@@ -96,11 +86,11 @@
         <mark key="." line="31" column="52" />
         <mark key="^" line="31" column="52" />
       </file>
-      <file name="$USER_HOME$/repos/TS/geo_analytics/proto/ryusuke.nomoto/create_test_data.py" timestamp="1455700416450">
-        <mark key="[" line="2" column="40" />
-        <mark key="]" line="2" column="40" />
-        <mark key="^" line="2" column="125" />
-        <mark key="." line="2" column="40" />
+      <file name="$USER_HOME$/repos/TS/geo_analytics/proto/ryusuke.nomoto/create_test_data.py" timestamp="1455703962974">
+        <mark key="[" line="9" column="47" />
+        <mark key="]" line="9" column="47" />
+        <mark key="^" line="9" column="47" />
+        <mark key="." line="9" column="47" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/section_forms.py" timestamp="1453111226157">
         <mark key="[" line="3" column="42" />
@@ -204,6 +194,10 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/views/select_similar_stores_views.py" timestamp="1455704152888">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="66" />
+      </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/404.html" timestamp="1453785740685">
         <mark key="[" line="4" column="2" />
         <mark key="]" line="4" column="2" />
@@ -250,11 +244,6 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="38" column="7" />
       </file>
-      <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/forms/job_register_forms.py" timestamp="1453090479084">
-        <mark key="'" line="184" column="23" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/error.html" timestamp="1453785884005">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="17" />
@@ -300,10 +289,17 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/forms/select_campaign_forms.py" timestamp="1455699169370">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="25" column="81" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/forms/select_campaign_forms.py" timestamp="1455704191223">
+        <mark key="[" line="18" column="12" />
+        <mark key="]" line="18" column="19" />
+        <mark key="." line="18" column="19" />
+        <mark key="^" line="18" column="19" />
+      </file>
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/views/select_campaign_views.py" timestamp="1455704183269">
+        <mark key="[" line="19" column="61" />
+        <mark key="]" line="19" column="60" />
+        <mark key="." line="19" column="60" />
+        <mark key="^" line="19" column="60" />
       </file>
     </filemarks>
     <jumps>
@@ -413,40 +409,40 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>SalesDivision</text>
+        <text>SelectSimilarStoresForm</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YWIwID0gQUJUZXN0KHRlc3RfbmFtZT0nYWJ0ZXN0MCcsIGRlc2NyaXB0aW9uPSd0aGlzIGlzIGEgYWJ0ZXN0LicsIGNhbXBhaWduPWMwLCBjb21wYXJpc29uX3BlcmlvZD05MCkKCmFiMC5zYXZlKCkKCmFicDAgPSBBQlBhaXIoYWJfdGVzdD1hYjAsIHRhcmdldF9zdG9yZT1zMCwgY29udHJvbGxlZF9zdG9yZT1zMywgZl92YWx1ZT0wLjEsIHBfdmFsdWU9MC4xLCBtc2U9MC4xKQphYnAxID0gQUJQYWlyKGFiX3Rlc3Q9YWIwLCB0YXJnZXRfc3RvcmU9czEsIGNvbnRyb2xsZWRfc3RvcmU9czQsIGZfdmFsdWU9MC4xLCBwX3ZhbHVlPTAuMSwgbXNlPTAuMSkKYWJwMiA9IEFCUGFpcihhYl90ZXN0PWFiMCwgdGFyZ2V0X3N0b3JlPXMyLCBjb250cm9sbGVkX3N0b3JlPXM1LCBmX3ZhbHVlPTAuMSwgcF92YWx1ZT0wLjEsIG1zZT0wLjEpCgphYnAwLnNhdmUoKQphYnAxLnNhdmUoKQphYnAyLnNhdmUoKQo=</text>
+        <text encoding="base64">ZnJvbSBhcHBzLmNhbXBhaWduX3Rlc3Rlci5mb3JtcyBpbXBvcnQgc2VsZWN0X3NpbWlsYXJfc3RvcmVzX2Zvcm1zCg==</text>
       </register>
       <register name="1" type="4">
+        <text>SelectSimilarStoresForm</text>
+      </register>
+      <register name="2" type="4">
+        <text>select_campaign_forms</text>
+      </register>
+      <register name="3" type="4">
         <text>SalesDivision</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">c2QwID0gU2FsZXNEaXZpc2lvbihjb2RlPTEwLCBuYW1lPSdkaXZpc2lvbjAnKQpzZDAuc2F2ZSgpCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text>row</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxocj4K</text>
+        <text encoding="base64">c2QwID0gU2FsZXNEaXZpc2lvbihjb2RlPTEwLCBuYW1lPSdkaXZpc2lvbjAnKQpzZDAuc2F2ZSgpCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDxocj4K</text>
+      <register name="6" type="4">
+        <text>row</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPGhyPgo=</text>
+        <text encoding="base64">ICAgIDxocj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPGhyPgo=</text>
+        <text encoding="base64">ICAgIDxocj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPGhyPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
