@@ -183,6 +183,10 @@
         <mark key="." line="17" column="23" />
         <mark key="^" line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/forms/select_similar_stores_forms.py" timestamp="1455699168287">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="25" column="80" />
+      </file>
       <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/base.html" timestamp="1455083840075">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="7" column="4" />
@@ -289,6 +293,11 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/forms/select_campaign_forms.py" timestamp="1455699169370">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="25" column="81" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -403,8 +412,8 @@
       <register name="/" type="4">
         <text>support</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Y29sLXNtLTggY29sLW1kLTgg</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIwojIENvcHlyaWdodCAoYykgMjAxNiBCcmFpblBhZCwgSW5jLiBBbGwgcmlnaHRzIHJlc2VydmVkLgojCiMgVGhpcyBzb2Z0d2FyZSBpcyB0aGUgY29uZmlkZW50aWFsIGFuZCBwcm9wcmlldGFyeSBpbmZvcm1hdGlvbiBvZgojIEJyYWluUGFkLCBJbmMuICgiQ29uZmlkZW50aWFsIEluZm9ybWF0aW9uIikuCiMgWW91IHNoYWxsIG5vdCBkaXNjbG9zZSBzdWNoIENvbmZpZGVudGlhbCBJbmZvcm1hdGlvbiBhbmQgc2hhbGwKIyB1c2UgaXQgb25seSBpbiBhY2NvcmRhbmNlIHdpdGggdGhlIHRlcm1zIG9mIHRoZSBsaWNlbnNlIGFncmVlbWVudAojIHlvdSBlbnRlcmVkIGludG8gd2l0aCBCcmFpblBhZCwgSW5jLgojCgoiIiJBQuODhuOCueODiOODhOODvOODqzog44OV44Kp44O844OgIiIiCgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFic29sdXRlX2ltcG9ydCwgZGl2aXNpb24sIHByaW50X2Z1bmN0aW9uLCB1bmljb2RlX2xpdGVyYWxzCgpmcm9tIGRqYW5nbyBpbXBvcnQgZm9ybXMKCgpjbGFzcyBTZWxlY3RTaW1pbGFyU3RvcmVzRm9ybShmb3Jtcy5Gb3JtKToKICAgIHRlc3RfbmFtZSA9IGZvcm1zLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTEwMCwgbGFiZWw9J+ODhuOCueODiOWQjScpCgogICAgZGVmIF9faW5pdF9fKHNlbGYsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgc3VwZXIoU2VsZWN0U2ltaWxhclN0b3Jlc0Zvcm0sIHNlbGYpLl9faW5pdF9fKCphcmdzLCAqKmt3YXJncykKICAgICAgICBmb3IgbGFiZWwsIGZpZWxkIGluIHNlbGYuZmllbGRzLml0ZW1zKCk6CiAgICAgICAgICAgIGZpZWxkLndpZGdldC5hdHRyc1snY2xhc3MnXSA9ICdmb3JtLWNvbnRyb2wnCiAgICAgICAgc2VsZi5maWVsZHNbJ3Rlc3RfbmFtZSddLndpZGdldC5hdHRyc1sncGxhY2Vob2xkZXInXSA9ICfil6/Dl+OCqOODquOCoiDjgrvjg6vjg5Xjg6zjgrjlsI7lhaXjg4bjgrnjg4gnCg==</text>
       </register>
       <register name="1" type="4">
         <text>row</text>
