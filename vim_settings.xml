@@ -139,7 +139,12 @@
         <mark key="." line="117" column="131" />
         <mark key="^" line="117" column="131" />
       </file>
-      <file name="/Python Console" timestamp="1455771209318">
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_campaign_detail.html" timestamp="1455781306526">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="65" column="6" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1455781885306">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/manage.py" timestamp="1454904875373">
@@ -246,13 +251,13 @@
         <mark key="[" line="59" column="0" />
         <mark key="]" line="76" column="12" />
       </file>
-      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_campaign.html" timestamp="1455780312303">
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_campaign.html" timestamp="1455782019456">
         <mark key="j" line="18" column="1" />
-        <mark key="k" line="133" column="15" />
-        <mark key="[" line="120" column="11" />
-        <mark key="]" line="122" column="5" />
-        <mark key="." line="122" column="5" />
-        <mark key="^" line="122" column="5" />
+        <mark key="k" line="134" column="15" />
+        <mark key="[" line="117" column="64" />
+        <mark key="]" line="117" column="77" />
+        <mark key="." line="117" column="77" />
+        <mark key="^" line="117" column="77" />
       </file>
       <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_similar_stores.html" timestamp="1455776117021">
         <mark key="j" line="5" column="1" />
@@ -432,34 +437,34 @@
         <text>support</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">eyUgaWYgbWVzc2FnZXMgJX0KICA8dWwgY2xhc3M9Im1lc3NhZ2VzIj4KICAgIHslIGZvciBtZXNzYWdlIGluIG1lc3NhZ2VzICV9CiAgICAgIDxsaXslIGlmIG1lc3NhZ2UudGFncyAlfSBjbGFzcz0ie3sgbWVzc2FnZS50YWdzIH19InslIGVuZGlmICV9Pnt7IG1lc3NhZ2UgfX08L2xpPgogICAgeyUgZW5kZm9yICV9CiAgPC91bD4KeyUgZW5kaWYgJX0K</text>
+        <text encoding="base64">ICAgIDxkaXYgeyUgaWYgbm90IGNhbXBhaWduX2lkICAlfSBzdHlsZT0iZGlzcGxheTpub25lIiB7JSBlbmRpZiAlfT4K</text>
       </register>
-      <register name="1" type="4">
-        <text>TemplateView</text>
+      <register name="1" type="2">
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDx0aXRsZT5UaXRsZTwvdGl0bGU+CjwvaGVhZD4KPGJvZHk+Cgo8L2JvZHk+CjwvaHRtbD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB7JSBpZiBmb3JtLnRlc3RfbmFtZS5lcnJvcnMgJX0KICAgIHslIGZvciBlcnJvciBpbiBmb3JtLnRlc3RfbmFtZS5lcnJvcnMgJX0KICAgICAge3sgZXJyb3IgfX0KICAgIHslIGVuZGZvciAlfQogIHslIGVuZGlmICV9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHslIGVuZGlmICV9Cg==</text>
+      <register name="3" type="4">
+        <text>TemplateView</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICB7JSBpZiBmb3JtLnRlc3RfbmFtZS5lcnJvcnMgJX0KICAgIHslIGZvciBlcnJvciBpbiBmb3JtLnRlc3RfbmFtZS5lcnJvcnMgJX0KICAgICAge3sgZXJyb3IgfX0KICAgIHslIGVuZGZvciAlfQogIHslIGVuZGlmICV9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIHslIGVuZGlmICV9Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIHslIGlmIGZvcm0udGVzdF9uYW1lLmVycm9zICV9CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1zbS05IGNvbC1tZC05IGNvbC1sZy05Ij4KICAgICAgICAgICAgICB7eyBmb3JtLnRlc3RfbmFtZSB9fQogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIHslIGVsc2UgJX0K</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>has</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>error</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">eyMgIHslIGlmIG1lc3NhZ2VzICV9I30KeyMgICAgeyUgZm9yIG1lc3NhZ2UgaW4gbWVzc2FnZXMgJX0jfQp7IyAgICAgIDxkaXYgY2xhc3M9ImFsZXJ0IGFsZXJ0LWRhbmdlciIgcm9sZT0iYWxlcnQiPiN9CnsjICAgICAgICA8YSBocmVmPSIjIiBjbGFzcz0iY2xvc2UgZ2x5cGhpY29uIGdseXBoaWNvbi1yZW1vdmUiIGRhdGEtZGlzbWlzcz0iYWxlcnQiPjwvYT57eyBtZXNzYWdlIH19I30KeyMgICAgICA8L2Rpdj4jfQp7IyAgICB7JSBlbmRmb3IgJX0jfQp7IyAgeyUgZW5kaWYgJX0jfQo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGZvcm0udGVzdF9uYW1lLmVycm9ycyB9fQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
