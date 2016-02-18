@@ -98,9 +98,9 @@
         <mark key="." line="3" column="42" />
         <mark key="^" line="3" column="49" />
       </file>
-      <file name="$USER_HOME$/.pyenv/versions/geo/lib/python3.5/site-packages/django/views/generic/edit.py" timestamp="1455590634152">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="44" />
+      <file name="$USER_HOME$/.pyenv/versions/geo/lib/python3.5/site-packages/django/views/generic/edit.py" timestamp="1455762271301">
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="64" />
         <mark key="." line="56" column="8" />
         <mark key="^" line="56" column="8" />
       </file>
@@ -129,7 +129,7 @@
         <mark key="." line="117" column="131" />
         <mark key="^" line="117" column="131" />
       </file>
-      <file name="/Python Console" timestamp="1455590694700">
+      <file name="/Python Console" timestamp="1455761938180">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/manage.py" timestamp="1454904875373">
@@ -194,7 +194,7 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/views/select_similar_stores_views.py" timestamp="1455704152888">
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/views/select_similar_stores_views.py" timestamp="1455761770524">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="66" />
       </file>
@@ -230,19 +230,20 @@
         <mark key="^" line="177" column="55" />
         <mark key="." line="177" column="55" />
       </file>
-      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_campaign.html" timestamp="1455696916510">
-        <mark key="[" line="15" column="61" />
-        <mark key="]" line="15" column="61" />
-        <mark key="." line="15" column="61" />
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_campaign.html" timestamp="1455760626467">
+        <mark key="j" line="17" column="1" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
         <mark key="^" line="14" column="25" />
+        <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_similar_stores.html" timestamp="1455696621938">
-        <mark key="j" line="26" column="19" />
-        <mark key="k" line="80" column="0" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="38" column="7" />
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_similar_stores.html" timestamp="1455760589971">
+        <mark key="j" line="34" column="19" />
+        <mark key="k" line="86" column="0" />
+        <mark key="[" line="19" column="3" />
+        <mark key="]" line="19" column="3" />
+        <mark key="." line="19" column="3" />
+        <mark key="^" line="19" column="3" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/error.html" timestamp="1453785884005">
         <mark key="[" line="0" column="12" />
@@ -289,17 +290,17 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/forms/select_campaign_forms.py" timestamp="1455704191223">
-        <mark key="[" line="18" column="12" />
-        <mark key="]" line="18" column="19" />
-        <mark key="." line="18" column="19" />
-        <mark key="^" line="18" column="19" />
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/forms/select_campaign_forms.py" timestamp="1455761887212">
+        <mark key="[" line="22" column="20" />
+        <mark key="]" line="22" column="31" />
+        <mark key="." line="22" column="31" />
+        <mark key="^" line="22" column="31" />
       </file>
-      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/views/select_campaign_views.py" timestamp="1455704183269">
-        <mark key="[" line="19" column="61" />
-        <mark key="]" line="19" column="60" />
-        <mark key="." line="19" column="60" />
-        <mark key="^" line="19" column="60" />
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/views/select_campaign_views.py" timestamp="1455762286499">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="52" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -409,40 +410,40 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>SelectSimilarStoresForm</text>
+        <text>context</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBhcHBzLmNhbXBhaWduX3Rlc3Rlci5mb3JtcyBpbXBvcnQgc2VsZWN0X3NpbWlsYXJfc3RvcmVzX2Zvcm1zCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIoRm9ybU1peGluLCBzZWxmKS5nZXRfY29udGV4dF9kYXRhKCoqa3dhcmdzKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>SelectSimilarStoresForm</text>
-      </register>
-      <register name="2" type="4">
-        <text>select_campaign_forms</text>
-      </register>
-      <register name="3" type="4">
-        <text>SalesDivision</text>
-      </register>
-      <register name="4" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">c2QwID0gU2FsZXNEaXZpc2lvbihjb2RlPTEwLCBuYW1lPSdkaXZpc2lvbjAnKQpzZDAuc2F2ZSgpCg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4ga3dhcmdzCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>context</text>
+      </register>
+      <register name="4" type="4">
+        <text>campaigns</text>
+      </register>
+      <register name="5" type="4">
+        <text>campaigns</text>
       </register>
       <register name="6" type="4">
-        <text>row</text>
+        <text>select_similar_stores_forms</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxocj4K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZpZWxkc1sndGVzdF9uYW1lJ10ud2lkZ2V0LmF0dHJzWydwbGFjZWhvbGRlciddID0gJ+KXr8OX44Ko44Oq44KiIOOCu+ODq+ODleODrOOCuOWwjuWFpeODhuOCueODiCcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxocj4K</text>
+        <text encoding="base64">ICAgIHRlc3RfbmFtZSA9IGZvcm1zLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTEwMCwgbGFiZWw9J+ODhuOCueODiOWQjScpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGhyPgo=</text>
+      <register name="9" type="4">
+        <text>TemplateView</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
