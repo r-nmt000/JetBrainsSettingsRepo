@@ -230,20 +230,20 @@
         <mark key="^" line="177" column="55" />
         <mark key="." line="177" column="55" />
       </file>
-      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_campaign.html" timestamp="1455763688375">
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_campaign.html" timestamp="1455765272342">
         <mark key="j" line="17" column="1" />
-        <mark key="[" line="84" column="42" />
-        <mark key="]" line="84" column="42" />
-        <mark key="^" line="14" column="25" />
-        <mark key="." line="84" column="42" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="39" column="38" />
+        <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_similar_stores.html" timestamp="1455760589971">
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_similar_stores.html" timestamp="1455765322098">
         <mark key="j" line="34" column="19" />
         <mark key="k" line="86" column="0" />
-        <mark key="[" line="19" column="3" />
-        <mark key="]" line="19" column="3" />
-        <mark key="." line="19" column="3" />
-        <mark key="^" line="19" column="3" />
+        <mark key="[" line="20" column="85" />
+        <mark key="]" line="21" column="28" />
+        <mark key="." line="21" column="28" />
+        <mark key="^" line="21" column="28" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/mslprj/templates/error.html" timestamp="1453785884005">
         <mark key="[" line="0" column="12" />
@@ -290,17 +290,10 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/forms/select_campaign_forms.py" timestamp="1455761887212">
-        <mark key="[" line="22" column="20" />
-        <mark key="]" line="22" column="31" />
-        <mark key="." line="22" column="31" />
-        <mark key="^" line="22" column="31" />
-      </file>
-      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/views/select_campaign_views.py" timestamp="1455763577954">
-        <mark key="[" line="44" column="19" />
-        <mark key="]" line="44" column="27" />
-        <mark key="^" line="44" column="27" />
-        <mark key="." line="44" column="27" />
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/forms/select_campaign_forms.py" timestamp="1455764726179">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -410,40 +403,40 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>campaigns</text>
+        <text>form</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udmlld3MuZ2VuZXJpYyBpbXBvcnQgVGVtcGxhdGVWaWV3LCBGb3JtVmlldwo=</text>
+        <text encoding="base64">ICAgICAgICBjb21wYXJpc29uX3BlcmlvZC53aWRnZXQuYXR0cnNbJ2NsYXNzJ10gPSAnZm9ybS1jb250cm9sJwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICMg44K144O844OQ5YG044Gu5LuV5qeY44GM5piO56K644Gr5rG644G+44Gj44Gf44KJ44GT44GT44Gv5L2c44KK5aSJ44GI44KLCiAgICBkZWYgcG9zdChzZWxmLCByZXF1ZXN0LCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgIHJldHVybiBIdHRwUmVzcG9uc2VSZWRpcmVjdCgnc2VsZWN0X3NpbWlsYXJfc3RvcmVzJyk=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgZGVmIGdldF9jb250ZXh0X2RhdGEoc2VsZiwgKiprd2FyZ3MpOgogICAgIyAgICAgY2FtcGFpZ25zID0gbW9kZWxzLkNhbXBhaWduLm9iamVjdHMuYWxsKCkKICAgICMgICAgIGNhbXBhaWduX2lkID0gcmVxdWVzdC5HRVQuZ2V0KCdjYW1wYWlnbl9pZCcpCiAgICAjICAgICBjYW1wYWlnbl9kZXRhaWxzID0gW10KICAgICMKICAgICMgICAgIGlmIGNhbXBhaWduX2lkIGlzIG5vdCBOb25lOgogICAgIyAgICAgICAgIGNhbXBhaWduX2RldGFpbHMgPSBtb2RlbHMuQ2FtcGFpZ25EZXRhaWwub2JqZWN0cy5maWx0ZXIoY2FtcGFpZ25faWQ9Y2FtcGFpZ25faWQpCiAgICAjICAgICAgICAgY2FtcGFpZ25faWQgPSBpbnQoY2FtcGFpZ25faWQpCiAgICAjCiAgICAjICAgICBrd2FyZ3NbJ2NhbXBhaWducyddID0gY2FtcGFpZ25zCiAgICAjICAgICBrd2FyZ3NbJ2NhbXBhaWduX2lkJ10gPSBjYW1wYWlnbl9pZAogICAgIyAgICAga3dhcmdzWydjYW1wYWlnbl9kZXRhaWxzJ10gPSBjYXBhaWduX2RldGFpbHMKICAgICMKICAgICMgICAgIHJldHVybiBzdXBlcihGb3JtTWl4aW4sIHNlbGYpLmdldF9jb250ZXh0X2RhdGEoKiprd2FyZ3MpCgo=</text>
+        <text encoding="base64">eyMgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSLmlrDkvZwiIGxhYmVsPSLmlrDkvZwiPjwvb3B0aW9uPiN9CnsjICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0i5Lit5Y+kIiBsYWJlbD0i5Lit5Y+kIj48L29wdGlvbj4jfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJldHVybiBzdXBlcihTZWxlY3RDYW1wYWlnblZpZXcsIHNlbGYpLmdldChzZWxmLAogICAgICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVlc3QsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgY2FtcGFpZ25zPWNhbXBhaWducywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBjYW1wYWlnbl9pZD1jYW1wYWlnbl9pZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBjYW1wYWlnbl9kZXRhaWxzPWNhbXBhaWduX2RldGFpbHMpCg==</text>
+        <text encoding="base64">eyMgICAgICAgICAgPGlucHV0IGNsYXNzPSJmb3JtLWNvbnRyb2wiIHR5cGU9InRleHQiIHZhbHVlPSI5MCIgc3R5bGU9IndpZHRoOiA2MHB4Ij7ml6UjfQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>campaigns</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmdldF9jb250ZXh0X2RhdGEoa3dhcmdzKQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAjIGZvciBsYWJlbCwgZmllbGQgaW4gc2VsZi5maWVsZHMuaXRlbXMoKToKICAgICAgICAjICAgICBmaWVsZC53aWRnZXQuYXR0cnNbJ2NsYXNzJ10gPSAnZm9ybS1jb250cm9sJw==</text>
       </register>
       <register name="7" type="4">
-        <text>campaign_id</text>
+        <text>form</text>
       </register>
       <register name="8" type="4">
-        <text>request</text>
+        <text>control</text>
       </register>
       <register name="9" type="4">
-        <text>context</text>
+        <text>class</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
