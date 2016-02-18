@@ -230,12 +230,12 @@
         <mark key="^" line="177" column="55" />
         <mark key="." line="177" column="55" />
       </file>
-      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_campaign.html" timestamp="1455760626467">
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_campaign.html" timestamp="1455763688375">
         <mark key="j" line="17" column="1" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
+        <mark key="[" line="84" column="42" />
+        <mark key="]" line="84" column="42" />
         <mark key="^" line="14" column="25" />
-        <mark key="." line="26" column="0" />
+        <mark key="." line="84" column="42" />
       </file>
       <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_similar_stores.html" timestamp="1455760589971">
         <mark key="j" line="34" column="19" />
@@ -296,11 +296,11 @@
         <mark key="." line="22" column="31" />
         <mark key="^" line="22" column="31" />
       </file>
-      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/views/select_campaign_views.py" timestamp="1455762286499">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="52" column="20" />
+      <file name="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/views/select_campaign_views.py" timestamp="1455763577954">
+        <mark key="[" line="44" column="19" />
+        <mark key="]" line="44" column="27" />
+        <mark key="^" line="44" column="27" />
+        <mark key="." line="44" column="27" />
       </file>
     </filemarks>
     <jumps>
@@ -410,40 +410,40 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>context</text>
+        <text>campaigns</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIoRm9ybU1peGluLCBzZWxmKS5nZXRfY29udGV4dF9kYXRhKCoqa3dhcmdzKQo=</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28udmlld3MuZ2VuZXJpYyBpbXBvcnQgVGVtcGxhdGVWaWV3LCBGb3JtVmlldwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4ga3dhcmdzCg==</text>
+        <text encoding="base64">ICAgICMgZGVmIGdldF9jb250ZXh0X2RhdGEoc2VsZiwgKiprd2FyZ3MpOgogICAgIyAgICAgY2FtcGFpZ25zID0gbW9kZWxzLkNhbXBhaWduLm9iamVjdHMuYWxsKCkKICAgICMgICAgIGNhbXBhaWduX2lkID0gcmVxdWVzdC5HRVQuZ2V0KCdjYW1wYWlnbl9pZCcpCiAgICAjICAgICBjYW1wYWlnbl9kZXRhaWxzID0gW10KICAgICMKICAgICMgICAgIGlmIGNhbXBhaWduX2lkIGlzIG5vdCBOb25lOgogICAgIyAgICAgICAgIGNhbXBhaWduX2RldGFpbHMgPSBtb2RlbHMuQ2FtcGFpZ25EZXRhaWwub2JqZWN0cy5maWx0ZXIoY2FtcGFpZ25faWQ9Y2FtcGFpZ25faWQpCiAgICAjICAgICAgICAgY2FtcGFpZ25faWQgPSBpbnQoY2FtcGFpZ25faWQpCiAgICAjCiAgICAjICAgICBrd2FyZ3NbJ2NhbXBhaWducyddID0gY2FtcGFpZ25zCiAgICAjICAgICBrd2FyZ3NbJ2NhbXBhaWduX2lkJ10gPSBjYW1wYWlnbl9pZAogICAgIyAgICAga3dhcmdzWydjYW1wYWlnbl9kZXRhaWxzJ10gPSBjYXBhaWduX2RldGFpbHMKICAgICMKICAgICMgICAgIHJldHVybiBzdXBlcihGb3JtTWl4aW4sIHNlbGYpLmdldF9jb250ZXh0X2RhdGEoKiprd2FyZ3MpCgo=</text>
       </register>
-      <register name="3" type="4">
-        <text>context</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAjIHJldHVybiBzdXBlcihTZWxlY3RDYW1wYWlnblZpZXcsIHNlbGYpLmdldChzZWxmLAogICAgICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVlc3QsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgY2FtcGFpZ25zPWNhbXBhaWducywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBjYW1wYWlnbl9pZD1jYW1wYWlnbl9pZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBjYW1wYWlnbl9kZXRhaWxzPWNhbXBhaWduX2RldGFpbHMpCg==</text>
       </register>
       <register name="4" type="4">
         <text>campaigns</text>
       </register>
-      <register name="5" type="4">
-        <text>campaigns</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>select_similar_stores_forms</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmdldF9jb250ZXh0X2RhdGEoa3dhcmdzKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZpZWxkc1sndGVzdF9uYW1lJ10ud2lkZ2V0LmF0dHJzWydwbGFjZWhvbGRlciddID0gJ+KXr8OX44Ko44Oq44KiIOOCu+ODq+ODleODrOOCuOWwjuWFpeODhuOCueODiCcK</text>
+      <register name="7" type="4">
+        <text>campaign_id</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHRlc3RfbmFtZSA9IGZvcm1zLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTEwMCwgbGFiZWw9J+ODhuOCueODiOWQjScpCg==</text>
+      <register name="8" type="4">
+        <text>request</text>
       </register>
       <register name="9" type="4">
-        <text>TemplateView</text>
+        <text>context</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
