@@ -85,12 +85,12 @@
         <mark key="]" line="174" column="0" />
         <mark key="." line="174" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/Web/MPL/MPL/libs/interpreter.py" timestamp="1455722724925">
-        <mark key="k" line="138" column="32" />
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="." line="129" column="0" />
-        <mark key="^" line="136" column="59" />
+      <file name="$USER_HOME$/repos/Web/MPL/MPL/libs/interpreter.py" timestamp="1455885923797">
+        <mark key="k" line="135" column="32" />
+        <mark key="[" line="103" column="34" />
+        <mark key="]" line="103" column="34" />
+        <mark key="." line="103" column="34" />
+        <mark key="^" line="103" column="34" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/utils.py" timestamp="1451895636040">
         <mark key="[" line="17" column="23" />
@@ -114,11 +114,11 @@
         <mark key="^" line="66" column="63" />
         <mark key="." line="66" column="42" />
       </file>
-      <file name="$USER_HOME$/repos/Web/MPL/MPL/apps/mpl/views.py" timestamp="1455884675787">
-        <mark key="[" line="30" column="20" />
-        <mark key="]" line="8" column="46" />
-        <mark key="^" line="8" column="46" />
-        <mark key="." line="8" column="46" />
+      <file name="$USER_HOME$/repos/Web/MPL/MPL/apps/mpl/views.py" timestamp="1455886076792">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/staff/tests/mst/test_section.py" timestamp="1451890630863">
         <mark key="[" line="6" column="0" />
@@ -374,35 +374,35 @@
       <register name="/" type="4">
         <text>support</text>
       </register>
-      <register name="0" type="4">
-        <text>super(EntryCreateView, self).get_context_data(**kwargs)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHRyeToKICAgICAgICBpbnRlcnByZXRlci5ldmFsdWF0ZShjb2RlKQogICAgZXhjZXB0IEludmFsaWRUb2tlbkV4Y2VwdGlvbiBhcyBlOgogICAgICAgIHByaW50KGUsIGZpbGU9c3lzLnN0ZGVycikKICAgIGV4Y2VwdCBDdXJzb3JVbmRlcmZsb3dFeGNlcHRpb24gYXMgZToKICAgICAgICBwcmludChlLCBmaWxlPXN5cy5zdGRlcnIpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>placeholder</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
-      <register name="2" type="4">
-        <text>aaa</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZSwgZmlsZT1zeXMuc3RkZXJyKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>EntryCreateView</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZSwgZmlsZT1zeXMuc3RkZXJyKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>post</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZSwgZmlsZT1zeXMuc3RkZXJyKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgbGluZXMgPSBbCiAgICAjICAgICBsaW5lLnN0cmlwKCdcclxuJykucmVwbGFjZSgnICcsICcnKQogICAgIyAgICAgZm9yIGxpbmUgaW4gc3lzLnN0ZGluLnJlYWRsaW5lcygpCiAgICAjIF0KICAgICMgY29kZSA9ICcnLmpvaW4obGluZXMpCiAgICAjIGNvZGUgPSBbJ3BsdXMnLCdwbHVzJywncGx1cycsJ3BsdXMnLCdwbHVzJywncGx1cycsJ3BsdXMnLCdwbHVzJywncGx1cycsJ2xlZnRfYnJhY2UnLCdyaWdodCcsJ3BsdXMnLCdwbHVzJywncGx1cycsCiAgICAjICAgICAgICAgJ3BsdXMnLCdwbHVzJywncGx1cycsJ3BsdXMnLCdwbHVzJywncmlnaHQnLCdwbHVzJywncGx1cycsJ3BsdXMnLCdwbHVzJywncGx1cycsJ3BsdXMnLCdwbHVzJywncGx1cycsJ3BsdXMnLAogICAgIyAgICAgICAgICdwbHVzJywncGx1cycsJ3JpZ2h0JywncGx1cycsJ3BsdXMnLCdwbHVzJywncGx1cycsJ3BsdXMnLCdsZWZ0JywnbGVmdCcsJ2xlZnQnLCdtaW51cycsJ3JpZ2h0X2JyYWNlJywncmlnaHQnLAogICAgIyAgICAgICAgICdkb3QnLCdyaWdodCcsJ3BsdXMnLCdwbHVzJywnZG90JywncGx1cycsJ3BsdXMnLCdwbHVzJywncGx1cycsJ3BsdXMnLCdwbHVzJywncGx1cycsJ2RvdCcsJ2RvdCcsJ3BsdXMnLAogICAgIyAgICAgICAgICdwbHVzJywncGx1cycsJ2RvdCcsJ3JpZ2h0JywnbWludXMnLCdkb3QnLCdtaW51cycsJ21pbnVzJywnbWludXMnLCdtaW51cycsJ21pbnVzJywnbWludXMnLCdtaW51cycsJ21pbnVzJywKICAgICMgICAgICAgICAnbWludXMnLCdtaW51cycsJ21pbnVzJywnbWludXMnLCdkb3QnLCdsZWZ0JywncGx1cycsJ3BsdXMnLCdwbHVzJywncGx1cycsJ3BsdXMnLCdwbHVzJywncGx1cycsJ3BsdXMnLCdkb3QnLAogICAgIyAgICAgICAgICdtaW51cycsJ21pbnVzJywnbWludXMnLCdtaW51cycsJ21pbnVzJywnbWludXMnLCdtaW51cycsJ21pbnVzJywnZG90JywncGx1cycsJ3BsdXMnLCdwbHVzJywnZG90JywnbWludXMnLAogICAgIyAgICAgICAgICdtaW51cycsJ21pbnVzJywnbWludXMnLCdtaW51cycsJ21pbnVzJywnZG90JywnbWludXMnLCdtaW51cycsJ21pbnVzJywnbWludXMnLCdtaW51cycsJ21pbnVzJywnbWludXMnLAogICAgIyAgICAgICAgICdtaW51cycsJ2RvdCcsJ3JpZ2h0JywncGx1cycsJ2RvdCddCg==</text>
+        <text encoding="base64">ICAgIElOQ1JFTUVOVCA9ICdyaWdodCcKICAgIERFQ1JFTUVOVCA9ICdsZWZ0JwogICAgSU5DUkVNRU5UX1BPSU5URVIgPSAncGx1cycKICAgIERFQ1JFTUVOVF9QT0lOVEVSID0gJ21pbnVzJwogICAgV1JJVEUgPSAnZG90JwogICAgUkVBRCA9ICdjb21tYScKICAgIExPT1BfU1RBUlQgPSAnbGVmdF9icmFjZScKICAgIExPT1BfRU5EID0gJ3JpZ2h0X2JyYWNlJwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvZGUgPSBjb2RlLnNwbGl0KCkK</text>
+      <register name="6" type="4">
+        <text>placeholder</text>
       </register>
       <register name="7" type="4">
-        <text>code</text>
+        <text>aaa</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvZGUK</text>
+      <register name="8" type="4">
+        <text>EntryCreateView</text>
       </register>
       <register name="9" type="4">
-        <text>**</text>
+        <text>post</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
