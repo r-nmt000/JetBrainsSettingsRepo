@@ -407,11 +407,11 @@
         <mark key="." line="148" column="63" />
         <mark key="^" line="148" column="63" />
       </file>
-      <file name="$USER_HOME$/repos/Web/MPL/MPL/static/css/MPL.css" timestamp="1456116011394">
-        <mark key="[" line="33" column="48" />
-        <mark key="]" line="33" column="48" />
-        <mark key="." line="33" column="48" />
-        <mark key="^" line="33" column="50" />
+      <file name="$USER_HOME$/repos/Web/MPL/MPL/static/css/MPL.css" timestamp="1456117090764">
+        <mark key="[" line="33" column="39" />
+        <mark key="]" line="33" column="45" />
+        <mark key="." line="33" column="45" />
+        <mark key="^" line="33" column="45" />
       </file>
       <file name="$USER_HOME$/repos/Web/MPL/MPL/libs/interpreter.py" timestamp="1456071039424">
         <mark key="k" line="135" column="32" />
@@ -605,7 +605,7 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>png</text>
+        <text>sit</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
@@ -614,31 +614,31 @@
         <text encoding="base64">ICAgICAgICBjb2xvcjogZGFya2dyYXk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>png</text>
+        <text>sit</text>
       </register>
       <register name="2" type="4">
-        <text>sitdown</text>
+        <text>standing</text>
       </register>
       <register name="3" type="4">
         <text>laydown2</text>
       </register>
       <register name="4" type="4">
-        <text>cover</text>
+        <text>png</text>
       </register>
       <register name="5" type="4">
-        <text>cover</text>
+        <text>sitdown</text>
       </register>
       <register name="6" type="4">
-        <text>cover</text>
+        <text>laydown2</text>
       </register>
       <register name="7" type="4">
-        <text>contain</text>
+        <text>cover</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6ICNmMGYwZjA7Cg==</text>
+      <register name="8" type="4">
+        <text>cover</text>
       </register>
       <register name="9" type="4">
-        <text>image</text>
+        <text>cover</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -658,6 +658,7 @@
       </history-search>
       <history-cmd>
         <entry>ww</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
