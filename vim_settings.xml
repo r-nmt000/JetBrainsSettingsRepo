@@ -421,11 +421,11 @@
         <mark key="." line="120" column="8" />
         <mark key="^" line="120" column="8" />
       </file>
-      <file name="$USER_HOME$/repos/Web/MPL/MPL/static/js/MPL.js" timestamp="1456329589705">
-        <mark key="[" line="44" column="24" />
-        <mark key="]" line="44" column="24" />
-        <mark key="." line="44" column="24" />
-        <mark key="^" line="44" column="34" />
+      <file name="$USER_HOME$/repos/Web/MPL/MPL/static/js/MPL.js" timestamp="1456332355951">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="23" column="14" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/repos/Web/MPL/MPL/templates/base.html" timestamp="1456328440908">
         <mark key="'" line="0" column="0" />
@@ -550,40 +550,40 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>recPlayer__recBtn</text>
+        <text>text</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I21pY3JvcGhvbmUgewogICAgcG9zaXRpb246IGFic29sdXRlOwogICAgdG9wOiAyMCU7CiAgICByaWdodDogMjBweDsKICAgIHdpZHRoOiA1MHB4Owp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG8uc3RhdHVzLm5vd1JlYyA9IGZhbHNlOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>recPlayer__recBtn</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy9SZWNvcmRlci5yZWNvZ25pdGlvbi5hZGRFdmVudExpc3RlbmVyKCdzdGFydCcsIGZ1bmN0aW9uKCl7CiAgICAgICAgICAgIC8vICAgIG8uc3RhdHVzLm5vd1JlYyA9IHRydWU7CiAgICAgICAgICAgIC8vfSk7CiAgICAgICAgICAgIC8vUmVjb3JkZXIucmVjb2duaXRpb24uYWRkRXZlbnRMaXN0ZW5lcignZW5kJywgZnVuY3Rpb24oKXsKICAgICAgICAgICAgLy8gICAgby5zdGF0dXMubm93UmVjID0gZmFsc2U7CiAgICAgICAgICAgIC8vfSk7Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>querySelector</text>
+        <text>text</text>
       </register>
       <register name="3" type="4">
-        <text>DEMO</text>
+        <text>text</text>
       </register>
       <register name="4" type="4">
-        <text>querySelector</text>
+        <text>addEventListener</text>
       </register>
       <register name="5" type="4">
-        <text>DEMO</text>
+        <text>resultList</text>
       </register>
-      <register name="6" type="4">
-        <text>button</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG8uZWwucmVzdWx0TGlzdC5pbnNlcnRCZWZvcmUoCiAgICAgICAgICAgICAgICAgICAgVmlldy5nZXRSZXN1bHRJdGVtKHRleHQpLAogICAgICAgICAgICAgICAgICAgIG8uZWwucmVzdWx0TGlzdC5maXJzdENoaWxkCiAgICAgICAgICAgICAgICApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG8uZWwucmVjQnRuLnRleHRDb250ZW50ID0gJ+mMsumfsyc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8aSBpZD0ibWljcm9waG9uZSIgY2xhc3M9ImZhIGZhLW1pY3JvcGhvbmUgZmEtM3ggYW5pbWF0ZWQtaG92ZXIiPjwvaT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG8uZWwucmVjQnRuLnRleHRDb250ZW50ID0gJ+mMsumfsyc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgICAgPGkgaWQ9Im1pY3JvcGhvbmUiIGNsYXNzPSJmYSBmYS1taWNyb3Bob25lIGZhLTN4IGFuaW1hdGVkLWhvdmVyIj48L2k+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG8uZWwucmVjQnRuLnRleHRDb250ZW50ID0gJ+WBnOatoic7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -649,6 +649,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
