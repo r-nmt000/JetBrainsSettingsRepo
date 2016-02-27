@@ -71,11 +71,11 @@
         <mark key="." line="17" column="67" />
         <mark key="^" line="17" column="67" />
       </file>
-      <file name="$USER_HOME$/repos/Web/MPL/MPL/apps/mpl/forms.py" timestamp="1456140752313">
-        <mark key="[" line="14" column="33" />
-        <mark key="]" line="14" column="35" />
-        <mark key="." line="14" column="35" />
-        <mark key="^" line="14" column="35" />
+      <file name="$USER_HOME$/repos/Web/MPL/MPL/apps/mpl/forms.py" timestamp="1456561011580">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="14" column="39" />
       </file>
       <file name="/Python Console" timestamp="1456070039060">
         <mark key="[" line="0" column="0" />
@@ -132,6 +132,12 @@
         <mark key="]" line="52" column="24" />
         <mark key="." line="52" column="24" />
         <mark key="^" line="52" column="24" />
+      </file>
+      <file name="$USER_HOME$/repos/Web/MPL/MPL/locale/ja/LC_MESSAGES/django.po" timestamp="1456561073745">
+        <mark key="[" line="44" column="8" />
+        <mark key="]" line="44" column="9" />
+        <mark key="^" line="44" column="9" />
+        <mark key="." line="44" column="9" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/msl/lib/python2.7/site-packages/django/forms/fields.py" timestamp="1454138834488">
         <mark key="[" line="115" column="18" />
@@ -262,11 +268,11 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="14" column="10" />
       </file>
-      <file name="$USER_HOME$/repos/Web/MPL/MPL/templates/index.html" timestamp="1456498496786">
-        <mark key="[" line="20" column="16" />
-        <mark key="]" line="20" column="16" />
-        <mark key="^" line="20" column="25" />
-        <mark key="." line="20" column="16" />
+      <file name="$USER_HOME$/repos/Web/MPL/MPL/templates/index.html" timestamp="1456560831384">
+        <mark key="[" line="27" column="91" />
+        <mark key="]" line="27" column="98" />
+        <mark key="^" line="27" column="98" />
+        <mark key="." line="27" column="98" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/static/js/master_upload.js" timestamp="1455768347246">
         <mark key="[" line="22" column="34" />
@@ -360,11 +366,12 @@
         <mark key="." line="148" column="63" />
         <mark key="^" line="148" column="63" />
       </file>
-      <file name="$USER_HOME$/repos/Web/MPL/MPL/static/css/MPL.css" timestamp="1456559880345">
-        <mark key="[" line="24" column="21" />
-        <mark key="]" line="24" column="27" />
-        <mark key="^" line="24" column="27" />
-        <mark key="." line="24" column="27" />
+      <file name="$USER_HOME$/repos/Web/MPL/MPL/static/css/MPL.css" timestamp="1456560706099">
+        <mark key="j" line="54" column="17" />
+        <mark key="[" line="54" column="15" />
+        <mark key="]" line="54" column="16" />
+        <mark key="^" line="54" column="16" />
+        <mark key="." line="54" column="16" />
       </file>
       <file name="$USER_HOME$/repos/Brainpad/TS/msl_app_bp/mslprj/templates/staff/job_register.html" timestamp="1456154372093">
         <mark key="[" line="1" column="0" />
@@ -557,32 +564,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkLmdldCgiL21wbC9hcGkiLCB7Y29kZTogY29kZX0sIGZ1bmN0aW9uKGRhdGEpewogICAgICAgICAgICAkKCcjb3V0cHV0JykudmFsKGRhdGFbJ291dHB1dCddKTsKICAgICAgICB9KTsKICAgICAgICAkKCcjc3VibWl0JykudGV4dCgnJyk7CiAgICAgICAgJCgnI3N1Ym1pdCcpLnByZXBlbmQoJzxpPjwvaT5SVU4nKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>cover</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIG1lc3NhZ2UgPSBfKCdtb3JuIGhlcmUnKQo=</text>
       </register>
       <register name="2" type="4">
-        <text>contain</text>
+        <text>cover</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>contain</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciBydW4gPSBmdW5jdGlvbigpewogICAgICAgICQuZ2V0KCIvbXBsL2FwaSIsIHtjb2RlOiBjb2RlfSwgZnVuY3Rpb24oZGF0YSl7CiAgICAgICAgICAgICQoJyNvdXRwdXQnKS52YWwoZGF0YVsnb3V0cHV0J10pOwogICAgICAgIH0pOwogICAgICAgICQoJyNzdWJtaXQnKS50ZXh0KCcnKTsKICAgICAgICAkKCcjc3VibWl0JykucHJlcGVuZCgnPGk+PC9pPlJVTicpOwogICAgfTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkKCcjc3VibWl0IGknKS50b2dnbGVDbGFzcygnZmEgZmEtY2lyY2xlLW8tbm90Y2ggZmFhLXNwaW4gYW5pbWF0ZWQnKTsK</text>
+        <text encoding="base64">ICAgIHZhciBydW4gPSBmdW5jdGlvbigpewogICAgICAgICQuZ2V0KCIvbXBsL2FwaSIsIHtjb2RlOiBjb2RlfSwgZnVuY3Rpb24oZGF0YSl7CiAgICAgICAgICAgICQoJyNvdXRwdXQnKS52YWwoZGF0YVsnb3V0cHV0J10pOwogICAgICAgIH0pOwogICAgICAgICQoJyNzdWJtaXQnKS50ZXh0KCcnKTsKICAgICAgICAkKCcjc3VibWl0JykucHJlcGVuZCgnPGk+PC9pPlJVTicpOwogICAgfTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkKCcjc3VibWl0JykudGV4dCgnJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkKCcjc3VibWl0IGknKS50b2dnbGVDbGFzcygnZmEgZmEtY2lyY2xlLW8tbm90Y2ggZmFhLXNwaW4gYW5pbWF0ZWQnKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAkKCcjc3VibWl0JykudGV4dCgnJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyQoJyNzdWJtaXQnKS50ZXh0KCdSVU4nKTsK</text>
+        <text encoding="base64">ICAgICAgICAkKCcjc3VibWl0JykudGV4dCgnJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
