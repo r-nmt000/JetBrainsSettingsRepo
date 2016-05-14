@@ -171,12 +171,12 @@
         <mark key="^" line="9" column="47" />
         <mark key="." line="9" column="47" />
       </file>
-      <file name="$USER_HOME$/repos/Web/MPL/MPL/templates/index.html" timestamp="1463207917044">
+      <file name="$USER_HOME$/repos/Web/MPL/MPL/templates/index.html" timestamp="1463208936982">
         <mark key="j" line="36" column="59" />
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="^" line="99" column="69" />
-        <mark key="." line="107" column="0" />
+        <mark key="[" line="99" column="12" />
+        <mark key="]" line="99" column="62" />
+        <mark key="." line="99" column="62" />
+        <mark key="^" line="99" column="62" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/static/js/master_upload.js" timestamp="1455768347246">
         <mark key="[" line="22" column="34" />
@@ -379,11 +379,12 @@
         <mark key="^" line="42" column="39" />
         <mark key="." line="42" column="39" />
       </file>
-      <file name="$USER_HOME$/repos/Web/MPL/MPL/locale/ja/LC_MESSAGES/django.po" timestamp="1463207515945">
-        <mark key="[" line="132" column="8" />
-        <mark key="]" line="132" column="18" />
-        <mark key="^" line="132" column="18" />
-        <mark key="." line="132" column="18" />
+      <file name="$USER_HOME$/repos/Web/MPL/MPL/locale/ja/LC_MESSAGES/django.po" timestamp="1463209015066">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="144" column="8" />
+        <mark key="]" line="144" column="7" />
+        <mark key="^" line="144" column="7" />
+        <mark key="." line="144" column="7" />
       </file>
       <file name="$USER_HOME$/repos/heroku/python_getting_started/.env" timestamp="1453821390851">
         <mark key="[" line="1" column="0" />
@@ -495,8 +496,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4141" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_tc_and_section.json" />
-      <jump line="4161" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_tc_and_section.json" />
       <jump line="4181" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_tc_and_section.json" />
       <jump line="4201" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_tc_and_section.json" />
       <jump line="4221" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_tc_and_section.json" />
@@ -595,13 +594,15 @@
       <jump line="139" column="0" filename="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_campaign.html" />
       <jump line="85" column="4" filename="$USER_HOME$/repos/TS/geo_analytics/webapp/apps/campaign_tester/views.py" />
       <jump line="140" column="2" filename="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_campaign.html" />
+      <jump line="98" column="0" filename="$USER_HOME$/repos/Web/MPL/MPL/locale/ja/LC_MESSAGES/django.po" />
+      <jump line="9" column="0" filename="$USER_HOME$/repos/Web/MPL/MPL/locale/ja/LC_MESSAGES/django.po" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>god</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
@@ -617,7 +618,7 @@
     oh, oh, oh, oh, oh, come_on! yeah! ah, come_on!'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyUgdHJhbnMgImFhIiAlfQo=</text>
       </register>
       <register name="2" type="4">
         <text>{% trans &quot;ah, ah, ah, ah, ah, ah, ah, ah, ah, oh_my_god! yeah! ah, ah, ah, ah, ah,\
@@ -629,26 +630,33 @@
     oh, come_on! ah, ah, ah, come_on! oh, oh, oh, oh, oh, oh, come_on! oh, oh, oh,\
     oh, oh, oh, oh, oh, come_on! yeah! ah, come_on!&quot; %}</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="3" type="4">
+        <text>value</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8aDEgY2xhc3M9ImJpZy1mb250IGNlbnRlcmluZyI+eyUgdHJhbnMgIkhlbGxvIHdvcmxkIiAlfTwvaDE+Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>god</text>
+      <register name="5" type="4">
+        <text>{% trans &quot;ah, ah, ah, ah, ah, ah, ah, ah, ah, oh_my_god! yeah! ah, ah, ah, ah, ah,\
+    ah, ah, ah, yeah! ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, yeah! ah,\
+    ah, ah, ah, ah, f**k! f**k! f**k! oh, god! yeah! come_on! yeah! ah, ah,\
+    come_on! ah, ah, ah, ah, ah, ah, ah, come_on! come_on! ah, ah, ah, come_on!\
+    yeah! oh, come_on! oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, come_on!\
+    f**k! ah, ah, ah, ah, ah, ah, ah, ah, come_on! oh, oh, oh, oh, oh, oh, oh,\
+    oh, come_on! ah, ah, ah, come_on! oh, oh, oh, oh, oh, oh, come_on! oh, oh, oh,\
+    oh, oh, oh, oh, oh, come_on! yeah! ah, come_on!&quot; %}</text>
       </register>
-      <register name="8" type="4">
-        <text>oh_my_god</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="9" type="4">
-        <text>mm</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICA8aDEgY2xhc3M9ImJpZy1mb250IGNlbnRlcmluZyI+eyUgdHJhbnMgIkhlbGxvIHdvcmxkIiAlfTwvaDE+Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
