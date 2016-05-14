@@ -171,12 +171,12 @@
         <mark key="^" line="9" column="47" />
         <mark key="." line="9" column="47" />
       </file>
-      <file name="$USER_HOME$/repos/Web/MPL/MPL/templates/index.html" timestamp="1463208936982">
+      <file name="$USER_HOME$/repos/Web/MPL/MPL/templates/index.html" timestamp="1463214592043">
         <mark key="j" line="36" column="59" />
-        <mark key="[" line="99" column="12" />
-        <mark key="]" line="99" column="62" />
-        <mark key="." line="99" column="62" />
-        <mark key="^" line="99" column="62" />
+        <mark key="[" line="37" column="93" />
+        <mark key="]" line="37" column="92" />
+        <mark key="^" line="37" column="92" />
+        <mark key="." line="37" column="92" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/static/js/master_upload.js" timestamp="1455768347246">
         <mark key="[" line="22" column="34" />
@@ -309,12 +309,12 @@
         <mark key="." line="148" column="63" />
         <mark key="^" line="148" column="63" />
       </file>
-      <file name="$USER_HOME$/repos/Web/MPL/MPL/static/css/MPL.css" timestamp="1463205937030">
-        <mark key="j" line="68" column="17" />
-        <mark key="[" line="45" column="1" />
-        <mark key="]" line="48" column="27" />
-        <mark key="." line="48" column="27" />
-        <mark key="^" line="48" column="27" />
+      <file name="$USER_HOME$/repos/Web/MPL/MPL/static/css/MPL.css" timestamp="1463215792586">
+        <mark key="j" line="50" column="7" />
+        <mark key="[" line="69" column="9" />
+        <mark key="]" line="69" column="9" />
+        <mark key="." line="69" column="9" />
+        <mark key="^" line="69" column="9" />
       </file>
       <file name="$USER_HOME$/repos/Web/MPL/MPL/libs/interpreter.py" timestamp="1463207753247">
         <mark key="[" line="126" column="11" />
@@ -379,12 +379,12 @@
         <mark key="^" line="42" column="39" />
         <mark key="." line="42" column="39" />
       </file>
-      <file name="$USER_HOME$/repos/Web/MPL/MPL/locale/ja/LC_MESSAGES/django.po" timestamp="1463209015066">
+      <file name="$USER_HOME$/repos/Web/MPL/MPL/locale/ja/LC_MESSAGES/django.po" timestamp="1463215405116">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="144" column="8" />
-        <mark key="]" line="144" column="7" />
-        <mark key="^" line="144" column="7" />
-        <mark key="." line="144" column="7" />
+        <mark key="[" line="90" column="13" />
+        <mark key="]" line="90" column="14" />
+        <mark key="." line="90" column="14" />
+        <mark key="^" line="90" column="14" />
       </file>
       <file name="$USER_HOME$/repos/heroku/python_getting_started/.env" timestamp="1453821390851">
         <mark key="[" line="1" column="0" />
@@ -602,58 +602,37 @@
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>f0f0f0</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
       </register>
-      <register name="0" type="4">
-        <text>'ah, ah, ah, ah, ah, ah, ah, ah, ah, oh_my_god! yeah! ah, ah, ah, ah, ah,\
-    ah, ah, ah, yeah! ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, yeah! ah,\
-    ah, ah, ah, ah, f**k! f**k! f**k! oh, god! yeah! come_on! yeah! ah, ah,\
-    come_on! ah, ah, ah, ah, ah, ah, ah, come_on! come_on! ah, ah, ah, come_on!\
-    yeah! oh, come_on! oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, come_on!\
-    f**k! ah, ah, ah, ah, ah, ah, ah, ah, come_on! oh, oh, oh, oh, oh, oh, oh,\
-    oh, come_on! ah, ah, ah, come_on! oh, oh, oh, oh, oh, oh, come_on! oh, oh, oh,\
-    oh, oh, oh, oh, oh, come_on! yeah! ah, come_on!'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8cD57JSB0cmFucyAiTW9hbmluZyBQcm9ncmFtaW5nICBMYW5ndWFnZShNUEwpIGlzIGEgQnJhaW5mdWNrIGVxdWl2YWxlbnQgdGhhdCB5b3UgY2FuIHByb2dyYW0gbW9hbmluZyB3aXRoLiBNUEwgY29tbWFuZCBtYXBwaW5ncyBhcmUgYmVsb3cuIEVuam95IG1vYW5pbmchIiAlfTwvcD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyUgdHJhbnMgImFhIiAlfQo=</text>
+        <text encoding="base64">ICAgIC8qbWFyZ2luLXRvcDogNTBweDsqLwo=</text>
       </register>
       <register name="2" type="4">
-        <text>{% trans &quot;ah, ah, ah, ah, ah, ah, ah, ah, ah, oh_my_god! yeah! ah, ah, ah, ah, ah,\
-    ah, ah, ah, yeah! ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, yeah! ah,\
-    ah, ah, ah, ah, f**k! f**k! f**k! oh, god! yeah! come_on! yeah! ah, ah,\
-    come_on! ah, ah, ah, ah, ah, ah, ah, come_on! come_on! ah, ah, ah, come_on!\
-    yeah! oh, come_on! oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, come_on!\
-    f**k! ah, ah, ah, ah, ah, ah, ah, ah, come_on! oh, oh, oh, oh, oh, oh, oh,\
-    oh, come_on! ah, ah, ah, come_on! oh, oh, oh, oh, oh, oh, come_on! oh, oh, oh,\
-    oh, oh, oh, oh, oh, come_on! yeah! ah, come_on!&quot; %}</text>
+        <text>f0f0f0</text>
       </register>
-      <register name="3" type="4">
-        <text>value</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDEwcHg7Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDUwcHg7CiAgICBtYXJnaW4tYm90dG9tOiA1MHB4Owo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>{% trans &quot;ah, ah, ah, ah, ah, ah, ah, ah, ah, oh_my_god! yeah! ah, ah, ah, ah, ah,\
-    ah, ah, ah, yeah! ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, yeah! ah,\
-    ah, ah, ah, ah, f**k! f**k! f**k! oh, god! yeah! come_on! yeah! ah, ah,\
-    come_on! ah, ah, ah, ah, ah, ah, ah, come_on! come_on! ah, ah, ah, come_on!\
-    yeah! oh, come_on! oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, come_on!\
-    f**k! ah, ah, ah, ah, ah, ah, ah, ah, come_on! oh, oh, oh, oh, oh, oh, oh,\
-    oh, come_on! ah, ah, ah, come_on! oh, oh, oh, oh, oh, oh, come_on! oh, oh, oh,\
-    oh, oh, oh, oh, oh, come_on! yeah! ah, come_on!&quot; %}</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">bXNnaWQgIk1QTCBjb21tYW5kIG1hcHBpbmdzIGFyZSBiZWxvdy4gRW5qb3kgbW9hbmluZyEiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">bXNnc3RyICIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8aDEgY2xhc3M9ImJpZy1mb250IGNlbnRlcmluZyI+eyUgdHJhbnMgIkhlbGxvIHdvcmxkIiAlfTwvaDE+Cg==</text>
+        <text encoding="base64">bXNnc3RyICLllpjjgY7lo7DjgajlkITjgrPjg57jg7Pjg4njga7jg57jg4Pjg5Tjg7PjgrDjga/mrKHjga7jgajjgYrjgorjgafjgZnjgIIiCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -680,6 +659,7 @@
         <entry>we</entry>
         <entry>lw</entry>
         <entry>ew</entry>
+        <entry>w]</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
