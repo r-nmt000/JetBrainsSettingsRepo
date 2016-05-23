@@ -165,12 +165,12 @@
         <mark key="^" line="9" column="47" />
         <mark key="." line="9" column="47" />
       </file>
-      <file name="$USER_HOME$/repos/Web/MPL/MPL/templates/index.html" timestamp="1463233858299">
+      <file name="$USER_HOME$/repos/Web/MPL/MPL/templates/index.html" timestamp="1464009191893">
         <mark key="j" line="36" column="59" />
-        <mark key="[" line="87" column="58" />
-        <mark key="]" line="87" column="58" />
-        <mark key="^" line="87" column="58" />
-        <mark key="." line="87" column="58" />
+        <mark key="[" line="104" column="18" />
+        <mark key="]" line="104" column="18" />
+        <mark key="." line="104" column="18" />
+        <mark key="^" line="104" column="68" />
       </file>
       <file name="$USER_HOME$/repos/TS/msl_app_bp/static/js/master_upload.js" timestamp="1455768347246">
         <mark key="[" line="22" column="34" />
@@ -293,12 +293,13 @@
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/repos/Web/MPL/MPL/static/css/MPL.css" timestamp="1464007485469">
+      <file name="$USER_HOME$/repos/Web/MPL/MPL/static/css/MPL.css" timestamp="1464009375147">
+        <mark key="'" line="83" column="0" />
         <mark key="j" line="53" column="7" />
-        <mark key="[" line="36" column="54" />
-        <mark key="]" line="36" column="56" />
-        <mark key="." line="36" column="56" />
-        <mark key="^" line="36" column="56" />
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="." line="145" column="0" />
+        <mark key="^" line="156" column="32" />
       </file>
       <file name="$USER_HOME$/repos/Web/MPL/MPL/libs/interpreter.py" timestamp="1463232088833">
         <mark key="[" line="128" column="40" />
@@ -466,7 +467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4181" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_tc_and_section.json" />
       <jump line="4201" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_tc_and_section.json" />
       <jump line="4221" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_tc_and_section.json" />
       <jump line="4241" column="0" filename="$USER_HOME$/repos/TS/msl_app_bp/staff/fixtures/mst/test_tc_and_section.json" />
@@ -566,46 +566,47 @@
       <jump line="140" column="2" filename="$USER_HOME$/repos/TS/geo_analytics/webapp/templates/campaign_tester/new_test/select_campaign.html" />
       <jump line="98" column="0" filename="$USER_HOME$/repos/Web/MPL/MPL/locale/ja/LC_MESSAGES/django.po" />
       <jump line="9" column="0" filename="$USER_HOME$/repos/Web/MPL/MPL/locale/ja/LC_MESSAGES/django.po" />
+      <jump line="83" column="0" filename="$USER_HOME$/repos/Web/MPL/MPL/static/css/MPL.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>iuiuuuhhk</text>
       </register>
       <register name="-" type="4">
-        <text>png</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>support</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICNob3ctdG8tdXNlIHsgaGVpZ2h0OjgwMHB4O30K</text>
+        <text encoding="base64">ICAgICNoZWxsby13b3JsZC10aXRsZSB7IGhlaWdodDoxMDBweDt9Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>png</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICNoZWxsby13b3JsZC10aXRsZSB7IGhlaWdodDozMDBweDt9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IywgZnV6enkKI3wgbXNnaWQgIiIKI3wgIkp1bXAgYmFja3dhcmQgdG8gdGhlIG1hdGNoaW5nIF0gdW5sZXNzIHRoZSBieXRlIGF0IHRoZSBwb2ludGVyIGlzIHplcm8uIgo=</text>
+        <text encoding="base64">ICAgICNoZWxsby13b3JsZC10aXRsZSB7IGhlaWdodDozMDBweDt9Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>huse</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLW9mZnNldC0yIGNvbC1sZy1vZmZzZXQtMiBjb2wtbWQtOCBjb2wtbGctOD4K</text>
       </register>
-      <register name="4" type="4">
-        <text>to</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLW9mZnNldC0yIGNvbC1sZy1vZmZzZXQtMiBjb2wtbWQtOCBjb2wtbGctOD4K</text>
       </register>
       <register name="5" type="4">
-        <text>howto</text>
+        <text>&quot;</text>
       </register>
       <register name="6" type="4">
-        <text>-</text>
+        <text encoding="base64">IGNvbC14cy04IGNvbC1zbS04IA==</text>
       </register>
       <register name="7" type="4">
-        <text>howto</text>
+        <text encoding="base64">Y29sLXhzLS0yIGNvbC1zbS1vZmYtc2V0MiA=</text>
       </register>
       <register name="8" type="4">
-        <text>-</text>
+        <text>offset</text>
       </register>
       <register name="9" type="4">
-        <text>howto</text>
+        <text>png</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
