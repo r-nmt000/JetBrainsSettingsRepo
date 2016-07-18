@@ -191,6 +191,12 @@
         <mark key="." line="6" column="27" />
         <mark key="[" line="6" column="26" />
       </file>
+      <file name="$USER_HOME$/repos/worksap/stm2016-inventory-task02/WebContent/js/ec/ec.js" timestamp="1468822799206">
+        <mark key="]" line="62" column="20" />
+        <mark key="^" line="62" column="20" />
+        <mark key="." line="62" column="20" />
+        <mark key="[" line="62" column="15" />
+      </file>
       <file name="/fragment.java" timestamp="1446886791755">
         <mark key="[" line="0" column="0" />
       </file>
@@ -241,40 +247,40 @@
     </jumps>
     <registers>
       <register name="3" type="2">
-        <text encoding="base64">CQkJaWYgKHRoaXMudGV4dCgpIDwgMjAwMCkgewoJCQkJdGhpcy5jc3MoImNvbG9yIiwgInJlZCIpOwoJCQl9Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">CQkJY29uc29sZS5sb2coInRlc3QiKTsK</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">CQkvL2ZvciAodmFyIGkgPSAwOyBpIDwgJCgiLnByaWNlIikubGVuZ3RoOyBpKyspIHsKCQkvLwlpZiAoJCgiLnByaWNlIilbaV0udGV4dCgpIDwgMjAwMCkgewoJCS8vCQkkKCIucHJpY2UiKVtpXS5jc3MoImNvbG9yIiwgInJlZCIpOwoJCS8vCX0KCQkvL30KCQkvL2lmKCQoInByaWNlIikK</text>
+      </register>
+      <register name="1" type="4">
+        <text>code</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cHVibGljIGludGVyZmFjZSBPYnNlcnZlciB7CiAgICBwdWJsaWMgdm9pZCB1cGRhdGUoKTsKfQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQlmb3IgKGVsZW0gaW4gJCgiLnByaWNlIikpIHsKCQkJZWxlbTsKCQl9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlmb3IgKGVsZW0gaW4gJCgiLnByaWNlIikpIHsKCQkJZWxlbTsKCQl9Cg==</text>
+        <text encoding="base64">CQkJaWYgKHRoaXMudGV4dCgpIDwgMjAwMCkgewoJCQkJdGhpcy5jc3MoImNvbG9yIiwgInJlZCIpOwoJCQl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldE5hbWUoU3RyaW5nIG5hbWUpIHsKICAgICAgICB0aGlzLm5hbWUgPSBuYW1lOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>code</text>
       </register>
     </registers>
     <search>
