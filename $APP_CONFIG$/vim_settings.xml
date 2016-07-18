@@ -51,6 +51,12 @@
         <mark key="." line="6" column="30" />
         <mark key="[" line="5" column="28" />
       </file>
+      <file name="$USER_HOME$/repos/worksap/stm2016-inventory-task02/WebContent/js/stocks/purchase-request-detail.js" timestamp="1468824441596">
+        <mark key="]" line="84" column="8" />
+        <mark key="^" line="84" column="8" />
+        <mark key="." line="84" column="8" />
+        <mark key="[" line="84" column="34" />
+      </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/FactoryMethod/AbstractWriterFactory.java" timestamp="1445063565648">
         <mark key="]" line="6" column="34" />
         <mark key="^" line="6" column="34" />
@@ -247,13 +253,13 @@
     </jumps>
     <registers>
       <register name="3" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coInRlc3QiKTsK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">CQkvL2ZvciAodmFyIGkgPSAwOyBpIDwgJCgiLnByaWNlIikubGVuZ3RoOyBpKyspIHsKCQkvLwlpZiAoJCgiLnByaWNlIilbaV0udGV4dCgpIDwgMjAwMCkgewoJCS8vCQkkKCIucHJpY2UiKVtpXS5jc3MoImNvbG9yIiwgInJlZCIpOwoJCS8vCX0KCQkvL30KCQkvL2lmKCQoInByaWNlIikK</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>code</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">CS8vaWYgKGFsYXNxbCgnc2VsZWN0ICogZnJvbSB3YXRjaCB3aGVyZSB1c2VyID0gPycsW10pKQo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cHVibGljIGludGVyZmFjZSBPYnNlcnZlciB7CiAgICBwdWJsaWMgdm9pZCB1cGRhdGUoKTsKfQo=</text>
@@ -261,14 +267,14 @@
       <register name="7" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQlmb3IgKGVsZW0gaW4gJCgiLnByaWNlIikpIHsKCQkJZWxlbTsKCQl9Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJaWYgKHRoaXMudGV4dCgpIDwgMjAwMCkgewoJCQkJdGhpcy5jc3MoImNvbG9yIiwgInJlZCIpOwoJCQl9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJY29uc29sZS5sb2coInRlc3QiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -276,8 +282,8 @@
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text>code</text>
