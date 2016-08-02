@@ -56,13 +56,6 @@
         <mark key="^" line="10" column="44" />
         <mark key="." line="10" column="44" />
       </file>
-      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Observer/Observer.java" timestamp="1443347509264">
-        <mark key="g" line="6" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="6" column="24" />
-        <mark key="." line="6" column="24" />
-      </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Observer/Subject.java" timestamp="1443346403277">
         <mark key="[" line="6" column="27" />
         <mark key="]" line="6" column="27" />
@@ -125,6 +118,12 @@
         <mark key="[" line="5" column="17" />
         <mark key="]" line="5" column="17" />
         <mark key="." line="5" column="17" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/controller/api/BookController.java" timestamp="1470124339892">
+        <mark key="[" line="25" column="45" />
+        <mark key="]" line="25" column="44" />
+        <mark key="." line="25" column="44" />
+        <mark key="^" line="25" column="44" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Iterator/Iterator.java" timestamp="1440854114966">
         <mark key="[" line="5" column="27" />
@@ -245,6 +244,12 @@
       <jump line="10" column="4" filename="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Observer/Teacher.java" />
     </jumps>
     <registers>
+      <register name="k" type="4">
+        <text>gkgk</text>
+      </register>
+      <register name="-" type="4">
+        <text>s</text>
+      </register>
       <register name="0" type="2">
         <text encoding="base64">cHVibGljIGludGVyZmFjZSBPYnNlcnZlciB7CiAgICBwdWJsaWMgdm9pZCB1cGRhdGUoKTsKfQo=</text>
       </register>
@@ -278,9 +283,6 @@
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
@@ -308,23 +310,29 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed J</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

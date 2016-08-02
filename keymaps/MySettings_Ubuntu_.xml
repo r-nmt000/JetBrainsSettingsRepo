@@ -1,8 +1,13 @@
 <keymap version="1" name="MySettings(Ubuntu)" parent="$default">
+  <action id="CloseEditor">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CodeCompletion" />
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
+  <action id="EditorSelectWord" />
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl p" />
@@ -11,8 +16,16 @@
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
   <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="ctrl space" second-keystroke="s" />
+  </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift ctrl f12" />
+    <keyboard-shortcut first-keystroke="ctrl space" second-keystroke="m" />
+  </action>
   <action id="ParameterInfo" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
