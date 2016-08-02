@@ -8,6 +8,10 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl space" second-keystroke="w" />
+  </action>
   <action id="CodeCompletion" />
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />

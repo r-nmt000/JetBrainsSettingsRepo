@@ -9,6 +9,11 @@
         <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/dao/impl/DefaultBookDaoImpl.java" timestamp="1470136402689">
+        <mark key="[" line="26" column="115" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="/File Header.txt.ft" timestamp="1440853076641">
         <mark key="[" line="0" column="0" />
       </file>
@@ -136,11 +141,11 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/service/impl/DefaultBookService.java" timestamp="1470132641284">
-        <mark key="[" line="60" column="13" />
-        <mark key="]" line="62" column="81" />
-        <mark key="^" line="62" column="81" />
-        <mark key="." line="62" column="81" />
+      <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/service/impl/DefaultBookService.java" timestamp="1470136026941">
+        <mark key="[" line="70" column="120" />
+        <mark key="]" line="70" column="119" />
+        <mark key="." line="70" column="119" />
+        <mark key="^" line="70" column="119" />
       </file>
       <file name="/Dummy.txt" timestamp="1470109029400">
         <mark key="[" line="0" column="0" />
@@ -250,34 +255,34 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>books</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cHVibGljIGludGVyZmFjZSBPYnNlcnZlciB7CiAgICBwdWJsaWMgdm9pZCB1cGRhdGUoKTsKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gMDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBJbXBsZW1lbnQgdGhpcyBtZXRob2QgIQo=</text>
+        <text encoding="base64">CQkvLyBUT0RPIEltcGxlbWVudCB0aGlzIG1ldGhvZCEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkvL2ZvciAodmFyIGkgPSAwOyBpIDwgJCgiLnByaWNlIikubGVuZ3RoOyBpKyspIHsKCQkvLwlpZiAoJCgiLnByaWNlIilbaV0udGV4dCgpIDwgMjAwMCkgewoJCS8vCQkkKCIucHJpY2UiKVtpXS5jc3MoImNvbG9yIiwgInJlZCIpOwoJCS8vCX0KCQkvL30KCQkvL2lmKCQoInByaWNlIikK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coInRlc3QiKTsK</text>
+        <text encoding="base64">CgoKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJaWYgKHRoaXMudGV4dCgpIDwgMjAwMCkgewoJCQkJdGhpcy5jc3MoImNvbG9yIiwgInJlZCIpOwoJCQl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlmb3IgKGVsZW0gaW4gJCgiLnByaWNlIikpIHsKCQkJZWxlbTsKCQl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g44OH44O844K/44OZ44O844K544Gr5a++44GZ44KL5pON5L2c44KS44GT44GT44Gn6KGM44GGCiAgICAgICAgICAgIC8vIOabuOOBjei+vOOBv+WHpueQhuOBjOihjOOCj+OCjOOBn+WgtOWQiOOBr+OAgSBjb21taXQg44KS5ZG844Gz5Ye644GX44Gm56K65a6a44GV44Gb44KLCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQm9va1NlYXJjaFJlc3VsdCByZXN1bHQgPSBuZXcgQm9va1NlYXJjaFJlc3VsdChxdWVyeSwgbmV3IEhpdCgwLDAsMCksICkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -341,6 +346,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
