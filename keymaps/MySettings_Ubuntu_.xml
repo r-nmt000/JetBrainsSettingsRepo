@@ -1,11 +1,12 @@
 <keymap version="1" name="MySettings(Ubuntu)" parent="$default">
+  <action id="AceJumpAction">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+    <keyboard-shortcut first-keystroke="ctrl space" second-keystroke="h" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl q" />
-  </action>
-  <action id="CloseEditor">
-    <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CodeCompletion" />
   <action id="EditorDown">
@@ -24,6 +25,11 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl f12" />
     <keyboard-shortcut first-keystroke="ctrl space" second-keystroke="s" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
