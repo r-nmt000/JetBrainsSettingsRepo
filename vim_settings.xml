@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/dao/impl/DefaultBookDaoImpl.java" timestamp="1470216138811">
+      <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/dao/impl/DefaultBookDaoImpl.java" timestamp="1470218170660">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="200" column="0" />
-        <mark key="]" line="200" column="0" />
+        <mark key="]" line="203" column="37" />
         <mark key="." line="200" column="0" />
         <mark key="^" line="216" column="39" />
       </file>
@@ -52,6 +52,11 @@
         <mark key="^" line="6" column="27" />
         <mark key="." line="6" column="27" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/service/impl/DefaultCartService.java" timestamp="1470219084416">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="121" column="9" />
+        <mark key="." line="116" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Iterator/MyTeacher.java" timestamp="1440853565055">
         <mark key="[" line="20" column="41" />
         <mark key="]" line="21" column="74" />
@@ -64,7 +69,7 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/dao/impl/DefaultCartBookDaoImpl.java" timestamp="1470184415180">
+      <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/dao/impl/DefaultCartBookDaoImpl.java" timestamp="1470219298899">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="74" column="4" />
       </file>
@@ -110,7 +115,7 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/service/impl/DefaultBookService.java" timestamp="1470207707161">
+      <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/service/impl/DefaultBookService.java" timestamp="1470219318461">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
@@ -193,7 +198,7 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/controller/api/CartController.java" timestamp="1470217509516">
+      <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/controller/api/CartController.java" timestamp="1470219397395">
         <mark key="[" line="35" column="6" />
         <mark key="]" line="35" column="6" />
         <mark key="." line="35" column="6" />
@@ -226,6 +231,10 @@
         <mark key="]" line="5" column="19" />
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="19" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/service/impl/DefaultSessionCartService.java" timestamp="1470218257109">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="54" column="8" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Prototype/Paper.java" timestamp="1440929134564">
         <mark key="[" line="19" column="4" />
@@ -282,37 +291,37 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>IOException</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGdlbmVyYXRlU2VhcmNoV2l0aFF1ZXJ5U1FMKEJvb2tTZWFyY2hRdWVyeSBxdWVyeSwgTG9jYWxEYXRlIHRvZGF5KSB7CiAgICAgICAgU3RyaW5nQnVpbGRlciBzcWwgPSBuZXcgU3RyaW5nQnVpbGRlcigKICAgICAgICAgICAgICAgICJTRUxFQ1QgYi5ib29rX2lkLCBiLnRpdGxlLCBiLnB1Ymxpc2hlcl9pZCwgYi5pc2JuLCBiLnByaWNlLCBiLnBpY3R1cmUsIGIucmVsZWFzZV9kYXRlLCBiLnByY19kYXRlIgogICAgICAgICAgICAgICAgICAgICAgICArICIgRlJPTSBib29rcyBiLCBwdWJsaXNoZXJzIHAiICsgIiBXSEVSRSBiLnB1Ymxpc2hlcl9pZD1wLnB1Ymxpc2hlcl9pZCIpOwoKICAgICAgICBnZW5lcmF0ZVNlYXJjaFF1ZXJ5U1FMKHF1ZXJ5LCB0b2RheSwgc3FsKTsKCiAgICAgICAgc3FsLmFwcGVuZCgiIE9SREVSIEJZIGIuYm9va19pZCIpOwoKICAgICAgICByZXR1cm4gd3JhcFRvQ2xpcFNRTChzcWwpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIFN0cmluZyBtZXNzYWdlID0gU3RyaW5nLmZvcm1hdCgiUGxlYXNlIGNoZWNrIGluY29uc2lzdGVuY3kgYW5kIHRoZSBkYXRhYmFzZSBzdGF0dXM6IGNhcnRJZCA9ICVzLCBub3cgPSAlcyIsCiAgICAgICAgICAgICAgICAgICAgY2FydElkLCBub3cpOwogICAgICAgICAgICBsb2cuZXJyb3IobWVzc2FnZSwgZSk7CiAgICAgICAgICAgIHRocm93IG5ldyBUcmFuc2FjdGlvbkV4Y2VwdGlvbigiRXhjZXB0aW9uIG9jY3VyZWQgd2hpbGUgaGFuZGxpbmcgY29ubmVjdGlvbi4iLCBlKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIEltcGxlbWVudCB0aGlzIG1ldGhvZCEK</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIFN0cmluZyBtZXNzYWdlID0gU3RyaW5nLmZvcm1hdCgiUGxlYXNlIGNoZWNrIGluY29uc2lzdGVuY3kgYW5kIHRoZSBkYXRhYmFzZSBzdGF0dXM6IGNhcnRJZCA9ICVzLCBub3cgPSAlcyIsCiAgICAgICAgICAgICAgICAgICAgY2FydElkLCBub3cpOwogICAgICAgICAgICBsb2cuZXJyb3IoIlVwZGF0ZSBmYWlsdXJlIiwgZSk7CiAgICAgICAgICAgIHRocm93IG5ldyBJT0V4Y2VwdGlvbigiRXhjZXB0aW9uIG9jY3VyZWQgd2hpbGUgaGFuZGxpbmcgY29ubmVjdGlvbi4iLCBlKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG1lc3NhZ2UgPSBTdHJpbmcuZm9ybWF0KCJQbGVhc2UgY2hlY2sgaW5jb25zaXN0ZW5jeSBhbmQgdGhlIGRhdGFiYXNlIHN0YXR1czogY2FydElkID0gJXMsIG5vdyA9ICVzIiwKICAgICAgICAgICAgICAgICAgICBjYXJ0SWQsIG5vdyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG1lc3NhZ2UgPSBTdHJpbmcuZm9ybWF0KCJQbGVhc2UgY2hlY2sgaW5jb25zaXN0ZW5jeSBhbmQgc3RhdHVzOiBjYXJ0SWQgPSAlcywgdG9kYXkgPSAlcyIsIGNhcnRJZCwgdG9kYXkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cudHJhY2UoInNlYXJjaFdpdGhRdWVyeU9yZGVyQnlJZDogZ2VuZXJhdGVkIFNRTCA9IHt9Iiwgc3FsKTsK</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FydEJvb2tEYWtqby5jcmVhdGVJZk5vdEV4aXN0KHRyYW5zYWN0aW9uLCBjYXJ0Qm9va0R0byk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3FsID0gZ2VuZXJhdGVTZWFyY2hXaXRoUXVlcnlTUUwoY2FydElkLCB0b2RheSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FydEJvb2tEYW8uY3JlYXRlSWZOb3RFeGlzdCh0cmFuc2FjdGlvbiwgY2FydEJvb2tEdG8pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocXVlcnkuZ2V0QmVnaW4oKSA8IDAgfHwgcXVlcnkuZ2V0RW5kKCkgPCBxdWVyeS5nZXRCZWdpbigpKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oIkJhZCBxdWVyeTogIiArIHF1ZXJ5LnRvU3RyaW5nKCkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FydEJvb2tEYW8uCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
