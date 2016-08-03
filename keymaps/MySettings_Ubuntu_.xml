@@ -13,6 +13,10 @@
     <keyboard-shortcut first-keystroke="ctrl space" second-keystroke="w" />
   </action>
   <action id="CodeCompletion" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift f9" />
+    <keyboard-shortcut first-keystroke="ctrl space" second-keystroke="d" />
+  </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl n" />
@@ -47,6 +51,10 @@
   <action id="ParameterInfo" />
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="ctrl space" second-keystroke="r" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
