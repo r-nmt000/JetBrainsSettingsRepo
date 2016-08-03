@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/dao/impl/DefaultBookDaoImpl.java" timestamp="1470225613319">
+      <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/dao/impl/DefaultBookDaoImpl.java" timestamp="1470227214768">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="210" column="0" />
-        <mark key="]" line="213" column="25" />
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="62" />
         <mark key="^" line="216" column="39" />
       </file>
       <file name="/File Header.txt.ft" timestamp="1440853076641">
@@ -51,7 +51,7 @@
         <mark key="^" line="6" column="27" />
         <mark key="." line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/service/impl/DefaultCartService.java" timestamp="1470224124692">
+      <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/service/impl/DefaultCartService.java" timestamp="1470226313555">
         <mark key="[" line="113" column="0" />
         <mark key="]" line="113" column="0" />
         <mark key="." line="113" column="0" />
@@ -62,9 +62,9 @@
         <mark key="^" line="21" column="74" />
         <mark key="." line="21" column="74" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/dao/impl/DefaultCartDaoImpl.java" timestamp="1470225779617">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/dao/impl/DefaultCartDaoImpl.java" timestamp="1470226757553">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="89" column="12" />
         <mark key="^" line="41" column="27" />
         <mark key="." line="43" column="0" />
       </file>
@@ -74,10 +74,10 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/dao/impl/DefaultCartBookDaoImpl.java" timestamp="1470224215574">
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/dao/impl/DefaultCartBookDaoImpl.java" timestamp="1470226522581">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="143" column="8" />
+        <mark key="." line="130" column="28" />
         <mark key="^" line="136" column="27" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Iterator/MyStudentListIterator.java" timestamp="1440855044339">
@@ -228,6 +228,12 @@
         <mark key="]" line="40" column="76" />
         <mark key="." line="40" column="76" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/dao/impl/DefaultStockDaoImpl.java" timestamp="1470227276237">
+        <mark key="[" line="45" column="23" />
+        <mark key="]" line="45" column="38" />
+        <mark key="^" line="45" column="38" />
+        <mark key="." line="45" column="38" />
+      </file>
       <file name="$USER_HOME$/repos/worksap/stm2016-inventory-task01/WebContent/emp.html" timestamp="1460314620913">
         <mark key="]" line="73" column="12" />
         <mark key="^" line="73" column="12" />
@@ -298,10 +304,10 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>MockServiceFactory</text>
+        <text>createIfNotExist</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxCb29rRHRvPiByZXN1bHQgPSByZWFkUm93QXNCb29rRHRvTGlzdChyZXN1bHRTZXQpOwogICAgICAgICAgICBsb2cudHJhY2UoInNlYXJjaFdpdGhDYXJ0SWQ6IHt9IiwgcmVzdWx0KTsKCiAgICAgICAgICAgIHJldHVybiByZXN1bHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLnRyYWNlKCJzZWFyY2hXaXRoUXVlcnlPcmRlckJ5SWQ6IHt9IiwgcmVzdWx0KTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -310,25 +316,26 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlc3VsdFNldC5uZXh0KCkpIHsKICAgICAgICAgICAgICAgIGludCBjYXJ0SWQgPSByZXN1bHRTZXQuZ2V0SW50KDEpOwogICAgICAgICAgICAgICAgcmV0dXJuIG5ldyBDYXJ0RHRvKGNhcnRJZCwgc2Vzc2lvbklkKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgcmV0dXJuIGNhcnRCb29rRHRvOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2FydER0byByZXN1bHQgPSByZWFkUm93QXNDYXJ0RHRvKHJlc3VsdFNldCk7CiAgICAgICAgICAgIGxvZy50cmFjZSgic2VhcmNoV2l0aENhcnRJZDoge30iLCByZXN1bHQpOwoKICAgICAgICAgICAgcmV0dXJuIHJlc3VsdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLnRyYWNlKCJmaW5kQnlJZFdpdGhMb2NrOiByZXN1bHRTZXQgPSB7fSIsIHVwZGF0ZWRSb3cpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLnRyYWNlKCJzZWFyY2hXaXRoUXVlcnlPcmRlckJ5SWQ6IHt9IiwgcmVzdWx0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVwZGF0ZWRSb3cgPT0gMCkgewogICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgKFByZXBhcmVkU3RhdGVtZW50IHN0YXRlbWVudCA9IHRyYW5zYWN0aW9uLmdldEpkYmNDb25uZWN0aW9uKCkpCiAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLnRyYWNlKCJmaW5kQnlTZXNzaW9uSWQ6IHJlc3VsdFNldCA9IHt9IiwgcmVzdWx0U2V0KTsK</text>
+      <register name="8" type="4">
+        <text>nt statement = connection.prepareStatement(CREATE_IF_NOT_EXIST_SQL)) {
+            applyCreateIfNot</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVzdWx0U2V0IHJlc3VsdFNldCA9IHN0YXRlbWVudC5nZXRHZW5lcmF0ZWRLZXlzKCk7CiAgICAgICAgICAgIGlmIChyZXN1bHRTZXQubmV4dCgpKSB7CiAgICAgICAgICAgICAgICBpbnQgY2FydElkID0gcmVzdWx0U2V0LmdldEludCgxKTsKICAgICAgICAgICAgICAgIHJldHVybiBuZXcgQ2FydER0byhjYXJ0SWQsIHNlc3Npb25JZCk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
