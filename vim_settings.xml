@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/dao/impl/DefaultBookDaoImpl.java" timestamp="1470218170660">
+      <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/dao/impl/DefaultBookDaoImpl.java" timestamp="1470224886675">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="200" column="0" />
-        <mark key="]" line="203" column="37" />
-        <mark key="." line="200" column="0" />
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="182" column="4" />
         <mark key="^" line="216" column="39" />
       </file>
       <file name="/File Header.txt.ft" timestamp="1440853076641">
@@ -52,10 +51,10 @@
         <mark key="^" line="6" column="27" />
         <mark key="." line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/service/impl/DefaultCartService.java" timestamp="1470219084416">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="121" column="9" />
-        <mark key="." line="116" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/service/impl/DefaultCartService.java" timestamp="1470224124692">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Iterator/MyTeacher.java" timestamp="1440853565055">
         <mark key="[" line="20" column="41" />
@@ -63,11 +62,11 @@
         <mark key="^" line="21" column="74" />
         <mark key="." line="21" column="74" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/dao/impl/DefaultCartDaoImpl.java" timestamp="1470221636625">
-        <mark key="[" line="60" column="23" />
-        <mark key="]" line="60" column="23" />
-        <mark key="^" line="53" column="55" />
-        <mark key="." line="60" column="23" />
+      <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/dao/impl/DefaultCartDaoImpl.java" timestamp="1470224799486">
+        <mark key="[" line="32" column="50" />
+        <mark key="]" line="32" column="50" />
+        <mark key="." line="32" column="50" />
+        <mark key="^" line="31" column="92" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Iterator/StudentList.java" timestamp="1440852842590">
         <mark key="[" line="9" column="26" />
@@ -75,9 +74,11 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/dao/impl/DefaultCartBookDaoImpl.java" timestamp="1470221203635">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="55" column="8" />
+      <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/dao/impl/DefaultCartBookDaoImpl.java" timestamp="1470224215574">
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="0" />
+        <mark key="." line="138" column="0" />
+        <mark key="^" line="136" column="27" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Iterator/MyStudentListIterator.java" timestamp="1440855044339">
         <mark key="[" line="22" column="65" />
@@ -238,7 +239,7 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/service/impl/DefaultSessionCartService.java" timestamp="1470218257109">
+      <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/service/impl/DefaultSessionCartService.java" timestamp="1470223760402">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="54" column="8" />
       </file>
@@ -283,7 +284,7 @@
       <file name="/Html.txt.ft" timestamp="1443346078882">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1470204818046">
+      <file name="/fragment.java" timestamp="1470224728955">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -297,37 +298,37 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>message</text>
+        <text>now</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBDb25uZWN0aW9uIGNvbm5lY3Rpb24gPSB0cmFuc2FjdGlvbi5nZXRKZGJjQ29ubmVjdGlvbigpOwogICAgICAgIHRyeSAoUHJlcGFyZWRTdGF0ZW1lbnQgc3RhdGVtZW50ID0gY29ubmVjdGlvbi5wcmVwYXJlU3RhdGVtZW50KFNFQVJDSF9XSVRIX0NBUlRfSURfU1FMKSkgewogICAgICAgICAgICBzdGF0ZW1lbnQuc2V0SW50KDEsIGNhcnRJZCk7CgogICAgICAgICAgICBSZXN1bHRTZXQgcmVzdWx0U2V0ID0gc3RhdGVtZW50LmV4ZWN1dGVRdWVyeSgpOwoKICAgICAgICAgICAgTGlzdDxDYXJ0Qm9va0R0bz4gcmVzdWx0ID0gcmVhZFJvd0FzQ2FydEJvb2tEdG9MaXN0KHJlc3VsdFNldCk7CgogICAgICAgICAgICBsb2cudHJhY2UoInNlYXJjaFdpdGhDYXJ0SWQ6IHJlc3VsdCA9IHt9IiwgcmVzdWx0KTsKICAgICAgICAgICAgcmV0dXJuIHJlc3VsdDsKICAgICAgICB9IGNhdGNoIChTUUxFeGNlcHRpb24gZSkgewogICAgICAgICAgICBTdHJpbmcgbWVzc2FnZSA9IFN0cmluZy5mb3JtYXQoIlBsZWFzZSBjaGVjayBpbmNvbnNpc3RlbmN5IGFuZCBkYXRhYmFzZSBzdGF0dXM6IGNhcnRJZCA9ICVkIiwgY2FydElkKTsKICAgICAgICAgICAgbG9nLmVycm9yKG1lc3NhZ2UsIGUpOwogICAgICAgICAgICB0aHJvdyBuZXcgSU9FeGNlcHRpb24oIkV4ZWN1dGlvbiBmYWlsdXJlLiIsIGUpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGFwcGx5U2VhcmNoUXVlcnlWYWx1ZXMoUHJlcGFyZWRTdGF0ZW1lbnQgc3RhdGVtZW50LCBCb29rU2VhcmNoUXVlcnkgcXVlcnksIExvY2FsRGF0ZSB0b2RheSwgaW50IGluZGV4KQogICAgICAgICAgICB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgICAgICBTdHJpbmcgdGl0bGUgPSBxdWVyeS5nZXRUaXRsZSgpOwogICAgICAgIGlmICh0aXRsZSAhPSBudWxsICYmICF0aXRsZS5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgc3RhdGVtZW50LnNldFN0cmluZygrK2luZGV4LCB0aXRsZSk7CiAgICAgICAgfQoKICAgICAgICBTdHJpbmcgcHVibGlzaGVyID0gcXVlcnkuZ2V0UHVibGlzaGVyKCk7CiAgICAgICAgaWYgKHB1Ymxpc2hlciAhPSBudWxsICYmICFwdWJsaXNoZXIuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIHN0YXRlbWVudC5zZXRTdHJpbmcoKytpbmRleCwgcHVibGlzaGVyKTsKICAgICAgICB9CgogICAgICAgIERhdGUgdG9kYXlEYXRlID0gRGF0ZS5mcm9tKHRvZGF5LmF0U3RhcnRPZkRheSgpLmF0Wm9uZShab25lSWQuc3lzdGVtRGVmYXVsdCgpKS50b0luc3RhbnQoKSk7CiAgICAgICAgc3RhdGVtZW50LnNldERhdGUoKytpbmRleCwgbmV3IGphdmEuc3FsLkRhdGUodG9kYXlEYXRlLmdldFRpbWUoKSkpOwoKICAgICAgICByZXR1cm4gaW5kZXg7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdGVtZW50LnNldEludCgxLCBjYXJ0SWQpOwoKICAgICAgICAgICAgUmVzdWx0U2V0IHJlc3VsdFNldCA9IHN0YXRlbWVudC5leGVjdXRlUXVlcnkoKTsKCiAgICAgICAgICAgIExpc3Q8Q2FydEJvb2tEdG8+IHJlc3VsdCA9IHJlYWRSb3dBc0NhcnRCb29rRHRvTGlzdChyZXN1bHRTZXQpOwoKICAgICAgICAgICAgbG9nLnRyYWNlKCJzZWFyY2hXaXRoQ2FydElkOiByZXN1bHQgPSB7fSIsIHJlc3VsdCk7CiAgICAgICAgICAgIHJldHVybiByZXN1bHQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG1lc3NhZ2UgPSBTdHJpbmcuZm9ybWF0KCJQbGVhc2UgY2hlY2sgaW5jb25zaXN0ZW5jeSBhbmQgZGF0YWJhc2Ugc3RhdHVzOiBjYXJ0SWQgPSAlZCIsIGNhcnRJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3RzLnJlcXVpcmVOb25OdWxsKG5vdyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIFN0cmluZyBtZXNzYWdlID0gU3RyaW5nLmZvcm1hdCgiUGxlYXNlIGNoZWNrIGluY29uc2lzdGVuY3kgYW5kIHRoZSBkYXRhYmFzZSBzdGF0dXM6IGNhcnRJZCA9ICVzLCBub3cgPSAlcyIsCiAgICAgICAgICAgICAgICAgICAgY2FydElkLCBub3cpOwogICAgICAgICAgICBsb2cuZXJyb3IoIlVwZGF0ZSBmYWlsdXJlIiwgZSk7CiAgICAgICAgICAgIHRocm93IG5ldyBJT0V4Y2VwdGlvbigiRXhjZXB0aW9uIG9jY3VyZWQgd2hpbGUgaGFuZGxpbmcgY29ubmVjdGlvbi4iLCBlKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG1lc3NhZ2UgPSBTdHJpbmcuZm9ybWF0KCJQbGVhc2UgY2hlY2sgaW5jb25zaXN0ZW5jeSBhbmQgdGhlIGRhdGFiYXNlIHN0YXR1czogY2FydElkID0gJXMsIG5vdyA9ICVzIiwKICAgICAgICAgICAgICAgICAgICBjYXJ0SWQsIG5vdyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVzdWx0U2V0IHJlc3VsdFNldCA9IHN0YXRlbWVudC5nZXRHZW5lcmF0ZWRLZXlzKCk7CiAgICAgICAgICAgIGlmIChyZXN1bHRTZXQubmV4dCgpKSB7CiAgICAgICAgICAgICAgICBpbnQgY2FydElkID0gcmVzdWx0U2V0LmdldEludCgxKTsKICAgICAgICAgICAgICAgIHJldHVybiBuZXcgQ2FydEJvb2tEdG8oY2FydElkKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FydEJvb2tEYWtqby5jcmVhdGVJZk5vdEV4aXN0KHRyYW5zYWN0aW9uLCBjYXJ0Qm9va0R0byk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3RzLnJlcXVpcmVOb25OdWxsKG5vdyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -395,6 +396,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
