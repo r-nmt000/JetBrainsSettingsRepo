@@ -236,6 +236,12 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="19" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/service/impl/CartChecker.java" timestamp="1470293640883">
+        <mark key="[" line="51" column="23" />
+        <mark key="]" line="52" column="4" />
+        <mark key="." line="52" column="4" />
+        <mark key="^" line="52" column="4" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/service/impl/DefaultSessionCartService.java" timestamp="1470223760402">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="54" column="8" />
@@ -286,37 +292,37 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>cartId</text>
+        <text>cartBookDto</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2cudHJhY2UoImFkZENhcnRCb29rOiBjYXJ0SWQgPSB7fSwgYm9va0lkID0ge30sIG5vdyA9IHt9IiwgY2FydElkLCBib29rSWQsIG5vdyk7CiAgICAgICAgT2JqZWN0cy5yZXF1aXJlTm9uTnVsbChjYXJ0SWQpOwogICAgICAgIE9iamVjdHMucmVxdWlyZU5vbk51bGwoYm9va0lkKTsKICAgICAgICBPYmplY3RzLnJlcXVpcmVOb25OdWxsKG5vdyk7CgogICAgICAgIHRyeSAoVHJhbnNhY3Rpb24gdHJhbnNhY3Rpb24gPSBkYXRhU3RvcmUuYmVnaW4oKSkgewogICAgICAgICAgICBjYXJ0Qm9va0Rhby5jcmVhdGVJZk5vdEV4aXN0KHRyYW5zYWN0aW9uLCBuZXcgQ2FydEJvb2tEdG8oY2FydElkLCBib29rSWQsIDEsIG5vdykpOwogICAgICAgICAgICB0cmFuc2FjdGlvbi5jb21taXQoKTsKCiAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICBTdHJpbmcgbWVzc2FnZSA9IFN0cmluZy5mb3JtYXQoIlBsZWFzZSBjaGVjayBpbmNvbnNpc3RlbmN5IGFuZCB0aGUgZGF0YWJhc2Ugc3RhdHVzOiBjYXJ0SWQgPSAlcywgbm93ID0gJXMiLAogICAgICAgICAgICAgICAgICAgIGNhcnRJZCwgbm93KTsKICAgICAgICAgICAgbG9nLmVycm9yKG1lc3NhZ2UsIGUpOwogICAgICAgICAgICB0aHJvdyBuZXcgVHJhbnNhY3Rpb25FeGNlcHRpb24oIkV4Y2VwdGlvbiBvY2N1cmVkIHdoaWxlIGhhbmRsaW5nIGNvbm5lY3Rpb24uIiwgZSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBMaXN0PENhcnRCb29rRHRvPiBjYXJ0Qm9va0R0b0xpc3QgPSBjYXJ0Qm9va0Rhby5zZWFyY2hXaXRoQ2FydElkKHRyYW5zYWN0aW9uLCBjYXJ0SWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBMaXN0PENhcnRCb29rRHRvPiBjYXJ0Qm9va0R0b0xpc3QgPSBjYXJ0Qm9va0Rhby5zZWFyY2hXaXRoQ2FydElkKHRyYW5zYWN0aW9uLCBjYXJ0SWQpOwogICAgICAgICAgICBMaXN0PENhcnRCb29rRHRvPiBjYXJ0Qm9va0R0b0xpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICAgICAgZm9yIChDYXJ0UXVhbnRpdHkgcXVhbnRpdHkgOiBxdWFudGl0aWVzKSB7CiAgICAgICAgICAgICAgICBpZiAocXVhbnRpdHkuZ2V0UXVhbnRpdHkoKSAhPSAwKSB7CiAgICAgICAgICAgICAgICAgICAgY2FydEJvb2tEdG9MaXN0LmFkZChuZXcgQ2FydEJvb2tEdG8oY2FydElkLCBxdWFudGl0eS5nZXRCb29rSWQoKSwgcXVhbnRpdHkuZ2V0UXVhbnRpdHkoKSwgbm93KSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgY2FydEJvb2tEYW8uZGVsZXRlT3RoZXJzKHRyYW5zYWN0aW9uLCBjYXJ0SWQsIGR0b0NvbnZlcnRlci50b0Jvb2tJZFNldChjYXJ0Qm9va0R0b0xpc3QpKTsKICAgICAgICAgICAgY2FydEJvb2tEYW8udXBkYXRlKHRyYW5zYWN0aW9uLCBjYXJ0Qm9va0R0b0xpc3QpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBMaXN0PENhcnRCb29rRHRvPiBjYXJ0Qm9va0R0b0xpc3QgPSBjYXJ0Qm9va0Rhby5zZWFyY2hXaXRoQ2FydElkKHRyYW5zYWN0aW9uLCBjYXJ0SWQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocXVhbnRpdGllcy5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgY2FydEJvb2tEYW8uZGVsZXRlQnlDYXJ0SWQoKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBMaXN0PENhcnRCb29rRHRvPiBjYXJ0Qm9va0R0b0xpc3QgPSBjYXJ0Qm9va0Rhby5zZWFyY2hXaXRoQ2FydElkKHRyYW5zYWN0aW9uLCBjYXJ0SWQpOwogICAgICAgICAgICBMaXN0PENhcnRCb29rRHRvPiBjYXJ0Qm9va0R0b0xpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICAgICAgZm9yIChDYXJ0UXVhbnRpdHkgcXVhbnRpdHkgOiBxdWFudGl0aWVzKSB7CiAgICAgICAgICAgICAgICBpZiAocXVhbnRpdHkuZ2V0UXVhbnRpdHkoKSAhPSAwKSB7CiAgICAgICAgICAgICAgICAgICAgY2FydEJvb2tEdG9MaXN0LmFkZChuZXcgQ2FydEJvb2tEdG8oY2FydElkLCBxdWFudGl0eS5nZXRCb29rSWQoKSwgcXVhbnRpdHkuZ2V0UXVhbnRpdHkoKSwgbm93KSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgY2FydEJvb2tEYW8uZGVsZXRlT3RoZXJzKHRyYW5zYWN0aW9uLCBjYXJ0SWQsIGR0b0NvbnZlcnRlci50b0Jvb2tJZFNldChjYXJ0Qm9va0R0b0xpc3QpKTsKICAgICAgICAgICAgY2FydEJvb2tEYW8udXBkYXRlKHRyYW5zYWN0aW9uLCBjYXJ0Qm9va0R0b0xpc3QpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FydEJvb2tEYW8uZGVsZXRlT3RoZXJzKHRyYW5zYWN0aW9uLCBjYXJ0SWQsIGR0b0NvbnZlcnRlci50b0Jvb2tJZFNldChjYXJ0Qm9va0R0b0xpc3QpKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAocXVhbnRpdGllcy5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgY2FydEJvb2tEYW8uZGVsZXRlQnlDYXJ0SWQoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FydEJvb2tEYW8uZGVsZXRlT3RoZXJzKHRyYW5zYWN0aW9uLCBjYXJ0SWQsIGR0b0NvbnZlcnRlci50b0Jvb2tJZFNldChjYXJ0Qm9va0R0b0xpc3QpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhcnRCb29rRHRvTGlzdC5hZGQobmV3IENhcnRCb29rRHRvKGNhcnRJZCwgcXVhbnRpdHkuZ2V0Qm9va0lkKCksIHF1YW50aXR5LmdldFF1YW50aXR5KCksIG5vdykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVsZXRlT3RoZXJzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhcnRCb29rRHRvTGlzdC5hZGQobmV3IENhcnRCb29rRHRvKGNhcnRJZCwgcXVhbnRpdHkuZ2V0Qm9va0lkKCksIHF1YW50aXR5LmdldFF1YW50aXR5KCksIG5vdykpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVsZXRlT3RoZXJzKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
