@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/cs-api-1/src/main/webapp/js/cart/controller.js" timestamp="1470380042498">
-        <mark key="[" line="18" column="43" />
-        <mark key="]" line="7" column="48" />
-        <mark key="." line="7" column="48" />
-        <mark key="^" line="7" column="48" />
+      <file name="$USER_HOME$/IdeaProjects/cs-api-1/src/main/webapp/js/cart/controller.js" timestamp="1470380736575">
+        <mark key="[" line="34" column="39" />
+        <mark key="]" line="34" column="53" />
+        <mark key="." line="34" column="53" />
+        <mark key="^" line="34" column="53" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/MyStudentList.java" timestamp="1440854516930">
         <mark key="[" line="8" column="68" />
@@ -333,34 +333,43 @@
         <text>totalPrice</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9icy52aWV3LmNhcnRPcGVyYXRpb25QYW5lbC5zZXRFbmFibGUodHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBvYnMudmlldy50b3RhbFByaWNlLnJlbmRlcih0b3RhbFByaWNlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2JzLnZpZXcuY2FydE9wZXJhdGlvblBhbmVsLnNldEVuYWJsZShmYWxzZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2JzLnZpZXcuY2FydE9wZXJhdGlvblBhbmVsLnNldEVuYWJsZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBzaG93RmxnID0gCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVzdWx0Lmxlbmd0aCAhPT0gMCkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="7" type="4">
+        <text>function (result) {
+            util.log(result);
+            obs.view.cartBookList.render(result);
+            if (result.length !== 0) {
+                obs.view.cartOperationPanel.setEnable(true);
+            } else {
+                obs.view.cartOperationPanel.setEnable(false);
+            }
+            obs.view.totalPrice.render(calcTotalPrice(result));
+        }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2JzLnZpZXcuY2FydE9wZXJhdGlvblBhbmVsLnJlbmRlcihyZXN1bHQuYm9va3MsIHJlc3VsdC5xdWVyeSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY2FydEJvb2tzLnJlZHVjZShmdW5jdGlvbihwcmV2LGN1cnJlbnQpIHsKICAgICAgICAgICAgcmV0dXJuIHtxdWFudGl0eTogcHJldi5xdWFudGl0eSpwcmV2LiArIGN1cnJlbnQucXVhbnRpdHl9CiAgICAgICAgfSkucXVhbnRpdHkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2JzLnZpZXcucGFnaW5hdG9yLnJlbmRlcihyZXN1bHQuaGl0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
