@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/cs-api-1/src/main/webapp/js/cart/controller.js" timestamp="1470380736575">
-        <mark key="[" line="34" column="39" />
-        <mark key="]" line="34" column="53" />
-        <mark key="." line="34" column="53" />
-        <mark key="^" line="34" column="53" />
+      <file name="$USER_HOME$/IdeaProjects/cs-api-1/src/main/webapp/js/cart/controller.js" timestamp="1470381970356">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="36" column="11" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/MyStudentList.java" timestamp="1440854516930">
         <mark key="[" line="8" column="68" />
@@ -330,46 +330,37 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>totalPrice</text>
+        <text>true</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvYnMudmlldy50b3RhbFByaWNlLnJlbmRlcih0b3RhbFByaWNlKTsK</text>
+        <text encoding="base64">ICAgICAgICBvYnMudmlldy5jYXJ0T3BlcmF0aW9uUGFuZWwuc2V0RW5hYmxlKGVtcHR5KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2JzLnZpZXcuY2FydE9wZXJhdGlvblBhbmVsLnNldEVuYWJsZShmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2JzLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVzdWx0Lmxlbmd0aCAhPT0gMCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRvdGFsUHJpY2UgPT09IDApIHsKICAgICAgICAgICAgICAgIG9icy52aWV3LmNhcnRPcGVyYXRpb25QYW5lbC5zZXRFbmFibGUoZmFsc2UpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>function (result) {
-            util.log(result);
-            obs.view.cartBookList.render(result);
-            if (result.length !== 0) {
-                obs.view.cartOperationPanel.setEnable(true);
-            } else {
-                obs.view.cartOperationPanel.setEnable(false);
-            }
-            obs.view.totalPrice.render(calcTotalPrice(result));
-        }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8vIGZ1bmN0aW9uIGNhbGNUb3RhbFByaWNlRnJvbUhUTUwoKSB7CiAgICAvLyAgICAgdmFyIHRvdGFsID0gMDsKICAgIC8vICAgICAkKCcucm93JykuZWFjaChmdW5jdGlvbigpewogICAgLy8gICAgICAgICB0b3RhbCA9ICQodGhpcykuZmluZCgnLnByaWNlJykudmFsKCkgKiAkKHRoaXMpLmZpbmQoJy5xdWFudGl0eScpCiAgICAvLyAgICAgfSkKICAgIC8vCiAgICAvLyB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY2FydEJvb2tzLnJlZHVjZShmdW5jdGlvbihwcmV2LGN1cnJlbnQpIHsKICAgICAgICAgICAgcmV0dXJuIHtxdWFudGl0eTogcHJldi5xdWFudGl0eSpwcmV2LiArIGN1cnJlbnQucXVhbnRpdHl9CiAgICAgICAgfSkucXVhbnRpdHkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2JzLnZpZXcudG90YWxQcmljZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2JzLnZpZXcudG90YWxQcmljZS5yZW5kZXIoY2FsY1RvdGFsUHJpY2UoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
