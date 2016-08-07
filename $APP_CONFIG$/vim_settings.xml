@@ -9,10 +9,11 @@
         <mark key="." line="5" column="0" />
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/com/example/main/Main.java" timestamp="1470532456922">
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="[" line="12" column="0" />
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/com/example/main/Main.java" timestamp="1470536405827">
+        <mark key="]" line="15" column="41" />
+        <mark key="^" line="15" column="41" />
+        <mark key="." line="15" column="41" />
+        <mark key="[" line="15" column="23" />
       </file>
       <file name="$USER_HOME$/repos/worksap/stm2016-inventory-task01/WebContent/emp.html" timestamp="1460314620913">
         <mark key="]" line="73" column="12" />
@@ -103,6 +104,12 @@
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/com/example/testAnonymous/AnonymousClass.java" timestamp="1470536390155">
+        <mark key="]" line="18" column="41" />
+        <mark key="^" line="18" column="41" />
+        <mark key="." line="18" column="41" />
+        <mark key="[" line="18" column="31" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/Main.java" timestamp="1440852050153">
         <mark key="]" line="3" column="19" />
@@ -256,40 +263,45 @@
     </jumps>
     <registers>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oJ2EnKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oJ1x1MDA2MScpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbignXHUzMDQyJyk7CiAgICAgICAgU3RyaW5nIHN0ciA9ICLjg4bjgrnjg4giOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzdHIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>Tokumei</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBCb29sZWFuIGJvb2wgPSBmYWxzZTsK</text>
+      <register name="1" type="4">
+        <text>executeAnonymousClass</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5leGFtcGxlLnN1a2tpcmlfamF2YV9wcmFjdGljZS5DaGFwdGVyU2l4LkZ1bmNMaXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICBBbm9ueW1vdXNDbGFzcy5leGVjdXRlQW5vbnltb3VzQ2xhc3MoKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CS8vaWYgKGFsYXNxbCgnc2VsZWN0ICogZnJvbSB3YXRjaCB3aGVyZSB1c2VyID0gPycsW10pKQo=</text>
+      <register name="7" type="4">
+        <text>static</text>
       </register>
-      <register name="6" type="4">
-        <text>'\u3042'</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>anonymous</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0Cg==</text>
+      <register name="4" type="4">
+        <text>new Object() {
+            @Override
+            public String toString() {
+                return &quot;This is anonymous class&quot;;
+            }
+        });</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkvL2ZvciAodmFyIGkgPSAwOyBpIDwgJCgiLnByaWNlIikubGVuZ3RoOyBpKyspIHsKCQkvLwlpZiAoJCgiLnByaWNlIilbaV0udGV4dCgpIDwgMjAwMCkgewoJCS8vCQkkKCIucHJpY2UiKVtpXS5jc3MoImNvbG9yIiwgInJlZCIpOwoJCS8vCX0KCQkvL30KCQkvL2lmKCQoInByaWNlIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>code</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBCb29sZWFuIGJvb2wgPSBmYWxzZTsK</text>
       </register>
       <register name="-" type="4">
-        <text>'\u3042'</text>
+        <text>executeAnonymousClass</text>
       </register>
     </registers>
     <search>
