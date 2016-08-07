@@ -27,11 +27,11 @@
         <mark key="." line="6" column="27" />
         <mark key="[" line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/com/example/main/Main.java" timestamp="1470549709875">
-        <mark key="]" line="21" column="17" />
-        <mark key="^" line="21" column="17" />
-        <mark key="." line="21" column="17" />
-        <mark key="[" line="20" column="83" />
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java/src/main/java/com/example/main/Main.java" timestamp="1470551041579">
+        <mark key="]" line="21" column="66" />
+        <mark key="^" line="21" column="66" />
+        <mark key="." line="21" column="66" />
+        <mark key="[" line="21" column="62" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Adaptor/Teacher.java" timestamp="1440913135041">
         <mark key="]" line="7" column="45" />
@@ -263,40 +263,40 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>ArrayIndexOutOfBoundsException</text>
+        <text>Arrays</text>
       </register>
       <register name="2" type="4">
-        <text>String</text>
+        <text>array</text>
       </register>
       <register name="1" type="4">
-        <text>new</text>
+        <text>int</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBBbm9ueW1vdXNDbGFzcy5leGVjdXRlQW5vbnltb3VzQ2xhc3MoKTsK</text>
       </register>
       <register name="7" type="4">
-        <text>executeAnonymousClass</text>
+        <text>stringList</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PYmplY3RzOwo=</text>
+      <register name="6" type="4">
+        <text>array</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>Integer</text>
       </register>
       <register name="4" type="4">
-        <text>,</text>
+        <text>asList</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="9" type="4">
+        <text>String</text>
       </register>
       <register name="8" type="4">
-        <text>Tokumei</text>
+        <text>new</text>
       </register>
       <register name="-" type="4">
-        <text>new</text>
+        <text>int</text>
       </register>
     </registers>
     <search>
