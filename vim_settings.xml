@@ -220,7 +220,6 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/ideaProjects/batch-summary-1/src/main/java/META-INF/MANIFEST.MF" timestamp="1470643274650" />
       <file name="$USER_HOME$/IdeaProjects/cs-api-1/src/main/webapp/order.jsp" timestamp="1470386880592">
         <mark key="[" line="39" column="53" />
         <mark key="]" line="40" column="51" />
@@ -244,6 +243,13 @@
         <mark key="]" line="6" column="27" />
         <mark key="^" line="6" column="27" />
         <mark key="." line="6" column="27" />
+      </file>
+      <file name="$USER_HOME$/repos/ideaProjects/batch-summary-1/parent-pom.xml" timestamp="1470646553320">
+        <mark key="'" line="97" column="20" />
+        <mark key="[" line="263" column="39" />
+        <mark key="]" line="263" column="60" />
+        <mark key="." line="263" column="39" />
+        <mark key="^" line="269" column="20" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/cs-api-1/src/main/webapp/js/index/view.js" timestamp="1470382283023">
         <mark key="[" line="27" column="0" />
@@ -360,6 +366,7 @@
       <jump line="2" column="0" filename="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/dao/impl/DefaultBookDaoImpl.java" />
       <jump line="194" column="27" filename="$USER_HOME$/IdeaProjects/ss-api-1/src/test/java/com/worksap/bootcamp/ss/api/lv1/service/impl/DefaultCartServiceTest.java" />
       <jump line="424" column="0" filename="$USER_HOME$/IdeaProjects/ss-api-1/src/test/java/com/worksap/bootcamp/ss/api/lv1/service/impl/DefaultCartServiceTest.java" />
+      <jump line="96" column="20" filename="$USER_HOME$/repos/ideaProjects/batch-summary-1/parent-pom.xml" />
     </jumps>
     <registers>
       <register name="k" type="4">
@@ -368,8 +375,8 @@
       <register name="-" type="4">
         <text>index</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5mYWlsKGZ1bmN0aW9uICh4aHIpIHsKICAgICAgICAgICAgICAgICAgICB2YXIgY2hlY2tlZENhcnRCb29rcyA9IHhoci5yZXNwb25zZUpTT047CiAgICAgICAgICAgICAgICAgICAgaWYgKCFjaGVja2VkQ2FydEJvb2tzKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHV0aWwubG9nKCJub3QgdmFsaWQgSlNPTiByZWNpdmVkIik7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIG9uQ2FydEJvb2tzUmVjaXZlZChjaGVja2VkQ2FydEJvb2tzKTsKICAgICAgICAgICAgICAgIH0pOwo=</text>
+      <register name="0" type="4">
+        <text>${project.main.class}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
