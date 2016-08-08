@@ -49,6 +49,12 @@
         <mark key="." line="85" column="30" />
         <mark key="^" line="85" column="30" />
       </file>
+      <file name="$USER_HOME$/repos/ideaProjects/batch-summary-1/src/main/java/com/worksap/bootcamp/batch/summary/lv1/SummaryFactoryImpl.java" timestamp="1470655459989">
+        <mark key="[" line="13" column="5" />
+        <mark key="]" line="15" column="3" />
+        <mark key="^" line="15" column="3" />
+        <mark key="." line="15" column="3" />
+      </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Prototype/Teacher.java" timestamp="1440928939176">
         <mark key="[" line="9" column="34" />
         <mark key="]" line="10" column="44" />
@@ -191,11 +197,11 @@
         <mark key="^" line="6" column="30" />
         <mark key="." line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/repos/ideaProjects/batch-summary-1/src/main/java/com/worksap/bootcamp/batch/summary/lv1/App.java" timestamp="1470654615783">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="^" line="49" column="12" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/repos/ideaProjects/batch-summary-1/src/main/java/com/worksap/bootcamp/batch/summary/lv1/App.java" timestamp="1470655279141">
+        <mark key="[" line="49" column="53" />
+        <mark key="]" line="49" column="52" />
+        <mark key="^" line="49" column="52" />
+        <mark key="." line="49" column="52" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/dao/impl/DefaultOrderDetailDaoImpl.java" timestamp="1470296910208">
         <mark key="[" line="63" column="0" />
@@ -380,7 +386,7 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>Summarizer summarizer = summaryFactory.getSummarizer()</text>
+        <text>SharedConnection</text>
       </register>
       <register name="0" type="4">
         <text>SummaryWriter summaryWriter = summaryFactory.getSummaryWriter();</text>
