@@ -15,6 +15,9 @@
         <mark key="^" line="9" column="15" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1470812771554">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/test/java/com/worksap/bootcamp/ss/api/lv1/service/impl/DefaultOrderServiceTest.java" timestamp="1470362081208">
         <mark key="[" line="32" column="39" />
         <mark key="]" line="32" column="42" />
@@ -167,10 +170,10 @@
         <mark key="." line="54" column="19" />
         <mark key="^" line="54" column="19" />
       </file>
-      <file name="$USER_HOME$/repos/ideaProjects/batch-summary-1/src/main/java/com/worksap/bootcamp/batch/summary/lv1/writer/SummaryWriterImpl.java" timestamp="1470801183780">
+      <file name="$USER_HOME$/repos/ideaProjects/batch-summary-1/src/main/java/com/worksap/bootcamp/batch/summary/lv1/writer/SummaryWriterImpl.java" timestamp="1470813224004">
         <mark key="'" line="34" column="63" />
-        <mark key="[" line="57" column="89" />
-        <mark key="]" line="58" column="39" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="68" column="8" />
         <mark key="." line="58" column="39" />
         <mark key="^" line="58" column="39" />
       </file>
@@ -229,11 +232,11 @@
         <mark key="^" line="9" column="24" />
         <mark key="." line="9" column="24" />
       </file>
-      <file name="$USER_HOME$/repos/ideaProjects/batch-import-1/src/main/java/com/worksap/bootcamp/batch/importfile/lv1/entity/CSVBookRecord.java" timestamp="1470809193707">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="4" column="79" />
-        <mark key="^" line="4" column="79" />
-        <mark key="." line="4" column="79" />
+      <file name="$USER_HOME$/repos/ideaProjects/batch-import-1/src/main/java/com/worksap/bootcamp/batch/importfile/lv1/entity/CSVBookRecord.java" timestamp="1470813047002">
+        <mark key="[" line="91" column="19" />
+        <mark key="]" line="91" column="23" />
+        <mark key="^" line="91" column="23" />
+        <mark key="." line="91" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/service/impl/HitCalculator.java" timestamp="1470296227578">
         <mark key="[" line="30" column="0" />
@@ -254,11 +257,11 @@
         <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/repos/ideaProjects/ss-api-1/src/test/java/com/worksap/bootcamp/ss/api/lv1/dao/impl/DefaultCartDaoImplTest.java" timestamp="1470720396382" />
-      <file name="$USER_HOME$/repos/ideaProjects/batch-import-1/src/main/java/com/worksap/bootcamp/batch/importfile/lv1/writer/RecordWriterImpl.java" timestamp="1470804012035">
-        <mark key="[" line="24" column="26" />
-        <mark key="]" line="25" column="48" />
+      <file name="$USER_HOME$/repos/ideaProjects/batch-import-1/src/main/java/com/worksap/bootcamp/batch/importfile/lv1/writer/RecordWriterImpl.java" timestamp="1470813226137">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="49" column="9" />
         <mark key="^" line="25" column="48" />
-        <mark key="." line="25" column="48" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/dao/impl/DefaultPublisherDaoImpl.java" timestamp="1470207661051">
         <mark key="[" line="26" column="0" />
@@ -499,37 +502,37 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>Strig</text>
+        <text>PRIVATE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy91c2VySWTjgahwYXNzd29yZOOBjOepuuaWh+Wtl+OBruOBqOOBjeOBqyInJyLjgajjgarjgaPjgabjgZfjgb7jgYbjg5DjgrDjgbjjga7lr77lv5wK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgSU5TRVJUX1NRTCA9ICJJTlNFUlQgSU5UTyBzYWxlc19zdW1tYXJ5IFZBTFVFUyAoPyw/LD8sPyw/LD8sPyw/LD8pIjsKICAgICAgICBPYmplY3RzLnJlcXVpcmVOb25OdWxsKHN1bW1hcnkpOwoKICAgICAgICB0cnkgKFByZXBhcmVkU3RhdGVtZW50IHN0YXRlbWVudCA9IHRoaXMuc2hhcmVkQ29ubmVjdGlvbi5nZXRUcmFuc2FjdGlvbigpLmdldEpkYmNDb25uZWN0aW9uKCkucHJlcGFyZVN0YXRlbWVudChJTlNFUlRfU1FMKSkgewogICAgICAgICAgICBhcHBseUluc2VydFZhbHVlcyhzdGF0ZW1lbnQsIHN1bW1hcnkpOwogICAgICAgICAgICBpbnQgdXBkYXRlUm93ID0gc3RhdGVtZW50LmV4ZWN1dGVVcGRhdGUoKTsKICAgICAgICAgICAgTE9HR0VSLnRyYWNlKCJpbnNlcnQoKTogdXBkYXRlUm93IGlzIHt9IiwgdXBkYXRlUm93KTsKCiAgICAgICAgfSBjYXRjaCAoU1FMRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgTE9HR0VSLmVycm9yKCJpbnNlcnQoKToge30iLCBlLmdldE1lc3NhZ2UoKSk7CiAgICAgICAgICAgIHRocm93IG5ldyBJT0V4Y2VwdGlvbigiaW5zZXJ0KCk6IHt9IiwgZSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBNb2RpZnlJZk5vdEVtcHR5KCkgewogICAgICAgIGlmICh0aGlzLnVzZXJJZC5lcXVhbHMoIicnIikpIHsKICAgICAgICAgICAgdGhpcy51c2VySWQgPSAiIjsKICAgICAgICB9CgogICAgICAgIGlmICh0aGlzLnBhc3N3b3JkLmVxdWFscygiJyciKSkgewogICAgICAgICAgICB0aGlzLnBhc3N3b3JkID0gIiI7CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nW10gcm93ID0gaXQubmV4dCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpdCA9IG1hcHBlci5yZWFkZXJGb3IoU3RyaW5nW10uY2xhc3MpLnJlYWRWYWx1ZXMoY3N2RmlsZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBDU1ZCb29rUmVjb3JkKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBDU1ZfRklMRV9OQU1FID0gInNhbXBsZTEuY3N2IjsK</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBNb2RpZnlJZk5vdEVtcHR5KCkgewogICAgICAgIGlmICh0aGlzLnVzZXJJZC5lcXVhbHMoIicnIikpIHsKICAgICAgICAgICAgdGhpcy51c2VySWQgPSAiIjsKICAgICAgICB9CgogICAgICAgIGlmICh0aGlzLnBhc3N3b3JkLmVxdWFscygiJyciKSkgewogICAgICAgICAgICB0aGlzLnBhc3N3b3JkID0gIiI7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nW10gcm93ID0gaXQubmV4dCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIAo=</text>
+        <text encoding="base64">ICAgICAgICBpdCA9IG1hcHBlci5yZWFkZXJGb3IoU3RyaW5nW10uY2xhc3MpLnJlYWRWYWx1ZXMoY3N2RmlsZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0YW50OiB3ZSBuZWVkICJhcnJheSB3cmFwcGluZyIgKHNlZSBuZXh0IHNlY3Rpb24pIGhlcmU6Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBDU1ZfRklMRV9OQU1FID0gInNhbXBsZTEuY3N2IjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
