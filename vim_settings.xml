@@ -54,10 +54,10 @@
         <mark key="." line="32" column="42" />
         <mark key="^" line="32" column="42" />
       </file>
-      <file name="$USER_HOME$/repos/ideaProjects/batch-import-1/src/main/java/com/worksap/bootcamp/batch/importfile/lv1/writer/RecordWriterImpl.java" timestamp="1470829905241">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="89" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/repos/ideaProjects/batch-import-1/src/main/java/com/worksap/bootcamp/batch/importfile/lv1/writer/RecordWriterImpl.java" timestamp="1470832311660">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/cs-api-1/src/main/webapp/js/model.js" timestamp="1470390253173">
         <mark key="[" line="85" column="29" />
@@ -228,11 +228,11 @@
         <mark key="^" line="12" column="18" />
         <mark key="." line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/repos/ideaProjects/batch-import-1/src/main/java/com/worksap/bootcamp/batch/importfile/lv1/verify/IDManagerImpl.java" timestamp="1470831701467">
-        <mark key="[" line="42" column="81" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="32" column="22" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/repos/ideaProjects/batch-import-1/src/main/java/com/worksap/bootcamp/batch/importfile/lv1/verify/IDManagerImpl.java" timestamp="1470832402792">
+        <mark key="[" line="43" column="19" />
+        <mark key="]" line="43" column="19" />
+        <mark key="." line="43" column="19" />
+        <mark key="^" line="43" column="19" />
       </file>
       <file name="$USER_HOME$/repos/worksap/stm2016-jquerybasic-task02/WebContent/check1.html" timestamp="1459775596909">
         <mark key="[" line="25" column="36" />
@@ -258,11 +258,11 @@
         <mark key="^" line="75" column="1" />
         <mark key="." line="75" column="1" />
       </file>
-      <file name="$USER_HOME$/repos/ideaProjects/batch-import-1/src/main/java/com/worksap/bootcamp/batch/importfile/lv1/ImportFactoryImpl.java" timestamp="1470821277858">
-        <mark key="[" line="37" column="52" />
-        <mark key="]" line="37" column="52" />
-        <mark key="." line="37" column="52" />
-        <mark key="^" line="37" column="52" />
+      <file name="$USER_HOME$/repos/ideaProjects/batch-import-1/src/main/java/com/worksap/bootcamp/batch/importfile/lv1/ImportFactoryImpl.java" timestamp="1470832353582">
+        <mark key="[" line="54" column="23" />
+        <mark key="]" line="54" column="50" />
+        <mark key="^" line="54" column="50" />
+        <mark key="." line="54" column="50" />
       </file>
       <file name="$USER_HOME$/repos/ideaProjects/batch-summary-1/pom.xml" timestamp="1470733243279">
         <mark key="[" line="11" column="16" />
@@ -361,6 +361,9 @@
         <mark key="." line="73" column="38" />
         <mark key="^" line="73" column="38" />
       </file>
+      <file name="/HTML File.txt.ft" timestamp="1470832722471">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1470826462057">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -385,11 +388,11 @@
         <mark key="." line="85" column="0" />
         <mark key="^" line="76" column="56" />
       </file>
-      <file name="$USER_HOME$/repos/ideaProjects/batch-import-1/src/main/java/com/worksap/bootcamp/batch/importfile/lv1/App.java" timestamp="1470828888829">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="71" column="66" />
+      <file name="$USER_HOME$/repos/ideaProjects/batch-import-1/src/main/java/com/worksap/bootcamp/batch/importfile/lv1/App.java" timestamp="1470833515463">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="91" />
+        <mark key="." line="71" column="0" />
+        <mark key="^" line="67" column="63" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/cs-api-1/src/main/webapp/templates/paginator.jsp" timestamp="1470374990877">
         <mark key="[" line="4" column="0" />
@@ -504,37 +507,37 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>setInt</text>
+        <text>int</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIExvZ2dlciBMT0dHRVIgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihSZWNvcmRXcml0ZXJJbXBsLmNsYXNzKTsK</text>
+      <register name="0" type="4">
+        <text>convertToBook(csvBookRecord, publisherId)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWNvcmRXcml0ZXIudXBkYXRlKGNvbnZlcnRUb0Jvb2soY3N2Qm9va1JlY29yZCwgYm9va0lkLCBwdWJsaXNoZXJJZCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib29rSWQgPSBpZE1hbmFnZXIuZ2VuZXJhdGVJRChjc3ZCb29rUmVjb3JkKTsKICAgICAgICAgICAgICAgICAgICByZWNvcmRXcml0ZXIuaW5zZXJ0KGNvbnZlcnRUb0Jvb2soY3N2Qm9va1JlY29yZCwgYm9va0lkLCBwdWJsaXNoZXJJZCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgQ1NWQm9va1JlY29yZCBjc3ZCb29rUmVjb3JkID0gY3N2UmVhZGVyLm5leHQoKTsKLy8gICAgICAgICAgICAgICAgaWYgKGNzdkJvb2tSZWNvcmQgPT0gbnVsbCkgewovLyAgICAgICAgICAgICAgICAgICAgYnJlYWs7Ci8vICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGltcGxlbWVudHMK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChGaWxlTm90Rm91bmRFeGNlcHRpb24gZSkgewogICAgICAgICAgICBMT0dHRVIuZXJyb3IoImluaXRSZWFkaW5nOkZpbGVOb3RGb3VuZEV4Y2VwdGlvbjoge30iLCBlLmdldE1lc3NhZ2UoKSk7CiAgICAgICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIExPR0dFUi5lcnJvcigiaW5pdFJlYWRpbmc6IHt9IiwgZS5nZXRNZXNzYWdlKCkpOwogICAgICAgICAgICB0aHJvdyBuZXcgSU9FeGNlcHRpb24oZSk7CiAgICAgICAgfQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlY29yZFdyaXRlci5pbnNlcnQoY29udmVydFRvQm9vayhjc3ZCb29rUmVjb3JkLCBwdWJsaXNoZXJJZCkpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICB3aGlsZSgoQ1NWQm9va1JlY29yZCBjc3ZCb29rUmVjb3JkID0gY3N2UmVhZGVyLm5leHQoKSkgIT0gbnVsbCkgewo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
