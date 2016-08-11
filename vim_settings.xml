@@ -268,11 +268,11 @@
         <mark key="." line="11" column="15" />
         <mark key="^" line="11" column="15" />
       </file>
-      <file name="$USER_HOME$/repos/ideaProjects/batch-import-1/src/main/java/com/worksap/bootcamp/batch/importfile/lv1/autocomplete/AutoCompleteImpl.java" timestamp="1470895159243">
-        <mark key="[" line="19" column="52" />
-        <mark key="]" line="19" column="51" />
-        <mark key="." line="19" column="51" />
-        <mark key="^" line="19" column="51" />
+      <file name="$USER_HOME$/repos/ideaProjects/batch-import-1/src/main/java/com/worksap/bootcamp/batch/importfile/lv1/autocomplete/AutoCompleteImpl.java" timestamp="1470896310396">
+        <mark key="[" line="29" column="46" />
+        <mark key="]" line="31" column="28" />
+        <mark key="." line="31" column="28" />
+        <mark key="^" line="31" column="28" />
       </file>
       <file name="$USER_HOME$/repos/ideaProjects/batch-import-1/src/main/java/com/worksap/bootcamp/batch/importfile/lv1/Options.java" timestamp="1470822872509">
         <mark key="[" line="94" column="0" />
@@ -522,10 +522,15 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>publisherId</text>
+        <text>reutnr</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgaXNibiA9ICI5Nzg0MDg4ODA2Nzg1IjsKICAgICAgICBpbnQgdG90YWwgPSAwOwoKICAgICAgICBpZiAoaXNibi5sZW5ndGgoKSAhPSAxMykgewovLyAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CgogICAgICAgIGludCBjaGVja0RpZ2l0ID0gSW50ZWdlci5wYXJzZUludCgiIiArIGlzYm4uY2hhckF0KDEyKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGNoZWNrRGlnaXQpOwoKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDEyOyBpKyspIHsKICAgICAgICAgICAgaWYgKGklMiA9PSAwKSB7CiAgICAgICAgICAgICAgICB0b3RhbCArPSBJbnRlZ2VyLnBhcnNlSW50KCIiICsgaXNibi5jaGFyQXQoaSkpOwogICAgICAgICAgICB9IGVsc2UgaWYgKGklMiA9PSAxKSB7CiAgICAgICAgICAgICAgICB0b3RhbCArPSBJbnRlZ2VyLnBhcnNlSW50KCIiICsgaXNibi5jaGFyQXQoaSkpICogMzsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgYXNzZXJ0VHJ1ZSgoMTAgLSB0b3RhbCUxMCkgPT0gY2hlY2tEaWdpdCk7Cg==</text>
+      <register name="0" type="4">
+        <text>new CSVBookRecord.Builder()
+                .title(input.getTitle())
+                .isbn(input.getIsbn())
+                .price(input.getPrice())
+                .releaseDate(input.getReleaseDate())
+                .bePutOff(input.getBePutOff());</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpbnQgcHVibGlzaGVySWQgPSBJbnRlZ2VyLnBhcnNlSW50KG9wdGlvbnMuZ2V0RGVmYXVsdFB1Ymxpc2hlcklkKCkpOwo=</text>
