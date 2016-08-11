@@ -210,13 +210,6 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="69" column="119" />
       </file>
-      <file name="$USER_HOME$/repos/ideaProjects/batch-summary-1/src/main/java/com/worksap/bootcamp/batch/summary/lv1/reader/RecordReaderImpl.java" timestamp="1470799384696">
-        <mark key="k" line="57" column="14" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-        <mark key="^" line="50" column="26" />
-      </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Adaptor/Teacher.java" timestamp="1440913135041">
         <mark key="[" line="7" column="38" />
         <mark key="]" line="7" column="45" />
@@ -263,11 +256,11 @@
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/ideaProjects/batch-import-1/src/main/java/com/worksap/bootcamp/batch/importfile/lv1/ImportFactoryImpl.java" timestamp="1470832353582">
-        <mark key="[" line="54" column="23" />
-        <mark key="]" line="54" column="50" />
-        <mark key="^" line="54" column="50" />
-        <mark key="." line="54" column="50" />
+      <file name="$USER_HOME$/repos/ideaProjects/batch-import-1/src/main/java/com/worksap/bootcamp/batch/importfile/lv1/ImportFactoryImpl.java" timestamp="1470890827193">
+        <mark key="[" line="30" column="18" />
+        <mark key="]" line="30" column="23" />
+        <mark key="^" line="30" column="23" />
+        <mark key="." line="30" column="23" />
       </file>
       <file name="$USER_HOME$/repos/ideaProjects/batch-summary-1/pom.xml" timestamp="1470733243279">
         <mark key="[" line="11" column="16" />
@@ -275,10 +268,11 @@
         <mark key="." line="11" column="15" />
         <mark key="^" line="11" column="15" />
       </file>
-      <file name="$USER_HOME$/repos/ideaProjects/batch-import-1/src/main/java/com/worksap/bootcamp/batch/importfile/lv1/autocomplete/AutoCompleteImpl.java" timestamp="1470884784317">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/repos/ideaProjects/batch-import-1/src/main/java/com/worksap/bootcamp/batch/importfile/lv1/autocomplete/AutoCompleteImpl.java" timestamp="1470890702126">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="24" column="11" />
       </file>
       <file name="$USER_HOME$/repos/ideaProjects/batch-import-1/src/main/java/com/worksap/bootcamp/batch/importfile/lv1/Options.java" timestamp="1470822872509">
         <mark key="[" line="94" column="0" />
@@ -371,6 +365,11 @@
         <mark key="." line="73" column="38" />
         <mark key="^" line="73" column="38" />
       </file>
+      <file name="$USER_HOME$/repos/ideaProjects/batch-import-1/src/main/java/com/worksap/bootcamp/batch/importfile/lv1/validator/ValidatorImpl.java" timestamp="1470889126542">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="/HTML File.txt.ft" timestamp="1470832722471">
         <mark key="[" line="0" column="0" />
       </file>
@@ -398,11 +397,11 @@
         <mark key="." line="85" column="0" />
         <mark key="^" line="76" column="56" />
       </file>
-      <file name="$USER_HOME$/repos/ideaProjects/batch-import-1/src/main/java/com/worksap/bootcamp/batch/importfile/lv1/App.java" timestamp="1470887625898">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-        <mark key="^" line="81" column="32" />
+      <file name="$USER_HOME$/repos/ideaProjects/batch-import-1/src/main/java/com/worksap/bootcamp/batch/importfile/lv1/App.java" timestamp="1470890042972">
+        <mark key="[" line="51" column="20" />
+        <mark key="]" line="51" column="29" />
+        <mark key="." line="51" column="29" />
+        <mark key="^" line="51" column="29" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/cs-api-1/src/main/webapp/templates/paginator.jsp" timestamp="1470374990877">
         <mark key="[" line="4" column="0" />
@@ -517,37 +516,38 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>equal</text>
+        <text>int</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgR0VUX05FV19CT09LX0lEX1NRTCA9ICJTRUxFQ1QgTkVYVCBWQUxVRSBGT1IgYm9va19pZF9zZXF1ZW5jZTsiOwogICAgICAgIGludCBuZXdCb29rSWQgPSAtMTsKCiAgICAgICAgdHJ5IChQcmVwYXJlZFN0YXRlbWVudCBzdGF0ZW1lbnQgPSB0aGlzLnNoYXJlZENvbm5lY3Rpb24uZ2V0Q29ubmVjdGlvbigpLnByZXBhcmVTdGF0ZW1lbnQoR0VUX05FV19CT09LX0lEX1NRTCkpIHsKICAgICAgICAgICAgUmVzdWx0U2V0IHJlc3VsdFNldCA9IHN0YXRlbWVudC5leGVjdXRlUXVlcnkoKTsKICAgICAgICAgICAgTE9HR0VSLnRyYWNlKCJnZXROZXdCb29rSWQoKTogcmVzdWx0U2V0IGlzIHt9IiwgcmVzdWx0U2V0KTsKICAgICAgICAgICAgaWYgKHJlc3VsdFNldC5uZXh0KCkpIHsKICAgICAgICAgICAgICAgIG5ld0Jvb2tJZCA9IHJlc3VsdFNldC5nZXRJbnQoMSk7CiAgICAgICAgICAgIH0KICAgICAgICB9IGNhdGNoIChTUUxFeGNlcHRpb24gZSkgewogICAgICAgICAgICBMT0dHRVIuZXJyb3IoImdldE5ld0Jvb2tJZCgpOiB7fSIsIGUuZ2V0TWVzc2FnZSgpKTsKICAgICAgICB9CgogICAgICAgIHJldHVybiBuZXdCb29rSWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0Q29kZSA9IEJhdGNoUmVzdWx0LkZBSUwuaW50VmFsdWUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVHJhbnNhY3Rpb24gdHJhbnNhY3Rpb24gPSBpbXBvcnRGYWN0b3J5LmdldFRyYW5zYWN0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmUK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYnVpbGRlci5wdWJsaXNoZXJJZChpbnB1dC5nZXRQdWJsaXNoZXJJZCgpKS5idWlsZCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaW5wdXQuZ2V0UHVibGlzaGVySWQoKSA9PSAwKSB7CiAgICAgICAgICAgIGlucHV0LgoKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBNb3RpZlJhZGlvQnV0dG9uTWVudUl0ZW1VSQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBDU1ZCb29rUmVjb3JkLkJ1aWxkZXIoKQogICAgICAgICAgICAgICAgICAgIC50aXRsZShpbnB1dC5nZXRUaXRsZSgpKQogICAgICAgICAgICAgICAgICAgIC5wdWJsaXNoZXJJZCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IENTVkJvb2tSZWNvcmQuQnVpbGRlcigpCiAgICAgICAgICAgICAgICAudGl0bGUoaW5wdXQuZ2V0VGl0bGUoKSkKICAgICAgICAgICAgICAgIC5wdWJsaXNoZXJJZCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWNvcmRXcml0ZXIudXBkYXRlKGNvbnZlcnRUb0Jvb2soY3N2Qm9va1JlY29yZCwgYm9va0lkLCBwdWJsaXNoZXJJZCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjc3ZCb29rUmVjb3JkLmlzUHV0T2ZmKCkpIHsKICAgICAgICAgICAgICAgICAgICByZWNvcmRXcml0ZXIuZGVsZXRlKGNvbnZlcnRUb0Jvb2soY3N2Qm9va1JlY29yZCwgYm9va0lkLCBwdWJsaXNoZXJJZCkpOwogICAgICAgICAgICAgICAgfQo=</text>
+      <register name="9" type="4">
+        <text>catch (InvalidDataException e) {
+        }</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
