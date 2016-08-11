@@ -268,11 +268,11 @@
         <mark key="." line="11" column="15" />
         <mark key="^" line="11" column="15" />
       </file>
-      <file name="$USER_HOME$/repos/ideaProjects/batch-import-1/src/main/java/com/worksap/bootcamp/batch/importfile/lv1/autocomplete/AutoCompleteImpl.java" timestamp="1470896310396">
-        <mark key="[" line="29" column="46" />
-        <mark key="]" line="31" column="28" />
-        <mark key="." line="31" column="28" />
-        <mark key="^" line="31" column="28" />
+      <file name="$USER_HOME$/repos/ideaProjects/batch-import-1/src/main/java/com/worksap/bootcamp/batch/importfile/lv1/autocomplete/AutoCompleteImpl.java" timestamp="1470897249566">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="22" column="33" />
       </file>
       <file name="$USER_HOME$/repos/ideaProjects/batch-import-1/src/main/java/com/worksap/bootcamp/batch/importfile/lv1/Options.java" timestamp="1470822872509">
         <mark key="[" line="94" column="0" />
@@ -522,7 +522,7 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>reutnr</text>
+        <text>publisherId</text>
       </register>
       <register name="0" type="4">
         <text>new CSVBookRecord.Builder()
@@ -533,31 +533,31 @@
                 .bePutOff(input.getBePutOff());</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgcHVibGlzaGVySWQgPSBJbnRlZ2VyLnBhcnNlSW50KG9wdGlvbnMuZ2V0RGVmYXVsdFB1Ymxpc2hlcklkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIHB1Ymxpc2hlcklkID0gaW5wdXQuZ2V0UHVibGlzaGVySWQoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB1c2UgcHVibGlzaGVySWQgcGFzc2VkIGZyb20gYXJndW1lbnRzCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgcHVibGlzaGVySWQgPSBJbnRlZ2VyLnBhcnNlSW50KG9wdGlvbnMuZ2V0RGVmYXVsdFB1Ymxpc2hlcklkKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyB1c2UgcHVibGlzaGVySWQgcGFzc2VkIGZyb20gYXJndW1lbnRzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKDEwIC0gdG90YWwlMTApID09IGNoZWNrRGlnaXQ7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDEyOyBpKyspIHsKICAgICAgICAgICAgaWYgKGklMiA9PSAwKSB7CiAgICAgICAgICAgICAgICB0b3RhbCArPSBJbnRlZ2VyLnBhcnNlSW50KCIiICsgaXNibi5jaGFyQXQoaSkpOwogICAgICAgICAgICB9IGVsc2UgaWYgKGklMiA9PSAxKSB7CiAgICAgICAgICAgICAgICB0b3RhbCArPSBJbnRlZ2VyLnBhcnNlSW50KCIiICsgaXNibi5jaGFyQXQoaSkpICogMzsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKDEwIC0gdG90YWwlMTApID09IGNoZWNrRGlnaXQ7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDEyOyBpKyspIHsKICAgICAgICAgICAgaWYgKGklMiA9PSAwKSB7CiAgICAgICAgICAgICAgICB0b3RhbCArPSBJbnRlZ2VyLnBhcnNlSW50KCIiICsgaXNibi5jaGFyQXQoaSkpOwogICAgICAgICAgICB9IGVsc2UgaWYgKGklMiA9PSAxKSB7CiAgICAgICAgICAgICAgICB0b3RhbCArPSBJbnRlZ2VyLnBhcnNlSW50KCIiICsgaXNibi5jaGFyQXQoaSkpICogMzsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2hlY2tEaWdpdCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
