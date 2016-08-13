@@ -255,11 +255,11 @@
         <mark key="^" line="44" column="33" />
         <mark key="." line="44" column="33" />
       </file>
-      <file name="$USER_HOME$/repos/ideaProjects/batch-report-1/src/main/java/com/worksap/bootcamp/book/ISBN.java" timestamp="1471067474688">
-        <mark key="[" line="88" column="24" />
-        <mark key="]" line="88" column="36" />
-        <mark key="^" line="88" column="36" />
-        <mark key="." line="88" column="36" />
+      <file name="$USER_HOME$/repos/ideaProjects/batch-report-1/src/main/java/com/worksap/bootcamp/book/ISBN.java" timestamp="1471076814040">
+        <mark key="[" line="82" column="65" />
+        <mark key="]" line="83" column="7" />
+        <mark key="^" line="83" column="7" />
+        <mark key="." line="83" column="7" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Adaptor/Main.java" timestamp="1440911531070">
         <mark key="[" line="5" column="13" />
@@ -355,11 +355,11 @@
         <mark key="." line="70" column="28" />
         <mark key="^" line="70" column="28" />
       </file>
-      <file name="$USER_HOME$/repos/ideaProjects/batch-report-1/src/main/java/com/worksap/bootcamp/batch/report/lv1/page/PageMakerImplTest.java" timestamp="1471061254013">
-        <mark key="[" line="11" column="45" />
-        <mark key="]" line="12" column="32" />
-        <mark key="^" line="12" column="32" />
-        <mark key="." line="12" column="32" />
+      <file name="$USER_HOME$/repos/ideaProjects/batch-report-1/src/main/java/com/worksap/bootcamp/batch/report/lv1/page/PageMakerImplTest.java" timestamp="1471072399324">
+        <mark key="[" line="16" column="28" />
+        <mark key="]" line="16" column="67" />
+        <mark key="." line="16" column="67" />
+        <mark key="^" line="16" column="67" />
       </file>
       <file name="$USER_HOME$/repos/ideaProjects/batch-summary-1/src/main/java/com/worksap/bootcamp/io/JDBCTransaction.java" timestamp="1470705522308">
         <mark key="[" line="20" column="15" />
@@ -407,11 +407,11 @@
         <mark key="]" line="52" column="52" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/ideaProjects/batch-report-1/src/main/java/com/worksap/bootcamp/batch/report/lv1/writer/DocumentWriterImpl.java" timestamp="1471067574802">
-        <mark key="[" line="127" column="65" />
-        <mark key="]" line="127" column="65" />
-        <mark key="." line="127" column="65" />
-        <mark key="^" line="92" column="64" />
+      <file name="$USER_HOME$/repos/ideaProjects/batch-report-1/src/main/java/com/worksap/bootcamp/batch/report/lv1/writer/DocumentWriterImpl.java" timestamp="1471077742497">
+        <mark key="[" line="105" column="59" />
+        <mark key="]" line="105" column="59" />
+        <mark key="^" line="105" column="59" />
+        <mark key="." line="105" column="59" />
       </file>
       <file name="$USER_HOME$/repos/ideaProjects/batch-import-1/src/main/java/com/worksap/bootcamp/batch/importfile/lv1/ImportFactoryImpl.java" timestamp="1470891943449">
         <mark key="[" line="46" column="71" />
@@ -497,7 +497,7 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="27" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1471063096844">
+      <file name="/Dummy.txt" timestamp="1471073183014">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -582,7 +582,7 @@
         <mark key="." line="63" column="37" />
         <mark key="^" line="63" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1471064703461">
+      <file name="/fragment.java" timestamp="1471076556770">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="2" />
@@ -606,37 +606,43 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>bookGroup.getIsbn()</text>
+        <text>int</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">SVNCTi5kZWZvcm1hdChJU0JOLmZvcm1hdChib29rR3JvdXAuZ2V0SXNibigpKSkg</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgc3RvY2sgPSBib29rR3JvdXAuZ2V0Q3VycmVudFN0b2NrcygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHcucHJpbnQocGFnZS5nZXRQdWJsaXNoZXJzKCkpOwo=</text>
+      </register>
+      <register name="q" type="4">
+        <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHcucHJpbnRsbihib29rR3JvdXAuZ2V0Q3VycmVudFN0b2NrcygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBOdW1iZXJGb3JtYXQgbmZOdW0gPSBOdW1iZXJGb3JtYXQuZ2V0TnVtYmVySW5zdGFuY2UoKTsKICAgICAgICBzdHIgPSBuZk51bS5mb3JtYXQoSW50ZWdlci5wYXJzZUludChzdHIpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdy5wcmludChib29rR3JvdXAuZ2V0Rmlyc3RNb250aCgpLmdldFNvbGRZWVlZTU0oKS5nZXRZZWFyKCkgKyAiLCIpOwogICAgICAgIHB3LnByaW50KGJvb2tHcm91cC5nZXRGaXJzdE1vbnRoKCkuZ2V0U29sZFlZWVlNTSgpLmdldE1vbnRoKCkgKyAiLCIpOwogICAgICAgIHB3LnByaW50KGJvb2tHcm91cC5nZXRGaXJzdE1vbnRoKCkuZ2V0U2FsZXNUb3RhbCgpICsgIiwiKTsKICAgICAgICBwdy5wcmludChib29rR3JvdXAuZ2V0Rmlyc3RNb250aCgpLmdldFNhbGVzUXVhbnRpdHkoKSArICIsIik7CiAgICAgICAgcHcucHJpbnRsbihib29rR3JvdXAuZ2V0Q3VycmVudFN0b2NrcygpKTsK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgc3RvY2sgPSBib29rR3JvdXAuZ2V0Q3VycmVudFN0b2NrcygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgeWVhcjsKICAgICAgICBpbnQgbW9udGg7CiAgICAgICAgaWYgKGJvb2tHcm91cC5nZXRGaXJzdE1vbnRoKCkgPT0gbnVsbCkgewogICAgICAgICAgICBtb250aCA9IGdldFRhcmdldE1vbnRoKGJvb2tHcm91cC5nZXRTZWNvbmRNb250aCgpLmdldFNvbGRZWVlZTU0oKS5nZXRNb250aCgpLCAxKTsKICAgICAgICAgICAgeWVhciA9IGJvb2tHcm91cC5nZXRTZWNvbmRNb250aCgpLmdldFNvbGRZWVlZTU0oKS5nZXRZZWFyKCk7CiAgICAgICAgICAgIGlmIChtb250aCA9PSAxMiB8fCBtb250aCA9PSAxMSkgewogICAgICAgICAgICAgICAgeWVhciAtPSB5ZWFyOwogICAgICAgICAgICB9CgogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIG1vbnRoID0gZ2V0VGFyZ2V0TW9udGgoYm9va0dyb3VwLmdldEZpcnN0TW9udGgoKS5nZXRTb2xkWVlZWU1NKCkuZ2V0TW9udGgoKSwgMSk7CiAgICAgICAgICAgIHllYXIgPSBib29rR3JvdXAuZ2V0Rmlyc3RNb250aCgpLmdldFNvbGRZWVlZTU0oKS5nZXRZZWFyKCk7CiAgICAgICAgICAgIGlmIChtb250aCA9PSAxMikgewogICAgICAgICAgICAgICAgeWVhciAtPSB5ZWFyOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHB3LnByaW50KHllYXIgKyAiLCIpOwogICAgICAgIHB3LnByaW50KG1vbnRoICsgIiwiKTsKICAgICAgICBwdy5wcmludCgwICsgIiwiKTsKICAgICAgICBwdy5wcmludCgwICsgIiwiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdy5wcmludCh3Yy5yaWdodFBhZChJU0JOLmRlZm9ybWF0KElTQk4uZm9ybWF0KHN0cikpLCBtYXgpKTsK</text>
+      </register>
+      <register name="v" type="4">
+        <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IG1vbnRoID0gZ2V0VGFyZ2V0TW9udGgoYm9va0dyb3VwLmdldEZpcnN0TW9udGgoKS5nZXRTb2xkWVlZWU1NKCkuZ2V0TW9udGgoKSwgMik7CiAgICAgICAgICAgIGludCB5ZWFyID0gYm9va0dyb3VwLmdldEZpcnN0TW9udGgoKS5nZXRTb2xkWVlZWU1NKCkuZ2V0WWVhcigpOwogICAgICAgICAgICBpZiAobW9udGggPT0gMTIgfHwgbW9udGggPT0gMTEpIHsKICAgICAgICAgICAgICAgIHllYXIgLT0geWVhcjsKICAgICAgICAgICAgfQogICAgICAgICAgICBwdy5wcmludCh5ZWFyICsgIiwiKTsKICAgICAgICAgICAgcHcucHJpbnQobW9udGggKyAiLCIpOwogICAgICAgICAgICBwdy5wcmludCgwICsgIiwiKTsKICAgICAgICAgICAgcHcucHJpbnQoMCArICIsIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwdy5wcmludCh3Yy5yaWdodFBhZChJU0JOLmRlZm9ybWF0KElTQk4uZm9ybWF0KHN0cikpLCBtYXgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IG1vbnRoID0gZ2V0VGFyZ2V0TW9udGgoYm9va0dyb3VwLmdldEZpcnN0TW9udGgoKS5nZXRTb2xkWVlZWU1NKCkuZ2V0TW9udGgoKSwgMSk7CiAgICAgICAgICAgIGludCB5ZWFyID0gYm9va0dyb3VwLmdldEZpcnN0TW9udGgoKS5nZXRTb2xkWVlZWU1NKCkuZ2V0WWVhcigpOwogICAgICAgICAgICBpZiAobW9udGggPT0gMTIpIHsKICAgICAgICAgICAgICAgIHllYXIgLT0geWVhcjsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
