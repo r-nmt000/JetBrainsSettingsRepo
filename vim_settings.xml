@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/repos/ideaProjects/ss-view-1/src/main/java/com/worksap/bootcamp/ss/view/lv1/vo/OrderSummary.java" timestamp="1471227557894">
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="12" column="4" />
+        <mark key="^" line="12" column="4" />
+        <mark key="." line="12" column="4" />
+      </file>
       <file name="$USER_HOME$/repos/ideaProjects/batch-report-1/src/main/java/com/worksap/bootcamp/batch/report/lv1/entity/Term.java" timestamp="1471136971177">
         <mark key="[" line="11" column="5" />
         <mark key="]" line="15" column="36" />
@@ -227,9 +233,9 @@
         <mark key="." line="38" column="72" />
         <mark key="^" line="38" column="72" />
       </file>
-      <file name="$USER_HOME$/repos/ideaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/service/impl/DefaultBookService.java" timestamp="1471227393666">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="67" column="25" />
+      <file name="$USER_HOME$/repos/ideaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/service/impl/DefaultBookService.java" timestamp="1471228267042">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="56" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/controller/api/CartController.java" timestamp="1470310478239">
         <mark key="[" line="73" column="32" />
@@ -237,10 +243,11 @@
         <mark key="." line="73" column="38" />
         <mark key="^" line="73" column="38" />
       </file>
-      <file name="$USER_HOME$/repos/ideaProjects/ss-view-1/src/main/java/com/worksap/bootcamp/ss/view/lv1/service/impl/DefaultOrderService.java" timestamp="1471227395171">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="84" column="26" />
-        <mark key="." line="70" column="0" />
+      <file name="$USER_HOME$/repos/ideaProjects/ss-view-1/src/main/java/com/worksap/bootcamp/ss/view/lv1/service/impl/DefaultOrderService.java" timestamp="1471228397058">
+        <mark key="[" line="76" column="86" />
+        <mark key="]" line="76" column="85" />
+        <mark key="." line="76" column="85" />
+        <mark key="^" line="76" column="85" />
       </file>
       <file name="$USER_HOME$/repos/ideaProjects/batch-import-1/src/main/java/com/worksap/bootcamp/batch/importfile/lv1/autocomplete/AutoCompleteImplTest.java" timestamp="1470900519370">
         <mark key="[" line="15" column="57" />
@@ -659,46 +666,46 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>// TODO Implement this method!</text>
+        <text>publisherDtoList</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGJvb2tRdWFudGl0eSA9IGJvb2tEYW8uY291bnRXaXRoUXVlcnkodHJhbnNhY3Rpb24scXVlcnksdG9kYXkpOwogICAgICAgICAgICBpZiAoYm9va1F1YW50aXR5ID09IDApIHsKICAgICAgICAgICAgICAgIHJldHVybiBuZXcgQm9va1NlYXJjaFJlc3VsdChxdWVyeSwgbmV3IEhpdCgwLDAsMCksIENvbGxlY3Rpb25zLmVtcHR5TGlzdCgpKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgTGlzdDxCb29rRHRvPiBib29rRHRvTGlzdCA9IGJvb2tEYW8uc2VhcmNoV2l0aFF1ZXJ5T3JkZXJCeUlkKHRyYW5zYWN0aW9uLCBxdWVyeSwgdG9kYXkpOwogICAgICAgICAgICBMaXN0PFB1Ymxpc2hlckR0bz4gcHVibGlzaGVyRHRvTGlzdCA9IHB1Ymxpc2hlckRhby5zZWFyY2hXaXRoQm9va0lkKHRyYW5zYWN0aW9uLAogICAgICAgICAgICAgICAgICAgIGR0b0NvbnZlcnRlci50b1B1Ymxpc2hlcklkU2V0KGJvb2tEdG9MaXN0KSk7CiAgICAgICAgICAgIEhpdCBoaXQgPSBoaXRDYWxjdXJhdG9yLmNhbGN1bGF0ZShxdWVyeS5nZXRCZWdpbigpLCBxdWVyeS5nZXRFbmQoKSwgYm9va1F1YW50aXR5KTsKICAgICAgICAgICAgTGlzdDxCb29rPiBib29rTGlzdCA9IGR0b0NvbnZlcnRlci50b0Jvb2tMaXN0KGJvb2tEdG9MaXN0LCBwdWJsaXNoZXJEdG9MaXN0KTsKCiAgICAgICAgICAgIEJvb2tTZWFyY2hSZXN1bHQgcmVzdWx0ID0gIG5ldyBCb29rU2VhcmNoUmVzdWx0KHF1ZXJ5LCBoaXQsIGJvb2tMaXN0KTsKICAgICAgICAgICAgbG9nLnRyYWNlKCJzZWFyY2g6IHJlc3VsdCA9IHt9IiwgcmVzdWx0KTsKCiAgICAgICAgICAgIHJldHVybiByZXN1bHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJvb2tRdWFudGl0eSA9PSAwKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gbmV3IEJvb2tTZWFyY2hSZXN1bHQocXVlcnksIG5ldyBIaXQoMCwwLDApLCBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgagogICAgICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxQdWJsaXNoZXJEdG8+IHB1Ymxpc2hlckR0b0xpc3QgPSBwdWJsaXNoZXJEYW8uc2VhcmNoV2l0aEJvb2tJZCh0cmFuc2FjdGlvbiwKICAgICAgICAgICAgICAgICAgICBkdG9Db252ZXJ0ZXIudG9QdWJsaXNoZXJJZFNldChib29rRHRvTGlzdCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyBJbXBsZW1lbnQgdGhpcyBtZXRob2QhCiAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHRvdGFsUXVlcnkgPSBvcmRlckhlYWRlckRhby5jb3VudFdpdGhRdWVyeSh0cmFuc2FjdGlvbiwgcXVlcnkpOwogICAgICAgICAgICBpZiAoYm9va1F1YW50aXR5ID09IDApIHsKICAgICAgICAgICAgICAgIHJldHVybiBuZXcgQm9va1NlYXJjaFJlc3VsdChxdWVyeSwgbmV3IEhpdCgwLDAsMCksIENvbGxlY3Rpb25zLmVtcHR5TGlzdCgpKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSGl0IGhpdCA9IGhpdENhbGN1cmF0b3IuY2FsY3VsYXRlKHF1ZXJ5LmdldEJlZ2luKCksIHF1ZXJ5LmdldEVuZCgpLCBib29rUXVhbnRpdHkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIEltcGxlbWVudCB0aGlzIG1ldGhvZCEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG9yZGVySGVhZGVyRHRvID09IG51bGwpIHsKICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbmFtZSA9IHF1ZXJ5LmdldE5hbWUoKTsKICAgICAgICBpZiAobmFtZSAhPSBudWxsICYmICFuYW1lLmlzRW1wdHkoKSkgewogICAgICAgICAgICBzcWwuYXBwZW5kKCIgQU5EIHIucmVjaXBpZW50X25hbWUgTElLRSAnJSd8fD98fCclJyBFU0NBUEUgJyQnIik7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVjaXBpZW50RHRvIHJlY2lwaWVudER0byA9IHJlY2lwaWVudERhby5maW5kKHRyYW5zYWN0aW9uLCBvcmRlckhlYWRlckR0by5nZXRSZWNpcGllbnRJZCgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIEltcGxlbWVudCB0aGlzIG1ldGhvZCEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGJvb2tRdWFudGl0eSA9IGJvb2tEYW8uY291bnRXaXRoUXVlcnkodHJhbnNhY3Rpb24scXVlcnksdG9kYXkpOwogICAgICAgICAgICBpZiAoYm9va1F1YW50aXR5ID09IDApIHsKICAgICAgICAgICAgICAgIHJldHVybiBuZXcgQm9va1NlYXJjaFJlc3VsdChxdWVyeSwgbmV3IEhpdCgwLDAsMCksIENvbGxlY3Rpb25zLmVtcHR5TGlzdCgpKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgTGlzdDxCb29rRHRvPiBib29rRHRvTGlzdCA9IGJvb2tEYW8uc2VhcmNoV2l0aFF1ZXJ5T3JkZXJCeUlkKHRyYW5zYWN0aW9uLCBxdWVyeSwgdG9kYXkpOwo=</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIEltcGxlbWVudCB0aGlzIG1ldGhvZCEKICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgagogICAgICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIEltcGxlbWVudCB0aGlzIG1ldGhvZCEKICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyBJbXBsZW1lbnQgdGhpcyBtZXRob2QhCiAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIEltcGxlbWVudCB0aGlzIG1ldGhvZCEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
