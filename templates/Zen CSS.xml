@@ -1,0 +1,13 @@
+<templateSet group="Zen CSS">
+  <template name="/centering_block_contents" value=".outer {&#10;  position: relative;&#10;}&#10;&#10;.inner {&#10;  position: absolute;&#10;}" description="center top, bottom, left, right" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="/flexbox_basic" value="$outer$ {&#10;  display: -webkit-flex;&#10;  display: -moz-flex;&#10;  display: -ms-flex;&#10;  display: -o-flex;&#10;  display: flex;&#10;  &#10;  flex-flow: row wrap;&#10;}&#10;" description="basic component of flexbox" toReformat="false" toShortenFQNames="true">
+    <variable name="outer" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+</templateSet>
