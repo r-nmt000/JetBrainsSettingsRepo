@@ -10,4 +10,14 @@
       <option name="CSS" value="true" />
     </context>
   </template>
+  <template name="/flexbox_pull_right" value="justify-content:flex-end;" description="flexboxで右寄せ" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="/flexbox_centering" value="justify-content:center;" description="flexboxで中央揃え" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
 </templateSet>
