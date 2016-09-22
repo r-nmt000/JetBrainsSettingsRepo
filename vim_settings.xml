@@ -203,6 +203,12 @@
         <mark key="." line="6" column="65" />
         <mark key="^" line="6" column="65" />
       </file>
+      <file name="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-front/src/main/less/components/hr-onboarding-training-detail-tmp.less" timestamp="1474545322835">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="21" column="13" />
+        <mark key="." line="21" column="13" />
+        <mark key="^" line="21" column="13" />
+      </file>
       <file name="$USER_HOME$/repos/ideaProjects/batch-report-1/src/main/java/com/worksap/bootcamp/batch/report/lv1/reader/RecordReaderImpl.java" timestamp="1471144394477">
         <mark key="[" line="44" column="48" />
         <mark key="]" line="44" column="48" />
@@ -221,11 +227,11 @@
         <mark key="." line="6" column="80" />
         <mark key="^" line="6" column="82" />
       </file>
-      <file name="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-front/src/main/webapp/WEB-INF/templates/onboarding/training/training-detail.xml" timestamp="1474456739118">
-        <mark key="[" line="38" column="60" />
-        <mark key="]" line="38" column="65" />
-        <mark key="." line="38" column="65" />
-        <mark key="^" line="38" column="65" />
+      <file name="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-front/src/main/webapp/WEB-INF/templates/onboarding/training/training-detail.xml" timestamp="1474545360802">
+        <mark key="[" line="39" column="60" />
+        <mark key="]" line="39" column="62" />
+        <mark key="^" line="39" column="62" />
+        <mark key="." line="39" column="62" />
       </file>
       <file name="$USER_HOME$/repos/ideaProjects/batch-summary-1/src/main/java/com/worksap/bootcamp/batch/summary/lv1/dto/OrderDetailDto.java" timestamp="1470704249636">
         <mark key="[" line="8" column="3" />
@@ -892,6 +898,9 @@
       <jump line="3" column="0" filename="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-front/src/main/less/components/hr-onboarding-training-list-temp.less" />
       <jump line="19" column="0" filename="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-front/src/main/less/components/hr-onboarding-training-list-temp.less" />
       <jump line="16" column="0" filename="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-front/src/main/less/components/hr-onboarding-training-list-common.less" />
+      <jump line="9" column="17" filename="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-front/src/main/less/components/hr-onboarding-training-detail-tmp.less" />
+      <jump line="67" column="0" filename="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-front/src/main/less/components/hr-onboarding-training-detail-tmp.less" />
+      <jump line="0" column="0" filename="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-front/src/main/less/components/hr-onboarding-training-detail-tmp.less" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -901,46 +910,46 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>.wap-tab-tabs-header {}</text>
+        <text>author</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8Zjpjc3MgcGF0aD0ifi9jc3MvY29tcG9uZW50cy9oci1vbmJvYXJkaW5nLXRyYWluaW5nLWxpc3Qtd2lkZ2V0LmNzcyIgLz4K</text>
+        <text encoding="base64">ICA8Y3NzIHBhdGg9In4vY3NzL2NvbXBvbmVudHMvaHItb25ib2FyZGluZy10cmFpbmluZy1kZXRhaWwtYXV0aG9yLmNzcyIgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8Y3NzIHBhdGg9In4vY3NzL2NvbXBvbmVudHMvaHItb25ib2FyZGluZy10cmFpbmluZy1kZXRhaWwtYXV0aG9yLmNzcyIgLz4KCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LndhcC10YWItdGFicy5zdGFuZGFyZCB7Cgkud2FwLXRhYi10YWJzLWhlYWRlciB7Cgl9Cn0K</text>
+        <text encoding="base64">Y29tcG9uZW50cy9oci1vbmJvYXJkaW5nLXRyYWluaW5nLWRldGFpbC10bXAubGVzczoxCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I3dpZGdldC1yb29tLWxheW91dCB7CiAgd2lkdGg6IDU2MHB4OwogIG1hcmdpbi10b3A6IDcwcHg7CiAgcGFkZGluZy1yaWdodDogMzJweDsKCiAgI2FjLWkyIHsKICAgIG1hcmdpbi1sZWZ0OiAtODBweDsKICB9CgogIC5mYWNlYm9vay1hcmVhIHsKICAgIG1hcmdpbi1sZWZ0OiAtODBweDsKICB9CgkuYm9yZGVyLWJvdHRvbSB7CiAgICBib3JkZXItYm90dG9tOjFweCBzb2xpZCAjY2NjY2NjOwogIH0KCiAgLnJlcHV0YXRpb24tZGV0YWlsLXN1Yi10aXRsZSB7CiAgICBmb250LXNpemU6IDEuNHJlbTsKICAgIG1hcmdpbi1ib3R0b206IDA7CiAgICBwYWRkaW5nLWJvdHRvbTogMDsKICB9CgogIC5yZXB1dGF0aW9uLXNldCB7CiAgICBtYXJnaW4tdG9wOiAyNHB4OwogICAgbWFyZ2luLXJpZ2h0OiAwOwogICAgd2lkdGg6IDQwMHB4OwogIH0KCiAgLnJlY29tbWVuZGVyLWRlc2NyaXB0aW9uIHsKICAgIHRleHQtYWxpZ246IGxlZnQ7CiAgICBwYWRkaW5nLWxlZnQ6IDE2cHg7CiAgfQoKICAuc29jaWFsLWFyZWEgewogICAgaGVpZ2h0OiA1MHB4OwogICAgcGFkZGluZy10b3A6IDI5cHg7CiAgICBwYWRkaW5nLWxlZnQ6IDEwcHg7CiAgICBmbGV4LWRpcmVjdGlvbjogcm93OwogICAgLnNvY2lhbC1pY29uIHsKICAgICAgZm9udC1zaXplOjEuM3JlbTsKICAgIH0KICB9CgogIC5yYW5raW5nLWNvbW1lbnQgewogICAgbWFyZ2luLXRvcDogOHB4OwogICAgbWFyZ2luLWxlZnQ6OHB4OwogIH0KICAubGFiZWwtc3VjY2VzcyB7CiAgICBwYWRkaW5nOiA4cHg7CiAgICBib3JkZXItcmFkaXVzOiA1MCU7CiAgICB3aWR0aDogMzJweDsKICAgIGhlaWdodDogMzJweDsKICAgIHRleHQtYWxpZ246IGNlbnRlcjsKICB9CiAgLnJhbmsxIHsKICAgIGJhY2tncm91bmQtY29sb3I6ICNkOWIzNDA7CiAgICBjb2xvcjogI2ZmZmZmZjsKICB9CiAgLnJhbmsyIHsKICAgIGJhY2tncm91bmQtY29sb3I6ICM2ZjdiODM7CiAgICBjb2xvcjogI2ZmZmZmZjsKICB9CiAgLnJhbmszIHsKICAgIGJhY2tncm91bmQtY29sb3I6ICNhMTUzMjY7CiAgICBjb2xvcjogI2ZmZmZmZjsKICB9Cn0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQliYWNrZ3JvdW5kLWNvbG9yOiAjZGRkOwoJCWJvcmRlci1yYWRpdXM6IDJweDsKCQltYXJnaW4tcmlnaHQ6IDhweDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LndhcC10YWItdGFicyB7Cn0K</text>
+        <text encoding="base64">LndhcC10YWItdGFicy5zdGFuZGFyZCB7Cgkud2FwLXRhYi10YWJzLWhlYWRlciB7Cgl9Cn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CW1hcmdpbi1ib3R0b206IDA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiB3aGl0ZTsK</text>
+        <text encoding="base64">CQliYWNrZ3JvdW5kLWNvbG9yOiAjZGRkOwoJCWJvcmRlci1yYWRpdXM6IDJweDsKCQltYXJnaW4tcmlnaHQ6IDhweDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLndhcC10YWItYm9keSB7CiAgICAgICAgYm9yZGVyLWJvdHRvbTogc29saWQgbGlnaHRncmF5IDNweDsKICAgICAgfQo=</text>
+        <text encoding="base64">LndhcC10YWItdGFicyB7Cn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiB3aGl0ZTsK</text>
+        <text encoding="base64">CW1hcmdpbi1ib3R0b206IDA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
