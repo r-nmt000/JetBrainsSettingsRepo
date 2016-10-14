@@ -503,7 +503,7 @@
         <mark key="." line="25" column="30" />
         <mark key="^" line="25" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1476444448001">
+      <file name="/Dummy.txt" timestamp="1476447650492">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1035,6 +1035,13 @@
         <mark key="." line="5" column="111" />
         <mark key="^" line="5" column="111" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/25e99c36-7322-403a-a576-5dac71b0fc76/console.sql" timestamp="1476447898907">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="4" />
+        <mark key="^" line="3" column="4" />
+        <mark key="." line="3" column="4" />
+      </file>
       <file name="C:/DemoLegacy/WorkSpace/HUE/company-concept-design/company-hue-front/src/main/webapp/WEB-INF/templates/onboarding/training/training-list-widget.xml" timestamp="1475461230171">
         <mark key="[" line="118" column="77" />
         <mark key="]" line="118" column="83" />
@@ -1114,11 +1121,6 @@
         <mark key="]" line="4" column="4" />
         <mark key="^" line="4" column="4" />
         <mark key="." line="4" column="4" />
-      </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/DailyAttendanceServiceImpl.java" timestamp="1476347913792">
-        <mark key="]" line="436" column="0" />
-        <mark key="." line="436" column="0" />
-        <mark key="^" line="436" column="0" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/FactoryMethod/CSVWriter.java" timestamp="1445064454268">
         <mark key="[" line="7" column="17" />
@@ -1272,6 +1274,7 @@
       <jump line="290" column="16" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-front/src/main/java/com/worksap/company/hue/controller/hr/attendance/DailyAttendanceController.java" />
       <jump line="69" column="4" filename="$MAVEN_REPOSITORY$/com/worksap/company/hue-hr-attcore-dto/16.11-SNAPSHOT/hue-hr-attcore-dto-16.11-20161005.130211-6.jar!/com/worksap/company/hue/hr/dto/attcore/PersonalDailyRecordDto.class" />
       <jump line="66" column="28" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/daily/DailyIntegratedValidatorImpl.java" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/25e99c36-7322-403a-a576-5dac71b0fc76/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1281,7 +1284,7 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>MonthlyAgreement36Validator</text>
+        <text>postgres</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
