@@ -1246,7 +1246,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="5" column="88" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/vo/builder/MonthlyAttendancDataLayoutVoBuilderImpl.java" timestamp="1476760321173" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/vo/builder/MonthlyAttendancDataLayoutVoBuilderImpl.java" timestamp="1476785452251">
+        <mark key="[" line="69" column="13" />
+        <mark key="]" line="70" column="11" />
+        <mark key="." line="70" column="11" />
+        <mark key="^" line="70" column="11" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/cs-api-1/src/main/webapp/templates/paginator.jsp" timestamp="1470374990877">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="4" />
@@ -1417,13 +1422,13 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>item, drawViewContext.getGeneralItems()</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIE9USEVSMSwKICAgIE9USEVSMiwKICAgIE9USEVSMywKICAgIE9USEVSNCwKICAgIE9USEVSNSwKICAgIE9USEVSNiwKICAgIE9USEVSNywKICAgIE9USEVSOCwKICAgIE9USEVSOSwKICAgIE9USEVSMTAsCiAgICBPVEhFUjExLAogICAgT1RIRVIxMiwKICAgIE9USEVSMTMsCiAgICBPVEhFUjE0LAogICAgT1RIRVIxNSwKICAgIE9USEVSMTYsCiAgICBPVEhFUjE3LAogICAgT1RIRVIxOCwKICAgIE9USEVSMTksCiAgICBPVEhFUjIwOwo=</text>
+      <register name="0" type="4">
+        <text>drawViewContext.getNonAttendanceUsableTypes()</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1431,20 +1436,43 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>itemType == LayoutItemType.PRIVATE_ABSENCE
+                        || itemType == LayoutItemType.CHILD_CARE
+                        || itemType == LayoutItemType.NURSING_CARE
+                        || itemType == LayoutItemType.OVERTIME_REST
+                        || itemType == LayoutItemType.OTHER1
+                        || itemType == LayoutItemType.OTHER2
+                        || itemType == LayoutItemType.OTHER3
+                        || itemType == LayoutItemType.OTHER4
+                        || itemType == LayoutItemType.OTHER5
+                        || itemType == LayoutItemType.OTHER6
+                        || itemType == LayoutItemType.OTHER7
+                        || itemType == LayoutItemType.OTHER8
+                        || itemType == LayoutItemType.OTHER9
+                        || itemType == LayoutItemType.OTHER10
+                        || itemType == LayoutItemType.OTHER11
+                        || itemType == LayoutItemType.OTHER12
+                        || itemType == LayoutItemType.OTHER13
+                        || itemType == LayoutItemType.OTHER14
+                        || itemType == LayoutItemType.OTHER15
+                        || itemType == LayoutItemType.OTHER16
+                        || itemType == LayoutItemType.OTHER17
+                        || itemType == LayoutItemType.OTHER18
+                        || itemType == LayoutItemType.OTHER19
+                        || itemType == LayoutItemType.OTHER20</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5CZWZvcmU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5Nb2NraXRvLm1vY2s7Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0Lio7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aWR0aHMuYQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NhbERhdGVSYW5nZSBleHBlY3RlZCA9IExvY2FsRGF0ZVJhbmdlLm9mKExvY2FsRGF0ZS5wYXJzZSgiMjAxNS0xMi0zMSIpLCBMb2NhbERhdGUucGFyc2UoIjIwMTYtMTItMzEiKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
@@ -1453,10 +1481,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvd24uZXhwZWN0KFJ1bnRpbWVFeGNlcHRpb24uY2xhc3MpOwogICAgICAgIHRocm93bi5leHBlY3RNZXNzYWdlKCJBbGwgcGVyc29uYWxEYWlseVJlY29yZHMjZ2V0RGF0ZSBpcyBudWxsIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTG9jYWxEYXRlUmFuZ2UgY3JlYXRlVGFyZ2V0VGVybShMaXN0PFBlcnNvbmFsRGFpbHlSZWNvcmREdG8+IHBlcnNvbmFsRGFpbHlSZWNvcmRzKSB7CiAgICAgICAgTG9jYWxEYXRlIG1heExvY2FsRGF0ZSA9IHBlcnNvbmFsRGFpbHlSZWNvcmRzLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAubWF4KChhLCBiKSAtPiBhLmdldERhdGUoKS5jb21wYXJlVG8oYi5nZXREYXRlKCkpKS5nZXQoKS5nZXREYXRlKCk7CiAgICAgICAgTG9jYWxEYXRlIG1pbkxvY2FsRGF0ZSA9IHBlcnNvbmFsRGFpbHlSZWNvcmRzLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAubWluKChhLCBiKSAtPiBhLmdldERhdGUoKS5jb21wYXJlVG8oYi5nZXREYXRlKCkpKS5nZXQoKS5nZXREYXRlKCk7CiAgICAgICAgcmV0dXJuIExvY2FsRGF0ZVJhbmdlLm9mKG1pbkxvY2FsRGF0ZSwgbWF4TG9jYWxEYXRlKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfHwgaXRlbVR5cGUgPT0gTGF5b3V0SXRlbVR5cGUuT1RIRVIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
