@@ -130,12 +130,12 @@
         <mark key="^" line="47" column="80" />
         <mark key="." line="47" column="58" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/MonthlyAttendanceServiceImpl.java" timestamp="1476858959373">
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/MonthlyAttendanceServiceImpl.java" timestamp="1476861392991">
         <mark key="'" line="465" column="8" />
-        <mark key="[" line="673" column="3" />
-        <mark key="]" line="673" column="2" />
-        <mark key="^" line="673" column="2" />
-        <mark key="." line="673" column="2" />
+        <mark key="[" line="903" column="29" />
+        <mark key="]" line="911" column="29" />
+        <mark key="^" line="759" column="28" />
+        <mark key="." line="903" column="29" />
       </file>
       <file name="$USER_HOME$/repos/ideaProjects/ss-view-1/src/main/webapp/jsp/order/detail.jsp" timestamp="1471236459782">
         <mark key="[" line="81" column="54" />
@@ -1343,6 +1343,10 @@
         <mark key="." line="78" column="70" />
         <mark key="^" line="78" column="69" />
       </file>
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/entity/MonthlyAttendanceEntity.java" timestamp="1476860707583">
+        <mark key="[" line="120" column="53" />
+        <mark key="]" line="120" column="78" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/service/impl/DefaultOrderService.java" timestamp="1470311528638">
         <mark key="[" line="70" column="16" />
         <mark key="]" line="70" column="28" />
@@ -1432,33 +1436,50 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>getPrivateNonAttendanceName</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBTdHJpbmcgREVGQVVMVF9FUlJPUl9NRVNTQUdFX0lEID0gIm1zZy5ocl9hdHRlbmRhbmNlX21vbnRobHlfbGltaXQiOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IGVsc2UgaWYgKGl0ZW1UeXBlID09IExheW91dEl0ZW1UeXBlLk9USEVSMSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChyb3cuZ2V0T3RoZXIxTm9uQXR0ZW5kYW5jZUxpc3QoKSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vZGVsLnNldE90aGVyMU5vbkF0dGVuZGFuY2VMaXN0KEFycmF5cy5hc0xpc3QoTW9udGhseUF0dGVuZGFuY2VOb25BdHRlbmRhbmNlRGF0YQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5idWlsZGVyKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuc3RhcnRUaW1lKHJvdy5nZXRPdGhlcjFOb25BdHRlbmRhbmNlU3RhcnRUaW1lKCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmVuZFRpbWUocm93LmdldE90aGVyMU5vbkF0dGVuZGFuY2VFbmRUaW1lKCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLm5vbkF0dGVuZGFuY2VOYW1lKHJvdy5nZXRPdGhlcjFOb25BdHRlbmRhbmNlTmFtZSgpKS5idWlsZCgpKSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBTdHJpbmcgREVGQVVMVF9FUlJPUl9NRVNTQUdFX0lEID0gIm1zZy5ocl9hdHRlbmRhbmNlX21vbnRobHlfbGltaXQiOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGVsc2UgaWYgKGl0ZW1UeXBlID09IExheW91dEl0ZW1UeXBlLlBSSVZBVEVfTk9OQVRURU5EQU5DRSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChyb3cuZ2V0UHJpdmF0ZU5vbkF0dGVuZGFuY2VMaXN0KCkgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtb2RlbC5zZXRQcml2YXRlTm9uQXR0ZW5kYW5jZUxpc3QoQXJyYXlzLmFzTGlzdChNb250aGx5QXR0ZW5kYW5jZU5vbkF0dGVuZGFuY2VEYXRhCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmJ1aWxkZXIoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zdGFydFRpbWUocm93LmdldFByaXZhdGVOb25BdHRlbmRhbmNlU3RhcnRUaW1lKCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmVuZFRpbWUocm93LmdldFByaXZhdGVOb25BdHRlbmRhbmNlRW5kVGltZSgpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5ub25BdHRlbmRhbmNlTmFtZShyb3cuZ2V0UHJpdmF0ZU5vbkF0dGVuZGFuY2VOYW1lKCkpLmJ1aWxkKCkpKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBTdHJpbmcgREFJTFlfREVGQVVMVF9FUlJPUl9NRVNTQUdFX0lEID0gIm1zZy5ocl9hdHRlbmRhbmNlX21vbnRobHlfbGltaXQiOwo=</text>
+      <register name="2" type="4">
+        <text>else if (itemType == LayoutItemType.PRIVATE_NONATTENDANCE) {
+                                if (row.getPrivateNonAttendanceList() != null) {
+                                    model.setPrivateNonAttendanceList(Arrays.asList(MonthlyAttendanceNonAttendanceData
+                                            .builder()
+                                            .startTime(row.getPrivateNonAttendanceStartTime())
+                                            .endTime(row.getPrivateNonAttendanceEndTime())
+                                            .nonAttendanceName(row.getPrivateNonAttendanceName()).build()));
+                                }
+                            }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NhbERhdGUgbWF4TG9jYWxEYXRlID0gcGVyc29uYWxEYWlseVJlY29yZHMuc3RyZWFtKCkKICAgICAgICAgICAgICAgIC5tYXgoKGEsIGIpIC0+IGEuZ2V0RGF0ZSgpLmNvbXBhcmVUbyhiLmdldERhdGUoKSkpLmdldCgpLmdldERhdGUoKTsKICAgICAgICBMb2NhbERhdGUgbWluTG9jYWxEYXRlID0gcGVyc29uYWxEYWlseVJlY29yZHMuc3RyZWFtKCkKICAgICAgICAgICAgICAgIC5taW4oKGEsIGIpIC0+IGEuZ2V0RGF0ZSgpLmNvbXBhcmVUbyhiLmdldERhdGUoKSkpLmdldCgpLmdldERhdGUoKTsK</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBTdHJpbmcgREVGQVVMVF9FUlJPUl9NRVNTQUdFX0lEID0gIm1zZy5ocl9hdHRlbmRhbmNlX21vbnRobHlfbGltaXQiOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53b3Jrc2FwLmNvbXBhbnkuaHVlLmhyLnR5cGUuYXR0ZW5kYW5jZS5Nb250aGx5QXR0ZW5kYW5jZUFjdGlvblN1Z2dlc3Rpb25JdGVtOwo=</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBTdHJpbmcgREFJTFlfREVGQVVMVF9FUlJPUl9NRVNTQUdFX0lEID0gIm1zZy5ocl9hdHRlbmRhbmNlX21vbnRobHlfbGltaXQiOwo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBMb2NhbERhdGUgbWF4TG9jYWxEYXRlID0gcGVyc29uYWxEYWlseVJlY29yZHMuc3RyZWFtKCkKICAgICAgICAgICAgICAgIC5tYXgoKGEsIGIpIC0+IGEuZ2V0RGF0ZSgpLmNvbXBhcmVUbyhiLmdldERhdGUoKSkpLmdldCgpLmdldERhdGUoKTsKICAgICAgICBMb2NhbERhdGUgbWluTG9jYWxEYXRlID0gcGVyc29uYWxEYWlseVJlY29yZHMuc3RyZWFtKCkKICAgICAgICAgICAgICAgIC5taW4oKGEsIGIpIC0+IGEuZ2V0RGF0ZSgpLmNvbXBhcmVUbyhiLmdldERhdGUoKSkpLmdldCgpLmdldERhdGUoKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS53b3Jrc2FwLmNvbXBhbnkuaHVlLmhyLnR5cGUuYXR0ZW5kYW5jZS5Nb250aGx5QXR0ZW5kYW5jZUFjdGlvblN1Z2dlc3Rpb25JdGVtOwo=</text>
+      </register>
+      <register name="v" type="4">
+        <text>lllllhhhhhvllll</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>itemType == LayoutItemType.PRIVATE_ABSENCE
                         || itemType == LayoutItemType.CHILD_CARE
                         || itemType == LayoutItemType.NURSING_CARE
@@ -1484,20 +1505,11 @@
                         || itemType == LayoutItemType.OTHER19
                         || itemType == LayoutItemType.OTHER20</text>
       </register>
-      <register name="v" type="4">
-        <text>lllllhhhhhvllll</text>
-      </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aWR0aHMuYQo=</text>
-      </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1513,8 +1525,8 @@
         <entry>wq</entry>
         <entry>w]</entry>
         <entry>.w</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
