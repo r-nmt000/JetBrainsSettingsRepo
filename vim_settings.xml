@@ -1070,11 +1070,11 @@
         <mark key="^" line="19" column="9" />
         <mark key="." line="19" column="9" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/daily/DailyAgreement36ValidatorImpl.java" timestamp="1476429155842">
-        <mark key="[" line="32" column="54" />
-        <mark key="]" line="32" column="58" />
-        <mark key="." line="32" column="58" />
-        <mark key="^" line="32" column="58" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/daily/DailyAgreement36ValidatorImpl.java" timestamp="1476854483895">
+        <mark key="[" line="65" column="6" />
+        <mark key="]" line="65" column="6" />
+        <mark key="^" line="74" column="24" />
+        <mark key="." line="65" column="6" />
       </file>
       <file name="$USER_HOME$/repos/ideaProjects/batch-import-1/src/main/java/com/worksap/bootcamp/io/JDBCTransaction.java" timestamp="1470814064897">
         <mark key="[" line="21" column="25" />
@@ -1163,11 +1163,11 @@
         <mark key="[" line="59" column="0" />
         <mark key="]" line="61" column="52" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/unit/DayLimitValidatorImpl.java" timestamp="1476767887530">
-        <mark key="[" line="44" column="13" />
-        <mark key="]" line="44" column="48" />
-        <mark key="^" line="61" column="27" />
-        <mark key="." line="44" column="13" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/unit/DayLimitValidatorImpl.java" timestamp="1476854973889">
+        <mark key="[" line="41" column="22" />
+        <mark key="]" line="41" column="22" />
+        <mark key="^" line="41" column="22" />
+        <mark key="." line="41" column="22" />
       </file>
       <file name="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-front/src/main/webapp/WEB-INF/templates/onboarding/training/training-detail1/training-content-en.xml" timestamp="1474597635136">
         <mark key="[" line="61" column="53" />
@@ -1416,24 +1416,27 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>item, drawViewContext.getGeneralItems()</text>
+        <text>msg.hr_attendance_daily_limit</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
-      <register name="0" type="4">
-        <text>drawViewContext.getNonAttendanceUsableTypes()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHN0YXRpYyBTdHJpbmcgREVGQVVMVF9FUlJPUl9NRVNTQUdFX0lEID0gIm1zZy5ocl9hdHRlbmRhbmNlX2RhaWx5X2xpbWl0IjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53b3Jrc2FwLmNvbXBhbnkuaHVlLmhyLnR5cGUuYXR0ZW5kYW5jZS5Nb250aGx5QXR0ZW5kYW5jZUFjdGlvblN1Z2dlc3Rpb25JdGVtOwo=</text>
+        <text encoding="base64">ICAgICAgICBMb2NhbERhdGUgbWF4TG9jYWxEYXRlID0gcGVyc29uYWxEYWlseVJlY29yZHMuc3RyZWFtKCkKICAgICAgICAgICAgICAgIC5tYXgoKGEsIGIpIC0+IGEuZ2V0RGF0ZSgpLmNvbXBhcmVUbyhiLmdldERhdGUoKSkpLmdldCgpLmdldERhdGUoKTsKICAgICAgICBMb2NhbERhdGUgbWluTG9jYWxEYXRlID0gcGVyc29uYWxEYWlseVJlY29yZHMuc3RyZWFtKCkKICAgICAgICAgICAgICAgIC5taW4oKGEsIGIpIC0+IGEuZ2V0RGF0ZSgpLmNvbXBhcmVUbyhiLmdldERhdGUoKSkpLmdldCgpLmdldERhdGUoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS53b3Jrc2FwLmNvbXBhbnkuaHVlLmhyLnR5cGUuYXR0ZW5kYW5jZS5Nb250aGx5QXR0ZW5kYW5jZUFjdGlvblN1Z2dlc3Rpb25JdGVtOwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>itemType == LayoutItemType.PRIVATE_ABSENCE
                         || itemType == LayoutItemType.CHILD_CARE
                         || itemType == LayoutItemType.NURSING_CARE
@@ -1459,26 +1462,23 @@
                         || itemType == LayoutItemType.OTHER19
                         || itemType == LayoutItemType.OTHER20</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aWR0aHMuYQo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aWR0aHMuYQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
