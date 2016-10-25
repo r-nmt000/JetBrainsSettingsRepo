@@ -814,8 +814,9 @@
         <mark key="." line="12" column="67" />
         <mark key="^" line="12" column="67" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/test/java/com/worksap/company/hue/hr/biz/attcore/attcompattern/dao/PredeterminedPtnResultDaoImplTest.java" timestamp="1477286739982">
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/test/java/com/worksap/company/hue/hr/biz/attcore/attcompattern/dao/PredeterminedPtnResultDaoImplTest.java" timestamp="1477402838055">
         <mark key="[" line="60" column="23" />
+        <mark key="k" line="59" column="20" />
         <mark key="]" line="60" column="36" />
         <mark key="." line="60" column="36" />
         <mark key="^" line="60" column="36" />
@@ -1107,6 +1108,12 @@
         <mark key="]" line="19" column="9" />
         <mark key="^" line="19" column="9" />
         <mark key="." line="19" column="9" />
+      </file>
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/test/java/com/worksap/company/hue/hr/biz/attendance/dao/LayoutDaoImplTest.java" timestamp="1477403401955">
+        <mark key="[" line="134" column="57" />
+        <mark key="]" line="134" column="65" />
+        <mark key="." line="134" column="65" />
+        <mark key="^" line="134" column="65" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/vo/builder/DailyAttendancDataLayoutVoBuilder.java" timestamp="1476879380388">
         <mark key="[" line="11" column="0" />
@@ -1475,7 +1482,7 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>EDITABLE</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
@@ -1483,7 +1490,13 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBidWlsZElucHV0Rm9ybXNWb1dpdGhNYWluRGlzcGxheUFyZWEoKSB0aHJvd3MgRXhjZXB0aW9uIHsKCiAgICAgICAgTGlzdDxMYXlvdXRJdGVtPiBsYXlvdXRJdGVtcyA9IGNyZWF0ZVRlc3RMYXlvdXRJdGVtcygpOwogICAgICAgIEhyQXR0ZW5kYW5jZUlucHV0Rm9ybXNWbyBmb3Jtc1ZvID0gYnVpbGRlci5idWlsZElucHV0Rm9ybXNWbyhsYXlvdXRJdGVtcywgRGlzcGxheUFyZWFUeXBlLk1BSU4pOwoKICAgICAgICAvLyBDaGVjayBOT1RfVklTSUJMRSBmaWx0ZXJpbmcKICAgICAgICBhc3NlcnRUaGF0KGZvcm1zVm8uZ2V0SHJBdHRlbmRhbmNlSW5wdXRGb3Jtc1ZvKCkuc2l6ZSgpLCBpcygxKSk7CgogICAgICAgIC8vIENoZWNrIHNvcnQgb3JkZXIKICAgICAgICBhc3NlcnRUaGF0KGZvcm1zVm8uZ2V0SHJBdHRlbmRhbmNlSW5wdXRGb3Jtc1ZvKCkuZ2V0KDApLmdldE9yZGVyKCksIGlzKDMpKTsKCiAgICAgICAgLy8gQ2hlY2sgUkVBRF9PTkxZIHNldHRpbmcKICAgICAgICBhc3NlcnRUaGF0KGZvcm1zVm8uZ2V0SHJBdHRlbmRhbmNlSW5wdXRGb3Jtc1ZvKCkuZ2V0KDApLmlzUmVhZE9ubHkoKSwgaXMoZmFsc2UpKTsKCiAgICAgICAgLy8gQ2hlY2sgRElTUExBWV9BUkVBX1RZUEUgc2V0dGluZwogICAgICAgIGFzc2VydFRoYXQoZm9ybXNWby5nZXRIckF0dGVuZGFuY2VJbnB1dEZvcm1zVm8oKS5nZXQoMCkuZ2V0RGlzcGxheUFyZWEoKSwgaXMoRGlzcGxheUFyZWFUeXBlLk1BSU4udG9TdHJpbmcoKSkpOwogICAgfQo=</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBkYW8uaW5zZXJ0KGNyZWF0ZUR0bygiVEVTVF9GT1JfREFJTFlfTEFZT1VUMiIpKTsK</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="8">
         <text>other1&quot;),
 other2&quot;),
 other3&quot;),
@@ -1494,35 +1507,29 @@ other7&quot;),
 other8&quot;),
 other9&quot;),</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">fQogICAgCiAgICA=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaXRlbS5nZXRWaWV3U3RhdHVzVHlwZSgpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgd29ya3Mgb24gMjAxNi8xMC8yMS4KICovCg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGZvcm1zVm8uZ2V0SHJBdHRlbmRhbmNlSW5wdXRGb3Jtc1ZvKCkuZ2V0KDIpLmdldERpc3BsYXlBcmVhKCksIG51bGxWYWx1ZSgpKTsK</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgd29ya3Mgb24gMjAxNi8xMC8yMS4KICovCg==</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGZvcm1zVm8uZ2V0SHJBdHRlbmRhbmNlSW5wdXRGb3Jtc1ZvKCkuZ2V0KDApLmdldERpc3BsYXlBcmVhKCksIGlzKERpc3BsYXlBcmVhVHlwZS5TVUIudG9TdHJpbmcoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGZvcm1zVm8uZ2V0SHJBdHRlbmRhbmNlSW5wdXRGb3Jtc1ZvKCkuZ2V0KDIpLmdldERpc3BsYXlBcmVhKCksIG51bGxWYWx1ZSgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGZvcm1zVm8uZ2V0SHJBdHRlbmRhbmNlSW5wdXRGb3Jtc1ZvKCkuZ2V0KDEpLmlzUmVhZE9ubHkoKSwgaXMoZmFsc2UpKTsKICAgICAgICBhc3NlcnRUaGF0KGZvcm1zVm8uZ2V0SHJBdHRlbmRhbmNlSW5wdXRGb3Jtc1ZvKCkuZ2V0KDIpLmlzUmVhZE9ubHkoKSwgaXMoZmFsc2UpKTsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGZvcm1zVm8uZ2V0SHJBdHRlbmRhbmNlSW5wdXRGb3Jtc1ZvKCkuZ2V0KDApLmdldERpc3BsYXlBcmVhKCksIGlzKERpc3BsYXlBcmVhVHlwZS5TVUIudG9TdHJpbmcoKSkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGZvcm1zVm8uZ2V0SHJBdHRlbmRhbmNlSW5wdXRGb3Jtc1ZvKCkuZ2V0KDEpLmdldE9yZGVyKCksIGlzKDMpKTsKICAgICAgICBhc3NlcnRUaGF0KGZvcm1zVm8uZ2V0SHJBdHRlbmRhbmNlSW5wdXRGb3Jtc1ZvKCkuZ2V0KDIpLmdldE9yZGVyKCksIGlzKDUpKTsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGZvcm1zVm8uZ2V0SHJBdHRlbmRhbmNlSW5wdXRGb3Jtc1ZvKCkuZ2V0KDEpLmlzUmVhZE9ubHkoKSwgaXMoZmFsc2UpKTsKICAgICAgICBhc3NlcnRUaGF0KGZvcm1zVm8uZ2V0SHJBdHRlbmRhbmNlSW5wdXRGb3Jtc1ZvKCkuZ2V0KDIpLmlzUmVhZE9ubHkoKSwgaXMoZmFsc2UpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1541,8 +1548,8 @@ other9&quot;),</text>
         <entry>w]</entry>
         <entry>.w</entry>
         <entry>dw</entry>
-        <entry>q</entry>
         <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
