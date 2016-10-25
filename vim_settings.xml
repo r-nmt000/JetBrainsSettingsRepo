@@ -124,7 +124,7 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="66" column="74" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/overtime/service/OverTimeDataCollectionServiceImpl.java" timestamp="1477277380122">
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/overtime/service/OverTimeDataCollectionServiceImpl.java" timestamp="1477364402200">
         <mark key="[" line="101" column="0" />
         <mark key="]" line="101" column="0" />
         <mark key="." line="101" column="0" />
@@ -713,11 +713,11 @@
         <mark key="." line="6" column="106" />
         <mark key="^" line="6" column="106" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/portal/graph/PortalGraphBatchServiceImpl.java" timestamp="1477276855088">
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="^" line="127" column="39" />
-        <mark key="." line="128" column="0" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/portal/graph/PortalGraphBatchServiceImpl.java" timestamp="1477364547592">
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="^" line="127" column="60" />
+        <mark key="." line="122" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1477360649841">
         <mark key="[" line="0" column="0" />
@@ -869,7 +869,7 @@
         <mark key="." line="126" column="83" />
         <mark key="^" line="126" column="83" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-batch/src/main/java/com/worksap/company/hue/hr/batch/attendance/portal/graph/PortalGraphBatch.java" timestamp="1477363150549" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-batch/src/main/java/com/worksap/company/hue/hr/batch/attendance/portal/graph/PortalGraphBatch.java" timestamp="1477364015829" />
       <file name="C:/DemoLegacy/WorkSpace/HUE/company-concept-design/company-hue-front/src/main/webapp/WEB-INF/templates/onboarding/timeline-projects/parts/banner-en.xml" timestamp="1475456780529">
         <mark key="[" line="13" column="61" />
         <mark key="]" line="13" column="80" />
@@ -946,13 +946,6 @@
         <mark key="." line="76" column="135" />
         <mark key="^" line="76" column="135" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-front/src/main/java/com/worksap/company/hue/controller/hr/attendance/DailyAttendanceController.java" timestamp="1477309604577">
-        <mark key="'" line="245" column="0" />
-        <mark key="[" line="661" column="69" />
-        <mark key="]" line="661" column="75" />
-        <mark key="^" line="661" column="75" />
-        <mark key="." line="661" column="75" />
-      </file>
       <file name="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-front/src/main/less/components/hr-onboarding-training-detail-author.less" timestamp="1474593113275">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="87" column="1" />
@@ -971,11 +964,11 @@
         <mark key="." line="250" column="113" />
         <mark key="^" line="35" column="10" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-dto/src/main/java/com/worksap/company/hue/hr/type/attendance/portal/PortalGraphOvertimeAccumulationVo.java" timestamp="1477361759467">
-        <mark key="[" line="98" column="15" />
-        <mark key="]" line="98" column="24" />
-        <mark key="^" line="98" column="24" />
-        <mark key="." line="98" column="24" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-dto/src/main/java/com/worksap/company/hue/hr/type/attendance/portal/PortalGraphOvertimeAccumulationVo.java" timestamp="1477364480334">
+        <mark key="[" line="154" column="31" />
+        <mark key="]" line="154" column="31" />
+        <mark key="^" line="154" column="31" />
+        <mark key="." line="154" column="31" />
       </file>
       <file name="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-front/src/main/webapp/WEB-INF/templates/onboarding/training/training-list-recommended-course.xml" timestamp="1474541458039">
         <mark key="[" line="33" column="108" />
@@ -1538,7 +1531,7 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>NORMAL</text>
+        <text>limitValue</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
@@ -1547,37 +1540,37 @@
         <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBnZXRPdmVyVGltZUxlZnRWYWx1ZU92ZXJaZXJvKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgTW9ja2l0by53aGVuKHZvLmdldExpbWl0VmFsdWUoKSkudGhlblJldHVybigxMCk7CiAgICAgICAgTW9ja2l0by53aGVuKHZvLmdldE1vbnRobHlBY2N1bXVsYXRlZFZhbHVlKCkpLnRoZW5SZXR1cm4oNSk7CgogICAgICAgIGFzc2VydFRoYXQodm8uZ2V0T3ZlcnRpbWVMZWZ0VmFsdWUoKSwgaXMoNSkpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQgd2FybmluZ1ZhbHVlTGlzdCA9IChpbnQpb3ZlclRpbWVEYXRhLmdldEFjdHVhbExpbWl0VmFsKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBNb2NraXRvLndoZW4odm8uZ2V0TGltaXRWYWx1ZSgpKS50aGVuUmV0dXJuKDEwKTsKICAgICAgICBNb2NraXRvLndoZW4odm8uZ2V0TW9udGhseUFjY3VtdWxhdGVkVmFsdWUoKSkudGhlblJldHVybig1KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQgd2FybmluZ1ZhbHVlID0gKGludCl3YXJuaW5nVmFsTGlzdC5nZXRXYXJuaW5nVmFsKDApLmdldFdhcm5pbmdWYWwoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2by4K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS53b3Jrc2FwLmNvbXBhbnkuaHVlLmhyLmJpei5hdHRjb3JlLm92ZXJ0aW1lLmNvbW1vbi5saW1pdF9pbmZvLk92ZXJUaW1lV2FybmluZ1ZhbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRVcEZvckVtcHR5TGlzdENhc2UoKTsKICAgICAgICBNb2NraXRvLndoZW4odm8uZ2V0TW9udGhseUFjY3VtdWxhdGVkVmFsdWUoKSkudGhlblJldHVybigxOCk7CiAgICAgICAgTW9ja2l0by53aGVuKHZvLmdldExpbWl0VmFsdWUoKSkudGhlblJldHVybigyMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGcK</text>
+        <text encoding="base64">ICAgICAgICBNb2NraXRvLndoZW4odm8uZ2V0TGltaXRWYWx1ZSgpKS50aGVuUmV0dXJuKDEwKTsKICAgICAgICBNb2NraXRvLndoZW4odm8uZ2V0TW9udGhseUFjY3VtdWxhdGVkVmFsdWUoKSkudGhlblJldHVybig1KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2by4K</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgd29ya3Mgb24gMjAxNi8xMC8yNS4KICovCg==</text>
+        <text encoding="base64">ICAgICAgICBzZXRVcEZvckVtcHR5TGlzdENhc2UoKTsKICAgICAgICBNb2NraXRvLndoZW4odm8uZ2V0TW9udGhseUFjY3VtdWxhdGVkVmFsdWUoKSkudGhlblJldHVybigxOCk7CiAgICAgICAgTW9ja2l0by53aGVuKHZvLmdldExpbWl0VmFsdWUoKSkudGhlblJldHVybigyMCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBNb2NraXRvLndoZW4odm8uZ2V0V2FybmluZ1ZhbHVlcygpKS50aGVuUmV0dXJuKG51bGwpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
