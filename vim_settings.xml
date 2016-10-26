@@ -1110,12 +1110,6 @@
         <mark key="^" line="19" column="9" />
         <mark key="." line="19" column="9" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/test/java/com/worksap/company/hue/hr/biz/attendance/dao/LayoutDaoImplTest.java" timestamp="1477406725454">
-        <mark key="[" line="52" column="42" />
-        <mark key="]" line="52" column="52" />
-        <mark key="^" line="52" column="52" />
-        <mark key="." line="52" column="52" />
-      </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/vo/builder/DailyAttendancDataLayoutVoBuilder.java" timestamp="1476879380388">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="12" column="29" />
@@ -1194,11 +1188,6 @@
         <mark key="." line="5" column="111" />
         <mark key="^" line="5" column="111" />
       </file>
-      <file name="C:/HUE_org/WorkSpace/Develop/company-module-aggregator/pom.xml" timestamp="1477366874680">
-        <mark key="]" line="19" column="9" />
-        <mark key="^" line="19" column="9" />
-        <mark key="." line="19" column="9" />
-      </file>
       <file name="C:/DemoLegacy/WorkSpace/HUE/company-concept-design/company-hue-front/src/main/webapp/WEB-INF/templates/onboarding/training/training-list-widget.xml" timestamp="1475461230171">
         <mark key="[" line="118" column="77" />
         <mark key="]" line="118" column="83" />
@@ -1264,6 +1253,12 @@
         <mark key="]" line="9" column="52" />
         <mark key="." line="9" column="52" />
         <mark key="^" line="9" column="52" />
+      </file>
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/dao/LayoutDaoImpl.java" timestamp="1477449966454">
+        <mark key="[" line="41" column="79" />
+        <mark key="]" line="41" column="81" />
+        <mark key="^" line="41" column="81" />
+        <mark key="." line="41" column="81" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/controller/api/CartController.java" timestamp="1470310478239">
         <mark key="[" line="73" column="32" />
@@ -1348,6 +1343,10 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
+      </file>
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/dao/DailyInputUserDaoImpl.java" timestamp="1477449552822">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="101" />
       </file>
       <file name="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-front/src/main/webapp/WEB-INF/templates/onboarding/timeline-projects/parts/sidebar-en.xml" timestamp="1474415632518">
         <mark key="[" line="8" column="63" />
@@ -1483,33 +1482,39 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>gridLayoutValue</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsYXlvdXRJdGVtcy5hZGRBbGwoY3JlYXRlTWFpbkl0ZW1zKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2VhcmNoQ29uZGl0aW9ucyBjb25kaXRpb25zID0gbmV3IFNlYXJjaENvbmRpdGlvbnMoU2VhcmNoQ29uZGl0aW9uLmVxKCJkYWlseUtleSIsIGRhdGUpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsYXlvdXRJdGVtcy5hZGRBbGwoY3JlYXRlTWFpbkl0ZW1zKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtcy5hZGQoY3JlYXRlU3ViSXRlbSgibGF0ZUFycml2YWxSZWFzb24iLCAyKSk7CiAgICAgICAgaXRlbXMuYWRkKGNyZWF0ZVN1Ykl0ZW0oImVhcmx5TGVhdmVSZWFzb24iLCAzKSk7CiAgICAgICAgaXRlbXMuYWRkKGNyZWF0ZVN1Ykl0ZW0oInByaXZhdGVOb25BdHRlbmRhbmNlIiwgNSkpOwogICAgICAgIGl0ZW1zLmFkZChjcmVhdGVTdWJJdGVtKCJjb21tZW50IiwgNikpOwo=</text>
+        <text encoding="base64">ICAgICAgICBsYXlvdXRJdGVtcy5hZGRBbGwoY3JlYXRlTWFpbkl0ZW1zKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpdGVtcy5hZGQoY3JlYXRlR3JpZEl0ZW0oIndvcmtEYXRlIiwgRGlzcGxheUFyZWFUeXBlLk1BSU4sIDEwKSk7CiAgICAgICAgLy8gaXRlbXMuYWRkKGNyZWF0ZUdyaWRJdGVtKCJ3b3JrZGF5SG9saWRheVR5cGUiLCBEaXNwbGF5QXJlYVR5cGUuTUFJTiwgMjApKTsKICAgICAgICAvLyBpdGVtcy5hZGQoY3JlYXRlR3JpZEl0ZW0oImZsb3dTdGF0dXMiLCBEaXNwbGF5QXJlYVR5cGUuTUFJTiwgMzApKTsKICAgICAgICAvLyBpdGVtcy5hZGQoY3JlYXRlR3JpZEl0ZW0oImNsb2NrVGltZVJhbmdlIiwgRGlzcGxheUFyZWFUeXBlLk1BSU4sIDUwKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpdGVtcy5hZGQoY3JlYXRlU3ViSXRlbSgibGF0ZUFycml2YWxSZWFzb24iLCAyKSk7CiAgICAgICAgaXRlbXMuYWRkKGNyZWF0ZVN1Ykl0ZW0oImVhcmx5TGVhdmVSZWFzb24iLCAzKSk7CiAgICAgICAgaXRlbXMuYWRkKGNyZWF0ZVN1Ykl0ZW0oInByaXZhdGVOb25BdHRlbmRhbmNlIiwgNSkpOwogICAgICAgIGl0ZW1zLmFkZChjcmVhdGVTdWJJdGVtKCJjb21tZW50IiwgNikpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtcy5hZGQoY3JlYXRlR3JpZEl0ZW0oIndvcmtBcnJhbmdlbWVudENvZGUiLCBEaXNwbGF5QXJlYVR5cGUuTUFJTiwgODApKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBpdGVtcy5hZGQoY3JlYXRlR3JpZEl0ZW0oIndvcmtEYXRlIiwgRGlzcGxheUFyZWFUeXBlLk1BSU4sIDEwKSk7CiAgICAgICAgLy8gaXRlbXMuYWRkKGNyZWF0ZUdyaWRJdGVtKCJ3b3JrZGF5SG9saWRheVR5cGUiLCBEaXNwbGF5QXJlYVR5cGUuTUFJTiwgMjApKTsKICAgICAgICAvLyBpdGVtcy5hZGQoY3JlYXRlR3JpZEl0ZW0oImZsb3dTdGF0dXMiLCBEaXNwbGF5QXJlYVR5cGUuTUFJTiwgMzApKTsKICAgICAgICAvLyBpdGVtcy5hZGQoY3JlYXRlR3JpZEl0ZW0oImNsb2NrVGltZVJhbmdlIiwgRGlzcGxheUFyZWFUeXBlLk1BSU4sIDUwKSk7Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpdGVtcy5hZGQoY3JlYXRlR3JpZEl0ZW0oIndvcmtBcnJhbmdlbWVudENvZGUiLCBEaXNwbGF5QXJlYVR5cGUuTUFJTiwgODApKTsK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBkYW8uaW5zZXJ0KGNyZWF0ZUR0bygiVEVTVF9GT1JfREFJTFlfTEFZT1VUMiIpKTsK</text>
       </register>
-      <register name="6" type="8">
+      <register name="v" type="4">
+        <text>lllllhhhhhvllll</text>
+      </register>
+      <register name="7" type="8">
         <text>other1&quot;),
 other2&quot;),
 other3&quot;),
@@ -1520,17 +1525,11 @@ other7&quot;),
 other8&quot;),
 other9&quot;),</text>
       </register>
-      <register name="v" type="4">
-        <text>lllllhhhhhvllll</text>
-      </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">fQogICAgCiAgICA=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlbS5nZXRWaWV3U3RhdHVzVHlwZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
