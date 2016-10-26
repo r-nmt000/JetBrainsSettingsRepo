@@ -713,11 +713,11 @@
         <mark key="." line="22" column="36" />
         <mark key="^" line="22" column="36" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-dto/src/main/java/com/worksap/company/hue/hr/type/attcore/NonAttendanceMasterType.java" timestamp="1477489002073">
-        <mark key="[" line="15" column="27" />
-        <mark key="]" line="15" column="47" />
-        <mark key="." line="15" column="47" />
-        <mark key="^" line="15" column="47" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-dto/src/main/java/com/worksap/company/hue/hr/type/attcore/NonAttendanceMasterType.java" timestamp="1477490014838">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="55" column="44" />
       </file>
       <file name="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-front/src/main/less/components/hr-onboarding-training-detail-header.less" timestamp="1473923543814">
         <mark key="[" line="4" column="0" />
@@ -1334,10 +1334,11 @@
         <mark key="." line="16" column="16" />
         <mark key="^" line="16" column="16" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/vo/builder/DailyAttendanceDataLayoutVoBuilderImpl.java" timestamp="1477483035855">
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="." line="110" column="0" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/vo/builder/DailyAttendanceDataLayoutVoBuilderImpl.java" timestamp="1477490205370">
+        <mark key="[" line="108" column="73" />
+        <mark key="]" line="108" column="23" />
+        <mark key="." line="108" column="23" />
+        <mark key="^" line="108" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/test/java/com/worksap/bootcamp/ss/api/lv1/service/impl/DefaultOrderServiceTest.java" timestamp="1470362081208">
         <mark key="[" line="32" column="39" />
@@ -1505,21 +1506,42 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>itemOf</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFBSSVZBVEVfTk9OQVRURU5EQU5DRSgicHJpdmF0ZU5vQXR0ZW5kYW5jZUxpc3QiKSwK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIUlURU1fTUFQLmNvbnRhaW5zS2V5KGl0ZW1JZCkpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbigiaXRlbUlkOiAiICsgaXRlbUlkKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIElURU1fTUFQLmdldChpdGVtSWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFBSSVZBVEVfQUJTRU5DRSgiUFJJVkFURV9BQlNFTkNFIiwgInByaXZhdGVBYnNlbmNlIiksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfQogICAgICAgIHJldHVybiBJVEVNX01BUC5nZXQoaXRlbUlkKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbigiaXRlbUlkOiAiICsgaXRlbUlkKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="v" type="4">
+        <text>lllllhhhhhvllll</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIFBSSVZBVEVfQUJTRU5DRSgiUFJJVkFURV9BQlNFTkNFIiwgInByaXZhdGVBYnNlbmNlIiksCg==</text>
+      </register>
+      <register name="8" type="8">
         <text>&quot;
 &quot;
 &quot;
@@ -1530,29 +1552,8 @@
 &quot;
 &quot;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIFBSSVZBVEVfQUJTRU5DRSgicHJpdmF0ZUFic2VuY2VOb25BdHRlbmRhbmNlTGlzdCIpLAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBIckF0dGVuZGFuY2VJbnB1dEZvcm1zVm8gYnVpbGRJbnB1dEZvcm1zVm8oQVRFIG1vZGVsLCBVc2VySWQgdXNlcklkLCBEYWlseUF0dGVuZGFuY2VFbnRpdHkgZW50aXR5LCBEaXNwbGF5QXJlYVR5cGUgZGlzcGxheUFyZWFUeXBlKSB7Cg==</text>
-      </register>
-      <register name="v" type="4">
-        <text>lllllhhhhhvllll</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBIckF0dGVuZGFuY2VJbnB1dEZvcm1zVm8gaHJBdHRlbmRhbmNlTWFpbklucHV0Rm9ybXNWbyA9CiAgICAgICAgICAgICAgICA7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
+        <text encoding="base64">ICAgIFBSSVZBVEVfQUJTRU5DRSgicHJpdmF0ZUFic2VuY2VOb25BdHRlbmRhbmNlTGlzdCIpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
