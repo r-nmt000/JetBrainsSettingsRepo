@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1477463802262">
+      <file name="/a.dummy" timestamp="1477486130732">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/company-module-aggregator_org/pom.xml" timestamp="1477477995622">
@@ -21,6 +21,12 @@
         <mark key="[" line="101" column="0" />
         <mark key="]" line="101" column="0" />
         <mark key="." line="101" column="0" />
+      </file>
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-dto/src/main/java/com/worksap/company/hue/hr/type/attendance/LayoutItemType.java" timestamp="1477486844705">
+        <mark key="[" line="129" column="33" />
+        <mark key="]" line="129" column="32" />
+        <mark key="." line="129" column="32" />
+        <mark key="^" line="129" column="32" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/company-module-aggregator/update.bat" timestamp="1477476340123" />
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-batch/src/main/java/com/worksap/company/hue/hr/batch/attendance/portal/graph/PortalGraphBatch.java" timestamp="1477479395088">
@@ -295,6 +301,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
