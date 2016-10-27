@@ -39,7 +39,7 @@
         <mark key="." line="7" column="16" />
         <mark key="^" line="7" column="16" />
       </file>
-      <file name="/a.dummy" timestamp="1477549701563">
+      <file name="/a.dummy" timestamp="1477553822062">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/DemoLegacy/WorkSpace/HUE/company-concept-design/company-hue-front/src/main/webapp/WEB-INF/templates/onboarding/training/training-list-recent-course.xml" timestamp="1475156363503">
@@ -711,6 +711,12 @@
         <mark key="." line="6" column="106" />
         <mark key="^" line="6" column="106" />
       </file>
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/portal/graph/PortalGraphBatchServiceImpl.java" timestamp="1477554249890">
+        <mark key="[" line="127" column="63" />
+        <mark key="]" line="127" column="72" />
+        <mark key="." line="127" column="72" />
+        <mark key="^" line="127" column="72" />
+      </file>
       <file name="/fragment.java" timestamp="1477371917558">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -945,11 +951,11 @@
         <mark key="." line="250" column="113" />
         <mark key="^" line="35" column="10" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-dto/src/main/java/com/worksap/company/hue/hr/type/attendance/portal/PortalGraphOvertimeAccumulationVo.java" timestamp="1477364480334">
-        <mark key="[" line="154" column="31" />
-        <mark key="]" line="154" column="31" />
-        <mark key="^" line="154" column="31" />
-        <mark key="." line="154" column="31" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-dto/src/main/java/com/worksap/company/hue/hr/type/attendance/portal/PortalGraphOvertimeAccumulationVo.java" timestamp="1477556288820">
+        <mark key="[" line="129" column="64" />
+        <mark key="]" line="129" column="73" />
+        <mark key="^" line="129" column="73" />
+        <mark key="." line="129" column="73" />
       </file>
       <file name="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-front/src/main/webapp/WEB-INF/templates/onboarding/training/training-list-recommended-course.xml" timestamp="1474541458039">
         <mark key="[" line="33" column="108" />
@@ -1496,46 +1502,46 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>recessTime</text>
+        <text>warningVals</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
-      <register name="0" type="4">
-        <text>recessTimeRange</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGN1cnJlbnRWYWwgPiB0aGlzVmFsICYmIGN1cnJlbnRWYWwgPCBuZXh0VmFsKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gT1ZFUlRJTUVfU1RBVFVTX1dBUk5JTkcgKyBTdHJpbmcudmFsdWVPZih3YXJuaW5nVmFscy5nZXQoaSkuZ2V0V2FybmluZ0xldmVsKCkpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiB0b3BpYy1hdHRlbmRhbmNlLTEwMjYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgIEhyQXR0ZW5kYW5jZUlucHV0Rm9ybXNWbyBockF0dGVuZGFuY2VJbnB1dEZvcm1zVm8gPSBpbnB1dFNlcnZpY2UuZ2V0SW5wdXRGb3Jtc1ZvKAogICAgICAgICAgICAgICAgIFVzZXJJZC5vZihjb250ZXh0Vm8uZ2V0VXNlcigpLmdldElkKCkpLCBtb2RlbC5nZXRCdXNpbmVzc0RhdGEoKSk7CiAgICAgICAgbW9kZWwuc2V0SHJBdHRlbmRhbmNlSW5wdXRGb3Jtc1ZvcyhockF0dGVuZGFuY2VJbnB1dEZvcm1zVm8pOwo9PT09PT09Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiB0b3BpYy1hdHRlbmRhbmNlLTEwMjYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwLkVudHJ5PEludGVnZXIsIEludGVnZXI+IG5leHRFbnRyeSA9IHdhcm5pbmdWYWxzLmhpZ2hlckVudHJ5KGUuZ2V0S2V5KCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5yZWFkT25seShpdGVtLmdldFZpZXdTdGF0dXNUeXBlKCkgPT0gVmlld1N0YXR1c1R5cGUuUkVBRF9PTkxZKQo9PT09PT09Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiB0b3BpYy1hdHRlbmRhbmNlLTEwMjYK</text>
+        <text encoding="base64">ICAgICAgICBQYWlyPEludGVnZXIsIEludGVnZXI+IHBhaXIgPSBuZXcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgIHJldHVybiBsYXlvdXRTZXJ2aWNlLnNlbGVjdEFsbEl0ZW1zKGVtcGxveWVlSWQsIHdvcmtEYXRlKTsKICAgIH0KCiAgICBwcml2YXRlIExheW91dEl0ZW0gY3JlYXRlTGF5b3V0SXRlbShSdHRsRGFpbHlBcHByb3ZhbFR5cGUgdHlwZSwgU3RyaW5nIHZhbHVlLCBpbnQgb3JkZXIpIHsKICAgICAgICByZXR1cm4gbmV3IEdyaWRMYXlvdXRJdGVtKHR5cGUudG9TdHJpbmcoKSwgbnVsbCwgbnVsbCwgdmFsdWUsIG9yZGVyKTsKPT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IG5leHRWYWwgPQo=</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IG5leHRWYWwgPSBpID09IChzaXplLTEpID8gZ2V0TGltaXRWYWx1ZSgpOihpbnQpd2FybmluZ1ZhbHMuZ2V0KGkrMSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgIHJldHVybiBkYWlseUF0dGVuZGFuY2VMYXlvdXRTZXJ2aWNlLnNlbGVjdEFsbEl0ZW1zKGVtcGxveWVlSWQsIHdvcmtEYXRlKTsKPj4+Pj4+PiB0b3BpYy1hdHRlbmRhbmNlLTEwMjYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IG5leHRWYWwgPSBpID09IChzaXplLTEpID8gZ2V0TGltaXRWYWx1ZSgpOihpbnQpd2FybmluZ1ZhbHMuZ2V0KGkrMSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiB0b3BpYy1hdHRlbmRhbmNlLTEwMjYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHRoaXNWYWwgPSAoaW50KSBlLmdldFZhbHVlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
