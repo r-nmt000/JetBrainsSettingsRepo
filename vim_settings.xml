@@ -267,10 +267,6 @@
       <file name="/HTML File.txt.ft" timestamp="1477472324090">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/test/java/com/worksap/company/hue/hr/biz/attcore/attcomexaminer/SyozokuConditionExaminerTest.java" timestamp="1477463815514">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="72" />
-      </file>
       <file name="$USER_HOME$/repos/ideaProjects/batch-report-1/src/main/java/com/worksap/bootcamp/batch/report/lv1/DocumentFactoryImpl.java" timestamp="1471061593394">
         <mark key="[" line="44" column="33" />
         <mark key="]" line="44" column="33" />
@@ -512,9 +508,9 @@
         <mark key="." line="49" column="83" />
         <mark key="^" line="49" column="83" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-dto/src/main/java/com/worksap/company/hue/hr/type/attendance/LayoutItemType.java" timestamp="1477488945772">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="53" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-dto/src/main/java/com/worksap/company/hue/hr/type/attendance/LayoutItemType.java" timestamp="1477538340482">
+        <mark key="[" line="16" column="23" />
+        <mark key="]" line="16" column="37" />
         <mark key="." line="20" column="36" />
         <mark key="^" line="20" column="50" />
       </file>
@@ -1125,6 +1121,12 @@
         <mark key="^" line="19" column="9" />
         <mark key="." line="19" column="9" />
       </file>
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/test/java/com/worksap/company/hue/hr/biz/attendance/dao/LayoutDaoImplTest.java" timestamp="1477538426932">
+        <mark key="[" line="36" column="28" />
+        <mark key="]" line="36" column="27" />
+        <mark key="." line="36" column="27" />
+        <mark key="^" line="36" column="27" />
+      </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/vo/builder/DailyAttendancDataLayoutVoBuilder.java" timestamp="1476879380388">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="12" column="29" />
@@ -1282,20 +1284,16 @@
         <mark key="^" line="5" column="88" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/vo/builder/MonthlyAttendancDataLayoutVoBuilderImpl.java" timestamp="1477533013413">
-        <mark key="[" line="1711" column="5" />
-        <mark key="]" line="1712" column="3" />
-        <mark key="." line="1712" column="3" />
-        <mark key="^" line="1712" column="3" />
+        <mark key="[" line="1741" column="5" />
+        <mark key="]" line="1742" column="3" />
+        <mark key="." line="1742" column="3" />
+        <mark key="^" line="1742" column="3" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/cs-api-1/src/main/webapp/templates/paginator.jsp" timestamp="1470374990877">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="4" />
         <mark key="^" line="4" column="4" />
         <mark key="." line="4" column="4" />
-      </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/DailyAttendanceServiceImpl.java" timestamp="1477481506978">
-        <mark key="[" line="389" column="0" />
-        <mark key="]" line="389" column="131" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/FactoryMethod/CSVWriter.java" timestamp="1445064454268">
         <mark key="[" line="7" column="17" />
@@ -1356,10 +1354,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
-      </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/dao/DailyInputUserDaoImpl.java" timestamp="1477449552822">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="101" />
       </file>
       <file name="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-front/src/main/webapp/WEB-INF/templates/onboarding/timeline-projects/parts/sidebar-en.xml" timestamp="1474415632518">
         <mark key="[" line="8" column="63" />
@@ -1499,13 +1493,13 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>PRIVATE_ABSENCE</text>
+        <text>recessTime</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
       <register name="0" type="4">
-        <text>NonAttendanceMasterType.isNonAttendanceItem(item.getItemId())</text>
+        <text>recessTimeRange</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cjw8PDw8PDwgSEVBRAo9PT09PT09CiAgICBwcml2YXRlIGJvb2xlYW4gaXNOb25BdHRlbmRhbmNlSXRlbShMYXlvdXRJdGVtVHlwZSBpdGVtVHlwZSkgewogICAgICAgIGlmIChpdGVtVHlwZSA9PSBMYXlvdXRJdGVtVHlwZS5QUklWQVRFX0FCU0VOQ0UKICAgICAgICAgICAgICAgIHx8IGl0ZW1UeXBlID09IExheW91dEl0ZW1UeXBlLkNISUxEX0NBUkUKICAgICAgICAgICAgICAgIHx8IGl0ZW1UeXBlID09IExheW91dEl0ZW1UeXBlLk5VUlNJTkdfQ0FSRQogICAgICAgICAgICAgICAgfHwgaXRlbVR5cGUgPT0gTGF5b3V0SXRlbVR5cGUuT1ZFUlRJTUVfUkVTVAogICAgICAgICAgICAgICAgfHwgaXRlbVR5cGUgPT0gTGF5b3V0SXRlbVR5cGUuTk9OX0FUVEVOREFOQ0VfT1RIRVIxCiAgICAgICAgICAgICAgICB8fCBpdGVtVHlwZSA9PSBMYXlvdXRJdGVtVHlwZS5OT05fQVRURU5EQU5DRV9PVEhFUjIKICAgICAgICAgICAgICAgIHx8IGl0ZW1UeXBlID09IExheW91dEl0ZW1UeXBlLk5PTl9BVFRFTkRBTkNFX09USEVSMwogICAgICAgICAgICAgICAgfHwgaXRlbVR5cGUgPT0gTGF5b3V0SXRlbVR5cGUuTk9OX0FUVEVOREFOQ0VfT1RIRVI0CiAgICAgICAgICAgICAgICB8fCBpdGVtVHlwZSA9PSBMYXlvdXRJdGVtVHlwZS5OT05fQVRURU5EQU5DRV9PVEhFUjUKICAgICAgICAgICAgICAgIHx8IGl0ZW1UeXBlID09IExheW91dEl0ZW1UeXBlLk5PTl9BVFRFTkRBTkNFX09USEVSNgogICAgICAgICAgICAgICAgfHwgaXRlbVR5cGUgPT0gTGF5b3V0SXRlbVR5cGUuTk9OX0FUVEVOREFOQ0VfT1RIRVI3CiAgICAgICAgICAgICAgICB8fCBpdGVtVHlwZSA9PSBMYXlvdXRJdGVtVHlwZS5OT05fQVRURU5EQU5DRV9PVEhFUjgKICAgICAgICAgICAgICAgIHx8IGl0ZW1UeXBlID09IExheW91dEl0ZW1UeXBlLk5PTl9BVFRFTkRBTkNFX09USEVSOQogICAgICAgICAgICAgICAgfHwgaXRlbVR5cGUgPT0gTGF5b3V0SXRlbVR5cGUuTk9OX0FUVEVOREFOQ0VfT1RIRVIxMAogICAgICAgICAgICAgICAgfHwgaXRlbVR5cGUgPT0gTGF5b3V0SXRlbVR5cGUuTk9OX0FUVEVOREFOQ0VfT1RIRVIxMQogICAgICAgICAgICAgICAgfHwgaXRlbVR5cGUgPT0gTGF5b3V0SXRlbVR5cGUuTk9OX0FUVEVOREFOQ0VfT1RIRVIxMgogICAgICAgICAgICAgICAgfHwgaXRlbVR5cGUgPT0gTGF5b3V0SXRlbVR5cGUuTk9OX0FUVEVOREFOQ0VfT1RIRVIxMwogICAgICAgICAgICAgICAgfHwgaXRlbVR5cGUgPT0gTGF5b3V0SXRlbVR5cGUuTk9OX0FUVEVOREFOQ0VfT1RIRVIxNAogICAgICAgICAgICAgICAgfHwgaXRlbVR5cGUgPT0gTGF5b3V0SXRlbVR5cGUuTk9OX0FUVEVOREFOQ0VfT1RIRVIxNQogICAgICAgICAgICAgICAgfHwgaXRlbVR5cGUgPT0gTGF5b3V0SXRlbVR5cGUuTk9OX0FUVEVOREFOQ0VfT1RIRVIxNgogICAgICAgICAgICAgICAgfHwgaXRlbVR5cGUgPT0gTGF5b3V0SXRlbVR5cGUuTk9OX0FUVEVOREFOQ0VfT1RIRVIxNwogICAgICAgICAgICAgICAgfHwgaXRlbVR5cGUgPT0gTGF5b3V0SXRlbVR5cGUuTk9OX0FUVEVOREFOQ0VfT1RIRVIxOAogICAgICAgICAgICAgICAgfHwgaXRlbVR5cGUgPT0gTGF5b3V0SXRlbVR5cGUuTk9OX0FUVEVOREFOQ0VfT1RIRVIxOQogICAgICAgICAgICAgICAgfHwgaXRlbVR5cGUgPT0gTGF5b3V0SXRlbVR5cGUuTk9OX0FUVEVOREFOQ0VfT1RIRVIyMCkgewogICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgfQoKPj4+Pj4+PiB0b3BpYy1hdHRlbmRhbmNlLTEwMjYK</text>
