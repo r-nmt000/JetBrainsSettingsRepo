@@ -497,6 +497,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="34" column="23" />
       </file>
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/portal/PortalCalendarServiceImpl.java" timestamp="1478156786109">
+        <mark key="[" line="115" column="48" />
+        <mark key="]" line="115" column="48" />
+        <mark key="." line="115" column="48" />
+        <mark key="^" line="115" column="48" />
+      </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/InjectIntoDailyAttendanceEntityServiceImpl.java" timestamp="1477964440935">
         <mark key="[" line="97" column="57" />
         <mark key="]" line="98" column="17" />
@@ -653,7 +659,7 @@
         <mark key="." line="25" column="30" />
         <mark key="^" line="25" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1477665110652">
+      <file name="/Dummy.txt" timestamp="1478156236849">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1617,7 +1623,14 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBpc1Nob3dBbGxJbnB1dEl0ZW1zV2l0aE51bGwoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICBEYWlseUF0dGVuZGFuY2VFbnRpdHkgZW50aXR5ID0gbW9jayhEYWlseUF0dGVuZGFuY2VFbnRpdHkuY2xhc3MpOwogICAgICAgIHdoZW4oZW50aXR5LmdldFByaXZhdGVOb25BdHRlbmRhbmNlTGlzdCgpKS50aGVuUmV0dXJuKG51bGwpOwogICAgICAgIGFzc2VydFRoYXQodGFyZ2V0LmlzU2hvd0FsbElucHV0SXRlbXMoZW50aXR5KSwgaXMoZmFsc2UpKTsKICAgIH0K</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="4">
+        <text>orrectionValue(@NonNull UUID employeeId,
+            @NonNull Integer currentCalendarYear</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="8">
         <text>put
 put
 put
@@ -1630,35 +1643,29 @@ put
 put
 put</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBkYWlseU92ZXJ0aW1lcy5wdXQoTG9jYWxEYXRlLnBhcnNlKCIyMDE2LTExLTE3IiksIDApOwogICAgICAgIGRhaWx5T3ZlcnRpbWVzLnB1dChMb2NhbERhdGUucGFyc2UoIjIwMTYtMTEtMTgiKSwgMCk7CiAgICAgICAgZGFpbHlPdmVydGltZXMucHV0KExvY2FsRGF0ZS5wYXJzZSgiMjAxNi0xMS0xOSIpLCAwKTsKICAgICAgICBkYWlseU92ZXJ0aW1lcy5wdXQoTG9jYWxEYXRlLnBhcnNlKCIyMDE2LTExLTIwIiksIDApOwogICAgICAgIGRhaWx5T3ZlcnRpbWVzLnB1dChMb2NhbERhdGUucGFyc2UoIjIwMTYtMTEtMjEiKSwgMCk7CiAgICAgICAgZGFpbHlPdmVydGltZXMucHV0KExvY2FsRGF0ZS5wYXJzZSgiMjAxNi0xMS0yMiIpLCAwKTsKICAgICAgICBkYWlseU92ZXJ0aW1lcy5wdXQoTG9jYWxEYXRlLnBhcnNlKCIyMDE2LTExLTIzIiksIDApOwogICAgICAgIGRhaWx5T3ZlcnRpbWVzLnB1dChMb2NhbERhdGUucGFyc2UoIjIwMTYtMTEtMjQiKSwgMCk7CiAgICAgICAgZGFpbHlPdmVydGltZXMucHV0KExvY2FsRGF0ZS5wYXJzZSgiMjAxNi0xMS0yNSIpLCAwKTsKICAgICAgICBkYWlseU92ZXJ0aW1lcy5wdXQoTG9jYWxEYXRlLnBhcnNlKCIyMDE2LTExLTI2IiksIDApOwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uczsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBpc1Nob3dBbGxJbnB1dEl0ZW1zKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgRGFpbHlBdHRlbmRhbmNlRW50aXR5IGVudGl0eSA9IG1vY2soRGFpbHlBdHRlbmRhbmNlRW50aXR5LmNsYXNzKTsKICAgICAgICB3aGVuKGVudGl0eS5nZXRQcml2YXRlTm9uQXR0ZW5kYW5jZUxpc3QoKSkudGhlblJldHVybihDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKSk7CiAgICAgICAgYXNzZXJ0VGhhdCh0YXJnZXQuaXNTaG93QWxsSW5wdXRJdGVtcyhlbnRpdHkpLCBpcyhmYWxzZSkpOwogICAgfQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIERhaWx5QXR0ZW5kYW5jZUVudGl0eSBlbnRpdHkgPSBjcmVhdGVEYWlseUF0dGVuZGFuY2VFbnRpdHkoInRlc3QxIik7Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgIERhaWx5QXR0ZW5kYW5jZUVudGl0eSBlbnRpdHkgPSBjcmVhdGVEYWlseUF0dGVuZGFuY2VFbnRpdHkoInRlc3QxIik7Cg==</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTG9jYWxEYXRlVGltZSBjcmVhdGVFbmREYXRlVGltZShTdHJpbmcgZGF0ZVN0cmluZykgewogICAgICAgIHJldHVybiBjcmVhdGVFbmREYXRlVGltZSgpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTG9jYWxEYXRlVGltZSBjcmVhdGVFbmREYXRlVGltZShTdHJpbmcgZGF0ZVN0cmluZykgewogICAgICAgIHJldHVybiBjcmVhdGVFbmREYXRlVGltZSgpOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
