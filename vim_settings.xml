@@ -150,9 +150,11 @@
         <mark key="^" line="31" column="35" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/company-module-aggregator_org/pom.xml" timestamp="1477477995622">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="14" column="40" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-front/src/main/webapp/js/hr/attendance/termattendance/ui/adaptor/hr-termattendance-time-label-adaptor.js" timestamp="1479277301770">
+        <mark key="[" line="235" column="57" />
+        <mark key="]" line="235" column="57" />
+        <mark key="." line="235" column="57" />
+        <mark key="^" line="235" column="57" />
       </file>
       <file name="C:/DemoLegacy/WorkSpace/HUE/company-concept-design/company-hue-front/src/main/resources/components/similer-talent-widget.xml" timestamp="1474958014377">
         <mark key="[" line="296" column="14" />
@@ -273,10 +275,6 @@
         <mark key="]" line="53" column="13" />
         <mark key="." line="53" column="13" />
         <mark key="^" line="53" column="13" />
-      </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/test/java/com/worksap/company/hue/hr/biz/attcore/attcomexaminer/SyozokuConditionExaminerTest.java" timestamp="1478053089208">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="42" column="87" />
       </file>
       <file name="$USER_HOME$/repos/ideaProjects/batch-report-1/src/main/java/com/worksap/bootcamp/batch/report/lv1/DocumentFactoryImpl.java" timestamp="1471061593394">
         <mark key="[" line="44" column="33" />
@@ -458,10 +456,6 @@
         <mark key="." line="4" column="7" />
         <mark key="^" line="4" column="7" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-dto/src/test/java/com/worksap/company/hue/hr/type/attendance/portal/PortalGraphValueTest.java" timestamp="1477729249676">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="111" />
-      </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/ChapterTen/Company.java" timestamp="1444562384519">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -534,10 +528,6 @@
         <mark key="]" line="18" column="110" />
         <mark key="." line="111" column="0" />
         <mark key="^" line="111" column="65" />
-      </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/data/NonAttendanceUsableTypes.java" timestamp="1477572717148">
-        <mark key="[" line="20" column="47" />
-        <mark key="]" line="20" column="65" />
       </file>
       <file name="$USER_HOME$/Downloads/インストーラ/keyhac/_config.py" timestamp="1475482549903">
         <mark key="[" line="78" column="42" />
@@ -1209,10 +1199,6 @@
         <mark key="^" line="19" column="9" />
         <mark key="." line="19" column="9" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/test/java/com/worksap/company/hue/hr/biz/attendance/dao/LayoutDaoImplTest.java" timestamp="1477728885699">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="7" />
-      </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/vo/builder/DailyAttendancDataLayoutVoBuilder.java" timestamp="1476879380388">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="12" column="29" />
@@ -1627,14 +1613,13 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>dateSuffix</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
-      <register name="0" type="4">
-        <text>violations.add(createValidationViolation(ValidationViolationType.ERROR,
-                                            MonthlyAttendanceEntityAccessor.getLocation(entity, date), TEXT_ID_ERROR, date)))</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAvKioKICAgKiBAb3ZlcnJpZGUKICAgKiBAcGFyYW0ge1N0cmluZ30ga2V5CiAgICogQHBhcmFtIHtPYmplY3R9IGRhdGEKICAgKi8KICB3YXAuaHIuYXR0ZW5kYW5jZS5UaW1lTGFiZWxBZGFwdG9yLnByb3RvdHlwZS5zZXR0bGVWYWxpZGF0aW9uID0gZnVuY3Rpb24oa2V5LCBkYXRhKSB7CgogIH07Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5nZXRBcHBsaWNhdGlvbkRhdGFMaXN0KCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zdHJlYW0oKQo=</text>
