@@ -214,11 +214,11 @@
         <mark key="^" line="8" column="106" />
         <mark key="." line="8" column="106" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/daily/DailyNonAttendanceTimeValidatorImpl.java" timestamp="1479433581751">
-        <mark key="[" line="324" column="80" />
-        <mark key="]" line="324" column="85" />
-        <mark key="." line="324" column="85" />
-        <mark key="^" line="324" column="85" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/daily/DailyNonAttendanceTimeValidatorImpl.java" timestamp="1479434562940">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="271" column="49" />
       </file>
       <file name="C:/DemoLegacy/WorkSpace/HUE/company-concept-design/company-hue-front/src/main/webapp/WEB-INF/templates/hr/applications/newcomer/newcomeren/form-layout-personalinfo.xml" timestamp="1475457230162">
         <mark key="[" line="224" column="68" />
@@ -338,7 +338,10 @@
         <mark key="^" line="329" column="25" />
         <mark key="." line="329" column="25" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyNonAttendanceTimeValidatorImpl.java" timestamp="1479431237774" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyNonAttendanceTimeValidatorImpl.java" timestamp="1479433904523">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="58" />
+      </file>
       <file name="$USER_HOME$/repos/ideaProjects/batch-summary-1/src/main/java/com/worksap/bootcamp/io/JDBCTransaction.java" timestamp="1470705522308">
         <mark key="[" line="20" column="15" />
         <mark key="]" line="20" column="52" />
@@ -1206,6 +1209,13 @@
         <mark key="^" line="12" column="29" />
         <mark key="." line="12" column="29" />
       </file>
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/test/java/com/worksap/company/hue/hr/biz/attendance/service/validator/daily/DailyNonAttendanceTimeValidatorImplTest.java" timestamp="1479434675473">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="29" column="67" />
+        <mark key="]" line="29" column="71" />
+        <mark key="." line="29" column="71" />
+        <mark key="^" line="29" column="71" />
+      </file>
       <file name="$USER_HOME$/repos/ideaProjects/batch-import-1/src/main/java/com/worksap/bootcamp/io/JDBCTransaction.java" timestamp="1470814064897">
         <mark key="[" line="21" column="25" />
         <mark key="]" line="21" column="0" />
@@ -1606,6 +1616,8 @@
       <jump line="341" column="5" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-front/src/main/java/com/worksap/company/hue/controller/hr/attendance/DailyAttendanceController.java" />
       <jump line="165" column="59" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-front/src/main/java/com/worksap/company/hue/controller/hr/attendance/DailyAttendanceController.java" />
       <jump line="797" column="54" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/vo/builder/MonthlyAttendancDataLayoutVoBuilderImpl.java" />
+      <jump line="15" column="0" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/test/java/com/worksap/company/hue/hr/biz/attendance/service/validator/daily/DailyNonAttendanceTimeValidatorImplTest.java" />
+      <jump line="37" column="0" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/test/java/com/worksap/company/hue/hr/biz/attendance/service/validator/daily/DailyNonAttendanceTimeValidatorImplTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1615,46 +1627,46 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>row</text>
+        <text>MonthlyAttendanceNonAttendanceData</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
-      <register name="0" type="4">
-        <text>APPLICATION_DATA_LIST</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBNZXRob2Q+IG1ldGhvZE1hcCA9IGNyZWF0ZU1ldGhvZE1hcCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS53b3Jrc2FwLmNvbXBhbnkuaHVlLmhyLmJpei5hdHRlbmRhbmNlLmRhdGEuTW9udGhseUF0dGVuZGFuY2VOb25BdHRlbmRhbmNlRGF0YTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpZ25vcmUgaG9saWRheQogICAgICAgIGlmIChlbnRpdHkuZ2V0V29ya2RheUhvbGlkYXlUeXBlKCkgIT0gMCkgewogICAgICAgICAgICBjb250aW51ZTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS53b3Jrc2FwLmNvbXBhbnkuaHVlLmhyLmJpei5hdHRlbmRhbmNlLmVudGl0eS5Nb250aGx5QXR0ZW5kYW5jZUVudGl0eTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS53b3Jrc2FwLmNvbXBhbnkuaHVlLmhyLmJpei5hdHRlbmRhbmNlLnNlcnZpY2UudmFsaWRhdG9yLm1vbnRobHkuTW9udGhseU5vbkF0dGVuZGFuY2VUaW1lVmFsaWRhdG9yOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBNZXRob2Q+IG1ldGhvZE1hcCA9IGNyZWF0ZU1ldGhvZE1hcCgpOwogICAgICAgIExpc3Q8TW9udGhseUF0dGVuZGFuY2VSb3c+IHJvd3MgPSBlbnRpdHkuZ2V0QXR0ZW5kYW5jZURhdGEoKTsKICAgICAgICBpbnQgbGFzdEluZGV4ID0gcm93cy5zaXplKCkgLSAxOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDw9IGxhc3RJbmRleDsgaSsrKSB7CiAgICAgICAgICAgIE1vbnRobHlBdHRlbmRhbmNlUm93IHJvdyA9IHJvd3MuZ2V0KGkpOwoK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBpbnQgaWR4ID0gaTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyAudGl0bGUodGV4dE1hcC5nZXQoTW9udGhseUF0dGVuZGFuY2VUZXh0SWRzLkdSSURfQ09MVU1OX0RBVEUuZ2V0VGV4dElkKCkpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53b3Jrc2FwLmNvbXBhbnkuaHVlLmhyLmJpei5hdHRjb3JlLmF0dGVuZGFuY2VtYXN0ZXIuYXBwbGljYXRpb24uQXBwU3VibWl0U2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBpZ25vcmUgaG9saWRheQogICAgICAgIGlmIChlbnRpdHkuZ2V0V29ya2RheUhvbGlkYXlUeXBlKCkgIT0gMCkgewogICAgICAgICAgICBjb250aW51ZTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgQXBwU3VibWl0U2VydmljZSBhcHBTdWJtaXRTZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53b3Jrc2FwLmNvbXBhbnkuaHVlLmhyLnR5cGUuYXR0Y29yZS5Mb2NhbERhdGVSYW5nZUNvbGxlY3Rpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBNZXRob2Q+IG1ldGhvZE1hcCA9IGNyZWF0ZU1ldGhvZE1hcCgpOwogICAgICAgIExpc3Q8TW9udGhseUF0dGVuZGFuY2VSb3c+IHJvd3MgPSBlbnRpdHkuZ2V0QXR0ZW5kYW5jZURhdGEoKTsKICAgICAgICBpbnQgbGFzdEluZGV4ID0gcm93cy5zaXplKCkgLSAxOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDw9IGxhc3RJbmRleDsgaSsrKSB7CiAgICAgICAgICAgIE1vbnRobHlBdHRlbmRhbmNlUm93IHJvdyA9IHJvd3MuZ2V0KGkpOwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyAudGl0bGUodGV4dE1hcC5nZXQoTW9udGhseUF0dGVuZGFuY2VUZXh0SWRzLkdSSURfQ09MVU1OX0RBVEUuZ2V0VGV4dElkKCkpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
