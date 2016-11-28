@@ -1189,6 +1189,12 @@
         <mark key="." line="38" column="52" />
         <mark key="^" line="38" column="52" />
       </file>
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/test/java/com/worksap/company/hue/hr/biz/attcore/attcomexaminer/test/mock/KinmuCombinationMock.java" timestamp="1480301980102">
+        <mark key="[" line="210" column="0" />
+        <mark key="]" line="210" column="0" />
+        <mark key="^" line="207" column="72" />
+        <mark key="." line="210" column="0" />
+      </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/overtime/common/limit_info/OverTimeWarningValList.java" timestamp="1477356333005">
         <mark key="[" line="25" column="5" />
         <mark key="]" line="28" column="19" />
@@ -1686,13 +1692,13 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>NO_NEED_APPLICATION</text>
+        <text>getSortNum</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KEtpbm11Q29tYmluYXRpb24uQXBwbGljYXRpb25Db25kaXRpb24udmFsdWVPZigyKSwgaXMoS2lubXVDb21iaW5hdGlvbi5BcHBsaWNhdGlvbkNvbmRpdGlvbi5OT19ORUVEX0FQUExJQ0FUSU9OKSk7Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGludCBnZXRTb3J0TnVtKCkgewogICAgICAgIAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1701,31 +1707,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53b3Jrc2FwLmNvbXBhbnkuaHVlLmhyLmR0by5hdHRjb3JlLldvcmtGaWx0ZXJNYXN0ZXJEdG87CmltcG9ydCBjb20ud29ya3NhcC5jb21wYW55Lmh1ZS5oci50eXBlLmF0dGNvcmUuaW50ZXJmYWNlcy5JS2lubXVERDsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLk1vY2tpdG87Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5Nb2NraXRvLm1vY2s7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS53b3Jrc2FwLmNvbXBhbnkuaHVlLmhyLmR0by5hdHRjb3JlLldvcmtGaWx0ZXJNYXN0ZXJEdG87CmltcG9ydCBjb20ud29ya3NhcC5jb21wYW55Lmh1ZS5oci50eXBlLmF0dGNvcmUuaW50ZXJmYWNlcy5JS2lubXVERDsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KEtpbm11Q29tYmluYXRpb24uQXBwbGljYXRpb25Db25kaXRpb24udmFsdWVPZigpLCBpcyhLaW5tdUNvbWJpbmF0aW9uLkFwcGxpY2F0aW9uQ29uZGl0aW9uLk5PX05FRURfQVBQTElDQVRJT04pKTsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLk1vY2tpdG87Cg==</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5Nb2NraXRvLm1vY2s7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBnZXRBbGxvd2VkQnlBcHBsaWNhdGlvblR5cGUoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICBXb3JrRmlsdGVyTWFzdGVyRHRvIGR0byA9IG1vY2soV29ya0ZpbHRlck1hc3RlckR0by5jbGFzcyk7CiAgICAgICAgTW9ja2l0by53aGVuKGR0by5nZXRWYWx1ZSgpLmdldChXb3JrRmlsdGVyTWFzdGVyVmFsdWUuV29ya0ZpbHRlck1hc3Rlckl0ZW1LZXkuQUxMT1dFRF9CWV9BUFBMSUNBVElPTl9UWVBFKSkudGhlblJldHVybigwKTsKICAgICAgICBLaW5tdUNvbWJpbmF0aW9uIGtpbm11ID0gbmV3IEtpbm11Q29tYmluYXRpb24obnVsbCwgZHRvKTsKCiAgICAgICAgYXNzZXJ0VGhhdChraW5tdS5nZXRBbGxvd2VkQnlBcHBsaWNhdGlvblR5cGUoKSwgaXMoS2lubXVDb21iaW5hdGlvbi5BcHBsaWNhdGlvbkNvbmRpdGlvbi5OT19ORUVEX0FQUExJQ0FUSU9OKSk7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KEtpbm11Q29tYmluYXRpb24uQXBwbGljYXRpb25Db25kaXRpb24udmFsdWVPZigpLCBpcyhLaW5tdUNvbWJpbmF0aW9uLkFwcGxpY2F0aW9uQ29uZGl0aW9uLk5PX05FRURfQVBQTElDQVRJT04pKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
