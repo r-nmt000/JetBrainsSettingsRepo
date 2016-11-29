@@ -392,6 +392,12 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-dto/src/test/java/com/worksap/company/hue/hr/type/attendance/portal/PortalGraphHolidayWorkVoTest.java" timestamp="1480420383557">
+        <mark key="[" line="23" column="24" />
+        <mark key="]" line="23" column="51" />
+        <mark key="." line="23" column="51" />
+        <mark key="^" line="23" column="51" />
+      </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/DetermineWorkDayServiceImpl.java" timestamp="1480400000090">
         <mark key="[" line="19" column="18" />
         <mark key="]" line="19" column="38" />
@@ -828,7 +834,7 @@
         <mark key="]" line="332" column="84" />
         <mark key="." line="332" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1480417731012">
+      <file name="/fragment.java" timestamp="1480420230732">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="2" />
@@ -1374,11 +1380,11 @@
         <mark key="^" line="11" column="16" />
         <mark key="." line="11" column="13" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-dto/src/main/java/com/worksap/company/hue/hr/type/attendance/portal/PortalGraphHolidayWorkVo.java" timestamp="1480417843192">
-        <mark key="[" line="17" column="82" />
-        <mark key="]" line="17" column="106" />
-        <mark key="." line="17" column="106" />
-        <mark key="^" line="17" column="106" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-dto/src/main/java/com/worksap/company/hue/hr/type/attendance/portal/PortalGraphHolidayWorkVo.java" timestamp="1480420375315">
+        <mark key="[" line="108" column="18" />
+        <mark key="]" line="108" column="24" />
+        <mark key="." line="108" column="24" />
+        <mark key="^" line="108" column="24" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/cs-api-1/src/main/webapp/js/order/controller.js" timestamp="1470390897635">
         <mark key="[" line="20" column="32" />
@@ -1458,11 +1464,11 @@
         <mark key="." line="289" column="84" />
         <mark key="^" line="289" column="84" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-dto/src/main/java/com/worksap/company/hue/hr/type/attendance/portal/PortalGraphValue.java" timestamp="1480417702592">
-        <mark key="[" line="55" column="22" />
-        <mark key="]" line="55" column="32" />
-        <mark key="^" line="55" column="32" />
-        <mark key="." line="55" column="32" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-dto/src/main/java/com/worksap/company/hue/hr/type/attendance/portal/PortalGraphValue.java" timestamp="1480420102030">
+        <mark key="[" line="55" column="36" />
+        <mark key="]" line="55" column="59" />
+        <mark key="^" line="55" column="59" />
+        <mark key="." line="55" column="59" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/daily/DailyAgreement36Validator.java" timestamp="1476949570008">
         <mark key="[" line="14" column="46" />
@@ -1773,13 +1779,13 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>PortalGraphQuarterlyOvertimeAccumulationKey</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiB7QGxpbmsgUG9ydGFsR3JhcGhWYWNhdGlvbkFubnVhbFBhaWRSZW1haW5Wb30KICAgICAgICAgKi8KICAgICAgICBWQUNBVElPTl9BTk5VQUxfUEFJRF9SRU1BSU4oInZhY2F0aW9uQW5udWFsUGFpZFJlbWFpbiIsIFBvcnRhbEdyYXBoVmFjYXRpb25Bbm51YWxQYWlkUmVtYWluVm8uY2xhc3MpLCA7Cg==</text>
+      <register name="0" type="4">
+        <text>getMonthlyAccumulatedValue</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Pj4+Pj4+PiB0b3BpYy1hdHRlbmRhbmNlLTExMjkK</text>
