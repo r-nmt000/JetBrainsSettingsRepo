@@ -100,11 +100,11 @@
         <mark key="." line="147" column="86" />
         <mark key="^" line="147" column="86" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/MonthlyAttendanceApplicationServiceImpl.java" timestamp="1481089608708">
-        <mark key="[" line="116" column="33" />
-        <mark key="]" line="117" column="0" />
-        <mark key="." line="117" column="0" />
-        <mark key="^" line="109" column="10" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/MonthlyAttendanceApplicationServiceImpl.java" timestamp="1481090523116">
+        <mark key="[" line="215" column="112" />
+        <mark key="]" line="215" column="111" />
+        <mark key="." line="215" column="111" />
+        <mark key="^" line="215" column="111" />
       </file>
       <file name="$USER_HOME$/repos/ideaProjects/batch-import-1/src/main/java/com/worksap/bootcamp/batch/importfile/lv1/App.java" timestamp="1470981887196">
         <mark key="[" line="51" column="0" />
@@ -461,7 +461,12 @@
         <mark key="." line="42" column="73" />
         <mark key="^" line="42" column="73" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-dto/src/main/java/com/worksap/company/hue/hr/type/attendance/ReportType.java" timestamp="1481039898513" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-dto/src/main/java/com/worksap/company/hue/hr/type/attendance/ReportType.java" timestamp="1481089917659">
+        <mark key="[" line="69" column="104" />
+        <mark key="]" line="69" column="113" />
+        <mark key="." line="69" column="113" />
+        <mark key="^" line="69" column="113" />
+      </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/attendancerecord/dailyattendance/service/PersonalDailyRecordServiceConfig.java" timestamp="1481024775456">
         <mark key="[" line="21" column="38" />
         <mark key="]" line="21" column="37" />
@@ -1904,31 +1909,31 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>ReportType.of(value.get(PersonalReportInputUserValue.</text>
+        <text encoding="base64">TGlzdDxQZXJzb25hbFJlcG9ydFZhY2F0aW9uVm8+IHZvcywgTG9jYWxEYXRlIGRhdGU=</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC52YWNhdGlvblRlcm1MYWJlbCh0ZXh0UmVzb3VyY2VNYW5hZ2VyLmdldFRleHQoVkFDQVRJT05fVEVSTV9MQUJFTCwgbG9jYWxlKSkK</text>
+      <register name="0" type="4">
+        <text>entity.getVacationRangeType() == VacationRangeType.DAY</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFBlcnNvbmFsUmVwb3J0SW5wdXRVc2VyVmFsdWVLZXkuUkVQT1JUX1RZUEVfSU5ERVgpKS5nZXRUZXh0SWROYW1lKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFBlcnNvbmFsUmVwb3J0SW5wdXRVc2VyVmFsdWVLZXkuUkVQT1JUX1RZUEVfSU5ERVgpKS5nZXRUZXh0SWROYW1lKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYnVpbGRlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIFRleHRSZXNvdXJjZU1hbmFnZXIgdGV4dFJlc291cmNlTWFuYWdlcjsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYnVpbGRlcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpbmFsIFRleHRSZXNvdXJjZU1hbmFnZXIgdGV4dFJlc291cmNlTWFuYWdlcjsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -1937,13 +1942,13 @@
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyh2byk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgd29ya3Mgb24gMjAxNi8xMi8wNy4KICovCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyh2byk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBocm1vbgo=</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgd29ya3Mgb24gMjAxNi8xMi8wNy4KICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
