@@ -187,6 +187,10 @@
         <mark key="." line="36" column="32" />
         <mark key="^" line="36" column="32" />
       </file>
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-dto/src/main/java/com/worksap/company/hue/hr/type/attendance/AppServiceType.java" timestamp="1481190179771">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="15" />
+      </file>
       <file name="$USER_HOME$/repos/ideaProjects/batch-summary-1/src/main/java/com/worksap/bootcamp/batch/summary/lv1/dao/OrderDao.java" timestamp="1470724781432">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="21" column="72" />
@@ -614,6 +618,10 @@
         <mark key="]" line="115" column="48" />
         <mark key="." line="115" column="48" />
         <mark key="^" line="115" column="48" />
+      </file>
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/InjectIntoDailyAttendanceEntityServiceImpl.java" timestamp="1481634865709">
+        <mark key="[" line="111" column="26" />
+        <mark key="]" line="112" column="57" />
       </file>
       <file name="$USER_HOME$/Downloads/20161129005253_INSERT_com.worksap.company.hue.core.dto.TextDefDto.json" timestamp="1480380907103">
         <mark key="[" line="0" column="316" />
@@ -1155,11 +1163,12 @@
         <mark key="." line="76" column="135" />
         <mark key="^" line="76" column="135" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-front/src/main/java/com/worksap/company/hue/controller/hr/attendance/DailyAttendanceController.java" timestamp="1481447793602">
-        <mark key="[" line="125" column="24" />
-        <mark key="]" line="125" column="44" />
-        <mark key="^" line="126" column="7" />
-        <mark key="." line="126" column="7" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-front/src/main/java/com/worksap/company/hue/controller/hr/attendance/DailyAttendanceController.java" timestamp="1481635210321">
+        <mark key="'" line="369" column="57" />
+        <mark key="[" line="963" column="16" />
+        <mark key="]" line="962" column="73" />
+        <mark key="^" line="962" column="73" />
+        <mark key="." line="962" column="73" />
       </file>
       <file name="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-front/src/main/less/components/hr-onboarding-training-detail-author.less" timestamp="1474593113275">
         <mark key="[" line="19" column="0" />
@@ -1641,6 +1650,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="5" column="88" />
       </file>
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/daily/DailyApplicationStatusValidatorImpl.java" timestamp="1481635923076" />
       <file name="$USER_HOME$/IdeaProjects/cs-api-1/src/main/webapp/templates/paginator.jsp" timestamp="1470374990877">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="4" />
@@ -1769,8 +1779,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="389" column="39" filename="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-front/src/main/webapp/WEB-INF/templates/onboarding/timeline-projects/pages/projects-feed-en.xml" />
-      <jump line="234" column="10" filename="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-front/src/main/webapp/WEB-INF/templates/onboarding/training/training-list-recent-course.xml" />
       <jump line="525" column="10" filename="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-front/src/main/webapp/WEB-INF/templates/onboarding/training/training-detail1/tabs/second-tabs/hue-answers/question.xml" />
       <jump line="50" column="29" filename="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-front/src/main/webapp/WEB-INF/templates/onboarding/training/training-detail1/widget/training-ranking.xml" />
       <jump line="18" column="14" filename="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-front/src/main/less/components/hr-onboarding-training-list-temp.less" />
@@ -1869,6 +1877,8 @@
       <jump line="26" column="17" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/test/java/com/worksap/company/hue/hr/biz/attendance/dao/portal/PortalGraphDaoImplTest.java" />
       <jump line="47" column="21" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/InjectIntoMonthlyAttendanceEntityServiceImpl.java" />
       <jump line="44" column="13" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/provider/DailyAttendanceInputMessageProviderImpl.java" />
+      <jump line="361" column="12" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-front/src/main/java/com/worksap/company/hue/controller/hr/attendance/DailyAttendanceController.java" />
+      <jump line="369" column="57" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-front/src/main/java/com/worksap/company/hue/controller/hr/attendance/DailyAttendanceController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1878,46 +1888,46 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>type</text>
+        <text>workDate</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyB2YWNhdGlvblRlcm0gPSBjcmVhdGVUZXJtU3RyaW5nKGVudGl0eVZvLmdldFN0YXJ0RGF0ZSgpLCBlbnRpdHlWby5nZXRFbmREYXRlKCksIGxvY2FsZSk7Cg==</text>
+      <register name="0" type="4">
+        <text>PersonalAttendanceMaster master</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBtYXN0ZXIuZ2V0d29yawo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBtYXN0ZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NhbERhdGUgc3RhcnREYXRlID0gdm8uZ2V0U3RhcnREYXRlKCk7CiAgICAgICAgTG9jYWxEYXRlIGVuZERhdGUgPSB2by5nZXRFbmREYXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIE5lZWQgdG8gYWRkIEFic2VuY2UgUmVwb3J0VHlwZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53b3Jrc2FwLmNvbXBhbnkuaHVlLmhyLmR0by5hdHRjb3JlLkF0dGVuZGFuY2VSZXBvcnREdG87CmltcG9ydCBjb20ud29ya3NhcC5jb21wYW55Lmh1ZS5oci5kdG8uYXR0Y29yZS5QZXJzb25hbERhaWx5UmVjb3JkRHRvOwo=</text>
+        <text encoding="base64">ICAgICAgICBMb2NhbERhdGUgc3RhcnREYXRlID0gdm8uZ2V0U3RhcnREYXRlKCk7CiAgICAgICAgTG9jYWxEYXRlIGVuZERhdGUgPSB2by5nZXRFbmREYXRlKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIE5lZWQgdG8gYWRkIEFic2VuY2UgUmVwb3J0VHlwZQo=</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS53b3Jrc2FwLmNvbXBhbnkuaHVlLmhyLmR0by5hdHRjb3JlLkF0dGVuZGFuY2VSZXBvcnREdG87CmltcG9ydCBjb20ud29ya3NhcC5jb21wYW55Lmh1ZS5oci5kdG8uYXR0Y29yZS5QZXJzb25hbERhaWx5UmVjb3JkRHRvOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
