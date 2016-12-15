@@ -726,7 +726,10 @@
         <mark key="^" line="138" column="52" />
         <mark key="." line="59" column="64" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/vo/HrMonthlyAttendanceApplicationVo.java" timestamp="1481785227143" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/vo/HrMonthlyAttendanceApplicationVo.java" timestamp="1481786085025">
+        <mark key="[" line="41" column="11" />
+        <mark key="]" line="41" column="26" />
+      </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/test/java/com/worksap/company/hue/hr/biz/attendance/service/MonthlyAttendancRowConvertServiceImplTestConfig.java" timestamp="1480325652017">
         <mark key="[" line="27" column="75" />
         <mark key="]" line="27" column="93" />
@@ -880,11 +883,11 @@
         <mark key="." line="95" column="24" />
         <mark key="^" line="95" column="24" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-front/src/main/resources/components/hr-attendance-application-popover-contents.xml" timestamp="1481785305287">
-        <mark key="[" line="190" column="65" />
-        <mark key="]" line="190" column="65" />
-        <mark key="^" line="190" column="65" />
-        <mark key="." line="190" column="65" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-front/src/main/resources/components/hr-attendance-application-popover-contents.xml" timestamp="1481786089520">
+        <mark key="[" line="190" column="50" />
+        <mark key="]" line="190" column="66" />
+        <mark key="^" line="195" column="61" />
+        <mark key="." line="190" column="50" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/test/java/com/worksap/company/hue/hr/biz/attendance/service/validator/daily/DailyMonthLimitValidatorImplTest.java" timestamp="1477361236418">
         <mark key="[" line="49" column="0" />
@@ -1911,13 +1914,13 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>getTextIdName</text>
+        <text>absenceDateLabel</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgV29ya1BsYW5FbnRpdHkgZW50aXR5ID0gKFdvcmtQbGFuRW50aXR5KWFwcGxpY2F0aW9uLmdldENvbnRlbnRzKCk7CiAgICAgICAgICAgIGJ1aWxkZXIuYXBwbGljYXRpb25OYW1lKGFwcGxpY2F0aW9uTmFtZSkKICAgICAgICAgICAgICAgICAgICAud29ya1BsYW5UaW1lUmFuZ2UoY3JlYXRlV29ya1BsYW5UaW1lUmFuZ2VTdHJpbmcoZW50aXR5LmdldFdvcmtQbGFuUGVyaW9kKCkpKQogICAgICAgICAgICAgICAgICAgIC53b3JrUGxhblJlY2Vzc1RpbWVSYW5nZShjcmVhdGVXb3JrUGxhblRpbWVSYW5nZVN0cmluZyhlbnRpdHkuZ2V0UmVzdFBlcmlvZCgpKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>absenceDateLabel</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gd29yayBwbGFuIGlzIGdvbm5hIGJlIGhlcmUK</text>
