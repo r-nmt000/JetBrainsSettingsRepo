@@ -613,6 +613,12 @@
         <mark key="." line="5" column="23" />
         <mark key="^" line="5" column="23" />
       </file>
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyOnChangeValidatorImpl.java" timestamp="1483594980160">
+        <mark key="[" line="51" column="4" />
+        <mark key="]" line="51" column="65" />
+        <mark key="." line="51" column="4" />
+        <mark key="^" line="51" column="3" />
+      </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/DailyAttendanceLayoutServiceConfig.java" timestamp="1476685179255">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -916,7 +922,7 @@
         <mark key="." line="6" column="106" />
         <mark key="^" line="6" column="106" />
       </file>
-      <file name="/fragment.java" timestamp="1483522061319">
+      <file name="/fragment.java" timestamp="1483594884709">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="2" />
@@ -1420,9 +1426,9 @@
         <mark key="^" line="31" column="15" />
         <mark key="." line="31" column="15" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyValidatorEntranceServiceImpl.java" timestamp="1483591990289">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyValidatorEntranceServiceImpl.java" timestamp="1483594977581">
+        <mark key="[" line="22" column="18" />
+        <mark key="]" line="22" column="78" />
         <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Iterator/MyTeacher.java" timestamp="1440853565055">
@@ -1921,49 +1927,49 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>getKey</text>
+        <text>monthLimitValidator</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHNlZSBjb20ud29ya3NhcC5jb21wYW55LmZyYW1ld29yay5pdGVtLnZhbGlkYXRpb24ubGlzdC5MaXN0VmFsaWRhdG9yI2FycmFuZ2VSZXN1bHQKICAgICAqLwogICAgcHJpdmF0ZSBWYWxpZGF0aW9uVmlvbGF0aW9uIGFycmFuZ2VSZXN1bHQoVmFsaWRhdGlvblZpb2xhdGlvbiB2aW9sYXRpb24sIGludCBpbmRleCkgewogICAgICAgIHJldHVybiBTaW1wbGVWYWxpZGF0aW9uVmlvbGF0aW9uLmZpZWxkV2l0aEl0ZXJhYmxlKHZpb2xhdGlvbi5nZXRUeXBlKCksCiAgICAgICAgICAgICAgICBnZXRQYXRoKHZpb2xhdGlvbiwgaW5kZXgpLAogICAgICAgICAgICAgICAgaW5kZXgsIHZpb2xhdGlvbi5nZXRWYWx1ZSgpLCB2aW9sYXRpb24uZ2V0RXJyb3JDZCgpLCB2aW9sYXRpb24uZ2V0TWVzc2FnZSgpKTsKICAgIH0KCiAgICAvKioKICAgICAqIEBzZWUgY29tLndvcmtzYXAuY29tcGFueS5mcmFtZXdvcmsuaXRlbS52YWxpZGF0aW9uLmxpc3QuTGlzdFZhbGlkYXRvciNnZXRQYXRoCiAgICAgKi8KICAgIHByaXZhdGUgU3RyaW5nIGdldFBhdGgoVmFsaWRhdGlvblZpb2xhdGlvbiB2aW9sYXRpb24sIGludCBpbmRleCkgewogICAgICAgIFN0cmluZ0J1aWxkZXIgYnVpbGRlciA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7CiAgICAgICAgYnVpbGRlci5hcHBlbmQoIm1vbnRobHlBdHRlbmRhbmNlRW50aXR5LmF0dGVuZGFuY2VEYXRhIikuYXBwZW5kKCdbJykuYXBwZW5kKGluZGV4KS5hcHBlbmQoJ10nKTsKICAgICAgICBTdHJpbmcgcGF0aCA9IHZpb2xhdGlvbi5nZXRQYXRoKCk7CiAgICAgICAgaWYgKHBhdGggIT0gbnVsbCAmJiAhcGF0aC5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgYnVpbGRlci5hcHBlbmQoIi4iKS5hcHBlbmQodmlvbGF0aW9uLmdldFBhdGgoKSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBidWlsZGVyLnRvU3RyaW5nKCk7CiAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>MonthlyNonAttendanceTimeValidator nonAttendanceTimeValidator;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2by5nZXRpbgo=</text>
+        <text encoding="base64">ICAgIE1vbnRobHlBcHBsaWNhdGlvblN0YXR1c1ZhbGlkYXRvciBhcHBsaWNhdGlvblN0YXR1c1ZhbGlkYXRvcjsKICAgIE1vbnRobHlUaW1lRGF0YVZhbGlkYXRvciB0aW1lRGF0YVZhbGlkYXRvcjsKICAgIE1vbnRobHlXb3JrTG9ja1ZhbGlkYXRvciB3b3JrTG9ja1ZhbGlkYXRvcjsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE1vbnRobHlBZ3JlZW1lbnQzNlZhbGlkYXRvciBhZ3JlZW1lbnQzNlZhbGlkYXRvcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxCdXNpbmVzc1ZhbGlkYXRvcjxNb250aGx5QXR0ZW5kYW5jZUVudGl0eT4+IGdlbmVyYXRlQmFzaWNWYWxpZGF0b3JMaXN0KAogICAgICAgICAgICBMaXN0PEJ1c2luZXNzVmFsaWRhdG9yPE1vbnRobHlBdHRlbmRhbmNlUm93Pj4gaXRlbVZhbGlkYXRvcnMsIExpc3Q8R3JpZE9yZGVyPiBncmlkT3JkZXIpIHsKICAgICAgICBMaXN0PEJ1c2luZXNzVmFsaWRhdG9yPE1vbnRobHlBdHRlbmRhbmNlRW50aXR5Pj4gbGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIGdyaWRPcmRlci5zdHJlYW0oKQogICAgICAgICAgICAgICAgLmZvckVhY2goZ3JpZCAtPiBsaXN0LmFkZChuZXcgQmFzaWNMaXN0VmFsaWRhdG9yPD4oZ3JpZC5nZXROYW1lKCksIGl0ZW1WYWxpZGF0b3JzKSkpOwogICAgICAgIHJldHVybiBsaXN0OwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB2by5nZXRpbgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxCdXNpbmVzc1ZhbGlkYXRvcjxNb250aGx5QXR0ZW5kYW5jZUVudGl0eT4+IGdlbmVyYXRlQmFzaWNWYWxpZGF0b3JMaXN0KAogICAgICAgICAgICBMaXN0PEJ1c2luZXNzVmFsaWRhdG9yPE1vbnRobHlBdHRlbmRhbmNlUm93Pj4gaXRlbVZhbGlkYXRvcnMsIExpc3Q8R3JpZE9yZGVyPiBncmlkT3JkZXIpIHsKICAgICAgICBMaXN0PEJ1c2luZXNzVmFsaWRhdG9yPE1vbnRobHlBdHRlbmRhbmNlRW50aXR5Pj4gbGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIGdyaWRPcmRlci5zdHJlYW0oKQogICAgICAgICAgICAgICAgLmZvckVhY2goZ3JpZCAtPiBsaXN0LmFkZChuZXcgQmFzaWNMaXN0VmFsaWRhdG9yPD4oZ3JpZC5nZXROYW1lKCksIGl0ZW1WYWxpZGF0b3JzKSkpOwogICAgICAgIHJldHVybiBsaXN0OwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICByb3cuZ2V0R2lMYXlvdXRJdGVtcygpLmZvckVhY2gobGF5b3V0SXRlbSAtPiB7Ci8vICAgICAgICAgICAgICAgIEludGVnZXIgZ2lJZCA9IEludGVnZXIudmFsdWVPZihsYXlvdXRJdGVtLmdldFZhbHVlSWQoKSk7Ci8vICAgICAgICAgICAgICAgIEdlbmVyYWxJdGVtIGdlbmVyYWxJdGVtID0gY29uZmlnTWFwLmdldChnaUlkKTsKLy8gICAgICAgICAgICAgICAgdmlvbGF0aW9ucy5hZGRBbGwodmFsaWRhdGVOdW1iZXJPZkRpZ2l0cyhyb3csIGdlbmVyYWxJdGVtLCBsYXlvdXRJdGVtKSk7Ci8vICAgICAgICAgICAgICAgIHZpb2xhdGlvbnMuYWRkQWxsKHZhbGlkYXRlRGVjaW1hbFBvaW50KHJvdywgZ2VuZXJhbEl0ZW0sIGxheW91dEl0ZW0pKTsKLy8gICAgICAgICAgICAgICAgdmlvbGF0aW9ucy5hZGRBbGwodmFsaWRhdGVUaW1lSW52ZXJ0ZWQocm93LCBnZW5lcmFsSXRlbSwgbGF5b3V0SXRlbSkpOwovLyAgICAgICAgICAgICAgICB2aW9sYXRpb25zLmFkZEFsbCh2YWxpZGF0ZUluVGltZVJhbmdlKHJvdywgZ2VuZXJhbEl0ZW0sIGxheW91dEl0ZW0pKTsKLy8gICAgICAgICAgICAgICAgdmlvbGF0aW9ucy5hZGRBbGwodmFsaWRhdGVPdXRXb3JrUmFuZ2Uocm93LCBnZW5lcmFsSXRlbSwgbGF5b3V0SXRlbSkpOwovLyAgICAgICAgICAgICAgICB2aW9sYXRpb25zLmFkZEFsbCh2YWxpZGF0ZVRpbWVFbXB0eShyb3csIGdlbmVyYWxJdGVtLCBsYXlvdXRJdGVtKSk7Ci8vICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBob2xkZXJzLnN0cmVhbSgpLmZvckVhY2goCiAgICAgICAgICAgICAgICBob2xkZXIgLT4gewogICAgICAgICAgICAgICAgICAgIHJlc3VsdC5hZGRBbGwodmFsaWRhdGVUaW1lRW1wdHkoaG9sZGVyLCBkYXRlKSk7CiAgICAgICAgICAgICAgICAgICAgcmVzdWx0LmFkZEFsbCh2YWxpZGF0ZVRpbWVJbnZlcnRlZChob2xkZXIsIGRhdGUpKTsKICAgICAgICAgICAgICAgICAgICByZXN1bHQuYWRkQWxsKHZhbGlkYXRlSW5UaW1lUmFuZ2UoaG9sZGVyLCBkYXRlLCB3b3JrVGltZVJhbmdlKSk7CiAgICAgICAgICAgICAgICB9KTsKCiAgICAgICAgcmVzdWx0LmFkZEFsbCh2YWxpZGF0ZU92ZXJsYXBwZWQoaG9sZGVycywgZGF0ZSkpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFZhbGlkYXRpb25WaW9sYXRpb24+IHJlc3VsdCA9IG5ldyBWYWxpZGF0aW9uVmlvbGF0aW9uTGlzdCgpOwo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICByb3cuZ2V0R2lMYXlvdXRJdGVtcygpLmZvckVhY2gobGF5b3V0SXRlbSAtPiB7Ci8vICAgICAgICAgICAgICAgIEludGVnZXIgZ2lJZCA9IEludGVnZXIudmFsdWVPZihsYXlvdXRJdGVtLmdldFZhbHVlSWQoKSk7Ci8vICAgICAgICAgICAgICAgIEdlbmVyYWxJdGVtIGdlbmVyYWxJdGVtID0gY29uZmlnTWFwLmdldChnaUlkKTsKLy8gICAgICAgICAgICAgICAgdmlvbGF0aW9ucy5hZGRBbGwodmFsaWRhdGVOdW1iZXJPZkRpZ2l0cyhyb3csIGdlbmVyYWxJdGVtLCBsYXlvdXRJdGVtKSk7Ci8vICAgICAgICAgICAgICAgIHZpb2xhdGlvbnMuYWRkQWxsKHZhbGlkYXRlRGVjaW1hbFBvaW50KHJvdywgZ2VuZXJhbEl0ZW0sIGxheW91dEl0ZW0pKTsKLy8gICAgICAgICAgICAgICAgdmlvbGF0aW9ucy5hZGRBbGwodmFsaWRhdGVUaW1lSW52ZXJ0ZWQocm93LCBnZW5lcmFsSXRlbSwgbGF5b3V0SXRlbSkpOwovLyAgICAgICAgICAgICAgICB2aW9sYXRpb25zLmFkZEFsbCh2YWxpZGF0ZUluVGltZVJhbmdlKHJvdywgZ2VuZXJhbEl0ZW0sIGxheW91dEl0ZW0pKTsKLy8gICAgICAgICAgICAgICAgdmlvbGF0aW9ucy5hZGRBbGwodmFsaWRhdGVPdXRXb3JrUmFuZ2Uocm93LCBnZW5lcmFsSXRlbSwgbGF5b3V0SXRlbSkpOwovLyAgICAgICAgICAgICAgICB2aW9sYXRpb25zLmFkZEFsbCh2YWxpZGF0ZVRpbWVFbXB0eShyb3csIGdlbmVyYWxJdGVtLCBsYXlvdXRJdGVtKSk7Ci8vICAgICAgICAgICAgfSk7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBob2xkZXJzLnN0cmVhbSgpLmZvckVhY2goCiAgICAgICAgICAgICAgICBob2xkZXIgLT4gewogICAgICAgICAgICAgICAgICAgIHJlc3VsdC5hZGRBbGwodmFsaWRhdGVUaW1lRW1wdHkoaG9sZGVyLCBkYXRlKSk7CiAgICAgICAgICAgICAgICAgICAgcmVzdWx0LmFkZEFsbCh2YWxpZGF0ZVRpbWVJbnZlcnRlZChob2xkZXIsIGRhdGUpKTsKICAgICAgICAgICAgICAgICAgICByZXN1bHQuYWRkQWxsKHZhbGlkYXRlSW5UaW1lUmFuZ2UoaG9sZGVyLCBkYXRlLCB3b3JrVGltZVJhbmdlKSk7CiAgICAgICAgICAgICAgICB9KTsKCiAgICAgICAgcmVzdWx0LmFkZEFsbCh2YWxpZGF0ZU92ZXJsYXBwZWQoaG9sZGVycywgZGF0ZSkpOwo=</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1984,8 +1990,8 @@
         <entry>;w</entry>
         <entry>i</entry>
         <entry>e</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
