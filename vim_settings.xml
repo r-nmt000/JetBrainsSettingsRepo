@@ -214,11 +214,11 @@
         <mark key="." line="296" column="27" />
         <mark key="^" line="296" column="27" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyTimeValidatorImpl.java" timestamp="1483673810299">
-        <mark key="[" line="122" column="65" />
-        <mark key="]" line="122" column="65" />
-        <mark key="." line="122" column="65" />
-        <mark key="^" line="258" column="7" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyTimeValidatorImpl.java" timestamp="1483674383543">
+        <mark key="[" line="88" column="54" />
+        <mark key="]" line="88" column="100" />
+        <mark key="." line="88" column="100" />
+        <mark key="^" line="88" column="100" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/test/java/com/worksap/company/hue/hr/biz/attcore/attendancemaster/layout/dao/DailyNonAttendanceLayoutDefDaoImplTest.java" timestamp="1477491888328">
         <mark key="[" line="44" column="50" />
@@ -1945,13 +1945,13 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>getDisplayAreaType</text>
+        <text>field</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMYXlvdXRJdGVtIHdvcmtUaW1lTGF5b3V0SXRlbSA9IHZhbHVlLmdldExheW91dEl0ZW1zKCkKICAgICAgICAgICAgICAgIC5zdHJlYW0oKQogICAgICAgICAgICAgICAgLy8gRklYTUU6IFRlbXBvcmFyeSBsb2dpYy4gIndvcmtUaW1lUmFuZ2UiIGNvdWxkIGJlIGNoYW5nZWQuCiAgICAgICAgICAgICAgICAuZmlsdGVyKGl0ZW0gLT4gaXRlbS5nZXRJdGVtSWQoKS5lcXVhbHMoIndvcmtUaW1lUmFuZ2UiKSkKICAgICAgICAgICAgICAgIC5maW5kRmlyc3QoKQogICAgICAgICAgICAgICAgLm9yRWxzZShudWxsKTsKICAgICAgICBMYXlvdXRJdGVtIHJlY2Vzc1RpbWVMYXlvdXRJdGVtID0gdmFsdWUuZ2V0TGF5b3V0SXRlbXMoKQogICAgICAgICAgICAgICAgLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAvLyBGSVhNRTogVGVtcG9yYXJ5IGxvZ2ljLiAicmVjZXNzVGltZVJhbmdlIiBjb3VsZCBiZSBjaGFuZ2VkLgogICAgICAgICAgICAgICAgLmZpbHRlcihpdGVtIC0+IGl0ZW0uZ2V0SXRlbUlkKCkuZXF1YWxzKCJyZWNlc3NUaW1lUmFuZ2UiKSkKICAgICAgICAgICAgICAgIC5maW5kRmlyc3QoKQogICAgICAgICAgICAgICAgLm9yRWxzZShudWxsKTsK</text>
+      <register name="0" type="4">
+        <text>getPath(field, idx, isDetailArea)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIE1vbnRobHlBdHRlbmRhbmNlTGF5b3V0U2VydmljZSBsYXlvdXRTZXJ2aWNlOwo=</text>
