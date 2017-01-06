@@ -214,11 +214,11 @@
         <mark key="." line="296" column="27" />
         <mark key="^" line="296" column="27" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyTimeValidatorImpl.java" timestamp="1483695578634">
-        <mark key="[" line="55" column="101" />
-        <mark key="]" line="55" column="119" />
-        <mark key="." line="55" column="119" />
-        <mark key="^" line="55" column="119" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyTimeValidatorImpl.java" timestamp="1483704530984">
+        <mark key="[" line="211" column="41" />
+        <mark key="]" line="211" column="58" />
+        <mark key="^" line="211" column="58" />
+        <mark key="." line="211" column="58" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/test/java/com/worksap/company/hue/hr/biz/attcore/attendancemaster/layout/dao/DailyNonAttendanceLayoutDefDaoImplTest.java" timestamp="1477491888328">
         <mark key="[" line="44" column="50" />
@@ -350,11 +350,11 @@
         <mark key="." line="53" column="13" />
         <mark key="^" line="53" column="13" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/constant/MonthlyAttendanceGridField.java" timestamp="1483690406366">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="23" column="71" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/constant/MonthlyAttendanceGridField.java" timestamp="1483704077975">
+        <mark key="[" line="21" column="35" />
+        <mark key="]" line="21" column="35" />
+        <mark key="^" line="21" column="35" />
+        <mark key="." line="21" column="35" />
       </file>
       <file name="$USER_HOME$/repos/ideaProjects/batch-report-1/src/main/java/com/worksap/bootcamp/batch/report/lv1/DocumentFactoryImpl.java" timestamp="1471061593394">
         <mark key="[" line="44" column="33" />
@@ -1956,52 +1956,46 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>field</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpb2xhdGlvbnMuYWRkQWxsKHZhbGlkYXRlKHJvd3MsIG1hc3RlciwgLTEpKTsKICAgICAgICAgICAgICAgIHZpb2xhdGlvbnMuYWRkQWxsKHZhbGlkYXRlKHJvd3NPZlNlY29uZFN0eWxlLCBtYXN0ZXIsIGRldGFpbE9wZW5JZHgpKTsKICAgICAgICAgICAgICAgIHZpb2xhdGlvbnMuYWRkQWxsKHZhbGlkYXRlKHJvd3NPZlRoaXJkU3R5bGUsIG1hc3RlciwgLTEpKTsKICAgICAgICAgICAgICAgIHZpb2xhdGlvbnMuYWRkQWxsKHZhbGlkYXRlKHJvd3NPZkZvdXJ0aFN0eWxlLCBtYXN0ZXIsIC0xKSk7CiAgICAgICAgICAgICAgICB2aW9sYXRpb25zLmFkZEFsbCh2YWxpZGF0ZShyb3dzT2ZGaWZ0aFN0eWxlLCBtYXN0ZXIsIC0xKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWxpbWl0ZWRSYW5nZS5pbmNsdWRlcyh0aW1lKSkgewogICAgICAgICAgICByZXR1cm4gU2ltcGxlVmFsaWRhdGlvblZpb2xhdGlvbi5maWVsZCgKICAgICAgICAgICAgICAgICAgICBWYWxpZGF0aW9uVmlvbGF0aW9uLlZhbGlkYXRpb25WaW9sYXRpb25UeXBlLkVSUk9SLCBnZXRQYXRoKGZpZWxkLCBpZHgsIGlzRGV0YWlsQXJlYSksIHRpbWUsIGZpZWxkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICArICJpblRpbWVSYW5nZSIsCiAgICAgICAgICAgICAgICAgICAgY3JlYXRlTWVzc2FnZSh0ZXh0SWQsIGRhdGUpKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIFNpbXBsZVZhbGlkYXRpb25WaW9sYXRpb24uZmllbGQoCiAgICAgICAgICAgICAgICBWYWxpZGF0aW9uVmlvbGF0aW9uLlZhbGlkYXRpb25WaW9sYXRpb25UeXBlLlNVQ0NFU1MsIGdldFBhdGgoZmllbGQsIGlkeCwgaXNEZXRhaWxBcmVhKSwgdGltZSwgZmllbGQKICAgICAgICAgICAgICAgICAgICAgICAgKyAiaW5UaW1lUmFuZ2UiLAogICAgICAgICAgICAgICAgInN1Y2Nlc3MiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoR3JpZE9yZGVyLkZJUlNUID09IGdyaWRPcmRlcikgewoKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRpbWUgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgcmV0dXJuIFNpbXBsZVZhbGlkYXRpb25WaW9sYXRpb24uZmllbGQoCiAgICAgICAgICAgICAgICAgICAgICAgIFZhbGlkYXRpb25WaW9sYXRpb24uVmFsaWRhdGlvblZpb2xhdGlvblR5cGUuRVJST1IsIGdldFBhdGgoZmllbGQsIGlkeCwgaXNEZXRhaWxBcmVhKSwgdGltZSwKICAgICAgICAgICAgICAgICAgICAgICAgZmllbGQgKyAiZW1wdHkiLCBjcmVhdGVNZXNzYWdlKHRleHRJZCwgZGF0ZSkpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBTaW1wbGVWYWxpZGF0aW9uVmlvbGF0aW9uLmZpZWxkKAogICAgICAgICAgICAgICAgICAgIFZhbGlkYXRpb25WaW9sYXRpb24uVmFsaWRhdGlvblZpb2xhdGlvblR5cGUuU1VDQ0VTUywgZ2V0UGF0aChmaWVsZCwgaWR4LCBpc0RldGFpbEFyZWEpLCB0aW1lLAogICAgICAgICAgICAgICAgICAgIGZpZWxkICsgImVtcHR5IiwgImR1bW15Iik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmlvbGF0aW9ucy5hZGRBbGwodmFsaWRhdGUocm93cywgbWFzdGVyLCBkZXRhaWxPcGVuSWR4KSk7CiAgICAgICAgICAgIHZpb2xhdGlvbnMuYWRkQWxsKHZhbGlkYXRlKHJvd3NPZlNlY29uZFN0eWxlLCBtYXN0ZXIsIC0xKSk7CiAgICAgICAgICAgIHZpb2xhdGlvbnMuYWRkQWxsKHZhbGlkYXRlKHJvd3NPZlRoaXJkU3R5bGUsIG1hc3RlciwgLTEpKTsKICAgICAgICAgICAgdmlvbGF0aW9ucy5hZGRBbGwodmFsaWRhdGUocm93c09mRm91cnRoU3R5bGUsIG1hc3RlciwgLTEpKTsKICAgICAgICAgICAgdmlvbGF0aW9ucy5hZGRBbGwodmFsaWRhdGUocm93c09mRmlmdGhTdHlsZSwgbWFzdGVyLCAtMSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCgogCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IGVsc2UgaWYgKE1vbnRobHlBdHRlbmRhbmNlR3JpZEZpZWxkLldPUktUSU1FX0VORF9USU1FLmVxdWFscyhmaWVsZCkpIHsKICAgICAgICAgICAgICAgICAgICBmaWVsZCA9IE1vbnRobHlBdHRlbmRhbmNlR3JpZEZpZWxkLkRFVEFJTF9XT1JLVElNRV9FTkRfVElNRTsKICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoTW9udGhseUF0dGVuZGFuY2VHcmlkRmllbGQuV09SS1RJTUVfRU5EX1RJTUUuZXF1YWxzKGZpZWxkKSkgewogICAgICAgICAgICAgICAgICA=</text>
       </register>
-      <register name="4" type="8">
-        <text>rows,
-rows,
-rows,
-rows,</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gCg==</text>
       </register>
-      <register name="5" type="8">
-        <text>rowsOf
-rows,
-rows,
-rows,)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBWYWxpZGF0aW9uVmlvbGF0aW9uTGlzdCB2aW9sYXRpb25zID0gbmV3IFZhbGlkYXRpb25WaW9sYXRpb25MaXN0KCk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNsYXNzIERldGFpbEFyZWFGaWVsZCB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoUnVudGltZUV4Y2VwdGlvbiBlKSB7IGRldGFpbE9wZW5JZHggPSAtMTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoR3JpZE9yZGVyLkZJUlNUID09IGdyaWRPcmRlcikgewoKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmlvbGF0aW9ucy5hZGRBbGwodmFsaWRhdGUocm93cywgbWFzdGVyLCBkZXRhaWxPcGVuSWR4KSk7CiAgICAgICAgICAgIHZpb2xhdGlvbnMuYWRkQWxsKHZhbGlkYXRlKHJvd3NPZlNlY29uZFN0eWxlLCBtYXN0ZXIsIC0xKSk7CiAgICAgICAgICAgIHZpb2xhdGlvbnMuYWRkQWxsKHZhbGlkYXRlKHJvd3NPZlRoaXJkU3R5bGUsIG1hc3RlciwgLTEpKTsKICAgICAgICAgICAgdmlvbGF0aW9ucy5hZGRBbGwodmFsaWRhdGUocm93c09mRm91cnRoU3R5bGUsIG1hc3RlciwgLTEpKTsKICAgICAgICAgICAgdmlvbGF0aW9ucy5hZGRBbGwodmFsaWRhdGUocm93c09mRmlmdGhTdHlsZSwgbWFzdGVyLCAtMSkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
