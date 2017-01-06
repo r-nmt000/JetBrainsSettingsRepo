@@ -214,11 +214,11 @@
         <mark key="." line="296" column="27" />
         <mark key="^" line="296" column="27" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyTimeValidatorImpl.java" timestamp="1483704530984">
-        <mark key="[" line="211" column="41" />
-        <mark key="]" line="211" column="58" />
-        <mark key="^" line="211" column="58" />
-        <mark key="." line="211" column="58" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyTimeValidatorImpl.java" timestamp="1483705844392">
+        <mark key="[" line="101" column="39" />
+        <mark key="]" line="102" column="34" />
+        <mark key="^" line="102" column="34" />
+        <mark key="." line="102" column="34" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/test/java/com/worksap/company/hue/hr/biz/attcore/attendancemaster/layout/dao/DailyNonAttendanceLayoutDefDaoImplTest.java" timestamp="1477491888328">
         <mark key="[" line="44" column="50" />
@@ -631,10 +631,10 @@
         <mark key="." line="5" column="23" />
         <mark key="^" line="5" column="23" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyOnChangeValidatorImpl.java" timestamp="1483698578570">
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyOnChangeValidatorImpl.java" timestamp="1483705797275">
         <mark key="'" line="95" column="0" />
-        <mark key="[" line="79" column="18" />
-        <mark key="]" line="79" column="25" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="51" />
         <mark key="." line="79" column="25" />
         <mark key="^" line="79" column="25" />
       </file>
@@ -900,7 +900,7 @@
         <mark key="^" line="14" column="97" />
         <mark key="." line="14" column="4" />
       </file>
-      <file name="/a.regexp" timestamp="1483685836507">
+      <file name="/a.regexp" timestamp="1483706022632">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/ideaProjects/batch-summary-1/src/main/java/com/worksap/bootcamp/batch/summary/lv1/dao/OrderDetailDao.java" timestamp="1470706750163">
@@ -1956,13 +1956,13 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>field</text>
+        <text>detailOpenIdx</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWxpbWl0ZWRSYW5nZS5pbmNsdWRlcyh0aW1lKSkgewogICAgICAgICAgICByZXR1cm4gU2ltcGxlVmFsaWRhdGlvblZpb2xhdGlvbi5maWVsZCgKICAgICAgICAgICAgICAgICAgICBWYWxpZGF0aW9uVmlvbGF0aW9uLlZhbGlkYXRpb25WaW9sYXRpb25UeXBlLkVSUk9SLCBnZXRQYXRoKGZpZWxkLCBpZHgsIGlzRGV0YWlsQXJlYSksIHRpbWUsIGZpZWxkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICArICJpblRpbWVSYW5nZSIsCiAgICAgICAgICAgICAgICAgICAgY3JlYXRlTWVzc2FnZSh0ZXh0SWQsIGRhdGUpKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIFNpbXBsZVZhbGlkYXRpb25WaW9sYXRpb24uZmllbGQoCiAgICAgICAgICAgICAgICBWYWxpZGF0aW9uVmlvbGF0aW9uLlZhbGlkYXRpb25WaW9sYXRpb25UeXBlLlNVQ0NFU1MsIGdldFBhdGgoZmllbGQsIGlkeCwgaXNEZXRhaWxBcmVhKSwgdGltZSwgZmllbGQKICAgICAgICAgICAgICAgICAgICAgICAgKyAiaW5UaW1lUmFuZ2UiLAogICAgICAgICAgICAgICAgInN1Y2Nlc3MiKTsK</text>
+        <text encoding="base64">ICAgIE1vbnRobHlEZXRhaWxBcmVhVmFsaWRhdG9yIGRldGFpbEFyZWFWYWxpZGF0b3I7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKHRpbWUgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgcmV0dXJuIFNpbXBsZVZhbGlkYXRpb25WaW9sYXRpb24uZmllbGQoCiAgICAgICAgICAgICAgICAgICAgICAgIFZhbGlkYXRpb25WaW9sYXRpb24uVmFsaWRhdGlvblZpb2xhdGlvblR5cGUuRVJST1IsIGdldFBhdGgoZmllbGQsIGlkeCwgaXNEZXRhaWxBcmVhKSwgdGltZSwKICAgICAgICAgICAgICAgICAgICAgICAgZmllbGQgKyAiZW1wdHkiLCBjcmVhdGVNZXNzYWdlKHRleHRJZCwgZGF0ZSkpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBTaW1wbGVWYWxpZGF0aW9uVmlvbGF0aW9uLmZpZWxkKAogICAgICAgICAgICAgICAgICAgIFZhbGlkYXRpb25WaW9sYXRpb24uVmFsaWRhdGlvblZpb2xhdGlvblR5cGUuU1VDQ0VTUywgZ2V0UGF0aChmaWVsZCwgaWR4LCBpc0RldGFpbEFyZWEpLCB0aW1lLAogICAgICAgICAgICAgICAgICAgIGZpZWxkICsgImVtcHR5IiwgImR1bW15Iik7Cg==</text>
