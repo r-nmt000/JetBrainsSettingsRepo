@@ -132,9 +132,9 @@
         <mark key="." line="19" column="86" />
         <mark key="^" line="19" column="86" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyDetailAreaValidatorImpl.java" timestamp="1484052727920">
-        <mark key="[" line="104" column="45" />
-        <mark key="]" line="104" column="79" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyDetailAreaValidatorImpl.java" timestamp="1484056507696">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="50" column="49" />
         <mark key="." line="104" column="79" />
         <mark key="^" line="104" column="79" />
       </file>
@@ -408,12 +408,12 @@
         <mark key="^" line="329" column="25" />
         <mark key="." line="329" column="25" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyNonAttendanceTimeValidatorImpl.java" timestamp="1484053094023">
-        <mark key="'" line="531" column="0" />
-        <mark key="[" line="389" column="44" />
-        <mark key="]" line="389" column="62" />
-        <mark key="." line="389" column="62" />
-        <mark key="^" line="389" column="62" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyNonAttendanceTimeValidatorImpl.java" timestamp="1484056535049">
+        <mark key="'" line="536" column="0" />
+        <mark key="[" line="104" column="41" />
+        <mark key="]" line="104" column="46" />
+        <mark key="." line="104" column="46" />
+        <mark key="^" line="104" column="46" />
       </file>
       <file name="$USER_HOME$/repos/ideaProjects/batch-summary-1/src/main/java/com/worksap/bootcamp/io/JDBCTransaction.java" timestamp="1470705522308">
         <mark key="[" line="20" column="15" />
@@ -439,7 +439,7 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-dto/src/main/java/com/worksap/company/hue/hr/type/attendance/MonthlyNonAttendanceFieldType.java" timestamp="1484055206215" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-dto/src/main/java/com/worksap/company/hue/hr/type/attendance/MonthlyNonAttendanceFieldType.java" timestamp="1484056261207" />
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-dto/src/test/java/com/worksap/company/hue/hr/type/attendance/portal/PortalGraphHolidayWorkVoTest.java" timestamp="1480682970368">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="57" />
@@ -1943,13 +1943,13 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>START_TIME_SUFFIX</text>
+        <text>violations</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyBnZXREZXRhaWxQYXRoKFN0cmluZyBmaWVsZCkgewogICAgICAgIFN0cmluZ0J1aWxkZXIgYnVpbGRlciA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7CiAgICAgICAgYnVpbGRlci5hcHBlbmQoIm1vbnRobHlBdHRlbmRhbmNlRW50aXR5LmRldGFpbEFyZWEiKTsKICAgICAgICBpZiAoZmllbGQgIT0gbnVsbCAmJiAhZmllbGQuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIGJ1aWxkZXIuYXBwZW5kKCIuIikuYXBwZW5kKGZpZWxkKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGJ1aWxkZXIudG9TdHJpbmcoKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGVzdCA9IHZpb2xhdGlvbnMuc3RyZWFtKCkKICAgICAgICAgICAgICAgICAgICAuZmlsdGVyKHZpb2xhdGlvbiAtPiB2aW9sYXRpb24uZ2V0VHlwZSgpID09IFZhbGlkYXRpb25WaW9sYXRpb25UeXBlLkVSUk9SKQogICAgICAgICAgICAgICAgICAgIC5maWx0ZXIodmlvbGF0aW9uIC0+ICF2aW9sYXRpb24uZ2V0UGF0aCgpLmNvbnRhaW5zKCJhdHRlbmRhbmNlRGF0YSIpKQogICAgICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
