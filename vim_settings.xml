@@ -408,12 +408,12 @@
         <mark key="^" line="329" column="25" />
         <mark key="." line="329" column="25" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyNonAttendanceTimeValidatorImpl.java" timestamp="1484050660992">
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyNonAttendanceTimeValidatorImpl.java" timestamp="1484051794351">
         <mark key="'" line="514" column="0" />
-        <mark key="[" line="474" column="0" />
-        <mark key="]" line="474" column="0" />
-        <mark key="." line="474" column="0" />
-        <mark key="^" line="221" column="46" />
+        <mark key="[" line="156" column="94" />
+        <mark key="]" line="156" column="101" />
+        <mark key="." line="156" column="101" />
+        <mark key="^" line="156" column="101" />
       </file>
       <file name="$USER_HOME$/repos/ideaProjects/batch-summary-1/src/main/java/com/worksap/bootcamp/io/JDBCTransaction.java" timestamp="1470705522308">
         <mark key="[" line="20" column="15" />
@@ -1942,13 +1942,13 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>ERROR</text>
+        <text>END_TIME_SUFFIX</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZmlsdGVyKHZpb2xhdGlvbiAtPiB2aW9sYXRpb24uZ2V0UGF0aCgpLmNvbnRhaW5zKCJkZXRhaWxBcmVhIikpCg==</text>
+      <register name="0" type="4">
+        <text>END_TIME_SUFFIX</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
