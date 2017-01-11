@@ -211,10 +211,10 @@
         <mark key="." line="296" column="27" />
         <mark key="^" line="296" column="27" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyTimeValidatorImpl.java" timestamp="1484121193762">
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyTimeValidatorImpl.java" timestamp="1484122628230">
         <mark key="'" line="66" column="42" />
-        <mark key="[" line="283" column="0" />
-        <mark key="]" line="283" column="121" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="65" />
         <mark key="." line="191" column="0" />
         <mark key="^" line="125" column="7" />
       </file>
@@ -775,12 +775,12 @@
         <mark key="." line="49" column="36" />
         <mark key="^" line="49" column="36" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyGIValidatorImpl.java" timestamp="1484121267698">
-        <mark key="'" line="197" column="16" />
-        <mark key="[" line="517" column="111" />
-        <mark key="]" line="518" column="19" />
-        <mark key="^" line="518" column="19" />
-        <mark key="." line="518" column="19" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyGIValidatorImpl.java" timestamp="1484122889436">
+        <mark key="'" line="198" column="16" />
+        <mark key="[" line="755" column="0" />
+        <mark key="]" line="756" column="26" />
+        <mark key="." line="755" column="0" />
+        <mark key="^" line="745" column="69" />
       </file>
       <file name="C:/DemoLegacy/WorkSpace/HUE/company-concept-design/company-hue-front/src/main/webapp/WEB-INF/templates/onboarding/preparation/preparation.xml" timestamp="1475225380744">
         <mark key="[" line="768" column="92" />
@@ -1946,46 +1946,46 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>createMessage</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG1lc3NhZ2UgPSB0ZXh0UmVzb3VyY2VNYW5hZ2VyLmdldFRleHQodGV4dElkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpb2xhdGlvbnMuYWRkKGRldGFpbEFyZWFWYWxpZGF0b3IudmFsaWRhdGUoaWR4LCB0cnVlLCBmaWVsZCArICJlbXB0eSIsICJkdW1teSIpKTsKICAgICAgICAgICAgICAgIHJldHVybiB2aW9sYXRpb25zOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBjcmVhdGVTdWNjZXNzUmVzdWx0KHRpbWVSYW5nZSwgZmllbGQsIHRleHRJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBjcmVhdGVTdWNjZXNzUmVzdWx0KHZhbHVlLCBmaWVsZCwgdGV4dElkKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBjcmVhdGVTdWNjZXNzUmVzdWx0KHRpbWVSYW5nZSwgZmllbGQsIHRleHRJZCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgcmV0dXJuIGNyZWF0ZVN1Y2Nlc3NSZXN1bHQodmFsdWUsIGZpZWxkLCB0ZXh0SWQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBjcmVhdGVTdWNjZXNzUmVzdWx0KHRpbWUsIGZpZWxkLCB0ZXh0SWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHZpbzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFZhbGlkYXRpb25WaW9sYXRpb24+IHZpb2xhdGlvbnMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFNpbXBsZVZhbGlkYXRpb25WaW9sYXRpb24uZmllbGQoCiAgICAgICAgICAgICAgICAgICAgVmFsaWRhdGlvblZpb2xhdGlvbi5WYWxpZGF0aW9uVmlvbGF0aW9uVHlwZS5FUlJPUiwgZmllbGQsIHRpbWUsIGZpZWxkICsgIm91dFdvcmtSYW5nZSIsCiAgICAgICAgICAgICAgICAgICAgdGV4dFJlc291cmNlTWFuYWdlci5nZXRUZXh0KHRleHRJZCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gU2ltcGxlVmFsaWRhdGlvblZpb2xhdGlvbi5maWVsZCgKICAgICAgICAgICAgICAgIFZhbGlkYXRpb25WaW9sYXRpb24uVmFsaWRhdGlvblZpb2xhdGlvblR5cGUuU1VDQ0VTUywgZmllbGQsIHZhbHVlLCBmaWVsZCArICJpbnZlcnRlZCIsCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY3JlYXRlU3VjY2Vzc1Jlc3VsdCh0aW1lLCBmaWVsZCwgdGV4dElkKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRleHRSZXNvdXJjZU1hbmFnZXIuZ2V0VGV4dCh0ZXh0SWQpKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBjcmVhdGVTdWNjZXNzUmVzdWx0KHRpbWVSYW5nZSwgZmllbGQsIHRleHRJZCk7Cg==</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gU2ltcGxlVmFsaWRhdGlvblZpb2xhdGlvbi5maWVsZCgKICAgICAgICAgICAgICAgIFZhbGlkYXRpb25WaW9sYXRpb24uVmFsaWRhdGlvblZpb2xhdGlvblR5cGUuU1VDQ0VTUywgZmllbGQsIHZhbHVlLCBmaWVsZCArICJpbnZlcnRlZCIsCiAgICAgICAgICAgICAgICB0ZXh0UmVzb3VyY2VNYW5hZ2VyLmdldFRleHQodGV4dElkKSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBjcmVhdGVTdWNjZXNzUmVzdWx0KHRpbWVSYW5nZSwgZmllbGQsIHRleHRJZCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpb2xhdGlvbnMuYQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBjcmVhdGVTdWNjZXNzUmVzdWx0KHRpbWVSYW5nZSwgZmllbGQsIHRleHRJZCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNyZWF0ZVN1Y2Nlc3NSZXN1bHQodmFsdWUsIGZpZWxkLCB0ZXh0SWQpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBjcmVhdGVTdWNjZXNzUmVzdWx0KHRpbWUsIGZpZWxkLCB0ZXh0SWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
