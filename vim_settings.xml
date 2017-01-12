@@ -19,12 +19,12 @@
         <mark key="." line="15" column="88" />
         <mark key="^" line="15" column="88" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyTimeValidatorImpl.java" timestamp="1484187334050">
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyTimeValidatorImpl.java" timestamp="1484189366784">
         <mark key="'" line="66" column="42" />
-        <mark key="[" line="279" column="83" />
-        <mark key="]" line="280" column="23" />
-        <mark key="." line="280" column="23" />
-        <mark key="^" line="280" column="23" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="374" column="27" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyGIValidator.java" timestamp="1484009599896">
         <mark key="[" line="9" column="0" />
@@ -32,10 +32,10 @@
         <mark key="." line="8" column="3" />
         <mark key="^" line="8" column="3" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyNonAttendanceTimeValidatorImpl.java" timestamp="1484186539849">
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyNonAttendanceTimeValidatorImpl.java" timestamp="1484188393151">
         <mark key="'" line="345" column="44" />
-        <mark key="[" line="236" column="0" />
-        <mark key="]" line="236" column="0" />
+        <mark key="[" line="468" column="0" />
+        <mark key="]" line="469" column="49" />
         <mark key="^" line="200" column="83" />
         <mark key="." line="236" column="0" />
       </file>
@@ -204,24 +204,30 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>model</text>
+        <text>idx</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2aW9sYXRpb25zLmFkZEFsbCh2YWxpZGF0ZVRpbWVFbXB0eShyZWNlc3NTdGFydFRpbWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBNb250aGx5QXR0ZW5kYW5jZUdyaWRGaWVsZC5SRUNFU1NfU1RBUlRfVElNRSwgVEVYVF9JRF9SRVNUX1RJTUVfRU1QVFksIG1vZGVsLmdldFdvcmtEYXRlKCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWNlc3NUaW1lSXNJbmRldGFpbEFyZWEsIGlkeCwgZGV0YWlsT3BlbklkeCkpOwo=</text>
+      <register name="0" type="4">
+        <text>MonthlyAttendanceGridField.RECESS_START_TIME</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uQ29sbGVjdG9yczsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBBdHRlbmRhbmNlVGltZVJhbmdlIHJlY2Vzc1RpbWVSYW5nZSA9IGNvbnZlcnRUb0F0dGVuZGFuY2VUaW1lUmFuZ2UobW9kZWwuZ2V0UmVjZXNzU3RhcnRUaW1lKCksCiAgICAgICAgICAgICAgICBtb2RlbC5nZXRSZWNlc3NTdGFydFRpbWUoKSwKICAgICAgICAgICAgICAgIG1vZGVsLmdldFdvcmtEYXRlKCkpOwogICAgICAgIGlmIChyZWNlc3NUaW1lUmFuZ2UgIT0gbnVsbCkgewogICAgICAgICAgICB2aW9sYXRpb25zLmFkZEFsbCh2YWxpZGF0ZUluVGltZVJhbmdlKHJlY2Vzc1RpbWVSYW5nZS5nZXRTdGltZSgpLCB3b3JrVGltZVJhbmdlLAogICAgICAgICAgICAgICAgICAgIE1vbnRobHlBdHRlbmRhbmNlR3JpZEZpZWxkLlJFQ0VTU19TVEFSVF9USU1FLCBURVhUX0lEX1JFU1RfVElNRV9PVVRfUkFOR0UsIG1vZGVsLmdldFdvcmtEYXRlKCksCiAgICAgICAgICAgICAgICAgICAgaXNEZXRhaWxBcmVhLCBpZHgsIGRldGFpbE9wZW5JZHgpKTsKICAgICAgICAgICAgdmlvbGF0aW9ucy5hZGRBbGwodmFsaWRhdGVJblRpbWVSYW5nZShyZWNlc3NUaW1lUmFuZ2UuZ2V0RXRpbWUoKSwgd29ya1RpbWVSYW5nZSwKICAgICAgICAgICAgICAgICAgICBNb250aGx5QXR0ZW5kYW5jZUdyaWRGaWVsZC5SRUNFU1NfRU5EX1RJTUUsIFRFWFRfSURfUkVTVF9USU1FX09VVF9SQU5HRSwgbW9kZWwuZ2V0V29ya0RhdGUoKSwKICAgICAgICAgICAgICAgICAgICBpc0RldGFpbEFyZWEsIGlkeCwgZGV0YWlsT3BlbklkeCkpOwogICAgICAgIH0K</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>ceTimeRange recessTimeRange = convertToAttendanceTimeRange(model.getRecessStartTime(),
                 model.getRecessStartTime(),
                 model.getWorkDate());
@@ -234,14 +240,8 @@
                     isDetailArea, idx, detailOpenIdx));
         }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2aW9sYXRpb25zLmFkZEFsbCh2YWxpZGF0ZVRpbWVJbnZlcnRlZChtb2RlbC5nZXRSZWNlc3NTdGFydFRpbWUoKSwgbW9kZWwuZ2V0UmVjZXNzRW5kVGltZSgpLAogICAgICAgICAgICAgICAgTW9udGhseUF0dGVuZGFuY2VHcmlkRmllbGQuUkVDRVNTX1NUQVJUX1RJTUUsIFRFWFRfSURfUkVTVF9USU1FX0lOVkVSVEVELCBtb2RlbC5nZXRXb3JrRGF0ZSgpLAogICAgICAgICAgICAgICAgcmVjZXNzVGltZUlzSW5EZXRhaWxBcmVhLCBpZHgsIGRldGFpbE9wZW5JZHgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
@@ -250,7 +250,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2aW9sYXRpb25zLmFkZEFsbCh2YWxpZGF0ZVRpbWVJbnZlcnRlZChtb2RlbC5nZXRSZWNlc3NTdGFydFRpbWUoKSwgbW9kZWwuZ2V0UmVjZXNzRW5kVGltZSgpLAogICAgICAgICAgICAgICAgTW9udGhseUF0dGVuZGFuY2VHcmlkRmllbGQuUkVDRVNTX1NUQVJUX1RJTUUsIFRFWFRfSURfUkVTVF9USU1FX0lOVkVSVEVELCBtb2RlbC5nZXRXb3JrRGF0ZSgpLAogICAgICAgICAgICAgICAgcmVjZXNzVGltZUlzSW5EZXRhaWxBcmVhLCBpZHgsIGRldGFpbE9wZW5JZHgpKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
