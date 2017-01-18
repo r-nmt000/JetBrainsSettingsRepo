@@ -449,11 +449,11 @@
         <mark key="^" line="29" column="40" />
         <mark key="." line="29" column="40" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/daily/DailyLateArrivalEarlyLeaveValidatorImpl.java" timestamp="1484727339456">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="91" column="110" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/daily/DailyLateArrivalEarlyLeaveValidatorImpl.java" timestamp="1484728373360">
+        <mark key="[" line="82" column="85" />
+        <mark key="]" line="82" column="85" />
+        <mark key="." line="82" column="85" />
+        <mark key="^" line="82" column="78" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/DetermineWorkDayServiceImpl.java" timestamp="1480400000090">
         <mark key="[" line="19" column="18" />
@@ -690,11 +690,11 @@
         <mark key="^" line="26" column="92" />
         <mark key="." line="26" column="92" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyLateArrivalEarlyLeaveValidatorImpl.java" timestamp="1484727324960">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="135" column="81" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyLateArrivalEarlyLeaveValidatorImpl.java" timestamp="1484728308751">
+        <mark key="[" line="158" column="71" />
+        <mark key="]" line="158" column="71" />
+        <mark key="." line="158" column="71" />
+        <mark key="^" line="158" column="63" />
       </file>
       <file name="$USER_HOME$/repos/ideaProjects/batch-summary-1/src/main/java/com/worksap/bootcamp/util/Util.java" timestamp="1470719453635">
         <mark key="[" line="28" column="37" />
@@ -2016,7 +2016,7 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>LateArrivalEarlyLeaveReasonEmpty</text>
+        <text>field</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
@@ -2025,7 +2025,7 @@
         <text>ERROR_CODE</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgVmFsaWRhdGlvblZpb2xhdGlvbkNvbnZlcnRlclNlcnZpY2UgdmFsaWRhdGlvblZpb2xhdGlvbkNvbnZlcnRlclNlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PE1vbnRobHlBdHRlbmRhbmNlUm93PiByb3dzID0gTW9udGhseUF0dGVuZGFuY2VFbnRpdHlBY2Nlc3Nvci5nZXRBbGxBdHRlbmRhbmNlRGF0YShlbnRpdHkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -2034,28 +2034,28 @@
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgVmFsaWRhdGlvblZpb2xhdGlvbkNvbnZlcnRlclNlcnZpY2UgdmFsaWRhdGlvblZpb2xhdGlvbkNvbnZlcnRlclNlcnZpY2U7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBOb25BdHRlbmRhbmNlR3JvdXBUeXBlIHR5cGUgPSByZWNvcmQuZ2V0Tm9uQXR0ZW5kYW5jZUdyb3VwVHlwZSgpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgVmFsaWRhdGlvblZpb2xhdGlvbkNvbnZlcnRlclNlcnZpY2UgdmFsaWRhdGlvblZpb2xhdGlvbkNvbnZlcnRlclNlcnZpY2U7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBOb25BdHRlbmRhbmNlR3JvdXBUeXBlIHR5cGUgPSByZWNvcmQuZ2V0Tm9uQXR0ZW5kYW5jZUdyb3VwVHlwZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBdHRlbmRhbmNlVGltZUNhbGN1bGF0aW9uVXRpbHMuZ2VuZXJhdGVBdHRlbmRhbmNlVGltZSh3b3JrRGF0ZSwgZW50aXR5LmdldFdvcmtUaW1lUmFuZ2UoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLmdldEVuZFRpbWUoKSksCg==</text>
+        <text encoding="base64">ICAgICAgICBOb25BdHRlbmRhbmNlR3JvdXBUeXBlIHR5cGUgPSByZWNvcmQuZ2V0Tm9uQXR0ZW5kYW5jZUdyb3VwVHlwZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmVkZXRlcm1pbmVkU3RhcnRUaW1lLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBdHRlbmRhbmNlVGltZUNhbGN1bGF0aW9uVXRpbHMuZ2VuZXJhdGVBdHRlbmRhbmNlVGltZSh3b3JrRGF0ZSwgZW50aXR5LmdldFdvcmtUaW1lUmFuZ2UoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLmdldEVuZFRpbWUoKSksCg==</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmVkZXRlcm1pbmVkU3RhcnRUaW1lLAo=</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">cmVjb3JkLmdldEdyb3VwVHlwZSgpLmVxdWFscyhOb25BdHRlbmRhbmNlR3JvdXBUeXBlLkxBVEVfQVJSSVZBTCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJiYgcmVjb3JkLmdldE5vbkF0dGVuZGFuY2VNaW51dGVzKCkgIT0gMA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAyM2ZiMWRhLi4uIEZpeCB2YWxpZGF0aW9uIGJ1Z3MgcmVmcyAjMTgyNzY2Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgLy8gdmlvbGF0aW9ucy5hZGRBbGwoYXBwbGljYXRpb25TdGF0dXNWYWxpZGF0b3IudmFsaWRhdGUoZW1wbG95ZWVJZCwgdGFyZ2V0VGVybSwgbW9kZWwpKTsKICAgICAgICB2aW9sYXRpb25zLmFkZEFsbCh3b3JrTG9ja1ZhbGlkYXRvci52YWxpZGF0ZShtYXN0ZXIsIHRhcmdldFRlcm0sIG1vZGVsKSk7CiAgICAgICAgLy8gdmlvbGF0aW9ucy5hZGRBbGwobW9udGhseUxhdGVBcnJpdmFsRWFybHlMZWF2ZVZhbGlkYXRvci52YWxpZGF0ZShkdG9zLCBtb2RlbCwgbWFzdGVyKSk7Cj09PT09PT0K</text>
+        <text encoding="base64">Pj4+Pj4+PiAyM2ZiMWRhLi4uIEZpeCB2YWxpZGF0aW9uIGJ1Z3MgcmVmcyAjMTgyNzY2Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
