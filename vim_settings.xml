@@ -249,9 +249,9 @@
         <mark key="." line="6" column="65" />
         <mark key="^" line="6" column="65" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/test/java/com/worksap/company/hue/hr/biz/attendance/service/validator/daily/DailyLateArrivalEarlyLeaveValidatorImplTest.java" timestamp="1484809994430">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/test/java/com/worksap/company/hue/hr/biz/attendance/service/validator/daily/DailyLateArrivalEarlyLeaveValidatorImplTest.java" timestamp="1484832113227">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="54" column="84" />
         <mark key="." line="86" column="0" />
         <mark key="^" line="82" column="79" />
       </file>
@@ -320,6 +320,12 @@
         <mark key="]" line="7" column="18" />
         <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="18" />
+      </file>
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/test/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyLateArrivalEarlyLeaveValidatorImplTest.java" timestamp="1484832116317">
+        <mark key="[" line="44" column="44" />
+        <mark key="]" line="45" column="7" />
+        <mark key="." line="45" column="7" />
+        <mark key="^" line="45" column="7" />
       </file>
       <file name="$USER_HOME$/repos/ideaProjects/ss-view-1/src/main/java/com/worksap/bootcamp/ss/view/lv1/controller/OrderController.java" timestamp="1471227211329">
         <mark key="[" line="65" column="32" />
@@ -985,7 +991,7 @@
         <mark key="." line="6" column="106" />
         <mark key="^" line="6" column="106" />
       </file>
-      <file name="/fragment.java" timestamp="1484828932213">
+      <file name="/fragment.java" timestamp="1484831627828">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="2" />
@@ -2016,13 +2022,13 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>employeeId</text>
+        <text>DailyLateArrivalEarlyLeaveValidatorImpl</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFBlcnNvbmFsRGFpbHlSZWNvcmREdG9CdWlsZGVyIHBlcnNvbmFsRGFpbHlSZWNvcmREdG9CdWlsZGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICBWYWxpZGF0aW9uVmlvbGF0aW9uTGlzdCB2aW9sYXRpb25zID0gY3JlYXRlVGFyZ2V0KCkudmFsaWRhdGUoZHRvKTsKICAgICAgICBhc3NlcnRUaGF0KHZpb2xhdGlvbnMuc2l6ZSgpLCBpcygyKSk7CiAgICAgICAgYXNzZXJ0VGhhdCh2aW9sYXRpb25zLmdldCgwKS5nZXRUeXBlKCksIGlzKFZhbGlkYXRpb25WaW9sYXRpb25UeXBlLlNVQ0NFU1MpKTsKICAgICAgICBhc3NlcnRUaGF0KHZpb2xhdGlvbnMuZ2V0KDEpLmdldFR5cGUoKSwgaXMoVmFsaWRhdGlvblZpb2xhdGlvblR5cGUuU1VDQ0VTUykpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBMaXN0PFBlcnNvbmFsRGFpbHlSZWNvcmREdG8+IGR0b3MgPSBidWlsZER0b3Mocm93cywgZW1wbG95ZWVJZCk7Cg==</text>
