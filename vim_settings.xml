@@ -859,6 +859,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="16" column="63" />
       </file>
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/util/DateAndTimeUtility.java" timestamp="1484905935243">
+        <mark key="[" line="62" column="56" />
+        <mark key="]" line="62" column="67" />
+        <mark key="." line="62" column="67" />
+        <mark key="^" line="62" column="67" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/service/impl/CartChecker.java" timestamp="1470295146047">
         <mark key="[" line="53" column="35" />
         <mark key="]" line="53" column="50" />
@@ -2040,7 +2046,7 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>LocalDateTime.now(zone);</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
@@ -2049,18 +2055,30 @@
         <text encoding="base64">ICAgIERVRV9EQVRFX0lTX0NPTUlOR19NRVNTQUdFKCJtc2cuaHJfYXR0X3JlcG9ydF9zdWJtaXNzaW9uX2R1ZWRhdGVfaXNfY29taW5nIiksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFpvbmVkRGF0ZVRpbWUgY29taW5nRHVlRGF0ZSA9IHZvLmdldENvbnRlbnRzKCkuZ2V0U3VibWl0RHVlRGF0ZXRpbWUoKTsKICAgICAgICAgICAgICAgIC8vIHJldHVybiBPYmplY3RzLmlzTnVsbChjb21pbmdEdWVEYXRlKSA/IGRlZmF1bHRNZXNzYWdlCiAgICAgICAgICAgICAgICAvLyA6IFN0cmluZy5mb3JtYXQobWVzc2FnZUZvcm1hdCxjYWxjdWxhdGlvbkRpZmZEYXlzKGNvbWluZ0R1ZURhdGUudG9Mb2NhbERhdGUoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMb2NhbERhdGVUaW1lIG5vdyA9IExvY2FsRGF0ZVRpbWUubm93KHpvbmUpOwoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29tbW9uQWxsQ29sb3JUeXBlLkRFRkFVTFQsCiAgICAgICAgICAgIENvbW1vbkljb25UeXBlLkxJR0hUQlVMQiwK</text>
+        <text encoding="base64">Ly8gICAgICAgIExvY2FsRGF0ZVRpbWUgbm93ID0gTG9jYWxEYXRlVGltZS5ub3coem9uZSk7Cgo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBMb2NhbAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFpvbmVkRGF0ZVRpbWUgY29taW5nRHVlRGF0ZSA9IHZvLmdldENvbnRlbnRzKCkuZ2V0U3VibWl0RHVlRGF0ZXRpbWUoKTsKICAgICAgICAgICAgICAgIC8vIHJldHVybiBPYmplY3RzLmlzTnVsbChjb21pbmdEdWVEYXRlKSA/IGRlZmF1bHRNZXNzYWdlCiAgICAgICAgICAgICAgICAvLyA6IFN0cmluZy5mb3JtYXQobWVzc2FnZUZvcm1hdCxjYWxjdWxhdGlvbkRpZmZEYXlzKGNvbWluZ0R1ZURhdGUudG9Mb2NhbERhdGUoKSkpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQ29tbW9uQWxsQ29sb3JUeXBlLkRFRkFVTFQsCiAgICAgICAgICAgIENvbW1vbkljb25UeXBlLkxJR0hUQlVMQiwK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgImhyX2F0dF9tYXlfYmVfbmVjZXNzYXJ5IiwKICAgICAgICAgICAgICAgICAgICAibXNnLmhyX2F0dF9tYXlfYmVfbmVjZXNzYXJ5IiwK</text>
       </register>
-      <register name="4" type="4">
+      <register name="v" type="4">
+        <text>lllllhhhhhvllll</text>
+      </register>
+      <register name="7" type="4">
         <text>else if () {
             result.add(createNonAttendanceRecordSimple(row.getEarlyLeaveReason(), row.getWorkDate(),
                     row.getWorkEndTime(),
@@ -2068,10 +2086,10 @@
                     NonAttendanceGroupType.EARLY_LEAVE));
         }</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IGVsc2UgaWYgKE9iamVjdHMubm9uTnVsbChyb3cuZ2V0TGF0ZUFycml2YWxUaW1lTWludXRlcygpKSAmJiByb3cuZ2V0TGF0ZUFycml2YWxUaW1lTWludXRlcygpID4gMCkgewogICAgICAgICAgICByZXN1bHQuYWRkKGNyZWF0ZU5vbkF0dGVuZGFuY2VSZWNvcmRTaW1wbGUocm93LmdldExhdGVBcnJpdmFsUmVhc29uKCksIHJvdy5nZXRXb3JrRGF0ZSgpLAogICAgICAgICAgICAgICAgICAgIHJvdy5nZXRQcmVkZXRlcm1pbmVkU3RhcnRUaW1lKCksCiAgICAgICAgICAgICAgICAgICAgcm93LmdldFdvcmtTdGFydFRpbWUoKSwKICAgICAgICAgICAgICAgICAgICBOb25BdHRlbmRhbmNlR3JvdXBUeXBlLkxBVEVfQVJSSVZBTCkpOwogICAgICAgIH0=</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>else if () {
             result.add(createNonAttendanceRecordSimple(entity.getEarlyLeaveReason(),
                     AttendanceTimeCalculationUtils.generateAttendanceTime(workDate, entity.getWorkTimeRange()
@@ -2079,24 +2097,6 @@
                     predeterminedEndTime,
                     NonAttendanceGroupType.EARLY_LEAVE));
         }</text>
-      </register>
-      <register name="v" type="4">
-        <text>lllllhhhhhvllll</text>
-      </register>
-      <register name="7" type="4">
-        <text>else if () {
-            result.add(createNonAttendanceRecordSimple(entity.getLateArrivalReason(),
-                    predeterminedStartTime,
-                    AttendanceTimeCalculationUtils.generateAttendanceTime(workDate, entity.getWorkTimeRange()
-                            .getStartTime()),
-                    NonAttendanceGroupType.LATE_ARRIVAL));
-        }</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">IGVsc2UgaWYgKCkgewogICAgICAgICAgICByZXN1bHQuYWRkKGNyZWF0ZU5vbkF0dGVuZGFuY2VSZWNvcmRTaW1wbGUoZW50aXR5LmdldExhdGVBcnJpdmFsUmVhc29uKCksCiAgICAgICAgICAgICAgICAgICAgcHJlZGV0ZXJtaW5lZFN0YXJ0VGltZSwKICAgICAgICAgICAgICAgICAgICBBdHRlbmRhbmNlVGltZUNhbGN1bGF0aW9uVXRpbHMuZ2VuZXJhdGVBdHRlbmRhbmNlVGltZSh3b3JrRGF0ZSwgZW50aXR5LmdldFdvcmtUaW1lUmFuZ2UoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLmdldFN0YXJ0VGltZSgpKSwKICAgICAgICAgICA=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFBlcnNvbmFsRGFpbHlSZWNvcmREdG8+IGR0b3MgPSBidWlsZER0b3Mocm93cywgbW9kZWwuZ2V0RW1wbG95ZWVJZCgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
