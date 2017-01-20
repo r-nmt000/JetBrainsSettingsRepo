@@ -45,7 +45,7 @@
         <mark key="." line="7" column="16" />
         <mark key="^" line="7" column="16" />
       </file>
-      <file name="/a.dummy" timestamp="1484900271485">
+      <file name="/a.dummy" timestamp="1484901277197">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/DemoLegacy/WorkSpace/HUE/company-concept-design/company-hue-front/src/main/webapp/WEB-INF/templates/onboarding/training/training-list-recent-course.xml" timestamp="1475156363503">
@@ -96,6 +96,7 @@
         <mark key="^" line="28" column="2" />
         <mark key="." line="28" column="2" />
       </file>
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/type/textId/AttendancePortalTextIds.java" timestamp="1484902108859" />
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-dto/src/main/java/com/worksap/company/hue/hr/type/attendance/portal/PortalGraphYearlyOvertimeAccumulationVo.java" timestamp="1480932575540">
         <mark key="[" line="147" column="86" />
         <mark key="]" line="147" column="86" />
@@ -1611,6 +1612,12 @@
         <mark key="^" line="135" column="63" />
         <mark key="." line="135" column="63" />
       </file>
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/vo/portal/builder/HrAttendancePortalInboxResultBuilderImpl.java" timestamp="1484903734637">
+        <mark key="[" line="241" column="74" />
+        <mark key="]" line="241" column="74" />
+        <mark key="." line="241" column="74" />
+        <mark key="^" line="241" column="74" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/cs-api-1/src/main/webapp/js/order/controller.js" timestamp="1470390897635">
         <mark key="[" line="20" column="32" />
         <mark key="]" line="20" column="37" />
@@ -1622,6 +1629,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="^" line="7" column="5" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/type/portal/PortalInboxGroup.java" timestamp="1484903368825">
+        <mark key="[" line="44" column="4" />
+        <mark key="]" line="44" column="20" />
+        <mark key="." line="46" column="57" />
+        <mark key="^" line="46" column="57" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/service/impl/HitCalculator.java" timestamp="1470296227578">
         <mark key="[" line="30" column="0" />
@@ -2022,15 +2035,27 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>equals</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">T2JqZWN0cy5ub25OdWxsKHJvdy5nZXRMYXRlQXJyaXZhbFRpbWVNaW51dGVzKCkpICYmIHJvdy5nZXRMYXRlQXJyaXZhbFRpbWVNaW51dGVzKCkgPiAw</text>
+        <text>DUE_DATE_IS_TODAY</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFpvbmVkRGF0ZVRpbWUgY29taW5nRHVlRGF0ZSA9IHZvLmdldENvbnRlbnRzKCkuZ2V0U3VibWl0RHVlRGF0ZXRpbWUoKTsKICAgICAgICAgICAgICAgIC8vIHJldHVybiBPYmplY3RzLmlzTnVsbChjb21pbmdEdWVEYXRlKSA/IGRlZmF1bHRNZXNzYWdlCiAgICAgICAgICAgICAgICAvLyA6IFN0cmluZy5mb3JtYXQobWVzc2FnZUZvcm1hdCxjYWxjdWxhdGlvbkRpZmZEYXlzKGNvbWluZ0R1ZURhdGUudG9Mb2NhbERhdGUoKSkpOwo=</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQ29tbW9uQWxsQ29sb3JUeXBlLkRFRkFVTFQsCiAgICAgICAgICAgIENvbW1vbkljb25UeXBlLkxJR0hUQlVMQiwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgImhyX2F0dF9tYXlfYmVfbmVjZXNzYXJ5IiwKICAgICAgICAgICAgICAgICAgICAibXNnLmhyX2F0dF9tYXlfYmVfbmVjZXNzYXJ5IiwK</text>
+      </register>
+      <register name="4" type="4">
         <text>else if () {
             result.add(createNonAttendanceRecordSimple(row.getEarlyLeaveReason(), row.getWorkDate(),
                     row.getWorkEndTime(),
@@ -2038,13 +2063,10 @@
                     NonAttendanceGroupType.EARLY_LEAVE));
         }</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IGVsc2UgaWYgKE9iamVjdHMubm9uTnVsbChyb3cuZ2V0TGF0ZUFycml2YWxUaW1lTWludXRlcygpKSAmJiByb3cuZ2V0TGF0ZUFycml2YWxUaW1lTWludXRlcygpID4gMCkgewogICAgICAgICAgICByZXN1bHQuYWRkKGNyZWF0ZU5vbkF0dGVuZGFuY2VSZWNvcmRTaW1wbGUocm93LmdldExhdGVBcnJpdmFsUmVhc29uKCksIHJvdy5nZXRXb3JrRGF0ZSgpLAogICAgICAgICAgICAgICAgICAgIHJvdy5nZXRQcmVkZXRlcm1pbmVkU3RhcnRUaW1lKCksCiAgICAgICAgICAgICAgICAgICAgcm93LmdldFdvcmtTdGFydFRpbWUoKSwKICAgICAgICAgICAgICAgICAgICBOb25BdHRlbmRhbmNlR3JvdXBUeXBlLkxBVEVfQVJSSVZBTCkpOwogICAgICAgIH0=</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>else if () {
             result.add(createNonAttendanceRecordSimple(entity.getEarlyLeaveReason(),
                     AttendanceTimeCalculationUtils.generateAttendanceTime(workDate, entity.getWorkTimeRange()
@@ -2053,7 +2075,10 @@
                     NonAttendanceGroupType.EARLY_LEAVE));
         }</text>
       </register>
-      <register name="4" type="4">
+      <register name="v" type="4">
+        <text>lllllhhhhhvllll</text>
+      </register>
+      <register name="7" type="4">
         <text>else if () {
             result.add(createNonAttendanceRecordSimple(entity.getLateArrivalReason(),
                     predeterminedStartTime,
@@ -2062,23 +2087,11 @@
                     NonAttendanceGroupType.LATE_ARRIVAL));
         }</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IGVsc2UgaWYgKCkgewogICAgICAgICAgICByZXN1bHQuYWRkKGNyZWF0ZU5vbkF0dGVuZGFuY2VSZWNvcmRTaW1wbGUoZW50aXR5LmdldExhdGVBcnJpdmFsUmVhc29uKCksCiAgICAgICAgICAgICAgICAgICAgcHJlZGV0ZXJtaW5lZFN0YXJ0VGltZSwKICAgICAgICAgICAgICAgICAgICBBdHRlbmRhbmNlVGltZUNhbGN1bGF0aW9uVXRpbHMuZ2VuZXJhdGVBdHRlbmRhbmNlVGltZSh3b3JrRGF0ZSwgZW50aXR5LmdldFdvcmtUaW1lUmFuZ2UoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLmdldFN0YXJ0VGltZSgpKSwKICAgICAgICAgICA=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFBlcnNvbmFsRGFpbHlSZWNvcmREdG8+IGR0b3MgPSBidWlsZER0b3Mocm93cywgbW9kZWwuZ2V0RW1wbG95ZWVJZCgpKTsK</text>
-      </register>
-      <register name="v" type="4">
-        <text>lllllhhhhhvllll</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFBlcnNvbmFsRGFpbHlSZWNvcmREdG8+IGR0b3MgPSBidWlsZER0b3Mocm93cywgbW9kZWwuZ2V0RW1wbG95ZWVJZCgpKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFZhbGlkYXRpb25WaW9sYXRpb24+IHRlc3QgPSB2aW9sYXRpb25zLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAuZmlsdGVyKHZpb2xhdGlvbiAtPiB2aW9sYXRpb24uZ2V0VHlwZSgpID09IFZhbGlkYXRpb25WaW9sYXRpb25UeXBlLkVSUk9SKQogICAgICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFBlcnNvbmFsRGFpbHlSZWNvcmREdG8+IGR0b3MgPSBidWlsZER0b3Mocm93cywgbW9kZWwuZ2V0RW1wbG95ZWVJZCgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
