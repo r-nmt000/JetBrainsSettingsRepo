@@ -329,11 +329,11 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="19" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/dto/builder/PersonalDailyRecordDtoBuilderImpl.java" timestamp="1485151721150">
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="141" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/dto/builder/PersonalDailyRecordDtoBuilderImpl.java" timestamp="1485158850368">
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="184" column="0" />
         <mark key="^" line="147" column="123" />
-        <mark key="." line="147" column="0" />
+        <mark key="." line="184" column="0" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/FactoryMethod/HTMLWriter.java" timestamp="1445064459438">
         <mark key="[" line="7" column="17" />
@@ -1379,11 +1379,7 @@
         <mark key="^" line="23" column="15" />
         <mark key="." line="23" column="15" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/attendancemaster/noattendace/NonAttendanceCalculateServiceImpl.java" timestamp="1485151728623">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
-      </file>
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/attendancemaster/noattendace/NonAttendanceCalculateServiceImpl.java" timestamp="1485158363975" />
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/type/textId/ReportAbbreviationTextIds.java" timestamp="1480655363978">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="15" column="6" />
@@ -2091,46 +2087,46 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>getDayOfYear</text>
+        <text>AUTO_CALCULATE_FROM_START_TIME</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29tbW9uQWxsQ29sb3JUeXBlLldBUk5JTkcsCg==</text>
+      <register name="0" type="4">
+        <text>LateArrivalSettingType.AUTO_CALCULATE_FROM_START_TIME.getValue()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29tbW9uQWxsQ29sb3JUeXBlLkRBTkdFUiwK</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29tbW9uSWNvblR5cGUuU0VORF9CQUNLLAo=</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCiAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzTm9uZUVtcHR5KGVudGl0eS5nZXRMYXRlQXJyaXZhbFJlYXNvbigpKSkgewo9PT09PT09Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdG9kYXkuaXNFcXVhbChkdWVEYXRlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogcmVwbGFjZSBoYXJkIGNvZGluZyBudW1iZXIgd2l0aCBjb20ud29ya3NhcC5jb21wYW55Lmh1ZS5oci50eXBlLmF0dGNvcmUuTGF0ZUFycml2YWxTZXR0aW5nVHlwZSBhbmQgRWFybHlMZWF2ZVNldHRpbmdUeXBlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogcmVwbGFjZSA0IHdpdGggY29tLndvcmtzYXAuY29tcGFueS5odWUuaHIudHlwZS5hdHRjb3JlLkxhdGVBcnJpdmFsU2V0dGluZ1R5cGUgYW5kIEVhcmx5TGVhdmVTZXR0aW5nVHlwZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29tbW9uQWxsQ29sb3JUeXBlLkRBTkdFUiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogcmVwbGFjZSA0IHdpdGggY29tLndvcmtzYXAuY29tcGFueS5odWUuaHIudHlwZS5hdHRjb3JlLkxhdGVBcnJpdmFsU2V0dGluZ1R5cGUgYW5kIEVhcmx5TGVhdmVTZXR0aW5nVHlwZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29tbW9uSWNvblR5cGUuU0VORF9CQUNLLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiByZXBsYWNlIDQgd2l0aCBjb20ud29ya3NhcC5jb21wYW55Lmh1ZS5oci50eXBlLmF0dGNvcmUuTGF0ZUFycml2YWxTZXR0aW5nVHlwZSBhbmQgRWFybHlMZWF2ZVNldHRpbmdUeXBlCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdG9kYXkuaXNFcXVhbChkdWVEYXRlKTsK</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb20ud29ya3NhcC5jb21wYW55Lmh1ZS5oci50eXBlLmF0dGNvcmUuTGF0ZUFycml2YWxTZXR0aW5nVHlwZSBhbmQgRWFybHlMZWF2ZVNldHRpbmdUeXBlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogcmVwbGFjZSA0IHdpdGggY29tLndvcmtzYXAuY29tcGFueS5odWUuaHIudHlwZS5hdHRjb3JlLkxhdGVBcnJpdmFsU2V0dGluZ1R5cGUgYW5kIEVhcmx5TGVhdmVTZXR0aW5nVHlwZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IHJlcGxhY2UgNCB3aXRoIGNvbS53b3Jrc2FwLmNvbXBhbnkuaHVlLmhyLnR5cGUuYXR0Y29yZS5MYXRlQXJyaXZhbFNldHRpbmdUeXBlIGFuZCBFYXJseUxlYXZlU2V0dGluZ1R5cGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogcmVwbGFjZSA0IHdpdGggY29tLndvcmtzYXAuY29tcGFueS5odWUuaHIudHlwZS5hdHRjb3JlLkxhdGVBcnJpdmFsU2V0dGluZ1R5cGUgYW5kIEVhcmx5TGVhdmVTZXR0aW5nVHlwZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IHJlcGxhY2UgNCB3aXRoIGNvbS53b3Jrc2FwLmNvbXBhbnkuaHVlLmhyLnR5cGUuYXR0Y29yZS5MYXRlQXJyaXZhbFNldHRpbmdUeXBlIGFuZCBFYXJseUxlYXZlU2V0dGluZ1R5cGUK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiByZXBsYWNlIDQgd2l0aCBjb20ud29ya3NhcC5jb21wYW55Lmh1ZS5oci50eXBlLmF0dGNvcmUuTGF0ZUFycml2YWxTZXR0aW5nVHlwZSBhbmQgRWFybHlMZWF2ZVNldHRpbmdUeXBlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
