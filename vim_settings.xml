@@ -6,7 +6,6 @@
       <file name="/a.dummy" timestamp="1486090999298">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-front/src/main/webapp/WEB-INF/templates/hr/attendance/vacationreport/fragment/finish.xml" timestamp="1486023441727" />
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/test/java/com/worksap/company/hue/hr/biz/attendance/service/portal/graph/PortalGraphBatchServiceImplTest.java" timestamp="1485925528744">
         <mark key="[" line="203" column="82" />
         <mark key="]" line="203" column="83" />
@@ -19,15 +18,18 @@
         <mark key="." line="12" column="8" />
         <mark key="^" line="12" column="8" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/test/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyLateArrivalEarlyLeaveValidatorImplTest.java" timestamp="1485951600630" />
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyLateArrivalEarlyLeaveValidatorImpl.java" timestamp="1485944036582">
         <mark key="[" line="53" column="115" />
         <mark key="]" line="54" column="66" />
         <mark key="." line="54" column="66" />
         <mark key="^" line="54" column="66" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-front/src/main/webapp/WEB-INF/templates/hr/attendance/dailyattendance/template/general-item-area/general-items.xml" timestamp="1486031614358" />
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/data/MonthlyAttendanceTextIds.java" timestamp="1486091049271" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/data/MonthlyAttendanceTextIds.java" timestamp="1486106969867">
+        <mark key="[" line="20" column="59" />
+        <mark key="]" line="20" column="69" />
+        <mark key="." line="20" column="69" />
+        <mark key="^" line="20" column="69" />
+      </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/daily/DailyGIValidatorImpl.java" timestamp="1486030446306">
         <mark key="[" line="40" column="46" />
         <mark key="]" line="40" column="46" />
@@ -157,7 +159,7 @@
         <text>w</text>
       </register>
       <register name="0" type="4">
-        <text>ALLICATION_AUTO_GENERATED</text>
+        <text>monthlyattendance_gird_column_date</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQk8d2FwLWJ1dHRvbiBpZD0iYmFjay10by1hdHRlbmRhbmNlLW1hbmFnZW1lbnQtYnRuIgoJCWxhYmVsPSJ0ZXh0LmhyX2F0dGVuZGFuY2VfZ29fdG9fYXR0ZW5kYW5jZV9tYW5hZ2VtZW50Ii8+Cg==</text>
