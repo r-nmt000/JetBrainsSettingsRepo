@@ -1221,11 +1221,11 @@
         <mark key="." line="75" column="31" />
         <mark key="^" line="75" column="36" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/test/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyGIValidatorImplTest.java" timestamp="1486388665834">
-        <mark key="[" line="244" column="86" />
-        <mark key="]" line="244" column="110" />
-        <mark key="^" line="244" column="110" />
-        <mark key="." line="244" column="110" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/test/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyGIValidatorImplTest.java" timestamp="1486435433004">
+        <mark key="[" line="194" column="53" />
+        <mark key="]" line="194" column="64" />
+        <mark key="^" line="194" column="64" />
+        <mark key="." line="194" column="64" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Iterator/Student.java" timestamp="1440851697961">
         <mark key="[" line="5" column="0" />
@@ -1424,12 +1424,12 @@
         <mark key="^" line="138" column="52" />
         <mark key="." line="59" column="64" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyGIValidatorImpl.java" timestamp="1486391054710">
-        <mark key="'" line="1077" column="8" />
-        <mark key="[" line="1107" column="0" />
-        <mark key="]" line="1111" column="4" />
-        <mark key="^" line="201" column="41" />
-        <mark key="." line="201" column="41" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyGIValidatorImpl.java" timestamp="1486435591053">
+        <mark key="'" line="776" column="12" />
+        <mark key="[" line="688" column="0" />
+        <mark key="]" line="688" column="64" />
+        <mark key="^" line="849" column="21" />
+        <mark key="." line="849" column="21" />
       </file>
       <file name="C:/DemoLegacy/WorkSpace/HUE/company-concept-design/company-hue-front/src/main/webapp/WEB-INF/templates/onboarding/preparation/preparation.xml" timestamp="1475225380744">
         <mark key="[" line="768" column="92" />
@@ -2001,7 +2001,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1242" column="5" filename="$MAVEN_REPOSITORY$/org/mockito/mockito-core/1.10.8/mockito-core-1.10.8-sources.jar!/org/mockito/Mockito.java" />
       <jump line="35" column="13" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/vo/portal/builder/graph/HrAttendancePortalOvertimeGraphVoBuilderImpl.java" />
       <jump line="26" column="17" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/test/java/com/worksap/company/hue/hr/biz/attendance/dao/portal/PortalGraphDaoImplTest.java" />
       <jump line="47" column="21" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/InjectIntoMonthlyAttendanceEntityServiceImpl.java" />
@@ -2101,6 +2100,7 @@
       <jump line="100" column="39" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/daily/DailyGIValidatorImpl.java" />
       <jump line="1077" column="8" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyGIValidatorImpl.java" />
       <jump line="640" column="4" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyNonAttendanceTimeValidatorImpl.java" />
+      <jump line="776" column="12" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyGIValidatorImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2131,13 +2131,13 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>new</text>
+        <text>textResourceManager</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBNb250aGx5R0lWYWxpZGF0b3JJbXBsIHRhcmdldCA9IGNyZWF0ZVRhZ2V0KCk7CgogICAgICAgIEdlbmVyYWxJdGVtIGdlbmVyYWxJdGVtID0gY3JlYXRlR2VuZXJhbEl0ZW0oR2VuZXJhbEl0ZW1UeXBlLk5VTUJFUik7CiAgICAgICAgZ2VuZXJhbEl0ZW0uc2V0TWF4VmFsKDIpOwogICAgICAgIExpc3Q8VmFsaWRhdGlvblZpb2xhdGlvbj4gYWN0dWFsID0gdGFyZ2V0LnZhbGlkYXRlTnVtYmVyT2ZEaWdpdHMoSW50ZWdlci52YWx1ZU9mKDEyMyksIGdlbmVyYWxJdGVtLCAiZHVtbXkiLAogICAgICAgICAgICAgICAgVGV4dElkLm9mKCJkdW1teSIpLCB0cnVlLCAwLCAwLCBmYWxzZSwgbnVsbCwgREFURSk7CiAgICAgICAgYXNzZXJ0VGhhdChhY3R1YWwuZ2V0KDApLmdldFR5cGUoKSwgaXMoVmFsaWRhdGlvblZpb2xhdGlvblR5cGUuRVJST1IpKTsKICAgICAgICBhc3NlcnRUaGF0KGFjdHVhbC5nZXQoMSkuZ2V0VHlwZSgpLCBpcyhWYWxpZGF0aW9uVmlvbGF0aW9uVHlwZS5FUlJPUikpOwoKICAgICAgICBnZW5lcmFsSXRlbS5zZXRNYXhWYWwoMyk7CiAgICAgICAgTGlzdDxWYWxpZGF0aW9uVmlvbGF0aW9uPiBhY3R1YWxfMiA9IHRhcmdldC52YWxpZGF0ZU51bWJlck9mRGlnaXRzKEludGVnZXIudmFsdWVPZigxMjMpLCBnZW5lcmFsSXRlbSwgImR1bW15IiwKICAgICAgICAgICAgICAgIFRleHRJZC5vZigiZHVtbXkiKSwgdHJ1ZSwgMCwgMCwgZmFsc2UsIG51bGwsIERBVEUpOwogICAgICAgIGFzc2VydFRoYXQoYWN0dWFsXzIuZ2V0KDApLmdldFR5cGUoKSwgaXMoVmFsaWRhdGlvblZpb2xhdGlvblR5cGUuU1VDQ0VTUykpOwogICAgICAgIGFzc2VydFRoYXQoYWN0dWFsXzIuZ2V0KDEpLmdldFR5cGUoKSwgaXMoVmFsaWRhdGlvblZpb2xhdGlvblR5cGUuU1VDQ0VTUykpOwoKICAgICAgICBnZW5lcmFsSXRlbS5zZXRNYXhWYWwoMik7CiAgICAgICAgTGlzdDxWYWxpZGF0aW9uVmlvbGF0aW9uPiBhY3R1YWxfMyA9IHRhcmdldC52YWxpZGF0ZU51bWJlck9mRGlnaXRzKERvdWJsZS52YWx1ZU9mKDEyMyksIGdlbmVyYWxJdGVtLCAiZHVtbXkiLAogICAgICAgICAgICAgICAgVGV4dElkLm9mKCJkdW1teSIpLCB0cnVlLCAwLCAxLCBmYWxzZSwgbnVsbCwgREFURSk7CiAgICAgICAgYXNzZXJ0VGhhdChhY3R1YWxfMy5nZXQoMCkuZ2V0VHlwZSgpLCBpcyhWYWxpZGF0aW9uVmlvbGF0aW9uVHlwZS5TVUNDRVNTKSk7CiAgICAgICAgYXNzZXJ0VGhhdChhY3R1YWxfMy5nZXQoMSkuZ2V0VHlwZSgpLCBpcyhWYWxpZGF0aW9uVmlvbGF0aW9uVHlwZS5FUlJPUikpOwoKICAgICAgICBnZW5lcmFsSXRlbS5zZXRNYXhWYWwoMik7CiAgICAgICAgTGlzdDxWYWxpZGF0aW9uVmlvbGF0aW9uPiBhY3R1YWxfNCA9IHRhcmdldC52YWxpZGF0ZU51bWJlck9mRGlnaXRzKERvdWJsZS52YWx1ZU9mKDEyMy4xZiksIGdlbmVyYWxJdGVtLAogICAgICAgICAgICAgICAgImR1bW15IiwgVGV4dElkLm9mKCJkdW1teSIpLCBmYWxzZSwgMCwgMSwgZmFsc2UsIG51bGwsIERBVEUpOwogICAgICAgIGFzc2VydFRoYXQoYWN0dWFsXzQuc2l6ZSgpLCBpcygxKSk7CiAgICAgICAgYXNzZXJ0VGhhdChhY3R1YWxfNC5nZXQoMCkuZ2V0VHlwZSgpLCBpcyhWYWxpZGF0aW9uVmlvbGF0aW9uVHlwZS5FUlJPUikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgaXRlbVRleHRJZCA9IGdldEdJVGV4dElkKGxheW91dEl0ZW0pOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
