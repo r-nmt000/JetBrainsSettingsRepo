@@ -952,6 +952,12 @@
         <mark key="." line="85" column="30" />
         <mark key="^" line="85" column="30" />
       </file>
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/approval/DailyAttendanceApprovalTrayServiceImpl.java" timestamp="1486530919080">
+        <mark key="[" line="94" column="101" />
+        <mark key="]" line="94" column="108" />
+        <mark key="^" line="94" column="108" />
+        <mark key="." line="94" column="108" />
+      </file>
       <file name="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-front/src/main/webapp/WEB-INF/templates/onboarding/training/training-detail1/tabs/second-tabs/hue-answers/question-en.xml" timestamp="1474597673273">
         <mark key="[" line="28" column="16" />
         <mark key="]" line="28" column="23" />
@@ -1325,6 +1331,10 @@
         <mark key="]" line="69" column="36" />
         <mark key="^" line="69" column="36" />
         <mark key="." line="69" column="36" />
+      </file>
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-front/src/main/java/com/worksap/company/hue/controller/hr/attendance/DailyAttendanceController.java" timestamp="1486531055997">
+        <mark key="[" line="908" column="0" />
+        <mark key="]" line="912" column="4" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/portal/DailyReportFilterService.java" timestamp="1486474811745">
         <mark key="[" line="10" column="82" />
@@ -2135,8 +2145,8 @@
       <register name="/" type="4">
         <text>w</text>
       </register>
-      <register name="0" type="4">
-        <text>LocalDateRange.of(dto.getStartDate(), dto.getEndDate()).includes(date)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgUGVyc29uYWxBdHRlbmRhbmNlTWFzdGVyIGJ1aWxkUGVyc29uYWxBdHRlbmRhbmNlTWFzdGVyKFVzZXJDb250ZXh0Vm8gY29udGV4dFZvKSB7CiAgICAgICAgVXNlcklkIHVzZXJJZCA9IFVzZXJJZC5vZihjb250ZXh0Vm8uZ2V0VXNlcigpLmdldElkKCkpOwogICAgICAgIEhySWRlbnRpZmVyQXBpVm8gaWRlbnRpZmllclZvID0gaHJJZFNka1NlcnZpY2UuZ2V0QnlVc2VySWQodXNlcklkKTsKICAgICAgICByZXR1cm4gcGVyc29uYWxBdHRlbmRhbmNlTWFzdGVyU2VydmljZS5nZXQoaWRlbnRpZmllclZvKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBBdHRlbmRhbmNlRW1wbG95ZWVNYXN0ZXJEdG8gYXR0RW1wTWFzdGVyID0gZHRvcy5zdHJlYW0oKQogICAgICAgICAgICAgICAgLmZpbHRlcihkdG8gLT4gTG9jYWxEYXRlUmFuZ2Uub2YoZHRvLmdldFN0YXJ0RGF0ZSgpLCBkdG8uZ2V0RW5kRGF0ZSgpKS5pbmNsdWRlcyhkYXRlKSkKICAgICAgICAgICAgICAgIC5maW5kQW55KCkKICAgICAgICAgICAgICAgIC5vckVsc2UobnVsbCk7CiAgICAgICAgaWYgKE9iamVjdHMuaXNOdWxsKGF0dEVtcE1hc3RlcikpIHsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0K</text>
