@@ -920,6 +920,12 @@
         <mark key="." line="53" column="50" />
         <mark key="^" line="53" column="50" />
       </file>
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-front/src/main/webapp/js/hr/attendance/termattendance/monthlyattendance-input.js" timestamp="1486961480631">
+        <mark key="[" line="315" column="25" />
+        <mark key="]" line="315" column="22" />
+        <mark key="." line="315" column="22" />
+        <mark key="^" line="315" column="22" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/ss-api-1/src/main/java/com/worksap/bootcamp/ss/api/lv1/controller/api/BookController.java" timestamp="1470295598827">
         <mark key="[" line="55" column="56" />
         <mark key="]" line="56" column="52" />
@@ -2200,43 +2206,41 @@
       <register name="/" type="4">
         <text>w</text>
       </register>
-      <register name="0" type="4">
-        <text>loadValidationItemForFirstDraw</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICogQHBhcmFtIHtzdHJpbmd9IGdyaWRJZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICogQHBhcmFtIHtnb29nLmV2ZW50LkV2ZW50fSBwYXRoCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCj09PT09PT0K</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCj09PT09PT0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCj09PT09PT0K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCj09PT09PT0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCj09PT09PT0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIEBwcml2YXRlCiAqLwp3YXAuaHIuYXR0ZW5kYW5jZS5Nb250aGx5QXR0ZW5kYW5jZUlucHV0LnByb3RvdHlwZS5sb2FkVmFsaWRhdGlvbkl0ZW1zXyA9IGZ1bmN0aW9uKCkgewogIHZhciB1cmwgPSBuZXcgZ29vZy5VcmkodGhpcy5jb250cm9sbGVyUGF0aF8gKyAnbG9hZFZhbGlkYXRpb25JdGVtRm9yRGV0YWlsUG9wdXAnKTsKICB2YXIgYWN0aXZlR3JpZCA9IHRoaXMuZ2V0QWN0aXZlR3JpZF8oKTsKICBpZiAoYWN0aXZlR3JpZCkgewogICAgdmFyIHJvd0luZGV4cyA9IFtdOwogICAgZ29vZy5hcnJheS5pbnNlcnQocm93SW5kZXhzLCBhY3RpdmVHcmlkLmdldEFjdGl2ZVJvd0luZGV4KCkpOwogICAgdGhpcy5oaWRkZW5TZWxlY3RJbmRleENvbXBfLnNldFZhbHVlKHRoaXMuYnVpbGRTZWxlY3RJbmRleFN0cmluZ18oYWN0aXZlR3JpZC5nZXRFbGVtZW50KCkuaWQsIHJvd0luZGV4cyksIHRydWUpOwogIH0KICB2YXIgbW9kZWwgPSB0aGlzLmlucHV0Rm9ybU1vZGVsSGVscGVyXy5nZXRKc29uTW9kZWwoKTsKICB2YXIgcHJvbWlzZSA9IHRoaXMuYWpheF8ucG9zdCh1cmwudG9TdHJpbmcoKSwgbnVsbCwgbW9kZWwpLmdldFJlc3VsdCgpOwogIHByb21pc2UudGhlbihmdW5jdGlvbihyZXNwb25zZSkgewogICAgdmFyIHJlc3BvbnNlSXRlbXMgPSByZXNwb25zZS5nZXRSZXNwb25zZUpzb24oKVsnaXRlbSddOwogICAgaWYgKHJlc3BvbnNlSXRlbXMpIHsKICAgICAgdGhpcy5pbnB1dEZvcm1Nb2RlbEhlbHBlcl8ucmVmbGVjdFJlc3VsdHMocmVzcG9uc2VJdGVtcyk7CiAgICB9CiAgfSwgbnVsbCwgdGhpcykKICAgICAgLnRoZW5DYXRjaChmdW5jdGlvbihlcnJvcikgewogICAgICAgIGNvbnNvbGUuZXJyb3IoZXJyb3IpOwogICAgICB9LCB0aGlzKTsKfTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>con.getValidationViolationList(),
-                contextVo.getServiceId(),
-                contextVo.getLocale()</text>
+      <register name="9" type="2">
+        <text encoding="base64">LyoqCiAqIEBwcml2YXRlCiAqLwp3YXAuaHIuYXR0ZW5kYW5jZS5Nb250aGx5QXR0ZW5kYW5jZUlucHV0LnByb3RvdHlwZS5sb2FkVmFsaWRhdGlvbkl0ZW1zXyA9IGZ1bmN0aW9uKCkgewogIHZhciB1cmwgPSBuZXcgZ29vZy5VcmkodGhpcy5jb250cm9sbGVyUGF0aF8gKyAnbG9hZFZhbGlkYXRpb25JdGVtRm9yRGV0YWlsUG9wdXAnKTsKICB2YXIgYWN0aXZlR3JpZCA9IHRoaXMuZ2V0QWN0aXZlR3JpZF8oKTsKICBpZiAoYWN0aXZlR3JpZCkgewogICAgdmFyIHJvd0luZGV4cyA9IFtdOwogICAgZ29vZy5hcnJheS5pbnNlcnQocm93SW5kZXhzLCBhY3RpdmVHcmlkLmdldEFjdGl2ZVJvd0luZGV4KCkpOwogICAgdGhpcy5oaWRkZW5TZWxlY3RJbmRleENvbXBfLnNldFZhbHVlKHRoaXMuYnVpbGRTZWxlY3RJbmRleFN0cmluZ18oYWN0aXZlR3JpZC5nZXRFbGVtZW50KCkuaWQsIHJvd0luZGV4cyksIHRydWUpOwogIH0KICB2YXIgbW9kZWwgPSB0aGlzLmlucHV0Rm9ybU1vZGVsSGVscGVyXy5nZXRKc29uTW9kZWwoKTsKICB2YXIgcHJvbWlzZSA9IHRoaXMuYWpheF8ucG9zdCh1cmwudG9TdHJpbmcoKSwgbnVsbCwgbW9kZWwpLmdldFJlc3VsdCgpOwogIHByb21pc2UudGhlbihmdW5jdGlvbihyZXNwb25zZSkgewogICAgdmFyIHJlc3BvbnNlSXRlbXMgPSByZXNwb25zZS5nZXRSZXNwb25zZUpzb24oKVsnaXRlbSddOwogICAgaWYgKHJlc3BvbnNlSXRlbXMpIHsKICAgICAgdGhpcy5pbnB1dEZvcm1Nb2RlbEhlbHBlcl8ucmVmbGVjdFJlc3VsdHMocmVzcG9uc2VJdGVtcyk7CiAgICB9CiAgfSwgbnVsbCwgdGhpcykKICAgICAgLnRoZW5DYXRjaChmdW5jdGlvbihlcnJvcikgewogICAgICAgIGNvbnNvbGUuZXJyb3IoZXJyb3IpOwogICAgICB9LCB0aGlzKTsKfTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
