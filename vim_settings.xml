@@ -405,11 +405,11 @@
         <mark key="." line="53" column="13" />
         <mark key="^" line="53" column="13" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/test/java/com/worksap/company/hue/hr/biz/attendance/dto/builder/PersonalDailyRecordDtoBuilderImplTest.java" timestamp="1487301403064">
-        <mark key="[" line="266" column="0" />
-        <mark key="]" line="266" column="0" />
-        <mark key="^" line="209" column="111" />
-        <mark key="." line="266" column="0" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/test/java/com/worksap/company/hue/hr/biz/attendance/dto/builder/PersonalDailyRecordDtoBuilderImplTest.java" timestamp="1487302513769">
+        <mark key="[" line="233" column="0" />
+        <mark key="]" line="233" column="85" />
+        <mark key="^" line="245" column="65" />
+        <mark key="." line="233" column="0" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/attendancemaster/PersonalAttendanceMaster.java" timestamp="1486531932392">
         <mark key="[" line="82" column="0" />
@@ -2211,10 +2211,10 @@
         <text>w</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGRhaWx5TWFzdGVyLmdldFdvcmtBdHRyaWJ1dGUoKS5nZXRGbGV4Q29yZVRpbWVSYW5nZSgpKS50aGVuUmV0dXJuKGNvcmVUaW1lUmFuZ2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKGNvbnRleHQuZ2V0UGVyc29uYWxEYWlseU1hc3RlckR0byhhbnlPYmplY3QoKSkpLnRoZW5SZXR1cm4oZGFpbHlNYXN0ZXIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKHJvdykK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -2226,22 +2226,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGNvbnRleHQuZ2V0V29ya0F0dHJpYnV0ZSgpLmdldFdvcmtpbmdUaW1lUmFuZ2UoKSkudGhlblJldHVybih3b3JrVGltZVJhbmdlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBEYWlseUF0dGVuZGFuY2VFbnRpdHkgZW50aXR5ID0gbW9jayhEYWlseUF0dGVuZGFuY2VFbnRpdHkuY2xhc3MsIFJFVFVSTlNfREVFUF9TVFVCUyk7CiAgICAgICAgd2hlbihlbnRpdHkuZ2V0V29ya1RpbWVSYW5nZSgpLmdldFN0YXJ0VGltZSgpKS50aGVuUmV0dXJuKExvY2FsRGF0ZVRpbWUub2YoMjAxNiwgMSwgMSwgMTMsIDEsIDApKTsKICAgICAgICB3aGVuKGVudGl0eS5nZXRXb3JrVGltZVJhbmdlKCkuZ2V0RW5kVGltZSgpKS50aGVuUmV0dXJuKExvY2FsRGF0ZVRpbWUub2YoMjAxNiwgMSwgMSwgMTUsIDU5LCAwKSk7CiAgICAgICAgd2hlbihlbnRpdHkuZ2V0TGF0ZUFycml2YWxSZWFzb24oKSkudGhlblJldHVybigiTGF0ZUFycml2YWwiKTsKICAgICAgICB3aGVuKGVudGl0eS5nZXRFYXJseUxlYXZlUmVhc29uKCkpLnRoZW5SZXR1cm4oIkVhcmx5TGVhdmUiKTsKICAgICAgICB3aGVuKGVudGl0eS5nZXRXb3JrRGF0ZSgpKS50aGVuUmV0dXJuKExvY2FsRGF0ZS5vZigyMDE2LCAxLCAxKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKGNvbnRleHQuZ2V0V29ya0F0dHJpYnV0ZSgpLmdldFdvcmtpbmdUaW1lUmFuZ2UoKSkudGhlblJldHVybih3b3JrVGltZVJhbmdlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBEYWlseUF0dGVuZGFuY2VFbnRpdHkgZW50aXR5ID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICBEYWlseUF0dGVuZGFuY2VFbnRpdHkgZW50aXR5ID0gbW9jayhEYWlseUF0dGVuZGFuY2VFbnRpdHkuY2xhc3MsIFJFVFVSTlNfREVFUF9TVFVCUyk7CiAgICAgICAgd2hlbihlbnRpdHkuZ2V0V29ya1RpbWVSYW5nZSgpLmdldFN0YXJ0VGltZSgpKS50aGVuUmV0dXJuKExvY2FsRGF0ZVRpbWUub2YoMjAxNiwgMSwgMSwgMTMsIDEsIDApKTsKICAgICAgICB3aGVuKGVudGl0eS5nZXRXb3JrVGltZVJhbmdlKCkuZ2V0RW5kVGltZSgpKS50aGVuUmV0dXJuKExvY2FsRGF0ZVRpbWUub2YoMjAxNiwgMSwgMSwgMTUsIDU5LCAwKSk7CiAgICAgICAgd2hlbihlbnRpdHkuZ2V0TGF0ZUFycml2YWxSZWFzb24oKSkudGhlblJldHVybigiTGF0ZUFycml2YWwiKTsKICAgICAgICB3aGVuKGVudGl0eS5nZXRFYXJseUxlYXZlUmVhc29uKCkpLnRoZW5SZXR1cm4oIkVhcmx5TGVhdmUiKTsKICAgICAgICB3aGVuKGVudGl0eS5nZXRXb3JrRGF0ZSgpKS50aGVuUmV0dXJuKExvY2FsRGF0ZS5vZigyMDE2LCAxLCAxKSk7Cg==</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBEYWlseUF0dGVuZGFuY2VFbnRpdHkgZW50aXR5ID0gbnVsbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
