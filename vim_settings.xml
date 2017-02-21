@@ -273,12 +273,12 @@
         <mark key="^" line="20" column="52" />
         <mark key="." line="20" column="52" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/daily/DailyLateArrivalEarlyLeaveValidatorImpl.java" timestamp="1487677422795">
-        <mark key="'" line="142" column="4" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-        <mark key="^" line="70" column="14" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/daily/DailyLateArrivalEarlyLeaveValidatorImpl.java" timestamp="1487683913927">
+        <mark key="'" line="148" column="4" />
+        <mark key="[" line="36" column="78" />
+        <mark key="]" line="36" column="112" />
+        <mark key="." line="36" column="112" />
+        <mark key="^" line="36" column="112" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/DetermineWorkDayServiceImpl.java" timestamp="1480400000090">
         <mark key="[" line="19" column="18" />
@@ -629,9 +629,9 @@
         <mark key="." line="19" column="23" />
         <mark key="^" line="19" column="23" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/daily/DailyTimeValidatorImpl.java" timestamp="1487677050297">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="33" column="77" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/daily/DailyTimeValidatorImpl.java" timestamp="1487683869295">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="92" />
         <mark key="." line="79" column="44" />
         <mark key="^" line="79" column="44" />
       </file>
@@ -2372,13 +2372,13 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>errorCd</text>
+        <text>TimeValidator</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBQZXJzb25hbERhaWx5TWFzdGVyRHRvIG1hc3RlckR0byA9IG1hc3Rlci5nZXRQZXJzb25hbERhaWx5TWFzdGVyRHRvKG1vZGVsLmdldFdvcmtEYXRlKCkpLm9yRWxzZShudWxsKTsK</text>
+      <register name="0" type="4">
+        <text>@Qualifier(&quot;com.worksap.company.hue.hr.biz.dailyattendance.service.validation.TimeValidator&quot;)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBWYWxpZGF0aW9uVmlvbGF0aW9uTGlzdCB2aW9sYXRpb25zID0gbmV3IFZhbGlkYXRpb25WaW9sYXRpb25MaXN0KCk7Cg==</text>
