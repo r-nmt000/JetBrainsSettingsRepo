@@ -15,9 +15,6 @@
         <mark key="." line="7" column="16" />
         <mark key="^" line="7" column="16" />
       </file>
-      <file name="/a.dummy" timestamp="1487933997522">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/DemoLegacy/WorkSpace/HUE/company-concept-design/company-hue-front/src/main/webapp/WEB-INF/templates/onboarding/training/training-list-recent-course.xml" timestamp="1475156363503">
         <mark key="[" line="289" column="80" />
         <mark key="]" line="289" column="83" />
@@ -1215,8 +1212,8 @@
         <mark key="." line="198" column="48" />
         <mark key="^" line="198" column="48" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/MonthlyAttendanceRowConvertServiceImpl.java" timestamp="1488173885791">
-        <mark key="'" line="37" column="13" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/MonthlyAttendanceRowConvertServiceImpl.java" timestamp="1488178557770">
+        <mark key="'" line="46" column="38" />
       </file>
       <file name="C:/DemoLegacy/WorkSpace/HUE/company-concept-design/company-hue-front/src/main/resources/components/similer-talent-widget.xml" timestamp="1474958014377">
         <mark key="[" line="296" column="14" />
@@ -1393,6 +1390,9 @@
         <mark key="." line="29" column="40" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/test/java/com/worksap/company/hue/hr/biz/attcore/attendancemaster/personal/PersonalMasterServiceTestConfig.java" timestamp="1488107311153" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-batch/src/main/java/com/worksap/company/hue/hr/batch/attendance/AbstractAttendanceBatch.java" timestamp="1488178411986">
+        <mark key="'" line="19" column="22" />
+      </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/main/Main.java" timestamp="1444562334928">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="3" />
@@ -1519,6 +1519,9 @@
         <mark key="]" line="11" column="102" />
         <mark key="." line="11" column="102" />
         <mark key="^" line="11" column="102" />
+      </file>
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/report/generator/MonthlyReportProcessorImpl.java" timestamp="1488178470634">
+        <mark key="'" line="43" column="13" />
       </file>
       <file name="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-front/src/main/webapp/WEB-INF/templates/onboarding/timeline-projects/pages/projects-clipping-en.xml" timestamp="1474422833805">
         <mark key="[" line="250" column="0" />
@@ -1953,6 +1956,9 @@
         <mark key="^" line="26" column="86" />
         <mark key="." line="26" column="86" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/worksap/company/edp2-api-normal-batch/16.11.00.0000.20161017.1418/edp2-api-normal-batch-16.11.00.0000.20161017.1418-sources.jar!/com/worksap/company/edp2/api/normal/batch/AbstractNormalBatchMain.java" timestamp="1488178687963">
+        <mark key="'" line="10" column="22" />
+      </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyIntegratedValidatorImpl.java" timestamp="1485952471822">
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="0" />
@@ -2304,10 +2310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="0" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyDetailAreaValidatorImpl.java" />
-      <jump line="136" column="0" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyOnChangeValidatorImpl.java" />
-      <jump line="229" column="39" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyTimeValidatorImpl.java" />
-      <jump line="156" column="16" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyGIValidatorImpl.java" />
       <jump line="149" column="49" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyNonAttendanceTimeValidatorImpl.java" />
       <jump line="244" column="71" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyNonAttendanceTimeValidatorImpl.java" />
       <jump line="185" column="30" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyNonAttendanceTimeValidatorImpl.java" />
@@ -2404,6 +2406,10 @@
       <jump line="372" column="22" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/approval/DailyAttendanceApprovalTrayServiceImpl.java" />
       <jump line="137" column="47" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/test/java/com/worksap/company/hue/hr/biz/attendance/service/approval/monthly/MonthlyApprovalTrayApplicationServiceImplTest.java" />
       <jump line="37" column="13" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/MonthlyAttendanceRowConvertServiceImpl.java" />
+      <jump line="19" column="22" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-batch/src/main/java/com/worksap/company/hue/hr/batch/attendance/AbstractAttendanceBatch.java" />
+      <jump line="43" column="13" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/report/generator/MonthlyReportProcessorImpl.java" />
+      <jump line="46" column="38" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/MonthlyAttendanceRowConvertServiceImpl.java" />
+      <jump line="10" column="22" filename="$MAVEN_REPOSITORY$/com/worksap/company/edp2-api-normal-batch/16.11.00.0000.20161017.1418/edp2-api-normal-batch-16.11.00.0000.20161017.1418-sources.jar!/com/worksap/company/edp2/api/normal/batch/AbstractNormalBatchMain.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
