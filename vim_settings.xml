@@ -1476,11 +1476,11 @@
         <mark key="." line="12" column="37" />
         <mark key="^" line="12" column="37" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyLateArrivalEarlyLeaveValidatorImpl.java" timestamp="1488195175804">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="301" column="25" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyLateArrivalEarlyLeaveValidatorImpl.java" timestamp="1488196116859">
+        <mark key="[" line="50" column="78" />
+        <mark key="]" line="50" column="85" />
+        <mark key="^" line="50" column="85" />
+        <mark key="." line="50" column="85" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/portal/PortalServiceManagerServiceImpl.java" timestamp="1486462041275">
         <mark key="[" line="191" column="0" />
@@ -2365,13 +2365,13 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>size</text>
+        <text>textResourceManager</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tU3RyaW5nXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJlc3VsdC5nZXQoMCkuZ2V0VHlwZSgpLCBpcyhWYWxpZGF0aW9uVmlvbGF0aW9uLlZhbGlkYXRpb25WaW9sYXRpb25UeXBlLlNVQ0NFU1MpKTsKICAgICAgICBhc3NlcnRUaGF0KHJlc3VsdC5nZXQoMCkuZ2V0UGF0aCgpLCBpcygyKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>textResourceManager.getText(NO_EXISTS_MASTER_INPUT)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBMQVRFX0FSUklWQUxfTkFNRSA9ICJsYXRlQXJyaXZhbCI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgRUFSTFlfTEVBVkVfTkFNRSA9ICJlYXJseUxlYXZlIjsK</text>
@@ -2380,25 +2380,25 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBMQVRFX0FSUklWQUxfTkFNRSA9ICJsYXRlQXJyaXZhbCI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgRUFSTFlfTEVBVkVfTkFNRSA9ICJlYXJseUxlYXZlIjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJlc3VsdC5zaXplKCksIGlzKDIpKTsKICAgICAgICBhc3NlcnRUaGF0KHJlc3VsdC5zaXplKCksIGlzKDIpKTsKICAgICAgICBhc3NlcnRUaGF0KHJlc3VsdC5zaXplKCksIGlzKDIpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJlc3VsdC5nZXQoMCkuZ2V0VHlwZSgpLCBpcygyKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJlc3VsdC5zaXplKCksIGlzKDIpKTsKICAgICAgICBhc3NlcnRUaGF0KHJlc3VsdC5zaXplKCksIGlzKDIpKTsKICAgICAgICBhc3NlcnRUaGF0KHJlc3VsdC5zaXplKCksIGlzKDIpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NhbERhdGUgZGF0ZSA9IDsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJlc3VsdC5nZXQoMCkuZ2V0VHlwZSgpLCBpcygyKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBMb2NhbERhdGUgZGF0ZSA9IDsK</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBNb2NrCiAgICBOb25BdHRlbmRhbmNlQ2FsY3VsYXRlU2VydmljZSBub25BdHRlbmRhbmNlQ2FsY3VsYXRlU2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2439,10 +2439,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgd29ya3Mgb24gMjAxNy8wMi8yNy4KICovCg==</text>
+        <text encoding="base64">ICAgIEBNb2NrCiAgICBOb25BdHRlbmRhbmNlQ2FsY3VsYXRlU2VydmljZSBub25BdHRlbmRhbmNlQ2FsY3VsYXRlU2VydmljZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgd29ya3Mgb24gMjAxNy8wMi8yNy4KICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
