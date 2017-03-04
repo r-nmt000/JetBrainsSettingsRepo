@@ -1481,12 +1481,12 @@
         <mark key="." line="12" column="37" />
         <mark key="^" line="12" column="37" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyLateArrivalEarlyLeaveValidatorImpl.java" timestamp="1488598107316">
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyLateArrivalEarlyLeaveValidatorImpl.java" timestamp="1488600181091">
         <mark key="'" line="184" column="24" />
-        <mark key="[" line="217" column="0" />
-        <mark key="]" line="217" column="0" />
-        <mark key="." line="217" column="0" />
-        <mark key="^" line="210" column="50" />
+        <mark key="[" line="220" column="0" />
+        <mark key="]" line="220" column="0" />
+        <mark key="." line="220" column="0" />
+        <mark key="^" line="224" column="33" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/portal/PortalServiceManagerServiceImpl.java" timestamp="1486462041275">
         <mark key="[" line="191" column="0" />
@@ -2369,40 +2369,48 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>success</text>
+        <text>violation</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tU3RyaW5nXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBWYWxpZGF0aW9uVmlvbGF0aW9uIHJlYXNvblZpb2xhdGlvbiA9IFNpbXBsZVZhbGlkYXRpb25WaW9sYXRpb24uZmllbGRXaXRoSXRlcmFibGUodHlwZSwgbnVsbCwgaW5kZXgsIAogICAgICAgICAgICAgICAgbnVsbCwgZXJyb3JDZCwgZXJyb3JNZXNzYWdlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFpc0Fsd2F5c1N1Y2Nlc3MgJiYgZ3JpZE9yZGVyID09IGxvY2F0aW9uLmdldEdyaWRPcmRlcigpICYmIGxvY2F0aW9uLmdldEluZGV4KCkgPT0gZGV0YWlsT3BlbklkeCkgewogICAgICAgICAgICAgICAgdmlvbGF0aW9uID0gU2ltcGxlVmFsaWRhdGlvblZpb2xhdGlvbi5maWVsZCgKICAgICAgICAgICAgICAgICAgICAgICAgVmFsaWRhdGlvblZpb2xhdGlvblR5cGUuRVJST1IsIGdldERldGFpbFBhdGgobGF5b3V0RGVmLmdldEl0ZW1JZCgpKSwgbnVsbCwKICAgICAgICAgICAgICAgICAgICAgICAgZXJyb3JDZCwgZXJyb3JNZXNzYWdlKTsKICAgICAgICAgICAgICAgIHZpb2xhdGlvbiA9IHZhbGlkYXRlTWFzdGVySW5wdXRXaXRoRXJyb3IodmlvbGF0aW9uLCBsYXlvdXREZWYsIGxvY2F0aW9uLCByZWFzb24sIHJlYXNvbkNhcHRpb24sIGRhdGUsCiAgICAgICAgICAgICAgICAgICAgICAgIGVycm9yQ2QpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgLy8gQWx3YXlzIHN1Y2Nlc3MKICAgICAgICAgICAgICAgIHZpb2xhdGlvbiA9IFNpbXBsZVZhbGlkYXRpb25WaW9sYXRpb24uZmllbGQoCiAgICAgICAgICAgICAgICAgICAgICAgIFZhbGlkYXRpb25WaW9sYXRpb25UeXBlLlNVQ0NFU1MsIGdldERldGFpbFBhdGgobGF5b3V0RGVmLmdldEl0ZW1JZCgpKSwgbnVsbCwKICAgICAgICAgICAgICAgICAgICAgICAgZXJyb3JDZCwgIiIpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvb2xlYW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2aW9sYXRpb24gPSBTaW1wbGVWYWxpZGF0aW9uVmlvbGF0aW9uLmZpZWxkKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgVmFsaWRhdGlvblZpb2xhdGlvblR5cGUuU1VDQ0VTUywgZ2V0RGV0YWlsUGF0aChsYXlvdXREZWYuZ2V0SXRlbUlkKCkpLCBudWxsLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgZXJyb3JDZCwgIiIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBWYWxpZGF0aW9uVmlvbGF0aW9uIGRldGFpbFZpb2xhdGlvbiA9IG51bGw7Cg==</text>
+      <register name="2" type="4">
+        <text>else {
+
+                    SimpleValidationViolation.field(ValidationViolationType.ERROR,
+                            getDetailPath(layoutDef.getItemId()), null,
+                            errorCd, errorMessage);
+                    type = ValidationViolationType.ERROR;
+                    violation = validateMasterInputWithError(violation, layoutDef, location, reason, reasonCaption,
+                            date, errorCd);
+                }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFNpbXBsZVZhbGlkYXRpb25WaW9sYXRpb24uZmllbGRXaXRoSXRlcmFibGUoCiAgICAgICAgICAgICAgICAgICAgdHlwZSwgcGF0aCwgZ3JpZExvY2F0aW9uLmdldEluZGV4KCksIG51bGwsIGVycm9yQ2QsIG1lc3NhZ2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodHlwZSA9PSBWYWxpZGF0aW9uVmlvbGF0aW9uVHlwZS5TVUNDRVNTKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxpZGF0aW9uVmlvbGF0aW9uTGlzdC5hZGQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2443,10 +2451,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBWYWxpZGF0aW9uVmlvbGF0aW9uIGRldGFpbFZpb2xhdGlvbiA9IFNpbXBsZVZhbGlkYXRpb25WaW9sYXRpb24uZmllbGRXaXRoSXRlcmFibGUodHlwZSwgbnVsbCwgaW5kZXgsCiAgICAgICAgICAgICAgICBudWxsLCBlcnJvckNkLCBlcnJvck1lc3NhZ2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvb2xlYW4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyBlcnJvck1lc3NhZ2UgPSBjcmVhdGVFcnJvck1lc3NhZ2UobGF5b3V0RGVmLmdldEl0ZW1JZCgpLCBkYXRlKTsK</text>
+        <text encoding="base64">ICAgICAgICBWYWxpZGF0aW9uVmlvbGF0aW9uIGRldGFpbFZpb2xhdGlvbiA9IG51bGw7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
