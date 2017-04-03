@@ -1204,6 +1204,12 @@
         <mark key="." line="296" column="27" />
         <mark key="^" line="296" column="27" />
       </file>
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/test/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyNonAttendanceTimeValidatorImplTest.java" timestamp="1491226082115">
+        <mark key="[" line="208" column="96" />
+        <mark key="]" line="208" column="96" />
+        <mark key="^" line="208" column="96" />
+        <mark key="." line="208" column="96" />
+      </file>
       <file name="$USER_HOME$/repos/ideaProjects/batch-report-1/src/main/java/com/worksap/bootcamp/batch/report/lv1/Utils.java" timestamp="1470995985268">
         <mark key="[" line="17" column="38" />
         <mark key="]" line="17" column="38" />
@@ -1343,7 +1349,12 @@
         <mark key="^" line="329" column="25" />
         <mark key="." line="329" column="25" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyNonAttendanceTimeValidatorImpl.java" timestamp="1491224215121" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyNonAttendanceTimeValidatorImpl.java" timestamp="1491226160507">
+        <mark key="[" line="461" column="99" />
+        <mark key="]" line="461" column="110" />
+        <mark key="^" line="461" column="110" />
+        <mark key="." line="461" column="110" />
+      </file>
       <file name="$USER_HOME$/repos/ideaProjects/batch-report-1/src/main/java/com/worksap/bootcamp/batch/report/lv1/entity/Sales.java" timestamp="1471136942968">
         <mark key="[" line="25" column="57" />
         <mark key="]" line="25" column="57" />
@@ -2287,7 +2298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="473" column="24" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyGIValidatorImpl.java" />
       <jump line="525" column="30" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-front/src/main/java/com/worksap/company/hue/controller/hr/attendance/MonthlyAttendanceController.java" />
       <jump line="669" column="8" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-front/src/main/java/com/worksap/company/hue/controller/hr/attendance/MonthlyAttendanceController.java" />
       <jump line="1096" column="0" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-front/src/main/java/com/worksap/company/hue/controller/hr/attendance/MonthlyAttendanceController.java" />
@@ -2387,6 +2397,7 @@
       <jump line="113" column="7" filename="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-mock/company-hue-mock-front/src/main/webapp/pages/attendance-health-check/portal/portal-bottom.ja.html" />
       <jump line="114" column="11" filename="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-mock/company-hue-mock-front/src/main/webapp/pages/attendance-health-check/portal/portal-bottom.ja.html" />
       <jump line="2" column="1" filename="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-mock/company-hue-mock-front/src/main/webapp/pages/attendance-health-check/portal/portal-bottom.html" />
+      <jump line="464" column="16" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyNonAttendanceTimeValidatorImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2448,25 +2459,25 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>none</text>
+        <text>getStartTime</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tU3RyaW5nXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNhcmQtZGV0YWlscy1jb250ZW50cy1yZWFkLW1vcmUiPgogICAgICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IGNhcmQtZGV0YWlscy1jb250ZW50cy1yZWFkLW1vcmUtYnRuIiBwcm9qZWN0PSIiIHBhZ2VuYW1lPSJtb250aC1idWRnZXQtYWNoaWV2ZW1lbnQtbmV3IiBpbWFnZWlkPSIiPj+/vdqN14Lvv70/v71tP7+9RjwvYnV0dG9uPgogICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNyZWF0ZVZhbHVlKG51bGwsIGNyZWF0ZUxvY2FsRGF0ZVRpbWUoZGF0ZSwgMTUsIDMwKSksCiAgICAgICAgICAgICAgICBjcmVhdGVWYWx1ZShjcmVhdGVMb2NhbERhdGVUaW1lKGRhdGUsIDE0LCAzMCksIG51bGwpLAogICAgICAgICAgICAgICAgY3JlYXRlVmFsdWUobnVsbCwgbnVsbCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNyZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -2475,13 +2486,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PCEtLQo8ZGl2IGlkPSJkdW1teS1jb250ZW50IiBjbGFzcz0iZGFzaGJvYXJkLWNvbnRlbnQgZHVtbXkgZGlzcGxheS1ub25lIiA+CjwvZGl2PgotLT4KCgo8L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCEtLQo8ZGl2IGlkPSJkdW1teS1jb250ZW50IiBjbGFzcz0iZGFzaGJvYXJkLWNvbnRlbnQgZHVtbXkgZGlzcGxheS1ub25lIiA+CjwvZGl2PgotLT4KCgo8L2Rpdj4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2528,7 +2539,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2551,8 +2562,8 @@
         <entry>.w</entry>
         <entry>;w</entry>
         <entry>i</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
