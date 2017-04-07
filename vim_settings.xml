@@ -253,10 +253,10 @@
         <mark key="^" line="20" column="52" />
         <mark key="." line="20" column="52" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-front/src/main/webapp/WEB-INF/templates/hr/attendance/portal/dashboard/calendar/calendar-content-popover-daily.en.xml" timestamp="1491306506825">
-        <mark key="[" line="13" column="18" />
-        <mark key="]" line="13" column="26" />
-        <mark key="." line="13" column="26" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-front/src/main/webapp/WEB-INF/templates/hr/attendance/portal/dashboard/calendar/calendar-content-popover-daily.en.xml" timestamp="1491557130017">
+        <mark key="[" line="14" column="10" />
+        <mark key="]" line="14" column="50" />
+        <mark key="." line="14" column="10" />
         <mark key="^" line="13" column="26" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/DetermineWorkDayServiceImpl.java" timestamp="1480400000090">
@@ -1203,7 +1203,7 @@
         <mark key="^" line="28" column="2" />
         <mark key="." line="28" column="2" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/type/textId/AttendancePortalTextIds.java" timestamp="1491554761159">
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/type/textId/AttendancePortalTextIds.java" timestamp="1491557672283">
         <mark key="[" line="31" column="4" />
         <mark key="]" line="31" column="46" />
         <mark key="." line="31" column="82" />
@@ -1515,9 +1515,9 @@
         <mark key="." line="22" column="39" />
         <mark key="^" line="22" column="39" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-front/src/main/webapp/WEB-INF/templates/hr/attendance/portal/dashboard/calendar/calendar-content-popover-daily.ja.xml" timestamp="1491555510487">
-        <mark key="[" line="14" column="43" />
-        <mark key="]" line="14" column="43" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-front/src/main/webapp/WEB-INF/templates/hr/attendance/portal/dashboard/calendar/calendar-content-popover-daily.ja.xml" timestamp="1491557125893">
+        <mark key="[" line="14" column="10" />
+        <mark key="]" line="14" column="49" />
         <mark key="." line="14" column="43" />
         <mark key="^" line="14" column="43" />
       </file>
@@ -2590,13 +2590,13 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>SHOW_DAILY_ATTENDANCE_REPORT_AUTO_GENERATED_NOTIFY</text>
+        <text>condition=&quot;false&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tU3RyaW5nXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>SHOW_DAILY_ATTENDANCE_REPORT_POPUP_OVERTIME</text>
+        <text>condition=&quot;${isOvertimeVisible == true}&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIE9WRVJUSU1FX1RPVEFMX0lEKCJocl9kYWlseV9hdHRfb3ZlcnRpbWVfdG90YWxfaWQiKSwK</text>
