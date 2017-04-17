@@ -1436,8 +1436,8 @@
         <mark key="^" line="329" column="25" />
         <mark key="." line="329" column="25" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyNonAttendanceTimeValidatorImpl.java" timestamp="1492404583126">
-        <mark key="'" line="242" column="39" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyNonAttendanceTimeValidatorImpl.java" timestamp="1492411649358">
+        <mark key="'" line="445" column="80" />
         <mark key="[" line="498" column="70" />
         <mark key="]" line="498" column="73" />
         <mark key="." line="498" column="73" />
@@ -1821,7 +1821,7 @@
         <mark key="." line="374" column="76" />
         <mark key="^" line="374" column="76" />
       </file>
-      <file name="/fragment.java" timestamp="1492341724509">
+      <file name="/fragment.java" timestamp="1492412106358">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="2" />
@@ -2164,12 +2164,12 @@
         <mark key="^" line="12" column="29" />
         <mark key="." line="12" column="29" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/test/java/com/worksap/company/hue/hr/biz/attendance/service/validator/daily/DailyNonAttendanceTimeValidatorImplTest.java" timestamp="1492408148983">
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/test/java/com/worksap/company/hue/hr/biz/attendance/service/validator/daily/DailyNonAttendanceTimeValidatorImplTest.java" timestamp="1492410767211">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="113" />
-        <mark key="." line="90" column="75" />
-        <mark key="^" line="90" column="75" />
+        <mark key="[" line="222" column="70" />
+        <mark key="]" line="222" column="76" />
+        <mark key="." line="222" column="76" />
+        <mark key="^" line="222" column="76" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/ChapterTen/A.java" timestamp="1441159174747">
         <mark key="[" line="31" column="14" />
@@ -2438,7 +2438,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="218" column="41" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-front/src/main/java/com/worksap/company/hue/controller/hr/attendance/DailyAttendanceController.java" />
       <jump line="0" column="0" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-front/src/main/java/com/worksap/company/hue/controller/hr/attendance/DailyAttendanceController.java" />
       <jump line="99" column="25" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/approval/DailyAttendanceApprovalTrayServiceImpl.java" />
       <jump line="90" column="7" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/approval/monthly/MonthlyApprovalTrayApplicationServiceImpl.java" />
@@ -2538,6 +2537,7 @@
       <jump line="60" column="8" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/test/java/com/worksap/company/hue/hr/biz/attendance/service/validator/daily/DailyNonAttendanceTimeValidatorImplTest.java" />
       <jump line="197" column="16" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/test/java/com/worksap/company/hue/hr/biz/attendance/service/validator/daily/DailyNonAttendanceTimeValidatorImplTest.java" />
       <jump line="0" column="0" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/test/java/com/worksap/company/hue/hr/biz/attendance/service/validator/daily/DailyNonAttendanceTimeValidatorImplTest.java" />
+      <jump line="445" column="80" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyNonAttendanceTimeValidatorImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2599,13 +2599,13 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>holder</text>
+        <text>actual_11_18</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tU3RyaW5nXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRTdWNjZXNzVm9sYXRpb24ocmVzdWx0LCBob2xkZXIsIEVSUk9SX0NPREVfVElNRV9FTVBUWSwgbGFzdElkeCwgaWR4KTsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGFjdHVhbF8xMV8xOC5nZXQoMCkuZ2V0UGF0aCgpLCBpcygiZGFpbHlBdHRlbmRhbmNlRW50aXR5LmNoaWxkQ2FyZU5vbkF0dGVuZGFuY2VMaXN0WzBdLnN0YXJ0VGltZSIpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
