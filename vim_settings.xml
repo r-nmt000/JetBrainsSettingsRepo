@@ -1255,11 +1255,6 @@
         <mark key="." line="296" column="27" />
         <mark key="^" line="296" column="27" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/test/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyNonAttendanceTimeValidatorImplTest.java" timestamp="1492421084534">
-        <mark key="]" line="5" column="81" />
-        <mark key="." line="5" column="81" />
-        <mark key="^" line="5" column="81" />
-      </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyTimeValidatorImpl.java" timestamp="1492345734002">
         <mark key="[" line="780" column="0" />
         <mark key="]" line="780" column="0" />
@@ -1928,6 +1923,7 @@
         <mark key="." line="32" column="18" />
         <mark key="^" line="32" column="18" />
       </file>
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-dto/src/main/java/com/worksap/company/hue/hr/type/attcore/WorkRecord.java" timestamp="1495971652895" />
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-front/src/main/webapp/WEB-INF/templates/hr/attendance/workplan/fragment/input.xml" timestamp="1487596597598">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="17" column="18" />
@@ -2029,6 +2025,9 @@
         <mark key="]" line="5" column="66" />
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="66" />
+      </file>
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/portal/graph/PortalGraphUpdateServiceImpl.java" timestamp="1495972446151">
+        <mark key="'" line="456" column="56" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/test/java/com/worksap/company/hue/hr/biz/attendance/service/CalculateNonAttendanceRecordServiceImplTest.java" timestamp="1485256103014">
         <mark key="[" line="60" column="33" />
@@ -2413,7 +2412,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="8" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/approval/DailyAttendanceApprovalTrayServiceImpl.java" />
       <jump line="104" column="38" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/approval/monthly/MonthlyApprovalTrayApplicationServiceImpl.java" />
       <jump line="0" column="0" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/approval/monthly/MonthlyApprovalTrayApplicationServiceImpl.java" />
       <jump line="47" column="60" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/MonthlyAttendanceRowConvertServiceImpl.java" />
@@ -2513,6 +2511,7 @@
       <jump line="380" column="8" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/test/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyNonAttendanceTimeValidatorImplTest.java" />
       <jump line="268" column="52" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/test/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyNonAttendanceTimeValidatorImplTest.java" />
       <jump line="243" column="12" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/daily/DailyNonAttendanceTimeValidatorImpl.java" />
+      <jump line="456" column="56" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/portal/graph/PortalGraphUpdateServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
