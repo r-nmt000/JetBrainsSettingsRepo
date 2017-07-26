@@ -48,10 +48,6 @@
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
-  <action id="EditorEscape">
-    <keyboard-shortcut first-keystroke="escape" />
-    <keyboard-shortcut first-keystroke="ctrl j" />
-  </action>
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
     <keyboard-shortcut first-keystroke="ctrl b" />
@@ -64,6 +60,9 @@
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="ExpandLiveTemplateCustom">
+    <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
   <action id="ExternalJavaDoc">
     <keyboard-shortcut first-keystroke="shift f1" />
