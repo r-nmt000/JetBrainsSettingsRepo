@@ -27,7 +27,7 @@
         <mark key="." line="7" column="16" />
         <mark key="^" line="7" column="16" />
       </file>
-      <file name="/a.dummy" timestamp="1501245227384">
+      <file name="/a.dummy" timestamp="1501570522838">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/DemoLegacy/WorkSpace/HUE/company-concept-design/company-hue-front/src/main/webapp/WEB-INF/templates/onboarding/training/training-list-recent-course.xml" timestamp="1475156363503">
@@ -210,9 +210,9 @@
         <mark key="." line="21" column="6" />
         <mark key="^" line="21" column="6" />
       </file>
-      <file name="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-mock/company-hue-mock-front/src/main/webapp/pages/hr-attendance-work-schedule/work-schedule-personal-daily.html" timestamp="1500556877544">
-        <mark key="[" line="344" column="0" />
-        <mark key="]" line="344" column="152" />
+      <file name="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-mock/company-hue-mock-front/src/main/webapp/pages/hr-attendance-work-schedule/work-schedule-personal-daily.html" timestamp="1501569030160">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="112" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/attendancemaster/PersonalAttendanceMaster.java" timestamp="1491223184458">
         <mark key="[" line="904" column="16" />
@@ -327,6 +327,13 @@
         <mark key="]" line="8" column="96" />
         <mark key="^" line="8" column="96" />
         <mark key="." line="8" column="96" />
+      </file>
+      <file name="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-mock/company-hue-mock-front/src/main/webapp/pages/hr-attendance-work-schedule/css/manager-monthly-overwrite.css" timestamp="1501570205121">
+        <mark key="'" line="4" column="4" />
+        <mark key="[" line="398" column="16" />
+        <mark key="]" line="398" column="27" />
+        <mark key="." line="398" column="16" />
+        <mark key="^" line="398" column="15" />
       </file>
       <file name="C:/DemoLegacy/WorkSpace/HUE/company-concept-design/company-hue-front/src/main/less/components/hr-onboarding-training-list-common.less" timestamp="1475479826067">
         <mark key="[" line="101" column="13" />
@@ -827,13 +834,6 @@
         <mark key="^" line="23" column="15" />
         <mark key="." line="23" column="15" />
       </file>
-      <file name="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-mock/company-hue-mock-front/src/main/webapp/pages/hr-attendance-work-schedule/js/project-grid/work-schedule-manager-grid-settings.js" timestamp="1500463875692">
-        <mark key="'" line="207" column="16" />
-        <mark key="[" line="325" column="10" />
-        <mark key="]" line="325" column="10" />
-        <mark key="^" line="327" column="20" />
-        <mark key="." line="325" column="10" />
-      </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/type/textId/ReportAbbreviationTextIds.java" timestamp="1480655363978">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="15" column="6" />
@@ -948,6 +948,10 @@
         <mark key="^" line="13" column="87" />
         <mark key="." line="13" column="87" />
       </file>
+      <file name="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-mock/company-hue-mock-front/src/main/webapp/pages/global-navigation/css/global-side-menu-contents.css" timestamp="1501569971249">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/ideaProjects/batch-import-1/src/main/java/com/worksap/bootcamp/io/JDBCTransaction.java" timestamp="1470814064897">
         <mark key="[" line="21" column="25" />
         <mark key="]" line="21" column="0" />
@@ -1039,11 +1043,7 @@
         <mark key="." line="90" column="0" />
       </file>
       <file name="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-mock/company-hue-mock-front/src/main/webapp/pages/hr-attendance-work-schedule/js/project-grid/work-schedule-manager-grid-summary-daily.js" timestamp="1500554514875">
-        <mark key="'" line="726" column="2" />
-        <mark key="[" line="97" column="114" />
-        <mark key="]" line="97" column="125" />
-        <mark key="." line="97" column="114" />
-        <mark key="^" line="145" column="123" />
+        <mark key="'" line="823" column="2" />
       </file>
       <file name="$USER_HOME$/repos/ideaProjects/batch-summary-1/src/main/java/com/worksap/bootcamp/template/RecordReader.java" timestamp="1470700744196">
         <mark key="[" line="12" column="12" />
@@ -1591,8 +1591,11 @@
         <mark key="." line="76" column="0" />
         <mark key="^" line="105" column="58" />
       </file>
-      <file name="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-mock/company-hue-mock-front/src/main/webapp/pages/hr-attendance-work-schedule/work-schedule-manager-monthly.html" timestamp="1500536822590">
-        <mark key="'" line="167" column="45" />
+      <file name="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-mock/company-hue-mock-front/src/main/webapp/pages/hr-attendance-work-schedule/work-schedule-manager-monthly.html" timestamp="1501570461917">
+        <mark key="'" line="593" column="6" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="84" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-mock/company-hue-mock-front/forneus-gulp-tasks/watch-html.js" timestamp="1489664896526">
         <mark key="[" line="7" column="0" />
@@ -2098,13 +2101,6 @@
         <mark key="^" line="26" column="86" />
         <mark key="." line="26" column="86" />
       </file>
-      <file name="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-mock/company-hue-mock-front/src/main/webapp/pages/hr-attendance-work-schedule/js/work-schedule-manager-grid-contents-daily.js" timestamp="1500537707479">
-        <mark key="'" line="64" column="82" />
-        <mark key="[" line="64" column="16" />
-        <mark key="]" line="64" column="81" />
-        <mark key="." line="64" column="81" />
-        <mark key="^" line="64" column="81" />
-      </file>
       <file name="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-front/src/main/webapp/WEB-INF/templates/onboarding/training/training-detail1/main/main-content.xml" timestamp="1474535666032">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -2170,13 +2166,6 @@
         <mark key="]" line="12" column="67" />
         <mark key="." line="12" column="67" />
         <mark key="^" line="12" column="67" />
-      </file>
-      <file name="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-mock/company-hue-mock-front/src/main/webapp/pages/hr-attendance-work-schedule/js/work-schedule-manager-grid-contents.js" timestamp="1500458013784">
-        <mark key="'" line="62" column="25" />
-        <mark key="[" line="62" column="93" />
-        <mark key="]" line="63" column="15" />
-        <mark key="^" line="63" column="15" />
-        <mark key="." line="63" column="15" />
       </file>
       <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/DesignPattern/src/main/java/com/example/Prototype/Paper.java" timestamp="1440929134564">
         <mark key="[" line="19" column="4" />
@@ -2464,9 +2453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="4" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/daily/DailyLateArrivalEarlyLeaveValidatorImpl.java" />
-      <jump line="55" column="35" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/model/MonthlyAttendanceRow.java" />
-      <jump line="156" column="0" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/test/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyLateArrivalEarlyLeaveValidatorImplTest.java" />
       <jump line="372" column="22" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/approval/DailyAttendanceApprovalTrayServiceImpl.java" />
       <jump line="137" column="47" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/test/java/com/worksap/company/hue/hr/biz/attendance/service/approval/monthly/MonthlyApprovalTrayApplicationServiceImplTest.java" />
       <jump line="37" column="13" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/MonthlyAttendanceRowConvertServiceImpl.java" />
@@ -2564,6 +2550,9 @@
       <jump line="726" column="0" filename="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-mock/company-hue-mock-front/src/main/webapp/pages/hr-attendance-work-schedule/js/project-grid/work-schedule-manager-grid-summary-daily.js" />
       <jump line="724" column="2" filename="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-mock/company-hue-mock-front/src/main/webapp/pages/hr-attendance-work-schedule/js/project-grid/work-schedule-manager-grid-summary-daily.js" />
       <jump line="64" column="82" filename="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-mock/company-hue-mock-front/src/main/webapp/pages/hr-attendance-work-schedule/js/work-schedule-manager-grid-contents-daily.js" />
+      <jump line="365" column="28" filename="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-mock/company-hue-mock-front/src/main/webapp/pages/hr-attendance-work-schedule/work-schedule-manager-monthly.html" />
+      <jump line="593" column="6" filename="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-mock/company-hue-mock-front/src/main/webapp/pages/hr-attendance-work-schedule/work-schedule-manager-monthly.html" />
+      <jump line="4" column="4" filename="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-mock/company-hue-mock-front/src/main/webapp/pages/hr-attendance-work-schedule/css/manager-monthly-overwrite.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2622,40 +2611,40 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>color</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tU3RyaW5nXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBXT1JLX1JFQ09SRCgid29ya1JlY29yZCIsIFdvcmtSZWNvcmQuY2xhc3MpLAogICAgICAgIENBTENVTEFUSU9OX1JFU1VMVCgiY2FsY3VsYXRpb25SZXN1bHQiLCBDYWxjdWxhdGlvblJlc3VsdC5jbGFzcyksCiAgICAgICAgVElNRV9EQVRBKCJ0aW1lRGF0YSIsIFRpbWVEYXRhLmNsYXNzKSwKICAgICAgICBSRUNFU1NfUkVDT1JEKCJyZWNlc3NSZWNvcmQiLCBMaXN0LmNsYXNzKSwKICAgICAgICBOT05fQVRURU5EQU5DRV9SRUNPUkQoIm5vbkF0dGVuZGFuY2VSZWNvcmQiLCBMaXN0LmNsYXNzKSwKICAgICAgICBWQUNBVElPTl9SRUNPUkQoInZhY2F0aW9uUmVjb3JkIiwgTGlzdC5jbGFzcyksCiAgICAgICAgT1BFUkFUSU9OX1JFQ09SRCgib3BlcmF0aW9uUmVjb3JkIiwgTGlzdC5jbGFzcyksCiAgICAgICAgR0VORVJBTF9VU0VfSVRFTV9SRUNPUkQoImdlbmVyYWxVc2VJdGVtUmVjb3JkIiwgTGlzdC5jbGFzcyksCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICFpbXBvcnRhbnQ=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIGlkPSJ0b19jb25maXJtIiB0eXBlPSJidXR0b24iIGNsYXNzPSJidG4gYnRuLWRlZmF1bHQiIHdhcC1pY29uPWNhbGVuZGFyJyI+PC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3MiIGhyZWY9ImNzcy9tYW5hZ2VyLW1vbnRobHktb3ZlcndyaXRlLmNzcyI+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgnLnVpLXdpZGdldC1jb250ZW50LnNsaWNrLXJvd1tkYXRhLXJvdz0iJyArIGkgKyAnIl0nKS5maW5kKCIubDciKS5jc3MoJ2JhY2tncm91bmQtY29sb3InLCAnI0M2REFGQicpOwogICAgICAgICAgICAkKCcudWktd2lkZ2V0LWNvbnRlbnQuc2xpY2stcm93W2RhdGEtcm93PSInICsgaSArICciXScpLmZpbmQoIi5sOCIpLmNzcygnYmFja2dyb3VuZC1jb2xvcicsICcjQzZEQUZCJyk7Cg==</text>
+        <text encoding="base64">ICAgIC13ZWJraXQtdHJhbnNpdGlvbjogb3BhY2l0eSAwLjNzIGVhc2U7CiAgICAtbW96LXRyYW5zaXRpb246IG9wYWNpdHkgMC4zcyBlYXNlOwogICAgLW8tdHJhbnNpdGlvbjogb3BhY2l0eSAwLjNzIGVhc2U7CiAgICB0cmFuc2l0aW9uOiBvcGFjaXR5IDAuM3MgZWFzZTsKICAgIGZpbHRlcjogYWxwaGEob3BhY2l0eT0xMDApOwogICAgLXdlYmtpdC1vcGFjaXR5OiAxOwogICAgLW1vei1vcGFjaXR5OiAxOwogICAgb3BhY2l0eTogMTsKICAgIGJhY2tncm91bmQtY29sb3I6ICMwMDA7CiAgICB6b29tOiAxOwogICAgZmlsdGVyOiBhbHBoYShvcGFjaXR5PTApOwogICAgLXdlYmtpdC1vcGFjaXR5OiAwOwogICAgLW1vei1vcGFjaXR5OiAwOwogICAgb3BhY2l0eTogMDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgnLnVpLXdpZGdldC1jb250ZW50LnNsaWNrLXJvd1tkYXRhLXJvdz0iJyArIGkgKyAnIl0nKS5maW5kKCIubDciKS5jc3MoJ2JhY2tncm91bmQtY29sb3InLCAnI0M2REFGQicpOwogICAgICAgICAgICAkKCcudWktd2lkZ2V0LWNvbnRlbnQuc2xpY2stcm93W2RhdGEtcm93PSInICsgaSArICciXScpLmZpbmQoIi5sOCIpLmNzcygnYmFja2dyb3VuZC1jb2xvcicsICcjQzZEQUZCJyk7Cg==</text>
+        <text encoding="base64">ICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgIHRvcDogMDsKICAgIGxlZnQ6IDA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgnLnVpLXdpZGdldC1jb250ZW50LnNsaWNrLXJvd1tkYXRhLXJvdz0iJyArIGkgKyAnIl0nKS5maW5kKCIubDciKS5jc3MoJ2JhY2tncm91bmQtY29sb3InLCAnI0M2REFGQicpOwogICAgICAgICAgICAkKCcudWktd2lkZ2V0LWNvbnRlbnQuc2xpY2stcm93W2RhdGEtcm93PSInICsgaSArICciXScpLmZpbmQoIi5sOCIpLmNzcygnYmFja2dyb3VuZC1jb2xvcicsICcjQzZEQUZCJyk7CiAgICAgICAgICAgICQoJy51aS13aWRnZXQtY29udGVudC5zbGljay1yb3dbZGF0YS1yb3c9IicgKyBpICsgJyJdJykuZmluZCgiLmw5IikuY3NzKCdiYWNrZ3JvdW5kLWNvbG9yJywgJyNGOUM0RDYnKTsKICAgICAgICAgICAgJCgnLnVpLXdpZGdldC1jb250ZW50LnNsaWNrLXJvd1tkYXRhLXJvdz0iJyArIGkgKyAnIl0nKS5maW5kKCIubDEwIikuY3NzKCdiYWNrZ3JvdW5kLWNvbG9yJywgJyNDNkRBRkInKTsKICAgICAgICAgICAgJCgnLnVpLXdpZGdldC1jb250ZW50LnNsaWNrLXJvd1tkYXRhLXJvdz0iJyArIGkgKyAnIl0nKS5maW5kKCIubDExIikuY3NzKCdiYWNrZ3JvdW5kLWNvbG9yJywgJyNDNkRBRkInKTsKICAgICAgICAgICAgJCgnLnVpLXdpZGdldC1jb250ZW50LnNsaWNrLXJvd1tkYXRhLXJvdz0iJyArIGkgKyAnIl0nKS5maW5kKCIubDEyIikuY3NzKCdiYWNrZ3JvdW5kLWNvbG9yJywgJyNDNkRBRkInKTsKICAgICAgICAgICAgJCgnLnVpLXdpZGdldC1jb250ZW50LnNsaWNrLXJvd1tkYXRhLXJvdz0iJyArIGkgKyAnIl0nKS5maW5kKCIubDEzIikuY3NzKCdiYWNrZ3JvdW5kLWNvbG9yJywgJyNDNkRBRkInKTsKICAgICAgICAgICAgJCgnLnVpLXdpZGdldC1jb250ZW50LnNsaWNrLXJvd1tkYXRhLXJvdz0iJyArIGkgKyAnIl0nKS5maW5kKCIubDE0IikuY3NzKCdiYWNrZ3JvdW5kLWNvbG9yJywgJyNDNkRBRkInKTsKICAgICAgICAgICAgJCgnLnVpLXdpZGdldC1jb250ZW50LnNsaWNrLXJvd1tkYXRhLXJvdz0iJyArIGkgKyAnIl0nKS5maW5kKCIubDE1IikuY3NzKCdiYWNrZ3JvdW5kLWNvbG9yJywgJyNDNkRBRkInKTsKICAgICAgICAgICAgJCgnLnVpLXdpZGdldC1jb250ZW50LnNsaWNrLXJvd1tkYXRhLXJvdz0iJyArIGkgKyAnIl0nKS5maW5kKCIubDE2IikuY3NzKCdiYWNrZ3JvdW5kLWNvbG9yJywgJyNDNkRBRkInKTsKICAgICAgICAgICAgJCgnLnVpLXdpZGdldC1jb250ZW50LnNsaWNrLXJvd1tkYXRhLXJvdz0iJyArIGkgKyAnIl0nKS5maW5kKCIubDE3IikuY3NzKCdiYWNrZ3JvdW5kLWNvbG9yJywgJyNDNkRBRkInKTsKICAgICAgICAgICAgJCgnLnVpLXdpZGdldC1jb250ZW50LnNsaWNrLXJvd1tkYXRhLXJvdz0iJyArIGkgKyAnIl0nKS5maW5kKCIubDE4IikuY3NzKCdiYWNrZ3JvdW5kLWNvbG9yJywgJyNDNkRBRkInKTsK</text>
+        <text encoding="base64">Lmdsb2JhbC1zaWRlLW1lbnUtY29udGVudHMtb3BlbiB7CiAgICB6LWluZGV4OiAxMDM0Owp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgnLnVpLXdpZGdldC1jb250ZW50LnNsaWNrLXJvd1tkYXRhLXJvdz0iJyArIGkgKyAnIl0nKS5maW5kKCIubDciKS5jc3MoJ2JhY2tncm91bmQtY29sb3InLCAnI0M2REFGQicpOwogICAgICAgICAgICAkKCcudWktd2lkZ2V0LWNvbnRlbnQuc2xpY2stcm93W2RhdGEtcm93PSInICsgaSArICciXScpLmZpbmQoIi5sOCIpLmNzcygnYmFja2dyb3VuZC1jb2xvcicsICcjQzZEQUZCJyk7CiAgICAgICAgICAgICQoJy51aS13aWRnZXQtY29udGVudC5zbGljay1yb3dbZGF0YS1yb3c9IicgKyBpICsgJyJdJykuZmluZCgiLmw5IikuY3NzKCdiYWNrZ3JvdW5kLWNvbG9yJywgJyNGOUM0RDYnKTsKICAgICAgICAgICAgJCgnLnVpLXdpZGdldC1jb250ZW50LnNsaWNrLXJvd1tkYXRhLXJvdz0iJyArIGkgKyAnIl0nKS5maW5kKCIubDEwIikuY3NzKCdiYWNrZ3JvdW5kLWNvbG9yJywgJyNDNkRBRkInKTsKICAgICAgICAgICAgJCgnLnVpLXdpZGdldC1jb250ZW50LnNsaWNrLXJvd1tkYXRhLXJvdz0iJyArIGkgKyAnIl0nKS5maW5kKCIubDExIikuY3NzKCdiYWNrZ3JvdW5kLWNvbG9yJywgJyNDNkRBRkInKTsKICAgICAgICAgICAgJCgnLnVpLXdpZGdldC1jb250ZW50LnNsaWNrLXJvd1tkYXRhLXJvdz0iJyArIGkgKyAnIl0nKS5maW5kKCIubDEyIikuY3NzKCdiYWNrZ3JvdW5kLWNvbG9yJywgJyNDNkRBRkInKTsKICAgICAgICAgICAgJCgnLnVpLXdpZGdldC1jb250ZW50LnNsaWNrLXJvd1tkYXRhLXJvdz0iJyArIGkgKyAnIl0nKS5maW5kKCIubDEzIikuY3NzKCdiYWNrZ3JvdW5kLWNvbG9yJywgJyNDNkRBRkInKTsK</text>
+        <text encoding="base64">ICAgIHotaW5kZXg6IC0xOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgnLnVpLXdpZGdldC1jb250ZW50LnNsaWNrLXJvd1tkYXRhLXJvdz0iJyArIGkgKyAnIl0nKS5maW5kKCIubDQiKS5jc3MoJ2JhY2tncm91bmQtY29sb3InLCAnI0M2REFGQicpOwogICAgICAgICAgICAkKCcudWktd2lkZ2V0LWNvbnRlbnQuc2xpY2stcm93W2RhdGEtcm93PSInICsgaSArICciXScpLmZpbmQoIi5sNSIpLmNzcygnYmFja2dyb3VuZC1jb2xvcicsICcjQzZEQUZCJyk7CiAgICAgICAgICAgICQoJy51aS13aWRnZXQtY29udGVudC5zbGljay1yb3dbZGF0YS1yb3c9IicgKyBpICsgJyJdJykuZmluZCgiLmw1IikuY3NzKCdiYWNrZ3JvdW5kLWNvbG9yJywgJyNDNkRBRkInKTsKICAgICAgICAgICAgJCgnLnVpLXdpZGdldC1jb250ZW50LnNsaWNrLXJvd1tkYXRhLXJvdz0iJyArIGkgKyAnIl0nKS5maW5kKCIubDYiKS5jc3MoJ2JhY2tncm91bmQtY29sb3InLCAnI0M2REFGQicpOwogICAgICAgICAgICAkKCcudWktd2lkZ2V0LWNvbnRlbnQuc2xpY2stcm93W2RhdGEtcm93PSInICsgaSArICciXScpLmZpbmQoIi5sNyIpLmNzcygnYmFja2dyb3VuZC1jb2xvcicsICcjQzZEQUZCJyk7CiAgICAgICAgICAgICQoJy51aS13aWRnZXQtY29udGVudC5zbGljay1yb3dbZGF0YS1yb3c9IicgKyBpICsgJyJdJykuZmluZCgiLmw4IikuY3NzKCdiYWNrZ3JvdW5kLWNvbG9yJywgJyNDNkRBRkInKTsKICAgICAgICAgICAgJCgnLnVpLXdpZGdldC1jb250ZW50LnNsaWNrLXJvd1tkYXRhLXJvdz0iJyArIGkgKyAnIl0nKS5maW5kKCIubDkiKS5jc3MoJ2JhY2tncm91bmQtY29sb3InLCAnI0Y5QzRENicpOwogICAgICAgICAgICAkKCcudWktd2lkZ2V0LWNvbnRlbnQuc2xpY2stcm93W2RhdGEtcm93PSInICsgaSArICciXScpLmZpbmQoIi5sMTAiKS5jc3MoJ2JhY2tncm91bmQtY29sb3InLCAnI0M2REFGQicpOwogICAgICAgICAgICAkKCcudWktd2lkZ2V0LWNvbnRlbnQuc2xpY2stcm93W2RhdGEtcm93PSInICsgaSArICciXScpLmZpbmQoIi5sMTEiKS5jc3MoJ2JhY2tncm91bmQtY29sb3InLCAnI0M2REFGQicpOwogICAgICAgICAgICAkKCcudWktd2lkZ2V0LWNvbnRlbnQuc2xpY2stcm93W2RhdGEtcm93PSInICsgaSArICciXScpLmZpbmQoIi5sMTIiKS5jc3MoJ2JhY2tncm91bmQtY29sb3InLCAnI0M2REFGQicpOwogICAgICAgICAgICAkKCcudWktd2lkZ2V0LWNvbnRlbnQuc2xpY2stcm93W2RhdGEtcm93PSInICsgaSArICciXScpLmZpbmQoIi5sMTMiKS5jc3MoJ2JhY2tncm91bmQtY29sb3InLCAnI0M2REFGQicpOwo=</text>
+        <text encoding="base64">ICAgIHBvc2l0aW9uOiBmaXhlZDsKICAgIHRvcDogMDsKICAgIGxlZnQ6IDA7Cg==</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgnLnVpLXdpZGdldC1jb250ZW50LnNsaWNrLXJvd1tkYXRhLXJvdz0iJyArIGkgKyAnIl0nKS5maW5kKCIubDYiKS5jc3MoJ2JhY2tncm91bmQtY29sb3InLCAnI0M2REFGQicpOwo=</text>
+        <text encoding="base64">I2dsb2JhbC1zaWRlLW1lbnUtY29udGVudHMuZ2xvYmFsLXNpZGUtbWVudS1jb250ZW50cyB7CiAgICB3aWR0aDogMTBweCAhaW1wb3J0YW50OwogICAgaGVpZ2h0OiAxMHB4ICFpbXBvcnRhbnQ7Cn0KI2dsb2JhbC1zaWRlLW1lbnUtY29udGVudHMtbW9kYWwuZ2xvYmFsLXNpZGUtbWVudS1jb250ZW50cy1tb2RhbCB7CiAgICB3aWR0aDogMTBweCAhaW1wb3J0YW50OwogICAgaGVpZ2h0OiAxMHB4ICFpbXBvcnRhbnQ7Cn0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2696,10 +2685,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgnLnVpLXdpZGdldC1jb250ZW50LnNsaWNrLXJvd1tkYXRhLXJvdz0iJyArIGkgKyAnIl0nKS5maW5kKCIubDUiKS5jc3MoJ2JhY2tncm91bmQtY29sb3InLCAnI0M2REFGQicpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgnLnVpLXdpZGdldC1jb250ZW50LnNsaWNrLXJvd1tkYXRhLXJvdz0iJyArIGkgKyAnIl0nKS5maW5kKCIubDUiKS5jc3MoJ2JhY2tncm91bmQtY29sb3InLCAnI0M2REFGQicpOwo=</text>
+        <text encoding="base64">I2dsb2JhbC1zaWRlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
