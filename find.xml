@@ -3,7 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.html, *css, *js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -25,6 +25,7 @@
       <mask>*.html, *.js, *.css</mask>
       <mask>*.html, *.js</mask>
       <mask>*.java</mask>
+      <mask>*.html, *css, *js</mask>
     </recentFileMasks>
   </component>
 </application>
