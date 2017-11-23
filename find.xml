@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[hue-hr-attcore-biz] - C:\HUE\WorkSpace\Develop\hue-hr-attcore\hue-hr-attcore-biz\src\test\java\com\worksap\company\hue\hr\biz\attcore\attendancemaster\personal\PersonalMasterServiceTestConfig.java'" />
-    <option name="defaultScopeName" value="File '[hue-hr-attcore-biz] - C:\HUE\WorkSpace\Develop\hue-hr-attcore\hue-hr-attcore-biz\src\test\java\com\worksap\company\hue\hr\biz\attcore\attendancemaster\personal\PersonalMasterServiceTestConfig.java'" />
-    <option name="SEARCH_SCOPE" value="File '[hue-hr-attcore-biz] - C:\HUE\WorkSpace\Develop\hue-hr-attcore\hue-hr-attcore-biz\src\test\java\com\worksap\company\hue\hr\biz\attcore\attendancemaster\personal\PersonalMasterServiceTestConfig.java'" />
-    <option name="FILE_MASK" value="*.java,*.xml,*.js" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*js,*html,*css" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -13,7 +13,6 @@
       <mask>*.py</mask>
       <mask>*.html</mask>
       <mask>*.xml</mask>
-      <mask>*.java</mask>
       <mask>*.xml,*.java</mask>
       <mask>*.xml,*.java,*.js</mask>
       <mask>*.js</mask>
@@ -23,6 +22,12 @@
       <mask>*.js,*html,*.java</mask>
       <mask>*.js,*xml,*.java</mask>
       <mask>*.java,*.xml,*.js</mask>
+      <mask>*.html, *.js, *.css</mask>
+      <mask>*.html, *.js</mask>
+      <mask>*.java</mask>
+      <mask>*.html, *css, *js</mask>
+      <mask>pom</mask>
+      <mask>*js,*html,*css</mask>
     </recentFileMasks>
   </component>
 </application>
