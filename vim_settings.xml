@@ -74,6 +74,7 @@
         <mark key="^" line="268" column="26" />
         <mark key="." line="268" column="26" />
       </file>
+      <file name="C:/HUE/WorkSpace/Develop/conversion-nbh-csr/source/java/jp/co/worksap/companyweb/service/shuro/timedata_imp/MakeTimeDataImpFromBatch.java" timestamp="1511517375236" />
       <file name="C:/DemoLegacy/WorkSpace/HUE/company-concept-design/company-hue-front/src/main/webapp/WEB-INF/templates/onboarding/training/training-detail1/widget/next-trainings-en.xml" timestamp="1475454434747">
         <mark key="[" line="7" column="6" />
         <mark key="]" line="7" column="29" />
@@ -674,6 +675,7 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="59" column="76" />
       </file>
+      <file name="C:/HUE/WorkSpace/Develop/conversion-nbh-csr/source/java/jp/co/worksap/companyweb/service/shuro/timedata_imp/TimeDataImpKickBatch.java" timestamp="1511517464077" />
       <file name="C:/DemoLegacy/WorkSpace/HUE/company-concept-design/company-hue-front/src/main/less/components/hr-onboarding-profile-common-fix.less" timestamp="1474958484627">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
@@ -2409,6 +2411,9 @@
         <mark key="." line="5" column="111" />
         <mark key="^" line="5" column="111" />
       </file>
+      <file name="C:/HUE/WorkSpace/Develop/conversion-nbh-csr/source/java/jp/co/worksap/companyweb/sys/shuro/kinmuinfo/timedata/TimeRecSetUp.java" timestamp="1511517808132">
+        <mark key="'" line="762" column="29" />
+      </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/daily/DailyDayLimitValidatorImpl.java" timestamp="1476249261095">
         <mark key="[" line="20" column="83" />
         <mark key="]" line="20" column="85" />
@@ -2585,7 +2590,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="22" filename="$MAVEN_REPOSITORY$/com/worksap/company/edp2-api-normal-batch/16.11.00.0000.20161017.1418/edp2-api-normal-batch-16.11.00.0000.20161017.1418-sources.jar!/com/worksap/company/edp2/api/normal/batch/AbstractNormalBatchMain.java" />
       <jump line="258" column="5" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyLateArrivalEarlyLeaveValidatorImpl.java" />
       <jump line="130" column="32" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/test/java/com/worksap/company/hue/hr/biz/attendance/service/validator/monthly/MonthlyReasonMasterInputValidatorImplTest.java" />
       <jump line="12" column="13" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-biz/src/main/java/com/worksap/company/hue/hr/biz/attendance/vo/builder/DailyAttendanceNonAttendanceVoBuilder.java" />
@@ -2685,6 +2689,7 @@
       <jump line="4" column="18" filename="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-mock/company-hue-mock-front/src/main/webapp/pages/hr-attendance-work-schedule-portal/template/portal1-check.html" />
       <jump line="312" column="50" filename="C:/Develop/WorkSpace/CONCEPT/company-concept-design/company-hue-mock/company-hue-mock-front/src/main/webapp/pages/hr-attendance-work-schedule/attendance-monthly-report.html" />
       <jump line="76" column="28" filename="C:/HUE/WorkSpace/Develop/conversion-nbh-csr/source/java/jp/co/worksap/companyweb/service/shuro/apsaplservlet/maketimedata/MakeTimeDataUsualProcess.java" />
+      <jump line="762" column="29" filename="C:/HUE/WorkSpace/Develop/conversion-nbh-csr/source/java/jp/co/worksap/companyweb/sys/shuro/kinmuinfo/timedata/TimeRecSetUp.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
