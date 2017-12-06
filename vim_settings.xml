@@ -2088,9 +2088,9 @@
         <mark key="^" line="48" column="34" />
         <mark key="." line="48" column="34" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/environment-tools/merge-conversion2attclockinout/functions" timestamp="1512485238620">
-        <mark key="[" line="130" column="2" />
-        <mark key="]" line="130" column="2" />
+      <file name="C:/HUE/WorkSpace/Develop/environment-tools/merge-conversion2attclockinout/functions" timestamp="1512548332090">
+        <mark key="[" line="122" column="8" />
+        <mark key="]" line="122" column="25" />
         <mark key="^" line="70" column="11" />
         <mark key="." line="130" column="2" />
       </file>
@@ -3007,7 +3007,7 @@
         <text encoding="base64">XDxmcm9tU3RyaW5nXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>${_HUE_GIT_BASE_BRANCH}</text>
+        <text>_CONV_GIT_TAG_NAME</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBnaXQgY2hlY2tvdXQgJHtfSFVFX0dJVF9CQVNFX0JSQU5DSH0K</text>
