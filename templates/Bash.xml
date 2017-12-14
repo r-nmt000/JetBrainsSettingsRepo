@@ -1,6 +1,5 @@
 <templateSet group="Bash">
   <template name="forfiles" value="for $file_path$ in `find . -name &quot;$condition&quot; -type f`&#10;do&#10;done" description="for files" toReformat="false" toShortenFQNames="true">
     <variable name="file_path" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
 </templateSet>
