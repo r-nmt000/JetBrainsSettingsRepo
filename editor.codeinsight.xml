@@ -5,4 +5,7 @@
     <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
     <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
   </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="AUTOREPARSE_DELAY" value="10000" />
+  </component>
 </application>
