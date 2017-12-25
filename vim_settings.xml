@@ -47,7 +47,12 @@
         <mark key="." line="33" column="55" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/conv/sys/shuro/air/arm/ArmFileDataManager.java" timestamp="1513944510226" />
-      <file name="C:/HUE/WorkSpace/Develop/environment-tools/merge-conversion2attclockinout/functions" timestamp="1514177695021" />
+      <file name="C:/HUE/WorkSpace/Develop/environment-tools/merge-conversion2attclockinout/functions" timestamp="1514198487378">
+        <mark key="[" line="138" column="77" />
+        <mark key="]" line="138" column="76" />
+        <mark key="^" line="138" column="76" />
+        <mark key="." line="138" column="76" />
+      </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/conv/sys/shuro/fixed_term_human_resource/cfg/dao/FhrSettingDaoInserter.java" timestamp="1514032477629" />
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attclockinout/hue-hr-attclockinout-bizcore/src/main/java/com/worksap/company/hue/hr/bizcore/attclockinout/conv/service/shuro/apsaplservlet/maketimedata/MakeTimeDataUsualProcess.java" timestamp="1513948172723">
         <mark key="'" line="104" column="66" />
@@ -575,8 +580,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tU3RyaW5nXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">SFVFX0dJVF9QUk9KRUNUPWBnZXRWYXIgIkhVRV8iJHtIVUVfQ09ERX0iX1BST0pFQ1QiYApIVUVfR0lUX1BST0pFQ1RfVVJMPWBnZXRWYXIgIkhVRV8iJHtIVUVfQ09ERX0iX1BST0pFQ1RfVVJMImAK</text>
+      <register name="0" type="4">
+        <text>${_CONV_HUE_MAPPING}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgPHZlcnNpb24+MTcuMTIuYXR0ZW5kYW5jZS1TTkFQU0hPVDwvdmVyc2lvbj4K</text>
