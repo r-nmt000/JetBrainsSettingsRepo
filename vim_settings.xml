@@ -19,7 +19,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1515054775357">
+      <file name="/a.dummy" timestamp="1515056041588">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -119,6 +119,10 @@
         <mark key="]" line="34" column="4" />
         <mark key="." line="22" column="71" />
         <mark key="^" line="22" column="71" />
+      </file>
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/test/java/com/worksap/company/hue/hr/biz/attcore/attendancemaster/attendance_term/AttendanceTermServiceTest.java" timestamp="1515056577639">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="30" column="53" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.6.0/hadoop-common-2.6.0-sources.jar!/org/apache/hadoop/util/Shell.java" timestamp="1515041361924" />
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/conv/cws/companyweb/sys/date/DateUtils.java" timestamp="1514697564600">
@@ -311,6 +315,12 @@
         <mark key="^" line="12" column="41" />
         <mark key="." line="12" column="41" />
       </file>
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-batch-spark/src/test/java/com/worksap/company/hue/hr/batch/spark/attendance/informationinquiry/attendancemonitor/service/AttendanceProfileCardUpdateServiceImplTest.java" timestamp="1515057079713">
+        <mark key="[" line="7" column="92" />
+        <mark key="]" line="7" column="92" />
+        <mark key="." line="7" column="92" />
+        <mark key="^" line="7" column="93" />
+      </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/conv/cws/companyweb/sys/nwf/role/ScanRoleCriteria.java" timestamp="1514700369401">
         <mark key="[" line="37" column="37" />
         <mark key="]" line="37" column="38" />
@@ -418,12 +428,12 @@
       <file name="/a.regexp" timestamp="1515043446956">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-batch-spark/src/main/java/com/worksap/company/hue/hr/batch/spark/attendance/informationinquiry/attendancemonitor/service/AttendanceProfileCardUpdateServiceImpl.java" timestamp="1515052017920">
-        <mark key="'" line="531" column="24" />
-        <mark key="[" line="1781" column="0" />
-        <mark key="]" line="1781" column="0" />
-        <mark key="." line="1781" column="0" />
-        <mark key="^" line="555" column="28" />
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-batch-spark/src/main/java/com/worksap/company/hue/hr/batch/spark/attendance/informationinquiry/attendancemonitor/service/AttendanceProfileCardUpdateServiceImpl.java" timestamp="1515056901407">
+        <mark key="'" line="333" column="4" />
+        <mark key="[" line="1580" column="7" />
+        <mark key="]" line="1581" column="21" />
+        <mark key="." line="1581" column="21" />
+        <mark key="^" line="1581" column="21" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/conv/sys/shuro/kinmuinfo/KinmuMasterCtrl.java" timestamp="1514706485732">
         <mark key="[" line="275" column="70" />
@@ -448,7 +458,7 @@
         <mark key="]" line="6" column="71" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1515054780325">
+      <file name="/fragment.java" timestamp="1515056021728">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/conv/cws/common/truecs/tcs_utils/TruecsUtil.java" timestamp="1514701736021">
@@ -459,8 +469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="C:/HUE/WorkSpace/Develop/hue-hr-attclockinout/hue-hr-attclockinout-bizcore/src/main/java/com/worksap/company/hue/hr/bizcore/attclockinout/conv/service/shuro/apsaplservlet/MakeTimeDataKick.java" />
-      <jump line="26" column="0" filename="C:/HUE/WorkSpace/Develop/hue-hr-attclockinout/hue-hr-attclockinout-bizcore/src/main/java/com/worksap/company/hue/hr/bizcore/attclockinout/conv/service/shuro/apsaplservlet/MakeTimeDataAndDD.java" />
       <jump line="104" column="66" filename="C:/HUE/WorkSpace/Develop/hue-hr-attclockinout/hue-hr-attclockinout-bizcore/src/main/java/com/worksap/company/hue/hr/bizcore/attclockinout/conv/service/shuro/apsaplservlet/maketimedata/MakeTimeDataUsualProcess.java" />
       <jump line="95" column="0" filename="C:/HUE/WorkSpace/Develop/hue-hr-attclockinout/hue-hr-attclockinout-bizcore/src/main/java/com/worksap/company/hue/hr/bizcore/attclockinout/conv/service/shuro/timedata_imp/TimeDataImpKickBatch.java" />
       <jump line="55" column="0" filename="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/vacation/restrict_filter/rst_cfg_num/VcAbstractRstCfgLmt.java" />
@@ -559,6 +567,8 @@
       <jump line="18" column="57" filename="C:/eclipse/self-workflow-17.11.89.01/WEB-INF/lib/truecs-17.11.89.01.jar!/jp/co/worksap/company/truecs/TcsResultInfo.class" />
       <jump line="0" column="0" filename="C:/eclipse/self-workflow-17.11.89.01/WEB-INF/lib/truecs-17.11.89.01.jar!/jp/co/worksap/company/truecs/TcsResultInfo.class" />
       <jump line="531" column="24" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-batch-spark/src/main/java/com/worksap/company/hue/hr/batch/spark/attendance/informationinquiry/attendancemonitor/service/AttendanceProfileCardUpdateServiceImpl.java" />
+      <jump line="694" column="0" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-batch-spark/src/main/java/com/worksap/company/hue/hr/batch/spark/attendance/informationinquiry/attendancemonitor/service/AttendanceProfileCardUpdateServiceImpl.java" />
+      <jump line="332" column="4" filename="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-batch-spark/src/main/java/com/worksap/company/hue/hr/batch/spark/attendance/informationinquiry/attendancemonitor/service/AttendanceProfileCardUpdateServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -854,43 +864,40 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>PersonalAttendanceMaster</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tU3RyaW5nXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBCZWZvcmUKICAgIHB1YmxpYyB2b2lkIHNldFVwKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgbWFzdGVyID0gc3B5KG5ldyBQZXJzb25hbEF0dGVuZGFuY2VNYXN0ZXIobmV3IFVVSUQoMSwgMCksIG51bGwsIG51bGwsIG51bGwsIG51bGwsCiAgICAgICAgICAgICAgICBudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLAogICAgICAgICAgICAgICAgbnVsbCwgbnVsbCwgbnVsbCwgbnVsbCwgbnVsbCwKICAgICAgICAgICAgICAgIG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwpKTsKICAgIH0K</text>
+      <register name="0" type="4">
+        <text>null, null, null, null, null,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBzZXRBdHRlbmRhbmNlQXJndW1lbnRzKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CgogICAgfQo=</text>
+        <text encoding="base64">QENvbnRleHRDb25maWd1cmF0aW9uKGNsYXNzZXMgPSB7CiAgICAgICAgQXR0ZW5kYW5jZVByb2ZpbGVDYXJkVXBkYXRlU3ByaW5nQ29uZmlnLmNsYXNzIH0pCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>new UUID(1, 0), null, null, null, null,
-                null, null, null, null, null,
-                null, null, null, null, null,
-                null, null, null, null, null, null</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEAK</text>
+        <text encoding="base64">ICAgICAgICBzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgYXJnID0gIklsbGVnYWxBcmdzIjsKICAgICAgICBQcm9maWxlQmF0Y2hFeGVjdXRlTW9kZSByZXN1bHQgPSBQcm9maWxlQmF0Y2hFeGVjdXRlTW9kZS5nZXRWYWx1ZShhcmcpOwogICAgICAgIGFzc2VydE51bGwocmVzdWx0KTsKCiAgICAgICAgYXJnID0gIlNraXBPdmVydmlld0NhcmQiOwogICAgICAgIHJlc3VsdCA9IFByb2ZpbGVCYXRjaEV4ZWN1dGVNb2RlLmdldFZhbHVlKGFyZyk7CiAgICAgICAgYXNzZXJ0TnVsbChyZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhcmdzCg==</text>
+        <text encoding="base64">ICAgICAgICBBdHRlbmRhbmNlVGVybVNlcnZpY2VDb25maWcuY2xhc3MsCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -931,10 +938,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS53b3Jrc2FwLmNvbXBhbnkuaHVlLmhyLmJpei5hdHRjb3JlLmF0dGVuZGFuY2VtYXN0ZXIuYXR0ZW5kYW5jZV90ZXJtLkF0dGVuZGFuY2VUZXJtU2VydmljZUNvbmZpZzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgd29ya3Mgb24gMjAxOC8wMS8wNC4KICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
