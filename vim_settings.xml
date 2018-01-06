@@ -453,6 +453,12 @@
         <mark key="^" line="37" column="41" />
         <mark key="." line="37" column="41" />
       </file>
+      <file name="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/conv/sys/shuro/kinmuinfo/KinmuCombinationList.java" timestamp="1515238462214">
+        <mark key="[" line="544" column="18" />
+        <mark key="]" line="544" column="27" />
+        <mark key="^" line="544" column="27" />
+        <mark key="." line="544" column="27" />
+      </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/conv/cws/common/batchConnectionManager.java" timestamp="1515221931563">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -985,29 +991,29 @@
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tU3RyaW5nXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLnBvaTwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+cG9pPC9hcnRpZmFjdElkPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
+      <register name="0" type="4">
+        <text>&quot;KinmuCombinationList#getAvailableKinmuCombinationList() newInputMode return&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIgPSBMb2dnZXIuCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oIktpbm11Q29tYmluYXRpb25MaXN0I2dldEF2YWlsYWJsZUtpbm11Q29tYmluYXRpb25MaXN0KCkgbmV3SW5wdXRNb2RlIHJldHVybiIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLmxvZ2dpbmcubG9nNGo8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmxvZzRqLWNvcmU8L2FydGlmYWN0SWQ+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIgPSBMb2dnZXIuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5sb2c0ajwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+bG9nNGo8L2FydGlmYWN0SWQ+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLmxvZ2dpbmcubG9nNGo8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmxvZzRqLWNvcmU8L2FydGlmYWN0SWQ+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDx2ZXJzaW9uPjIuMTAuMDwvdmVyc2lvbj4K</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5sb2c0ajwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+bG9nNGo8L2FydGlmYWN0SWQ+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDx2ZXJzaW9uPjEuMi4xNjwvdmVyc2lvbj4K</text>
+        <text encoding="base64">ICAgIDx2ZXJzaW9uPjIuMTAuMDwvdmVyc2lvbj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPHNjb3BlPmNvbXBpbGU8L3Njb3BlPgo=</text>
+        <text encoding="base64">ICAgIDx2ZXJzaW9uPjEuMi4xNjwvdmVyc2lvbj4K</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
@@ -1054,10 +1060,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAgICA8dmVyc2lvbj48L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgPHNjb3BlPmNvbXBpbGU8L3Njb3BlPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctd2ViPC9hcnRpZmFjdElkPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">CSAgICA8dmVyc2lvbj48L3ZlcnNpb24+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
