@@ -98,13 +98,13 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/MyBootApp/src/main/java/com/rnmt000/SampleController.java" timestamp="1516020406821">
+      <file name="$USER_HOME$/repos/MyBootApp/src/main/java/com/rnmt000/SampleController.java" timestamp="1516023754472">
         <mark key="'" line="19" column="8" />
         <mark key="j" line="15" column="0" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="52" column="27" />
-        <mark key="." line="53" column="0" />
+        <mark key="[" line="53" column="72" />
+        <mark key="]" line="54" column="45" />
+        <mark key="^" line="54" column="45" />
+        <mark key="." line="54" column="45" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/bookstore/src/main/java/com/worksap/bootcamp/spring/bookstore/impl/services/FlashServiceImpl.java" timestamp="1515661318170">
         <mark key="[" line="25" column="0" />
@@ -378,11 +378,11 @@
         <mark key="^" line="12" column="88" />
         <mark key="." line="12" column="88" />
       </file>
-      <file name="$USER_HOME$/repos/MyBootApp/pom.xml" timestamp="1515852750453">
-        <mark key="[" line="22" column="6" />
-        <mark key="]" line="25" column="17" />
-        <mark key="^" line="22" column="5" />
-        <mark key="." line="22" column="6" />
+      <file name="$USER_HOME$/repos/MyBootApp/pom.xml" timestamp="1516023270976">
+        <mark key="[" line="36" column="24" />
+        <mark key="]" line="36" column="29" />
+        <mark key="." line="36" column="29" />
+        <mark key="^" line="36" column="29" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/bookstore/src/main/java/com/worksap/bootcamp/spring/bookstore/spec/configuration/BookStoreConfiguration.java" timestamp="1515753721731">
         <mark key="[" line="61" column="0" />
@@ -414,17 +414,23 @@
         <mark key="^" line="36" column="68" />
         <mark key="." line="36" column="68" />
       </file>
-      <file name="$USER_HOME$/repos/MyBootApp/src/main/resources/templates/thymeleaf.html" timestamp="1516021083446">
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="9" column="20" />
-        <mark key="." line="9" column="20" />
-        <mark key="^" line="9" column="20" />
+      <file name="$USER_HOME$/repos/MyBootApp/src/main/resources/templates/thymeleaf.html" timestamp="1516024211845">
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="10" column="25" />
+        <mark key="^" line="10" column="25" />
+        <mark key="." line="10" column="25" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/conversion-nbh-csr/source/java/jp/co/worksap/companyweb/sys/shuro/SrwSendMail.java" timestamp="1513767626911">
         <mark key="[" line="213" column="10" />
         <mark key="]" line="213" column="20" />
         <mark key="." line="213" column="20" />
         <mark key="^" line="213" column="20" />
+      </file>
+      <file name="$USER_HOME$/repos/MyBootApp/src/main/java/com/rnmt000/DataObject.java" timestamp="1516024129524">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="6" column="18" />
+        <mark key="^" line="6" column="18" />
+        <mark key="." line="6" column="18" />
       </file>
       <file name="$USER_HOME$/repos/learnjs/public/app.js" timestamp="1515344050879">
         <mark key="[" line="20" column="4" />
@@ -882,40 +888,40 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>Title</text>
+        <text>*{email}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRleHQvaHRtbCIgY2hhcnNldD0iVVRGLTgiLz4K</text>
+        <text encoding="base64">ICA8dHI+CiAgICA8dGg+PC90aD48dGQ+PC90ZD4KICA8L3RyPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+Cg==</text>
+        <text encoding="base64">ICA8dHI+CiAgICA8dGg+PC90aD4KICA8L3RyPgogIDx0cj4KICAgIDx0aD48L3RoPgogIDwvdHI+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIDx0aD48L3RoPgogICAgPHRoPjwvdGg+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZXBlbmRlbmN5awo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbEFuZFZpZXcuYWRkT2JqZWN0KCJ2YWx1ZSIsIHN0cik7Cg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbm9tb3RvIG9uIDEvMTUvMTguCiAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxpbnB1dCB0eXBlPSJzdWJtaXQiIHZhbHVlPSJDbGljayIvPgo=</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbm9tb3RvIG9uIDEvMTUvMTguCiAqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+Cg==</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGFja2FnZSBoZWxsbzsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -956,10 +962,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIEhlbGxvIHdvcmxkIQogKgogKi8KcHVibGljIGNsYXNzIEFwcAp7CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbiggU3RyaW5nW10gYXJncyApCiAgICB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCAiSGVsbG8gV29ybGQhIiApOwogICAgfQp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqIEhlbGxvIHdvcmxkIQogKgogKi8KcHVibGljIGNsYXNzIEFwcCAKewogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oIFN0cmluZ1tdIGFyZ3MgKQogICAgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbiggIkhlbGxvIFdvcmxkISIgKTsKICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbEFuZFZpZXcuYWRkT2JqZWN0KCJ2YWx1ZSIsIHN0cik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
