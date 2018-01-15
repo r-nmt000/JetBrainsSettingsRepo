@@ -98,13 +98,13 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/MyBootApp/src/main/java/com/rnmt000/SampleController.java" timestamp="1515994074092">
+      <file name="$USER_HOME$/repos/MyBootApp/src/main/java/com/rnmt000/SampleController.java" timestamp="1516020406821">
         <mark key="'" line="19" column="8" />
         <mark key="j" line="15" column="0" />
-        <mark key="[" line="39" column="25" />
-        <mark key="]" line="39" column="25" />
-        <mark key="^" line="39" column="25" />
-        <mark key="." line="39" column="25" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="52" column="27" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/bookstore/src/main/java/com/worksap/bootcamp/spring/bookstore/impl/services/FlashServiceImpl.java" timestamp="1515661318170">
         <mark key="[" line="25" column="0" />
@@ -253,9 +253,10 @@
         <mark key="." line="19" column="53" />
         <mark key="^" line="19" column="53" />
       </file>
-      <file name="$USER_HOME$/repos/MyBootApp/src/main/resources/templates/index.html" timestamp="1515993309822">
-        <mark key="[" line="42" column="6" />
-        <mark key="]" line="42" column="5" />
+      <file name="$USER_HOME$/repos/MyBootApp/src/main/resources/templates/index.html" timestamp="1516020751510">
+        <mark key="'" line="19" column="5" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="71" />
         <mark key="." line="42" column="5" />
         <mark key="^" line="42" column="5" />
       </file>
@@ -413,6 +414,12 @@
         <mark key="^" line="36" column="68" />
         <mark key="." line="36" column="68" />
       </file>
+      <file name="$USER_HOME$/repos/MyBootApp/src/main/resources/templates/thymeleaf.html" timestamp="1516021083446">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="20" />
+        <mark key="." line="9" column="20" />
+        <mark key="^" line="9" column="20" />
+      </file>
       <file name="C:/HUE/WorkSpace/Develop/conversion-nbh-csr/source/java/jp/co/worksap/companyweb/sys/shuro/SrwSendMail.java" timestamp="1513767626911">
         <mark key="[" line="213" column="10" />
         <mark key="]" line="213" column="20" />
@@ -480,7 +487,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="0" filename="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/conv/cws/companyweb/sys/nwf/SubmitFlowContext.java" />
       <jump line="61" column="32" filename="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/conv/cws/companyweb/sys/nwf/SubmitFlowContext.java" />
       <jump line="42" column="4" filename="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/conv/cws/companyweb/sys/nwf/SubmitFlowContext.java" />
       <jump line="52" column="28" filename="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/conv/cws/companyweb/sys/CwsControlTbl.java" />
@@ -580,6 +586,7 @@
       <jump line="21" column="20" filename="$USER_HOME$/repos/MyBootApp/src/main/java/com/rnmt000/SampleController.java" />
       <jump line="16" column="0" filename="$USER_HOME$/repos/MyBootApp/src/main/java/com/rnmt000/SampleController.java" />
       <jump line="17" column="8" filename="$USER_HOME$/repos/MyBootApp/src/main/java/com/rnmt000/SampleController.java" />
+      <jump line="19" column="5" filename="$USER_HOME$/repos/MyBootApp/src/main/resources/templates/index.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -875,40 +882,40 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>radioB</text>
+        <text>Title</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">dmFsdWUgPSA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICA8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRleHQvaHRtbCIgY2hhcnNldD0iVVRGLTgiLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbEFuZFZpZXcuYWRkT2JqZWN0KCJ2YWx1ZSIsIHN0cik7Cg==</text>
+        <text encoding="base64">ICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxpbnB1dCB0eXBlPSJzdWJtaXQiIHZhbHVlPSJDbGljayIvPgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGFja2FnZSBoZWxsbzsK</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbEFuZFZpZXcuYWRkT2JqZWN0KCJ2YWx1ZSIsIHN0cik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCiAqIEhlbGxvIHdvcmxkIQogKgogKi8KcHVibGljIGNsYXNzIEFwcAp7CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbiggU3RyaW5nW10gYXJncyApCiAgICB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCAiSGVsbG8gV29ybGQhIiApOwogICAgfQp9Cg==</text>
+        <text encoding="base64">ICAgIDxpbnB1dCB0eXBlPSJzdWJtaXQiIHZhbHVlPSJDbGljayIvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCiAqIEhlbGxvIHdvcmxkIQogKgogKi8KcHVibGljIGNsYXNzIEFwcCAKewogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oIFN0cmluZ1tdIGFyZ3MgKQogICAgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbiggIkhlbGxvIFdvcmxkISIgKTsKICAgIH0KfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAqIEhlbGxvIHdvcmxkIQogKgogKi8KcHVibGljIGNsYXNzIEFwcCAKewogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oIFN0cmluZ1tdIGFyZ3MgKQogICAgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbiggIkhlbGxvIFdvcmxkISIgKTsKICAgIH0KfQo=</text>
+        <text encoding="base64">cGFja2FnZSBoZWxsbzsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -949,10 +956,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIEF1dG8tZ2VuZXJhdGVkIG1ldGhvZCBzdHViCgkJcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">LyoqCiAqIEhlbGxvIHdvcmxkIQogKgogKi8KcHVibGljIGNsYXNzIEFwcAp7CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbiggU3RyaW5nW10gYXJncyApCiAgICB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCAiSGVsbG8gV29ybGQhIiApOwogICAgfQp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIEltcGxlbWVudCBpdCEKCQlyZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">LyoqCiAqIEhlbGxvIHdvcmxkIQogKgogKi8KcHVibGljIGNsYXNzIEFwcCAKewogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oIFN0cmluZ1tdIGFyZ3MgKQogICAgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbiggIkhlbGxvIFdvcmxkISIgKTsKICAgIH0KfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
