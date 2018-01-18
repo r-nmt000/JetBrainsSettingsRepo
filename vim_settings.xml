@@ -353,11 +353,11 @@
         <mark key="." line="31" column="69" />
         <mark key="^" line="31" column="69" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/webeditor/src/main/java/com/worksap/bootcamp/webeditor/controller/ArticleController.java" timestamp="1516243163353">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="C:/HUE/WorkSpace/Develop/webeditor/src/main/java/com/worksap/bootcamp/webeditor/controller/ArticleController.java" timestamp="1516244162996">
+        <mark key="[" line="48" column="47" />
+        <mark key="]" line="48" column="12" />
+        <mark key="^" line="48" column="12" />
+        <mark key="." line="48" column="12" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/conv/sys/shuro/SrwSendNotesMail.java" timestamp="1513841795473">
         <mark key="[" line="80" column="0" />
@@ -868,13 +868,13 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>articleVo</text>
+        <text>articleService</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>RequestParam</text>
+        <text>this.articleService.create(detail.convertToVo())</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQo=</text>
