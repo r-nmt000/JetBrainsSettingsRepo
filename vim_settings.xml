@@ -353,11 +353,11 @@
         <mark key="." line="31" column="69" />
         <mark key="^" line="31" column="69" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/webeditor/src/main/java/com/worksap/bootcamp/webeditor/controller/ArticleController.java" timestamp="1516237274174">
-        <mark key="[" line="65" column="46" />
-        <mark key="]" line="66" column="7" />
-        <mark key="^" line="66" column="7" />
-        <mark key="." line="66" column="7" />
+      <file name="C:/HUE/WorkSpace/Develop/webeditor/src/main/java/com/worksap/bootcamp/webeditor/controller/ArticleController.java" timestamp="1516243163353">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/conv/sys/shuro/SrwSendNotesMail.java" timestamp="1513841795473">
         <mark key="[" line="80" column="0" />
@@ -868,7 +868,7 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>RequestParam</text>
+        <text>articleVo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</text>
@@ -877,31 +877,31 @@
         <text>RequestParam</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGFja2FnZSBoZWxsbzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqIEhlbGxvIHdvcmxkIQogKgogKi8KcHVibGljIGNsYXNzIEFwcAp7CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbiggU3RyaW5nW10gYXJncyApCiAgICB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCAiSGVsbG8gV29ybGQhIiApOwogICAgfQp9Cg==</text>
+        <text encoding="base64">cGFja2FnZSBoZWxsbzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqIEhlbGxvIHdvcmxkIQogKgogKi8KcHVibGljIGNsYXNzIEFwcCAKewogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oIFN0cmluZ1tdIGFyZ3MgKQogICAgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbiggIkhlbGxvIFdvcmxkISIgKTsKICAgIH0KfQo=</text>
+        <text encoding="base64">LyoqCiAqIEhlbGxvIHdvcmxkIQogKgogKi8KcHVibGljIGNsYXNzIEFwcAp7CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbiggU3RyaW5nW10gYXJncyApCiAgICB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCAiSGVsbG8gV29ybGQhIiApOwogICAgfQp9Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">LyoqCiAqIEhlbGxvIHdvcmxkIQogKgogKi8KcHVibGljIGNsYXNzIEFwcCAKewogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oIFN0cmluZ1tdIGFyZ3MgKQogICAgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbiggIkhlbGxvIFdvcmxkISIgKTsKICAgIH0KfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIEF1dG8tZ2VuZXJhdGVkIG1ldGhvZCBzdHViCgkJcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">LyoqCiAqIEhlbGxvIHdvcmxkIQogKgogKi8KcHVibGljIGNsYXNzIEFwcCAKewogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oIFN0cmluZ1tdIGFyZ3MgKQogICAgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbiggIkhlbGxvIFdvcmxkISIgKTsKICAgIH0KfQo=</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIEltcGxlbWVudCBpdCEKCQlyZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">CQkvLyBUT0RPIEF1dG8tZ2VuZXJhdGVkIG1ldGhvZCBzdHViCgkJcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -942,13 +942,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl0aGlzLnRlbXBsYXRlID0gdGVtcGxhdGU7Cg==</text>
+        <text encoding="base64">CQkvLyBUT0RPIEltcGxlbWVudCBpdCEKCQlyZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXByaXZhdGUgSmRiY1RlbXBsYXRlIHRlbXBsYXRlOwo=</text>
+        <text encoding="base64">CQl0aGlzLnRlbXBsYXRlID0gdGVtcGxhdGU7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -974,9 +974,9 @@
         <entry>;w</entry>
         <entry>wq</entry>
         <entry>w]</entry>
-        <entry>w</entry>
         <entry>actionlist</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
