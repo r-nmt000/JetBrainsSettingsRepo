@@ -223,11 +223,11 @@
         <mark key="^" line="16" column="53" />
         <mark key="." line="15" column="30" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/webeditor/src/main/java/com/worksap/bootcamp/webeditor/service/ArticleServiceImpl.java" timestamp="1515834914746">
-        <mark key="[" line="19" column="53" />
-        <mark key="]" line="19" column="53" />
-        <mark key="." line="19" column="53" />
-        <mark key="^" line="19" column="53" />
+      <file name="C:/HUE/WorkSpace/Develop/webeditor/src/main/java/com/worksap/bootcamp/webeditor/service/ArticleServiceImpl.java" timestamp="1516247359882">
+        <mark key="[" line="31" column="15" />
+        <mark key="]" line="31" column="24" />
+        <mark key="." line="31" column="24" />
+        <mark key="^" line="31" column="24" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/conv/sys/shuro/SrwDate.java" timestamp="1515242517489">
         <mark key="[" line="559" column="40" />
@@ -875,7 +875,7 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>new ArticleEntity(this.getId(), this.getContent(), this.getTitle(), this.getTags());</text>
+        <text>newRecord</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</text>
@@ -883,26 +883,27 @@
       <register name="0" type="4">
         <text>this.articleService.create(detail.convertToVo())</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8JCXN1cGVyKCk7Cg==</text>
+      <register name="1" type="4">
+        <text>new ArticleVo.Builder().id(newId).title(newRecord.getTitle())
+				.content(newRecord.getContent()).tags(newRecord.getTags()).build();</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Ly8JCXN1cGVyKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGFja2FnZSBoZWxsbzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCiAqIEhlbGxvIHdvcmxkIQogKgogKi8KcHVibGljIGNsYXNzIEFwcAp7CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbiggU3RyaW5nW10gYXJncyApCiAgICB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCAiSGVsbG8gV29ybGQhIiApOwogICAgfQp9Cg==</text>
+        <text encoding="base64">cGFja2FnZSBoZWxsbzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCiAqIEhlbGxvIHdvcmxkIQogKgogKi8KcHVibGljIGNsYXNzIEFwcCAKewogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oIFN0cmluZ1tdIGFyZ3MgKQogICAgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbiggIkhlbGxvIFdvcmxkISIgKTsKICAgIH0KfQo=</text>
+        <text encoding="base64">LyoqCiAqIEhlbGxvIHdvcmxkIQogKgogKi8KcHVibGljIGNsYXNzIEFwcAp7CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbiggU3RyaW5nW10gYXJncyApCiAgICB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCAiSGVsbG8gV29ybGQhIiApOwogICAgfQp9Cg==</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
@@ -949,10 +950,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIEF1dG8tZ2VuZXJhdGVkIG1ldGhvZCBzdHViCgkJcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">LyoqCiAqIEhlbGxvIHdvcmxkIQogKgogKi8KcHVibGljIGNsYXNzIEFwcCAKewogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oIFN0cmluZ1tdIGFyZ3MgKQogICAgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbiggIkhlbGxvIFdvcmxkISIgKTsKICAgIH0KfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIEltcGxlbWVudCBpdCEKCQlyZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">CQkvLyBUT0RPIEF1dG8tZ2VuZXJhdGVkIG1ldGhvZCBzdHViCgkJcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
