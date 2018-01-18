@@ -200,6 +200,12 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="4" column="16" />
       </file>
+      <file name="C:/HUE/WorkSpace/Develop/webeditor/src/main/java/com/worksap/bootcamp/webeditor/entity/ArticleEntity.java" timestamp="1516246101830">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="22" column="15" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="C:/HUE/WorkSpace/Develop/bookstore/src/main/java/com/worksap/bootcamp/spring/bookstore/impl/dao/OrderHeaderDaoImpl.java" timestamp="1515727585563">
         <mark key="[" line="92" column="12" />
         <mark key="]" line="93" column="8" />
@@ -353,12 +359,6 @@
         <mark key="." line="31" column="69" />
         <mark key="^" line="31" column="69" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/webeditor/src/main/java/com/worksap/bootcamp/webeditor/controller/ArticleController.java" timestamp="1516244609301">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/conv/sys/shuro/SrwSendNotesMail.java" timestamp="1513841795473">
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="21" />
@@ -387,6 +387,13 @@
         <mark key="]" line="9" column="44" />
         <mark key="." line="9" column="44" />
         <mark key="^" line="9" column="44" />
+      </file>
+      <file name="C:/HUE/WorkSpace/Develop/webeditor/src/main/java/com/worksap/bootcamp/webeditor/vo/ArticleVo.java" timestamp="1516244938429">
+        <mark key="'" line="95" column="41" />
+        <mark key="[" line="95" column="15" />
+        <mark key="]" line="95" column="28" />
+        <mark key="^" line="95" column="28" />
+        <mark key="." line="95" column="28" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/bookstore/src/main/java/com/worksap/bootcamp/spring/bookstore/impl/dao/CartItemRelationDaoImpl.java" timestamp="1515726745717">
         <mark key="[" line="56" column="0" />
@@ -473,7 +480,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="0" filename="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/conv/cws/companyweb/sys/nwf/SubmitFlowContext.java" />
       <jump line="61" column="32" filename="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/conv/cws/companyweb/sys/nwf/SubmitFlowContext.java" />
       <jump line="42" column="4" filename="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/conv/cws/companyweb/sys/nwf/SubmitFlowContext.java" />
       <jump line="52" column="28" filename="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/conv/cws/companyweb/sys/CwsControlTbl.java" />
@@ -573,6 +579,7 @@
       <jump line="21" column="20" filename="$USER_HOME$/repos/MyBootApp/src/main/java/com/rnmt000/SampleController.java" />
       <jump line="16" column="0" filename="$USER_HOME$/repos/MyBootApp/src/main/java/com/rnmt000/SampleController.java" />
       <jump line="17" column="8" filename="$USER_HOME$/repos/MyBootApp/src/main/java/com/rnmt000/SampleController.java" />
+      <jump line="96" column="41" filename="C:/HUE/WorkSpace/Develop/webeditor/src/main/java/com/worksap/bootcamp/webeditor/vo/ArticleVo.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -868,7 +875,7 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>articleService</text>
+        <text>new ArticleEntity(this.getId(), this.getContent(), this.getTitle(), this.getTags());</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</text>
@@ -877,22 +884,22 @@
         <text>this.articleService.create(detail.convertToVo())</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Ly8JCXN1cGVyKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGFja2FnZSBoZWxsbzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqIEhlbGxvIHdvcmxkIQogKgogKi8KcHVibGljIGNsYXNzIEFwcAp7CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbiggU3RyaW5nW10gYXJncyApCiAgICB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCAiSGVsbG8gV29ybGQhIiApOwogICAgfQp9Cg==</text>
+        <text encoding="base64">cGFja2FnZSBoZWxsbzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCiAqIEhlbGxvIHdvcmxkIQogKgogKi8KcHVibGljIGNsYXNzIEFwcCAKewogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oIFN0cmluZ1tdIGFyZ3MgKQogICAgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbiggIkhlbGxvIFdvcmxkISIgKTsKICAgIH0KfQo=</text>
+        <text encoding="base64">LyoqCiAqIEhlbGxvIHdvcmxkIQogKgogKi8KcHVibGljIGNsYXNzIEFwcAp7CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbiggU3RyaW5nW10gYXJncyApCiAgICB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCAiSGVsbG8gV29ybGQhIiApOwogICAgfQp9Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">LyoqCiAqIEhlbGxvIHdvcmxkIQogKgogKi8KcHVibGljIGNsYXNzIEFwcCAKewogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oIFN0cmluZ1tdIGFyZ3MgKQogICAgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbiggIkhlbGxvIFdvcmxkISIgKTsKICAgIH0KfQo=</text>
@@ -901,7 +908,7 @@
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIEF1dG8tZ2VuZXJhdGVkIG1ldGhvZCBzdHViCgkJcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">LyoqCiAqIEhlbGxvIHdvcmxkIQogKgogKi8KcHVibGljIGNsYXNzIEFwcCAKewogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oIFN0cmluZ1tdIGFyZ3MgKQogICAgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbiggIkhlbGxvIFdvcmxkISIgKTsKICAgIH0KfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -942,10 +949,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIEltcGxlbWVudCBpdCEKCQlyZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">CQkvLyBUT0RPIEF1dG8tZ2VuZXJhdGVkIG1ldGhvZCBzdHViCgkJcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl0aGlzLnRlbXBsYXRlID0gdGVtcGxhdGU7Cg==</text>
+        <text encoding="base64">CQkvLyBUT0RPIEltcGxlbWVudCBpdCEKCQlyZXR1cm4gbnVsbDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
