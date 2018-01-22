@@ -71,11 +71,12 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/cs-i-practice/main/js/bootcamp/todolist/container/task-list.js" timestamp="1516598853164">
-        <mark key="[" line="226" column="18" />
-        <mark key="]" line="226" column="18" />
-        <mark key="." line="226" column="18" />
-        <mark key="^" line="226" column="18" />
+      <file name="C:/HUE/WorkSpace/Develop/cs-i-practice/main/js/bootcamp/todolist/container/task-list.js" timestamp="1516601843979">
+        <mark key="'" line="270" column="0" />
+        <mark key="[" line="309" column="49" />
+        <mark key="]" line="310" column="26" />
+        <mark key="." line="310" column="26" />
+        <mark key="^" line="310" column="26" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/webeditor/src/main/java/com/worksap/bootcamp/webeditor/dao/DaoFactoryCassandraImpl.java" timestamp="1515825597963">
         <mark key="[" line="6" column="10" />
@@ -102,10 +103,10 @@
         <mark key="." line="18" column="71" />
         <mark key="^" line="18" column="71" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/cs-i-practice/main/js/bootcamp/todolist/container/project-list.js" timestamp="1516598424140">
+      <file name="C:/HUE/WorkSpace/Develop/cs-i-practice/main/js/bootcamp/todolist/container/project-list.js" timestamp="1516599492956">
         <mark key="'" line="217" column="0" />
-        <mark key="[" line="172" column="0" />
-        <mark key="]" line="173" column="43" />
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="214" column="6" />
         <mark key="." line="250" column="85" />
         <mark key="^" line="250" column="85" />
       </file>
@@ -596,8 +597,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="13" filename="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/conv/cws/companyweb/sys/CwsSchem.java" />
-      <jump line="643" column="0" filename="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/conv/cws/companyweb/sys/CwsSchem.java" />
       <jump line="1202" column="37" filename="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/conv/cws/companyweb/sys/CwsUser.java" />
       <jump line="779" column="38" filename="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/conv/cws/companyweb/sys/CwsUser.java" />
       <jump line="50" column="6" filename="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/conv/cws/companyweb/sys/UserLockedException.java" />
@@ -696,6 +695,8 @@
       <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.0.6.RELEASE/spring-jdbc-4.0.6.RELEASE-sources.jar!/org/springframework/jdbc/core/JdbcTemplate.java" />
       <jump line="1612" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.0.6.RELEASE/spring-jdbc-4.0.6.RELEASE-sources.jar!/org/springframework/jdbc/core/JdbcTemplate.java" />
       <jump line="217" column="0" filename="C:/HUE/WorkSpace/Develop/cs-i-practice/main/js/bootcamp/todolist/container/project-list.js" />
+      <jump line="252" column="41" filename="C:/HUE/WorkSpace/Develop/cs-i-practice/main/js/bootcamp/todolist/container/task-list.js" />
+      <jump line="270" column="0" filename="C:/HUE/WorkSpace/Develop/cs-i-practice/main/js/bootcamp/todolist/container/task-list.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -991,40 +992,40 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>Project</text>
+        <text>PROJECT_NAME</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdHlwZSB7Z29vZy5wcm9taXNlLlJlc29sdmVyLjx3YXAuYm9vdGNhbXAudG9kb2xpc3QuZHRvLlByb2plY3Q+fSAqLwogICAgdmFyIHRyaWFsID0gZ29vZy5Qcm9taXNlLndpdGhSZXNvbHZlcigpOwo=</text>
+        <text encoding="base64">ICAgIHZhciBsaXN0SXRlbSA9IC8qKiBAdHlwZSB7d2FwLmJvb3RjYW1wLmNvbW1vbi51aS5MaXN0SXRlbS48bnVtYmVyPn0gKi8oZXZlbnQudGFyZ2V0KTsKICAgIHZhciBwcm9qZWN0SWQgPSBsaXN0SXRlbS5nZXRBc3NvY2lhdGVkRGF0YSgpOwoKICAgIGlmICghY29uZmlybSgnQXJlIHlvdSBzdXJlIHRvIGRlbGV0ZSBwcm9qZWN0IFwnJyArIGxpc3RJdGVtLmdldENhcHRpb24oKSArICdcJz8nKSkgewogICAgICAgIGV2ZW50LnByZXZlbnREZWZhdWx0KCk7CiAgICAgICAgZXZlbnQuc3RvcFByb3BhZ2F0aW9uKCk7CiAgICAgICAgcmV0dXJuOwogICAgfQoKICAgIC8qKiBAdHlwZSB7Z29vZy5wcm9taXNlLlJlc29sdmVyLjxudW1iZXI+fSAqLwogICAgdmFyIHRyaWFsID0gZ29vZy5Qcm9taXNlLndpdGhSZXNvbHZlcigpOwogICAgdHJpYWwucHJvbWlzZQogICAgICAgIC50aGVuQ2F0Y2goZnVuY3Rpb24oZXJyb3IpIHsKICAgICAgICAgICAgYWxlcnQoZXJyb3IpOwogICAgICAgIH0pOwoKICAgIHRoaXMuZGlzcGF0Y2hFdmVudChuZXcgd2FwLmJvb3RjYW1wLmNvbW1vbi5ldmVudC5Bc3luY2hyb25vdXNUcmlhbEV2ZW50KAogICAgICAgIHdhcC5ib290Y2FtcC50b2RvbGlzdC5jb250YWluZXIuUHJvamVjdExpc3QuRXZlbnRUeXBlLkRFTEVURV9QUk9KRUNULCB0cmlhbCwgcHJvamVjdElkCiAgICApKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmxpc3RfLjsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiBpbXBsZW1lbnQgbWV0aG9kIGlmIG5lZWRlZAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmxpc3RfOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiBpbXBsZW1lbnQgbWV0aG9kIGlmIG5lZWRlZAo=</text>
+        <text encoding="base64">ICAgIHZhciBpdGVtcyA9IGdvb2cuYXJyYXkubWFwKHRhc2tzLCBmdW5jdGlvbih0YXNrKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gbnVsbDsgLy8gVE9ETzogaW1wbGVtZW50IG1ldGhvZCBpZiBuZWVkZWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvago=</text>
+        <text encoding="base64">ICByZXR1cm4gbnVsbDsgLy8gVE9ETzogaW1wbGVtZW50IG1ldGhvZCBpZiBuZWVkZWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgd2FwLmJvb3RjYW1wLmNvbW1vbi51aS5TZWxlY3RhYmxlTGlzdFBsdWdpbi5nZXRJbnN0YW5jZSgpCg==</text>
+        <text encoding="base64">ICByZXR1cm4gbnVsbDsgLy8gVE9ETzogaW1wbGVtZW50IG1ldGhvZCBpZiBuZWVkZWQK</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAvLyBUT0RPOiBpbXBsZW1lbnQgbWV0aG9kIGlmIG5lZWRlZAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1065,7 +1066,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiBpbXBsZW1lbnQgbWV0aG9kIGlmIG5lZWRlZAo=</text>
+        <text encoding="base64">ICByZXR1cm4gbnVsbDsgLy8gVE9ETzogaW1wbGVtZW50IG1ldGhvZCBpZiBuZWVkZWQK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAvLyBUT0RPOiBpbXBsZW1lbnQgbWV0aG9kIGlmIG5lZWRlZAo=</text>
