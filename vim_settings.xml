@@ -34,6 +34,13 @@
         <mark key="^" line="10" column="18" />
         <mark key="." line="10" column="18" />
       </file>
+      <file name="C:/HUE/WorkSpace/Develop/webeditor/pom.xml" timestamp="1516253155126">
+        <mark key="'" line="85" column="10" />
+        <mark key="[" line="118" column="26" />
+        <mark key="]" line="118" column="26" />
+        <mark key="." line="118" column="26" />
+        <mark key="^" line="118" column="26" />
+      </file>
       <file name="C:/HUE/WorkSpace/Develop/cs-i-practice/main/js/bootcamp/todolist/container/application.js" timestamp="1516612957473">
         <mark key="[" line="156" column="38" />
         <mark key="]" line="157" column="12" />
@@ -77,12 +84,12 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/cs-i-practice/main/js/bootcamp/todolist/container/task-list.js" timestamp="1516613160850">
-        <mark key="'" line="270" column="0" />
-        <mark key="[" line="349" column="80" />
-        <mark key="]" line="349" column="80" />
-        <mark key="." line="349" column="80" />
-        <mark key="^" line="349" column="80" />
+      <file name="C:/HUE/WorkSpace/Develop/cs-i-practice/main/js/bootcamp/todolist/container/task-list.js" timestamp="1516613438985">
+        <mark key="'" line="194" column="0" />
+        <mark key="[" line="198" column="23" />
+        <mark key="]" line="199" column="23" />
+        <mark key="." line="199" column="23" />
+        <mark key="^" line="199" column="23" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/webeditor/src/main/java/com/worksap/bootcamp/webeditor/dao/DaoFactoryCassandraImpl.java" timestamp="1515825597963">
         <mark key="[" line="6" column="10" />
@@ -432,11 +439,12 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/cs-i-practice/main/js/bootcamp/todolist/ui/registrar.js" timestamp="1516346426692">
-        <mark key="[" line="133" column="14" />
-        <mark key="]" line="133" column="14" />
-        <mark key="." line="133" column="14" />
-        <mark key="^" line="133" column="14" />
+      <file name="C:/HUE/WorkSpace/Develop/cs-i-practice/main/js/bootcamp/todolist/ui/registrar.js" timestamp="1516614003625">
+        <mark key="'" line="130" column="1" />
+        <mark key="[" line="147" column="33" />
+        <mark key="]" line="147" column="41" />
+        <mark key="." line="147" column="41" />
+        <mark key="^" line="147" column="41" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/webeditor/src/main/java/com/worksap/bootcamp/webeditor/dao/ArticleHeaderDaoJdbcImpl.java" timestamp="1516251482893">
         <mark key="[" line="28" column="36" />
@@ -604,8 +612,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="779" column="38" filename="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/conv/cws/companyweb/sys/CwsUser.java" />
-      <jump line="50" column="6" filename="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/conv/cws/companyweb/sys/UserLockedException.java" />
       <jump line="9" column="0" filename="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/conv/cws/companyweb/sys/UserLockType.java" />
       <jump line="771" column="25" filename="C:/HUE/WorkSpace/Develop/conversion-nbh-cws/jar_cws/src/main/java/jp/co/worksap/companyweb/sys/CwsUser.java" />
       <jump line="2516" column="25" filename="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/conv/cws/companyweb/sys/CwsUser.java" />
@@ -704,6 +710,8 @@
       <jump line="252" column="41" filename="C:/HUE/WorkSpace/Develop/cs-i-practice/main/js/bootcamp/todolist/container/task-list.js" />
       <jump line="270" column="0" filename="C:/HUE/WorkSpace/Develop/cs-i-practice/main/js/bootcamp/todolist/container/task-list.js" />
       <jump line="39" column="3" filename="C:/HUE/WorkSpace/Develop/cs-i-practice/main/js/bootcamp/todolist/container/project-list.js" />
+      <jump line="182" column="0" filename="C:/HUE/WorkSpace/Develop/cs-i-practice/main/js/bootcamp/todolist/container/task-list.js" />
+      <jump line="130" column="1" filename="C:/HUE/WorkSpace/Develop/cs-i-practice/main/js/bootcamp/todolist/ui/registrar.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -999,40 +1007,40 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>wamp</text>
+        <text>Registarar</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICByZXR1cm4gdGhpcy5wcm9qZWN0TGlzdF8uYWRkUHJvamVjdChwcm9qZWN0KTsK</text>
+        <text encoding="base64">d2FwLmJvb3RjYW1wLnRvZG9saXN0LnVpLlJlZ2lzdHJhci5wcm90b3R5cGUuaXNFbmFibGVkID0gZnVuY3Rpb24oKSB7CiAgICByZXR1cm4gdGhpcy5lbmFibGVkXzsKfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiBpbXBsZW1lbnQgbWV0aG9kIGlmIG5lZWRlZAo=</text>
+        <text encoding="base64">ICAgIGdvb2cuZG9tLmNsYXNzbGlzdC5lbmFibGUodGhpcy5nZXRFbGVtZW50KCksCiAgICAgICAgd2FwLmJvb3RjYW1wLnRvZG9saXN0LnVpLlJlZ2lzdGFyYXIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXR1cm4gZmFsc2U7IC8vIFRPRE86IGltcGxlbWVudCBtZXRob2QgaWYgbmVlZGVkCg==</text>
+        <text encoding="base64">d2FwLmJvb3RjYW1wLnRvZG9saXN0LnVpLlJlZ2lzdHJhci5wcm90b3R5cGUuaXNFbmFibGVkID0gZnVuY3Rpb24oKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">d2FwLgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAvLyBUT0RPOiBpbXBsZW1lbnQgbWV0aG9kIGlmIG5lZWRlZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICByZXR1cm4gZmFsc2U7IC8vIFRPRE86IGltcGxlbWVudCBtZXRob2QgaWYgbmVlZGVkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXR1cm4gbnVsbDsgLy8gVE9ETzogaW1wbGVtZW50IG1ldGhvZCBpZiBuZWVkZWQK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXR1cm4gbnVsbDsgLy8gVE9ETzogaW1wbGVtZW50IG1ldGhvZCBpZiBuZWVkZWQK</text>
+        <text encoding="base64">ICAvLyBUT0RPOiBpbXBsZW1lbnQgbWV0aG9kIGlmIG5lZWRlZAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1073,10 +1081,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiBpbXBsZW1lbnQgbWV0aG9kIGlmIG5lZWRlZAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0aGlzLnJlbW92ZUNoaWxkcmVuKCk7CiAgCiAgdGhpcy5wcm9qZWN0TGlzdF8gPSBudWxsOwogIHRoaXMudGFza0xpc3RfID0gbnVsbDsK</text>
+        <text encoding="base64">ICByZXR1cm4gbnVsbDsgLy8gVE9ETzogaW1wbGVtZW50IG1ldGhvZCBpZiBuZWVkZWQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1108,6 +1116,7 @@
         <entry>actionlist</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>:w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
