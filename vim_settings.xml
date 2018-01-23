@@ -449,12 +449,12 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/cs-i-practice/main/js/bootcamp/todolist/ui/registrar.js" timestamp="1516678131361">
-        <mark key="'" line="197" column="60" />
-        <mark key="[" line="152" column="71" />
-        <mark key="]" line="152" column="71" />
-        <mark key="^" line="152" column="71" />
-        <mark key="." line="152" column="71" />
+      <file name="C:/HUE/WorkSpace/Develop/cs-i-practice/main/js/bootcamp/todolist/ui/registrar.js" timestamp="1516680282259">
+        <mark key="'" line="96" column="65" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="28" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="96" column="65" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/webeditor/src/main/java/com/worksap/bootcamp/webeditor/dao/ArticleHeaderDaoJdbcImpl.java" timestamp="1516251482893">
         <mark key="[" line="28" column="36" />
@@ -605,11 +605,11 @@
         <mark key="^" line="10" column="9" />
         <mark key="." line="10" column="9" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/cs-i-practice/sandbox/registrar.html" timestamp="1516342643245">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="30" column="1" />
+      <file name="C:/HUE/WorkSpace/Develop/cs-i-practice/sandbox/registrar.html" timestamp="1516679059224">
+        <mark key="[" line="17" column="67" />
+        <mark key="]" line="18" column="49" />
+        <mark key="." line="18" column="49" />
+        <mark key="^" line="18" column="49" />
       </file>
       <file name="/fragment.java" timestamp="1516419108800">
         <mark key="[" line="0" column="0" />
@@ -622,11 +622,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="C:/eclipse/self-workflow-17.11.89.01/WEB-INF/lib/truecs-17.11.89.01.jar!/jp/co/worksap/company/truecs/TcsParamAttr.class" />
-      <jump line="5" column="0" filename="C:/eclipse/self-workflow-17.11.89.01/WEB-INF/lib/truecs-17.11.89.01.jar!/jp/co/worksap/company/truecs/TcsParamAttr.class" />
-      <jump line="22" column="4" filename="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/conv/cws/common/truecs/reflect/reflect_common/tcs_exception/TcsRefException.java" />
-      <jump line="281" column="47" filename="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/conv/cws/truecs/TcsRowset.java" />
-      <jump line="49" column="34" filename="C:/eclipse/self-workflow-17.11.89.01/WEB-INF/lib/truecs-17.11.89.01.jar!/jp/co/worksap/company/truecs/client/TcsInstanceBase.class" />
       <jump line="4" column="0" filename="C:/eclipse/self-workflow-17.11.89.01/WEB-INF/lib/truecs-17.11.89.01.jar!/jp/co/worksap/company/truecs/client/TcsInstanceBase.class" />
       <jump line="5" column="0" filename="C:/HUE/WorkSpace/Develop/conversion-nbh-csr/source/java_cjkap/app/csr_truecs/src/main/java/jp/co/worksap/company/truecs/client/TcsException.java" />
       <jump line="41" column="27" filename="C:/HUE/WorkSpace/Develop/conversion-nbh-csr/source/java_cjkap/app/csr_truecs/src/main/java/jp/co/worksap/company/truecs/TcsHelper.java" />
@@ -722,6 +717,11 @@
       <jump line="120" column="2" filename="C:/HUE/WorkSpace/Develop/cs-i-practice/main/js/bootcamp/todolist/todolist-app.js" />
       <jump line="99" column="14" filename="C:/HUE/WorkSpace/Develop/cs-i-practice/main/js/bootcamp/todolist/ui/registrar.js" />
       <jump line="177" column="60" filename="C:/HUE/WorkSpace/Develop/cs-i-practice/main/js/bootcamp/todolist/ui/registrar.js" />
+      <jump line="163" column="11" filename="C:/HUE/WorkSpace/Develop/cs-i-practice/main/js/bootcamp/todolist/ui/registrar.js" />
+      <jump line="186" column="28" filename="C:/HUE/WorkSpace/Develop/cs-i-practice/main/js/bootcamp/todolist/ui/registrar.js" />
+      <jump line="160" column="71" filename="C:/HUE/WorkSpace/Develop/cs-i-practice/main/js/bootcamp/todolist/ui/registrar.js" />
+      <jump line="265" column="40" filename="C:/HUE/WorkSpace/Develop/cs-i-practice/main/js/bootcamp/todolist/ui/registrar.js" />
+      <jump line="96" column="65" filename="C:/HUE/WorkSpace/Develop/cs-i-practice/main/js/bootcamp/todolist/ui/registrar.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1017,16 +1017,16 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>fireAddEvent_</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICB0aGlzLmdldEhhbmRsZXIoKS5saXN0ZW4oCiAgICAgIHRoaXMuJGFkZEJ1dHRvbl8sCiAgICAgIGdvb2cuZXZlbnRzLkV2ZW50VHlwZS5DTElDSywKICAgICAgdGhpcy5maXJlQWRkRXZlbnRfCiAgKTsK</text>
+      <register name="0" type="4">
+        <text>wap.bootcamp.todolist.ui.Registrar.Status</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhciBhZGRFdmVudCA9IG5ldyB3YXAuYm9vdGNhbXAudG9kb2xpc3QudWkuUmVnaXN0cmFyLkFkZEV2ZW50KHRoaXMuJHRleHRfLnZhbHVlKTsKICAgIGlmICh0aGlzLmRpc3BhdGNoRXZlbnQoYWRkRXZlbnQpKSB7CiAgICAgICAgdGhpcy4kdGV4dF8udmFsdWUgPSAnJzsKICAgIH0K</text>
+        <text encoding="base64">Z29vZy5yZXF1aXJlKCdnb29nLnN0cmluZycpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1038,10 +1038,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQHJldHVybiB7P3N0cmluZ30K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuJHRleHRfLmRpc2FibGVkID0gIWVuYWJsZWQ7CiAgICB0aGlzLiRhZGRCdXR0b25fLmRpc2FibGVkID0gIWVuYWJsZWQ7CiAgICBnb29nLmRvbS5jbGFzc2xpc3QuZW5hYmxlKHRoaXMuZ2V0RWxlbWVudCgpLAogICAgICAgIHdhcC5ib290Y2FtcC50b2RvbGlzdC51aS5SZWdpc3RyYXIuQ1NTX0NMQVNTRVMuRElTQUJMRUQsICFlbmFibGVkKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnN0YXR1c187Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -1050,7 +1050,7 @@
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICB0aGlzLiR0ZXh0Xy5kaXNhYmxlZCA9ICFlbmFibGVkOwogICAgdGhpcy4kYWRkQnV0dG9uXy5kaXNhYmxlZCA9ICFlbmFibGVkOwogICAgZ29vZy5kb20uY2xhc3NsaXN0LmVuYWJsZSh0aGlzLmdldEVsZW1lbnQoKSwKICAgICAgICB3YXAuYm9vdGNhbXAudG9kb2xpc3QudWkuUmVnaXN0cmFyLkNTU19DTEFTU0VTLkRJU0FCTEVELCAhZW5hYmxlZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1090,11 +1090,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0c3RhCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IGVsc2UgewogICAgICAgIHRoaXMuc2V0U3RhdHVzKHdhcC5ib290Y2FtcC50b2RvbGlzdC51aS5SZWdpc3RyYXIuU3RhdHVzLlZBTElEKTsKICAgIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3RhdHVzXyA9IAo=</text>
+        <text encoding="base64">ICAgIHZhciBhZGRFdmVudCA9IG5ldyB3YXAuYm9vdGNhbXAudG9kb2xpc3QudWkuUmVnaXN0cmFyLkFkZEV2ZW50KHRoaXMuJHRleHRfLnZhbHVlKTsKICAgIGlmICh0aGlzLmRpc3BhdGNoRXZlbnQoYWRkRXZlbnQpKSB7CiAgICAgICAgdGhpcy4kdGV4dF8udmFsdWUgPSAnJzsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
