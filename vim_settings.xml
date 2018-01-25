@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/designPattern/strategy/General.java" timestamp="1516889479835">
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="5" column="17" />
+        <mark key="^" line="5" column="17" />
+        <mark key="." line="5" column="17" />
+      </file>
       <file name="/File Header.txt.ft" timestamp="1516161059463">
         <mark key="[" line="0" column="0" />
       </file>
@@ -191,6 +197,11 @@
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1516161049776">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/JetBrains/IdeaProjects/sukkiri_java_practical/src/main/java/com/example/sukkiri_java_practice/designPattern/templateMethod/strategy/General.java" timestamp="1516889416891">
+        <mark key="[" line="0" column="56" />
+        <mark key="]" line="0" column="56" />
+        <mark key="." line="0" column="56" />
+      </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attendance/hue-hr-attendance-dto/src/main/java/com/worksap/company/hue/hr/type/attendance/ProfileBatchExecuteMode.java" timestamp="1515059909417">
         <mark key="[" line="18" column="36" />
         <mark key="]" line="18" column="60" />
@@ -244,14 +255,6 @@
         <mark key="]" line="37" column="34" />
         <mark key="." line="37" column="34" />
         <mark key="^" line="37" column="34" />
-      </file>
-      <file name="$USER_HOME$/repos/MyBootApp/src/main/resources/templates/index.html" timestamp="1516163709541">
-        <mark key="e" line="45" column="26" />
-        <mark key="'" line="27" column="5" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="53" column="3" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/hue-hr-attcore/hue-hr-attcore-biz/src/main/java/com/worksap/company/hue/hr/biz/attcore/conv/sys/shuro/SrwDate.java" timestamp="1515242517489">
         <mark key="[" line="559" column="40" />
@@ -887,7 +890,7 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>PrintWriter</text>
+        <text>templateMethod</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</text>
@@ -967,7 +970,7 @@
         <text encoding="base64">ICAgICAgIC8vIOWPl+ism+aDheWgseOBqOOBl+OBpuWHuuWKm+OBmeOCi+mgheebruOCkuWumuaVsOOBp+Wumue+qeOBmeOCiwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgaW50IEZJRUxEX0lEID0gMDsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBGSUVMRF9EQVRFID0gMTsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBGSUVMRF9TRU1JTkFSTkFNRSA9IDI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgRklFTERfQ09NUEFOWSA9IDM7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgRklFTERfRElWSVNJT04gPSA0OwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgaW50IEZJRUxEX05BTUUgPSA1OwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgaW50IEZJRUxEX0VNQUlMID0gNjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBTSVpFID0gNzsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBERUxJTUlURVIgPSAiLCI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgREVGQVVMVF9GSUxFTkFNRSA9ICJwYXJ0aWNpcGF0aW9uX2xpc3QuY3N2IjsKCiAgICAvLyDmuKHjgZXjgozjgZ8gQWdncmVnYXRlIOOBi+OCieWPl+ism+aDheWgseOCkiBDU1Yg5b2i5byP44Gn5L+d5a2Y44GZ44KLCiAgICBwdWJsaWMgdm9pZCBjc3ZTYXZlKEFnZ3JlZ2F0ZSBhZ2dyZWdhdGUpIHRocm93cyBFeGNlcHRpb24gewoKICAgICAgICBQcmludFdyaXRlciBvdXQgPSBudWxsOwogICAgICAgIHRyeSB7CgogICAgICAgICAgICAvLyDjg5XjgqHjgqTjg6vlkI3jgpLmjIflrprjgZfjgabjga7jgqrjg7zjg5fjg7PjgIIo5Yem55CG44Gv57Ch55Wl5YyW44GX44Gm44GE44KLKQogICAgICAgICAgICBTdHJpbmcgZmlsZU5hbWUgPSBTeXN0ZW0uZ2V0UHJvcGVydHkoImNzdi5maWxlbmFtZSIsIERFRkFVTFRfRklMRU5BTUUpOwogICAgICAgICAgICBpZihmaWxlTmFtZSA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICBmaWxlTmFtZSA9IERFRkFVTFRfRklMRU5BTUU7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIFdyaXRlciB3cml0ZXIgPSBuZXcgRmlsZVdyaXRlcihmaWxlTmFtZSk7CiAgICAgICAgICAgIG91dCA9IG5ldyBQcmludFdyaXRlcihuZXcgQnVmZmVyZWRXcml0ZXIod3JpdGVyKSk7CgogICAgICAgICAgICBTdHJpbmdCdWZmZXIgYnVmID0gbmV3IFN0cmluZ0J1ZmZlcigpOwoKICAgICAgICAgICAgLy8g5Y+X6Kyb5oOF5aCx44Gu44OH44O844K/44KS5aSJ5o+b44GZ44KLCiAgICAgICAgICAgIEl0ZXJhdG9yIGl0ZXJhdG9yID0gYWdncmVnYXRlLml0ZXJhdG9yKCk7CiAgICAgICAgICAgIHdoaWxlIChpdGVyYXRvci5oYXNOZXh0KCkpIHsKCiAgICAgICAgICAgICAgICBQYXJ0aWNpcGF0aW9uIHBhcnRpY2lwYXRpb24gPSAoUGFydGljaXBhdGlvbikgaXRlcmF0b3IubmV4dCgpOwoKICAgICAgICAgICAgICAgIExpc3QgdmFsdWVzID0gQXJyYXlzLmFzTGlzdChuZXcgU3RyaW5nW1NJWkVdKTsKCiAgICAgICAgICAgICAgICB2YWx1ZXMuc2V0KEZJRUxEX0lELCBwYXJ0aWNpcGF0aW9uLmdldElkKCkpOwogICAgICAgICAgICAgICAgdmFsdWVzLnNldChGSUVMRF9TRU1JTkFSTkFNRSwgcGFydGljaXBhdGlvbi5nZXRTZW1pbmFyKCkuZ2V0TmFtZSgpKTsKICAgICAgICAgICAgICAgIHZhbHVlcy5zZXQoRklFTERfREFURSwgcGFydGljaXBhdGlvbi5nZXREYXRlKCkpOwogICAgICAgICAgICAgICAgdmFsdWVzLnNldChGSUVMRF9DT01QQU5ZLCBwYXJ0aWNpcGF0aW9uLmdldEN1c3RvbWVyKCkuZ2V0Q29tcGFueU5hbWUoKSk7CiAgICAgICAgICAgICAgICB2YWx1ZXMuc2V0KEZJRUxEX0RJVklTSU9OLCBwYXJ0aWNpcGF0aW9uLmdldEN1c3RvbWVyKCkuZ2V0RGl2aXNpb25OYW1lKCkpOwogICAgICAgICAgICAgICAgdmFsdWVzLnNldChGSUVMRF9OQU1FLCBwYXJ0aWNpcGF0aW9uLmdldEN1c3RvbWVyKCkuZ2V0TmFtZSgpKTsKICAgICAgICAgICAgICAgIHZhbHVlcy5zZXQoRklFTERfRU1BSUwsIHBhcnRpY2lwYXRpb24uZ2V0Q3VzdG9tZXIoKS5nZXRFTWFpbCgpKTsKCiAgICAgICAgICAgICAgICBJdGVyYXRvciBqID0gdmFsdWVzLml0ZXJhdG9yKCk7CiAgICAgICAgICAgICAgICBpZiAoai5oYXNOZXh0KCkpIHsKICAgICAgICAgICAgICAgICAgICBidWYuYXBwZW5kKGoubmV4dCgpKTsKICAgICAgICAgICAgICAgICAgICB3aGlsZSAoai5oYXNOZXh0KCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgYnVmLmFwcGVuZChERUxJTUlURVIpOwogICAgICAgICAgICAgICAgICAgICAgICBidWYuYXBwZW5kKGoubmV4dCgpKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBidWYuYXBwZW5kKCJcbiIpOwoKICAgICAgICAgICAgfQoKICAgICAgICAgICAgb3V0LnByaW50bG4oYnVmLnRvU3RyaW5nKCkpOwogICAgICAgICAgICBvdXQuZmx1c2goKTsKCiAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgaWYgKG91dCAhPSBudWxsKQogICAgICAgICAgICAgICAgb3V0LmNsb3NlKCk7CiAgICAgICAgfQoKICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -994,8 +997,8 @@
         <entry>wq</entry>
         <entry>w]</entry>
         <entry>actionlist</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
