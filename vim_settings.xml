@@ -103,18 +103,24 @@
         <mark key="^" line="167" column="60" />
         <mark key="." line="167" column="60" />
       </file>
+      <file name="C:/HUE/WorkSpace/Develop/cs-i-practice/main/js/bootcamp/todolist/todolist-init.js" timestamp="1516686130048">
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="12" />
+        <mark key="." line="16" column="12" />
+        <mark key="^" line="16" column="12" />
+      </file>
       <file name="C:/HUE/WorkSpace/Develop/webeditor/src/main/java/com/worksap/bootcamp/webeditor/dao/ArticleDetailDaoCassandraImpl.java" timestamp="1516258297324">
         <mark key="[" line="17" column="13" />
         <mark key="]" line="17" column="22" />
         <mark key="." line="17" column="22" />
         <mark key="^" line="17" column="22" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/cs-i-examination/main/js/bootcamp/webeditor/ui/article-editor.js" timestamp="1516953433523">
-        <mark key="'" line="284" column="35" />
-        <mark key="[" line="221" column="21" />
-        <mark key="]" line="221" column="38" />
-        <mark key="." line="221" column="38" />
-        <mark key="^" line="221" column="38" />
+      <file name="C:/HUE/WorkSpace/Develop/cs-i-examination/main/js/bootcamp/webeditor/ui/article-editor.js" timestamp="1516954984103">
+        <mark key="'" line="79" column="6" />
+        <mark key="[" line="275" column="2" />
+        <mark key="]" line="275" column="6" />
+        <mark key="." line="275" column="6" />
+        <mark key="^" line="275" column="6" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/cs-i-examination/main/js/bootcamp/webeditor/webeditor-init.js" timestamp="1516870688475" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.0.6.RELEASE/spring-jdbc-4.0.6.RELEASE-sources.jar!/org/springframework/jdbc/core/JdbcTemplate.java" timestamp="1516591105236">
@@ -192,6 +198,12 @@
       </file>
       <file name="/HTML File.txt.ft" timestamp="1516160993421">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/HUE/WorkSpace/Develop/cs-i-examination/main/js/bootcamp/webeditor/ui/status/status.js" timestamp="1516954842621">
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="6" column="49" />
+        <mark key="." line="6" column="49" />
+        <mark key="^" line="6" column="49" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/webeditor/src/main/java/com/worksap/bootcamp/webeditor/dao/TagDaoJdbcImpl.java" timestamp="1515754451759">
         <mark key="[" line="18" column="0" />
@@ -582,7 +594,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="217" column="0" filename="C:/HUE/WorkSpace/Develop/cs-i-practice/main/js/bootcamp/todolist/container/project-list.js" />
       <jump line="252" column="41" filename="C:/HUE/WorkSpace/Develop/cs-i-practice/main/js/bootcamp/todolist/container/task-list.js" />
       <jump line="270" column="0" filename="C:/HUE/WorkSpace/Develop/cs-i-practice/main/js/bootcamp/todolist/container/task-list.js" />
       <jump line="39" column="3" filename="C:/HUE/WorkSpace/Develop/cs-i-practice/main/js/bootcamp/todolist/container/project-list.js" />
@@ -682,6 +693,7 @@
       <jump line="453" column="0" filename="C:/HUE/WorkSpace/Develop/cs-i-examination/main/js/bootcamp/webeditor/container/application.js" />
       <jump line="329" column="43" filename="C:/HUE/WorkSpace/Develop/cs-i-examination/main/js/bootcamp/webeditor/container/application.js" />
       <jump line="495" column="35" filename="C:/HUE/WorkSpace/Develop/cs-i-examination/main/js/bootcamp/webeditor/container/application.js" />
+      <jump line="79" column="6" filename="C:/HUE/WorkSpace/Develop/cs-i-examination/main/js/bootcamp/webeditor/ui/article-editor.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -977,40 +989,40 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>wap.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICB2YXIgdmFsaWRhdGVFdmVudCA9IG5ldyBnb29nLmV2ZW50cy5FdmVudCh3YXAuYm9vdGNhbXAud2ViZWRpdG9yLnVpLkFydGljbGVFZGl0b3IuRXZlbnRUeXBlLlZBTElEQVRFLCB0aGlzKTsKICB0aGlzLmRpc3BhdGNoRXZlbnQodmFsaWRhdGVFdmVudCk7Cg==</text>
+      <register name="0" type="4">
+        <text>wap.bootcamp.webeditor.ui.status.Status</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdvb2cuZXZlbnRzLkV2ZW50VHlwZS5JTlBVVCwK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGdvb2cudWkuQ29tcG9uZW50LkV2ZW50VHlwZS5DSEFOR0UsCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdHVzKHdhcC5ib290Y2FtcC53ZWJlZGl0b3IudWkuQXJ0aWNsZUVkaXRvci5TdGF0dXMuRU1QVFkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGdvb2cudWkuQ29tcG9uZW50LkV2ZW50VHlwZS5TRUxFQ1QsCg==</text>
+        <text encoding="base64">ICAgIGdvb2cuZXZlbnRzLkV2ZW50VHlwZS5JTlBVVCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdvb2cuZXZlbnRzLkV2ZW50VHlwZS5DTElDSywK</text>
+        <text encoding="base64">ICAgIGdvb2cudWkuQ29tcG9uZW50LkV2ZW50VHlwZS5DSEFOR0UsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YXIgYXJ0aWNsZUlkID0gZXZlbnQudGFyZ2V0Owo=</text>
+        <text encoding="base64">ICAgIGdvb2cudWkuQ29tcG9uZW50LkV2ZW50VHlwZS5TRUxFQ1QsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gdmFyIHNlbGVjdEV2ZW50ID0gbmV3IHdhcC5ib290Y2FtcC5jb21tb24udWkuU2VsZWN0YWJsZUxpc3RQbHVnaW4uSXRlbVNlbGVjdEV2ZW50KAogICAgICAvLyAgIHRoaXMuYXJ0aWNsZUxpc3RfLmdldENoaWxkQXQoU0VMRUNURURfSURfQUZURVJfREVMRVRFKSk7CiAgICAgIC8vIHRoaXMudHJ5U2VsZWN0QXJ0aWNsZV8oc2VsZWN0RXZlbnQpOwo=</text>
+        <text encoding="base64">ICAgIGdvb2cuZXZlbnRzLkV2ZW50VHlwZS5DTElDSywK</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5hcnRpY2xlTGlzdF8uZ2V0Cg==</text>
+        <text encoding="base64">ICB2YXIgYXJ0aWNsZUlkID0gZXZlbnQudGFyZ2V0Owo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1051,10 +1063,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2codGhpcy5kaXNwYXRjaEV2ZW50KHNlbGVjdEV2ZW50KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gdmFyIHNlbGVjdEV2ZW50ID0gbmV3IHdhcC5ib290Y2FtcC5jb21tb24udWkuU2VsZWN0YWJsZUxpc3RQbHVnaW4uSXRlbVNlbGVjdEV2ZW50KAogICAgICAvLyAgIHRoaXMuYXJ0aWNsZUxpc3RfLmdldENoaWxkQXQoU0VMRUNURURfSURfQUZURVJfREVMRVRFKSk7CiAgICAgIC8vIHRoaXMudHJ5U2VsZWN0QXJ0aWNsZV8oc2VsZWN0RXZlbnQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmFyIHNlbGVjdEV2ZW50ID0gbmV3IGdvb2cuZXZlbnRzLkV2ZW50KHdhcC5ib290Y2FtcC5jb21tb24udWkuU2VsZWN0YWJsZUxpc3RQbHVnaW4uRXZlbnRUeXBlLklURU1fU0VMRUNULAogICAgICAgIHRoaXMuYXJ0aWNsZUxpc3RfKTsK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5hcnRpY2xlTGlzdF8uZ2V0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
