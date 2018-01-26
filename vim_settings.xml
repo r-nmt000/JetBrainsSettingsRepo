@@ -109,12 +109,12 @@
         <mark key="." line="17" column="22" />
         <mark key="^" line="17" column="22" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/cs-i-examination/main/js/bootcamp/webeditor/ui/article-editor.js" timestamp="1516932390786">
+      <file name="C:/HUE/WorkSpace/Develop/cs-i-examination/main/js/bootcamp/webeditor/ui/article-editor.js" timestamp="1516933188849">
         <mark key="'" line="287" column="7" />
-        <mark key="[" line="204" column="66" />
-        <mark key="]" line="204" column="70" />
-        <mark key="." line="204" column="70" />
-        <mark key="^" line="204" column="70" />
+        <mark key="[" line="205" column="0" />
+        <mark key="]" line="206" column="6" />
+        <mark key="." line="206" column="6" />
+        <mark key="^" line="206" column="6" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/cs-i-examination/main/js/bootcamp/webeditor/webeditor-init.js" timestamp="1516870688475" />
       <file name="C:/HUE/WorkSpace/Develop/cs-i-examination/main/index.html" timestamp="1516765801663" />
@@ -961,32 +961,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdHVzKHdhcC5ib290Y2FtcC53ZWJlZGl0b3IudWkuQXJ0aWNsZUVkaXRvci5TdGF0dXMuRU1QVFkpOwogICAgdGhpcy5zZXRFcnJvck1lc3NhZ2UoJ1RpdGxlIG11c3Qgbm90IGJlIGVtcHR5Jyk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text>else {
+    this.setStatus(wap.bootcamp.webeditor.ui.ArticleEditor.Status.VALID);
+    this.setErrorMessage('');
+  }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0RXJyb3JNZXNzYWdlKCdUaXRsZSBtdXN0IG5vdCBiZSBlbXB0eScpOwogICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0RXJyb3JNZXNzYWdlKCdUaXRsZSBtdXN0IG5vdCBiZSBlbXB0eScpOwogICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdvb2cuZXZlbnRzLkV2ZW50VHlwZS5JTlBVVCwK</text>
+        <text encoding="base64">ICAgIHJldHVybjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiBpbXBsZW1lbnQgaWYgbmVlZGVkCg==</text>
+        <text encoding="base64">ICAgIGdvb2cuZXZlbnRzLkV2ZW50VHlwZS5JTlBVVCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0aGlzLnN0YXR1Cg==</text>
+        <text encoding="base64">ICAvLyBUT0RPOiBpbXBsZW1lbnQgaWYgbmVlZGVkCg==</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiBpbXBsZW1lbnQgaWYgbmVlZGVkCg==</text>
+        <text encoding="base64">ICB0aGlzLnN0YXR1Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1030,7 +1033,7 @@
         <text encoding="base64">ICAvLyBUT0RPOiBpbXBsZW1lbnQgaWYgbmVlZGVkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXR1cm4gdGhpcy4kdmFsaWRhdGlvbkVycm9yTWVzc2FnZV8udmFsdWU7Cg==</text>
+        <text encoding="base64">ICAvLyBUT0RPOiBpbXBsZW1lbnQgaWYgbmVlZGVkCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
