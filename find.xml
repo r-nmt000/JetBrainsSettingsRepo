@@ -5,7 +5,6 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -14,10 +13,8 @@
       <mask>*.mxml</mask>
       <mask>*.py</mask>
       <mask>*.html</mask>
-      <mask>*.xml</mask>
       <mask>*.xml,*.java</mask>
       <mask>*.xml,*.java,*.js</mask>
-      <mask>*.js</mask>
       <mask>*.js,*.html</mask>
       <mask>*.html,*.js</mask>
       <mask>*.js,*html</mask>
@@ -31,6 +28,14 @@
       <mask>pom</mask>
       <mask>*js,*html,*css</mask>
       <mask>*java</mask>
+      <mask>*jav</mask>
+      <mask>*ja</mask>
+      <mask>*j</mask>
+      <mask>*</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
