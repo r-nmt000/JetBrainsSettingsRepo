@@ -7,6 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.jsp</mask>
       <mask>*.as</mask>
@@ -24,7 +25,6 @@
       <mask>*.java,*.xml,*.js</mask>
       <mask>*.html, *.js, *.css</mask>
       <mask>*.html, *.js</mask>
-      <mask>*.java</mask>
       <mask>*.html, *css, *js</mask>
       <mask>pom</mask>
       <mask>*js,*html,*css</mask>
@@ -36,8 +36,9 @@
       <mask>*.j</mask>
       <mask>*.xml</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
