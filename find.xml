@@ -7,24 +7,8 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*service.java" />
     <recentFileMasks>
-      <mask>*.jsp</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.py</mask>
-      <mask>*.html</mask>
-      <mask>*.xml,*.java</mask>
-      <mask>*.xml,*.java,*.js</mask>
-      <mask>*.js,*.html</mask>
-      <mask>*.html,*.js</mask>
-      <mask>*.js,*html</mask>
-      <mask>*.js,*html,*.java</mask>
-      <mask>*.js,*xml,*.java</mask>
-      <mask>*.java,*.xml,*.js</mask>
-      <mask>*.html, *.js, *.css</mask>
-      <mask>*.html, *.js</mask>
       <mask>*.html, *css, *js</mask>
       <mask>pom</mask>
       <mask>*js,*html,*css</mask>
@@ -38,7 +22,23 @@
       <mask>*.x</mask>
       <mask>*.js</mask>
       <mask>*.</mask>
+      <mask>con.java</mask>
+      <mask>co.java</mask>
+      <mask>c.java</mask>
+      <mask>.java</mask>
+      <mask>*contro.java</mask>
+      <mask>*control.java</mask>
+      <mask>*controller.java</mask>
+      <mask>*controlle.java</mask>
+      <mask>*cont.java</mask>
+      <mask>*con.java</mask>
+      <mask>*co.java</mask>
+      <mask>*c.java</mask>
       <mask>*.java</mask>
+      <mask>*ser.java</mask>
+      <mask>*servi.java</mask>
+      <mask>*servic.java</mask>
+      <mask>*service.java</mask>
     </recentFileMasks>
   </component>
 </application>
