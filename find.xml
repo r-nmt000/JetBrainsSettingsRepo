@@ -5,11 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*js" />
     <recentFileMasks>
-      <mask>*jav</mask>
-      <mask>*ja</mask>
-      <mask>*j</mask>
-      <mask>*.j</mask>
       <mask>*.xml</mask>
       <mask>*.x</mask>
       <mask>*.js</mask>
@@ -35,7 +32,11 @@
       <mask>*ser</mask>
       <mask>*se</mask>
       <mask>*s</mask>
+      <mask>*xml</mask>
+      <mask>*xm</mask>
+      <mask>*x</mask>
       <mask>*</mask>
+      <mask>*js</mask>
     </recentFileMasks>
   </component>
 </application>
