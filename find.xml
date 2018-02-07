@@ -2,24 +2,16 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*xml" />
+    <option name="FILE_MASK" value="*controller*java" />
     <recentFileMasks>
-      <mask>*servi.java</mask>
-      <mask>*servic.java</mask>
-      <mask>*service.java</mask>
-      <mask>*service.jav</mask>
-      <mask>*ser</mask>
-      <mask>*se</mask>
-      <mask>*s</mask>
       <mask>*jxml</mask>
       <mask>*jxm</mask>
       <mask>*jx</mask>
       <mask>*js</mask>
-      <mask>*xm</mask>
-      <mask>*java</mask>
       <mask>*jav</mask>
-      <mask>*ja</mask>
       <mask>*j</mask>
       <mask>*co</mask>
       <mask>*config</mask>
@@ -32,9 +24,19 @@
       <mask>*conf</mask>
       <mask>*con</mask>
       <mask>*c</mask>
-      <mask>*</mask>
-      <mask>*x</mask>
       <mask>*xml</mask>
+      <mask>*xm</mask>
+      <mask>*x</mask>
+      <mask>*</mask>
+      <mask>*ja</mask>
+      <mask>*java</mask>
+      <mask>co*java</mask>
+      <mask>con*java</mask>
+      <mask>cont*java</mask>
+      <mask>contro*java</mask>
+      <mask>control*java</mask>
+      <mask>controller*java</mask>
+      <mask>*controller*java</mask>
     </recentFileMasks>
   </component>
 </application>
