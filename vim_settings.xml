@@ -82,12 +82,12 @@
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1516161049776">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/test/java/com/worksap/company/hue/ac/bizcore/expense/validator/shared/VisitsConsistencyValidatorImplTest.java" timestamp="1518066758751">
-        <mark key="'" line="341" column="62" />
-        <mark key="[" line="341" column="52" />
-        <mark key="]" line="341" column="62" />
-        <mark key="." line="341" column="62" />
-        <mark key="^" line="341" column="62" />
+      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/test/java/com/worksap/company/hue/ac/bizcore/expense/validator/shared/VisitsConsistencyValidatorImplTest.java" timestamp="1518068342263">
+        <mark key="'" line="256" column="0" />
+        <mark key="[" line="344" column="0" />
+        <mark key="]" line="344" column="0" />
+        <mark key="." line="344" column="0" />
+        <mark key="^" line="344" column="17" />
       </file>
       <file name="/Class.txt.ft" timestamp="1516161084307">
         <mark key="[" line="0" column="0" />
@@ -126,7 +126,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="0" filename="C:/HUE/WorkSpace/Develop/cs-i-practice/main/js/bootcamp/todolist/container/task-list.js" />
       <jump line="113" column="34" filename="C:/HUE/WorkSpace/Develop/cs-i-examination/main/js/bootcamp/webeditor/ui/article-editor.js" />
       <jump line="189" column="0" filename="C:/HUE/WorkSpace/Develop/cs-i-examination/main/js/bootcamp/webeditor/ui/article-editor.js" />
       <jump line="152" column="15" filename="C:/HUE/WorkSpace/Develop/cs-i-practice/main/js/bootcamp/todolist/ui/registrar.js" />
@@ -226,6 +225,7 @@
       <jump line="141" column="4" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/test/java/com/worksap/company/hue/ac/bizcore/expense/validator/shared/VisitsConsistencyValidatorImplTest.java" />
       <jump line="343" column="60" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/test/java/com/worksap/company/hue/ac/bizcore/expense/validator/shared/VisitsConsistencyValidatorImplTest.java" />
       <jump line="341" column="62" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/test/java/com/worksap/company/hue/ac/bizcore/expense/validator/shared/VisitsConsistencyValidatorImplTest.java" />
+      <jump line="256" column="0" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/test/java/com/worksap/company/hue/ac/bizcore/expense/validator/shared/VisitsConsistencyValidatorImplTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -530,16 +530,16 @@
         <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0UmVwb3J0UmVsYXRlZEZpZWxkTmFtZXMoKSB7CiAgICAgICAgQ29sbGVjdGlvbjxTdHJpbmc+IHJlbGF0ZWRGaWVsZE5hbWVzID0gdGhpcy5yZXBvcnRWYWxpZGF0b3IucmVsYXRlZEZpZWxkTmFtZXMoKTsKICAgICAgICBhc3NlcnRFcXVhbHMoNSwgcmVsYXRlZEZpZWxkTmFtZXMuc2l6ZSgpKTsKICAgICAgICBhc3NlcnRUcnVlKHJlbGF0ZWRGaWVsZE5hbWVzLmNvbnRhaW5zKCJleHBlbnNlUmVwb3J0LnZpc2l0TGlzdFslZF0udGFyZ2V0cyIpKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpJycnJycnIiIiIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKHJlbGF0ZWRGaWVsZE5hbWVzLmNvbnRhaW5zKCJleHBlbnNlUmVwb3J0LmVuZERhdGUiKSk7CiAgICAgICAgYXNzZXJ0VHJ1ZShyZWxhdGVkRmllbGROYW1lcy5jb250YWlucygiZXhwZW5zZVJlcG9ydC5yZWNvcmRzLmRhdGUiKSk7CiAgICAgICAgYXNzZXJ0VHJ1ZShyZWxhdGVkRmllbGROYW1lcy5jb250YWlucygiZXhwZW5zZVJlcG9ydC5yZWNvcmRzLnN0YXJ0RGF0ZSIpKTsKICAgICAgICBhc3NlcnRUcnVlKHJlbGF0ZWRGaWVsZE5hbWVzLmNvbnRhaW5zKCJleHBlbnNlUmVwb3J0LnJlY29yZHMuZW5kRGF0ZSIpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIE1lbW87Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKHJlbGF0ZWRGaWVsZE5hbWVzLmNvbnRhaW5zKCJleHBlbnNlUmVwb3J0LmVuZERhdGUiKSk7CiAgICAgICAgYXNzZXJ0VHJ1ZShyZWxhdGVkRmllbGROYW1lcy5jb250YWlucygiZXhwZW5zZVJlcG9ydC5yZWNvcmRzLmRhdGUiKSk7CiAgICAgICAgYXNzZXJ0VHJ1ZShyZWxhdGVkRmllbGROYW1lcy5jb250YWlucygiZXhwZW5zZVJlcG9ydC5yZWNvcmRzLnN0YXJ0RGF0ZSIpKTsKICAgICAgICBhc3NlcnRUcnVlKHJlbGF0ZWRGaWVsZE5hbWVzLmNvbnRhaW5zKCJleHBlbnNlUmVwb3J0LnJlY29yZHMuZW5kRGF0ZSIpKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAqIE1lbW87Cg==</text>
@@ -598,7 +598,7 @@
         <text encoding="base64">ICAgICAqIE1lbW87Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgU3RyaW5nIHZpc2l0c0xpc3RQYXRoOwo=</text>
+        <text encoding="base64">ICAgICAqIE1lbW87Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
