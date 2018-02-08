@@ -42,13 +42,13 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1516161057603">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518057386121">
+      <file name="/Dummy.txt" timestamp="1518072519398">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-front/src/main/resources/components/ac-expense-core-plugin-visit-input-renderer.xml" timestamp="1518062517366" />
+      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/service/validator/RequiredRecordValidatorService.java" timestamp="1518072518220" />
       <file name="/TypeScript File.txt.ft" timestamp="1516161083090">
         <mark key="[" line="0" column="0" />
       </file>
@@ -61,12 +61,13 @@
       <file name="/package-info.txt.ft" timestamp="1516161077169">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/service/impl/AdvanceRequestServiceImpl.java" timestamp="1517987883926">
+      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/service/impl/AdvanceRequestServiceImpl.java" timestamp="1518072294189">
         <mark key="[" line="318" column="0" />
         <mark key="]" line="318" column="55" />
         <mark key="^" line="264" column="52" />
         <mark key="." line="318" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/worksap/company/company-servicesettings-biz/17.10.00.0003.20180131.0930/company-servicesettings-biz-17.10.00.0003.20180131.0930-sources.jar!/com/worksap/company/hue/servicesettings/dao/individual/SettingDaoImpl.java" timestamp="1518072758605" />
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/test/java/com/worksap/company/hue/ac/bizcore/expense/config/ExpenseConfiguration.java" timestamp="1517993520276">
         <mark key="[" line="47" column="59" />
         <mark key="]" line="47" column="66" />
@@ -79,6 +80,7 @@
         <mark key="." line="91" column="30" />
         <mark key="^" line="88" column="101" />
       </file>
+      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/service/validator/ExpenseValidatorService.java" timestamp="1518072540853" />
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1516161049776">
         <mark key="[" line="0" column="0" />
       </file>
@@ -92,11 +94,9 @@
       <file name="/Class.txt.ft" timestamp="1516161084307">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/worksap/company/company-servicesettings-biz/17.10.00.0003.20180131.0930/company-servicesettings-biz-17.10.00.0003.20180131.0930-sources.jar!/com/worksap/company/hue/servicesettings/service/individual/SettingServiceImpl.java" timestamp="1518060008593" />
       <file name="/module-info.txt.ft" timestamp="1516161078949">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/worksap/company/company-servicesettings-biz/17.10.00.0003.20180131.0930/company-servicesettings-biz-17.10.00.0003.20180131.0930-sources.jar!/com/worksap/company/hue/servicesettings/service/individual/ServiceSettingControlServiceImpl.java" timestamp="1517999203875" />
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-front/src/main/java/com/worksap/company/hue/controller/ac/expense/advancerequest/TravelAdvanceRequestController.java" timestamp="1517997974450">
         <mark key="[" line="73" column="86" />
         <mark key="]" line="73" column="86" />
@@ -126,7 +126,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="34" filename="C:/HUE/WorkSpace/Develop/cs-i-examination/main/js/bootcamp/webeditor/ui/article-editor.js" />
       <jump line="189" column="0" filename="C:/HUE/WorkSpace/Develop/cs-i-examination/main/js/bootcamp/webeditor/ui/article-editor.js" />
       <jump line="152" column="15" filename="C:/HUE/WorkSpace/Develop/cs-i-practice/main/js/bootcamp/todolist/ui/registrar.js" />
       <jump line="27" column="0" filename="C:/HUE/WorkSpace/Develop/cs-i-examination/main/js/bootcamp/webeditor/ui/article-editor.js" />
@@ -226,6 +225,7 @@
       <jump line="343" column="60" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/test/java/com/worksap/company/hue/ac/bizcore/expense/validator/shared/VisitsConsistencyValidatorImplTest.java" />
       <jump line="341" column="62" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/test/java/com/worksap/company/hue/ac/bizcore/expense/validator/shared/VisitsConsistencyValidatorImplTest.java" />
       <jump line="256" column="0" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/test/java/com/worksap/company/hue/ac/bizcore/expense/validator/shared/VisitsConsistencyValidatorImplTest.java" />
+      <jump line="205" column="26" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/service/impl/AdvanceRequestServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -611,7 +611,7 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
