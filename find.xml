@@ -2,18 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*config.java" />
     <recentFileMasks>
-      <mask>*config.</mask>
-      <mask>*confi</mask>
-      <mask>*conf</mask>
-      <mask>*con</mask>
-      <mask>*c</mask>
-      <mask>*xml</mask>
-      <mask>*xm</mask>
-      <mask>*x</mask>
-      <mask>co*java</mask>
       <mask>con*java</mask>
       <mask>cont*java</mask>
       <mask>contro*java</mask>
@@ -35,6 +27,15 @@
       <mask>*confijava</mask>
       <mask>*configjava</mask>
       <mask>*config.java</mask>
+      <mask>*confi.java</mask>
+      <mask>*conf.java</mask>
+      <mask>*con.java</mask>
+      <mask>*co.java</mask>
+      <mask>*c.java</mask>
+      <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
