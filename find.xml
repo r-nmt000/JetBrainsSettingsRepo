@@ -5,19 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*advancerequest*.xml" />
     <recentFileMasks>
-      <mask>con*java</mask>
-      <mask>cont*java</mask>
-      <mask>contro*java</mask>
-      <mask>control*java</mask>
-      <mask>controller*java</mask>
-      <mask>*controller*java</mask>
-      <mask>*controlle*java</mask>
-      <mask>*con*java</mask>
-      <mask>*co*java</mask>
-      <mask>*c*java</mask>
-      <mask>**java</mask>
-      <mask>*conf*java</mask>
       <mask>*config*java</mask>
       <mask>*config.jav</mask>
       <mask>*</mask>
@@ -34,8 +23,20 @@
       <mask>*c.java</mask>
       <mask>*.java</mask>
       <mask>*.jav</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.xml</mask>
+      <mask>**.xml</mask>
+      <mask>*a*.xml</mask>
+      <mask>*ad*.xml</mask>
+      <mask>*advan*.xml</mask>
+      <mask>*advanc*.xml</mask>
+      <mask>*advance*.xml</mask>
+      <mask>*advancere*.xml</mask>
+      <mask>*advancereq*.xml</mask>
+      <mask>*advancereque*.xml</mask>
+      <mask>*advancerequest*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
