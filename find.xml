@@ -5,14 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*xml" />
     <recentFileMasks>
-      <mask>*config*java</mask>
-      <mask>*config.jav</mask>
-      <mask>*</mask>
-      <mask>*j</mask>
-      <mask>*ja</mask>
-      <mask>*java</mask>
-      <mask>*confijava</mask>
       <mask>*configjava</mask>
       <mask>*config.java</mask>
       <mask>*confi.java</mask>
@@ -36,6 +30,13 @@
       <mask>*advancereq*.xml</mask>
       <mask>*advancereque*.xml</mask>
       <mask>*advancerequest*.xml</mask>
+      <mask>pom</mask>
+      <mask>po</mask>
+      <mask>p</mask>
+      <mask>.x</mask>
+      <mask>.</mask>
+      <mask>*</mask>
+      <mask>*xml</mask>
     </recentFileMasks>
   </component>
 </application>
