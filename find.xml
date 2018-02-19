@@ -3,16 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*java" />
+    <option name="FILE_MASK" value="*validator*java" />
     <recentFileMasks>
-      <mask>*confi.java</mask>
-      <mask>*conf.java</mask>
-      <mask>*con.java</mask>
-      <mask>*co.java</mask>
-      <mask>*c.java</mask>
-      <mask>*.java</mask>
-      <mask>*.jav</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.xml</mask>
@@ -35,6 +27,14 @@
       <mask>*x</mask>
       <mask>*</mask>
       <mask>*java</mask>
+      <mask>*.java</mask>
+      <mask>*.vajava</mask>
+      <mask>*.valijava</mask>
+      <mask>*.validajava</mask>
+      <mask>*.validatjava</mask>
+      <mask>*.validatorjava</mask>
+      <mask>*.validator*java</mask>
+      <mask>*validator*java</mask>
     </recentFileMasks>
   </component>
 </application>
