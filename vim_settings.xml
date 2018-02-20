@@ -4,9 +4,6 @@
     <globalmarks />
     <filemarks>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-front/src/main/webapp/js/ac/expense/portal/container/expenseportal-contents-detail.js" timestamp="1519016758621" />
-      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/service/validator/DuplicateRecordValidatorServiceImpl.java" timestamp="1519011150074">
-        <mark key="'" line="223" column="55" />
-      </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-front/src/main/java/com/worksap/company/hue/controller/ac/expense/advancerequest/OverseasTravelAdvanceRequestController.java" timestamp="1518587021591">
         <mark key="[" line="174" column="65" />
         <mark key="]" line="174" column="92" />
@@ -55,11 +52,11 @@
         <mark key="." line="20" column="1" />
         <mark key="^" line="20" column="1" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/service/impl/AdvanceRequestServiceImpl.java" timestamp="1519025505141">
-        <mark key="[" line="326" column="8" />
-        <mark key="]" line="326" column="8" />
-        <mark key="." line="326" column="8" />
-        <mark key="^" line="326" column="8" />
+      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/service/impl/AdvanceRequestServiceImpl.java" timestamp="1519097484718">
+        <mark key="[" line="187" column="80" />
+        <mark key="]" line="190" column="15" />
+        <mark key="." line="190" column="15" />
+        <mark key="^" line="190" column="15" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/application/specialized/AbstractSpecializedExpenseApplicationService.java" timestamp="1519093269444">
         <mark key="[" line="1278" column="67" />
@@ -108,6 +105,11 @@
         <mark key="]" line="54" column="58" />
         <mark key="." line="54" column="58" />
         <mark key="^" line="54" column="58" />
+      </file>
+      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/service/spec/AdvanceRequestService.java" timestamp="1519096354792">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-front/src/main/webapp/test/ac/expense/advancerequest/common/ac-expense-travel-advance-request-standard.html" timestamp="1518697826194">
         <mark key="[" line="0" column="0" />
@@ -224,8 +226,10 @@
         <mark key="^" line="163" column="66" />
         <mark key="." line="163" column="66" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/CostSharingSectionConsistencyValidatorImpl.java" timestamp="1519011473186">
-        <mark key="'" line="92" column="47" />
+      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/pom.xml" timestamp="1518762979493">
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="0" />
+        <mark key="." line="138" column="0" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/service/validator/ExpenseValidatorServiceImpl.java" timestamp="1519094433258">
         <mark key="[" line="213" column="15" />
@@ -639,34 +643,34 @@
         <text encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNvbmZpcm1QcmVyZXF1aXNpdGVWYWxpZGF0b3JzID0gSW1tdXRhYmxlTGlzdC5vZih0cmlwVGVybUxlbmd0aFZhbGlkYXRvciwgcmVxdWlyZWRSZWNvcmRWYWxpZGF0b3IpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTGlzdDxCdXNpbmVzc1ZhbGlkYXRvcjxBZHZhbmNlUmVxdWVzdD4+IG9uQ2hhbmdlUHJlcmVxdWlzaXRlVmFsaWRhdG9yczsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTGlzdDxCdXNpbmVzc1ZhbGlkYXRvcjxBZHZhbmNlUmVxdWVzdD4+IG9uQ2hhbmdlUHJlcmVxdWlzaXRlVmFsaWRhdG9yczsKICAgIHByaXZhdGUgZmluYWwgTGlzdDxCdXNpbmVzc1ZhbGlkYXRvcjxBZHZhbmNlUmVxdWVzdD4+IHNhdmVQcmVyZXF1aXNpdGVWYWxpZGF0b3JzOwogICAgcHJpdmF0ZSBmaW5hbCBMaXN0PEJ1c2luZXNzVmFsaWRhdG9yPEFkdmFuY2VSZXF1ZXN0Pj4gY29uZmlybVByZXJlcXVpc2l0ZVZhbGlkYXRvcnM7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIExpc3Q8QnVzaW5lc3NWYWxpZGF0b3I8RXhwZW5zZVJlcG9ydD4+IGdldFNhdmVQcmVyZXF1aXNpdGVWYWxpZGF0b3IoKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGFkZGVkIHRvIGV4ZWN1dGUgdHJpcFRlcm1MZW5ndGhWYWxpZGF0b3IgaW4gY29uZmlybS4KICAgICAgICAgICAgICAgIC8vIFRPRE86IGltcGxlbWVudCBjb25maXJtUHJlcmVxQ2hlY2sgYW5kIHJlbW92ZSB0aGlzLgogICAgICAgICAgICAgICAgdHJpcFRlcm1MZW5ndGhWYWxpZGF0b3IsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnZhbGlkYXRvckxpc3RGb3JPbkNoYW5nZVByZXJlcS5hZGQodHJpcFRlcm1MZW5ndGhWYWxpZGF0b3IpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTGlzdDxCdXNpbmVzc1ZhbGlkYXRvcjxBZHZhbmNlUmVxdWVzdD4+IG9uQ2hhbmdlUHJlcmVxdWlzaXRlVmFsaWRhdG9yczsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcXVpcmVkUmVjb3JkVmFsaWRhdG9yLAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnZhbGlkYXRvckxpc3RGb3JDb25maXJtUHJlcmVxLmFkZChyZXF1aXJlZFJlY29yZFZhbGlkYXRvcik7Cg==</text>
+        <text encoding="base64">ICAgIExpc3Q8QnVzaW5lc3NWYWxpZGF0b3I8RXhwZW5zZVJlcG9ydD4+IGdldFNhdmVQcmVyZXF1aXNpdGVWYWxpZGF0b3IoKTsK</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20ud29ya3NhcC5jb21wYW55PC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5odWUtY29tLWNsaWVudC1saWItc2VydmVyLXNpZGU8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjE4LjAyLjAwLjAwMDAuMjAxODAyMTUuMTkxNTwvdmVyc2lvbj4KICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGFkZGVkIHRvIGV4ZWN1dGUgdHJpcFRlcm1MZW5ndGhWYWxpZGF0b3IgaW4gY29uZmlybS4KICAgICAgICAgICAgICAgIC8vIFRPRE86IGltcGxlbWVudCBjb25maXJtUHJlcmVxQ2hlY2sgYW5kIHJlbW92ZSB0aGlzLgogICAgICAgICAgICAgICAgdHJpcFRlcm1MZW5ndGhWYWxpZGF0b3IsCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -707,10 +711,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20ud29ya3NhcC5jb21wYW55PC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5odWUtY29tLWNsaWVudC1saWItc2VydmVyLXNpZGU8L2FydGlmYWN0SWQ+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnZhbGlkYXRvckxpc3RGb3JPbkNoYW5nZVByZXJlcS5hZGQodHJpcFRlcm1MZW5ndGhWYWxpZGF0b3IpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgoJCTxncm91cElkPmNvbS53b3Jrc2FwLmNvbXBhbnk8L2dyb3VwSWQ+CgkJPGFydGlmYWN0SWQ+aHVlLWl2dGwtY2xpZW50LWxpYi1zZXJ2ZXItc2lkZTwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+MTguMDIuMDAuMDAwMC4yMDE4MDIxNS4xOTE1PC92ZXJzaW9uPgoJPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcXVpcmVkUmVjb3JkVmFsaWRhdG9yLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
