@@ -47,12 +47,17 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
+      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/test/java/com/worksap/company/hue/ac/biz/expense/advancerequest/service/impl/ValidationResultMergeServiceImplTest.java" timestamp="1519462943199">
+        <mark key="[" line="31" column="44" />
+        <mark key="]" line="31" column="50" />
+        <mark key="." line="31" column="50" />
+        <mark key="^" line="31" column="50" />
+      </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/application/specialized/AcExpenseDomesticBizTripApplicationServiceImpl.java" timestamp="1519368264272">
         <mark key="[" line="147" column="0" />
         <mark key="]" line="147" column="0" />
         <mark key="." line="147" column="0" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/service/impl/ExpenseReportInputInitializeServiceImpl.java" timestamp="1519370021319" />
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/application/entertainment/provider/AcExpenseEntertainmentDataProviderImpl.java" timestamp="1519384758551" />
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/validator/TripTermDuplicationValidatorImpl.java" timestamp="1519294721087" />
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-front/src/main/java/com/worksap/company/hue/controller/ac/expense/mobileexpense/ReportViewController.java" timestamp="1519105881866">
@@ -68,9 +73,9 @@
         <mark key="^" line="124" column="11" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-front/src/main/java/com/worksap/company/hue/controller/ac/expense/core/application/AbstractAcExpenseCoreApplicationController.java" timestamp="1519384777323">
-        <mark key="[" line="657" column="0" />
-        <mark key="]" line="657" column="0" />
-        <mark key="." line="657" column="0" />
+        <mark key="[" line="661" column="0" />
+        <mark key="]" line="661" column="0" />
+        <mark key="." line="661" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1519386009332">
         <mark key="[" line="0" column="0" />
@@ -78,9 +83,9 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/service/spec/ValidationResultMergeService.java" timestamp="1519365305331">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
+      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/service/spec/ValidationResultMergeService.java" timestamp="1519462913606">
+        <mark key="[" line="29" column="24" />
+        <mark key="]" line="29" column="55" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="9" column="2" />
       </file>
@@ -99,7 +104,7 @@
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/CostSharingSectionConsistencyValidatorImpl.java" timestamp="1519297950578" />
       <file name="/AbstractSpecializedExpenseApplicationService.java" timestamp="1519367987016" />
-      <file name="/fragment.java" timestamp="1519385696067">
+      <file name="/fragment.java" timestamp="1519462459239">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/test/java/com/worksap/company/hue/ac/bizcore/expense/record/service/emptyrow/EmptyRecordDecisionServiceImplTest.java" timestamp="1519290106631" />
@@ -503,25 +508,25 @@
         <text encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gcmVzcG9uc2UK</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICAvKioKICAgICAqIENhc2U6IE1lcmdlIG9yaWdpbmFsIHJlc3BvbnNlIGFuZCB2YWxpZGF0aW9uIHZpb2xhdGlvbiByZXN1bHQgYmVmb3JlIG9uQ2hhbmdlCiAgICAgKi8KICAgIHB1YmxpYyB2b2lkIHRlc3RNZXJnZVZhbGlkYXRpb25SZXN1bHRGb3JPbkNoYW5nZSgpIHsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgICAgICAgICAgZXhwZW5zZUVibVNlcnZpY2UsIGhTZWN0aW9uUHJvdmlkZXIsIHBheW1lbnRNZXRob2RJbmplY3RTZXJ2aWNlKTsKPj4+Pj4+PiBwYXJlbnQgb2YgMjBiYzBlYi4uLiBNZXJnZSBicmFuY2ggJ3RpY2tldC0zMTk1MjItZGV2JyBpbnRvICdkZXZlbG9wJwo=</text>
+        <text encoding="base64">ICAgICAqIEV4cGVjdGVkOiAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAqIFRpbWluZzogICBvbkNoYW5nZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgICAgICBIU2VjdGlvblByb3ZpZGVyU2VydmljZSBoU2VjdGlvblByb3ZpZGVyLAogICAgICAgICAgICBQYXltZW50TWV0aG9kQWNjZXNzU2VydmljZSBwYXltZW50TWV0aG9kSW5qZWN0U2VydmljZSkgewo+Pj4+Pj4+IHBhcmVudCBvZiAyMGJjMGViLi4uIE1lcmdlIGJyYW5jaCAndGlja2V0LTMxOTUyMi1kZXYnIGludG8gJ2RldmVsb3AnCg==</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgICAgICAgICAgZXhwZW5zZUVibVNlcnZpY2UsIGhTZWN0aW9uUHJvdmlkZXIsIHBheW1lbnRNZXRob2RJbmplY3RTZXJ2aWNlKTsKPj4+Pj4+PiBwYXJlbnQgb2YgMjBiYzBlYi4uLiBNZXJnZSBicmFuY2ggJ3RpY2tldC0zMTk1MjItZGV2JyBpbnRvICdkZXZlbG9wJwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgICAgICAgICAgZXhwZW5zZUVibVNlcnZpY2UsIGhTZWN0aW9uUHJvdmlkZXJTZXJ2aWNlLCBwYXltZW50TWV0aG9kSW5qZWN0U2VydmljZSk7Cj4+Pj4+Pj4gcGFyZW50IG9mIDIwYmMwZWIuLi4gTWVyZ2UgYnJhbmNoICd0aWNrZXQtMzE5NTIyLWRldicgaW50byAnZGV2ZWxvcCcK</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgICAgICBIU2VjdGlvblByb3ZpZGVyU2VydmljZSBoU2VjdGlvblByb3ZpZGVyLAogICAgICAgICAgICBQYXltZW50TWV0aG9kQWNjZXNzU2VydmljZSBwYXltZW50TWV0aG9kSW5qZWN0U2VydmljZSkgewo+Pj4+Pj4+IHBhcmVudCBvZiAyMGJjMGViLi4uIE1lcmdlIGJyYW5jaCAndGlja2V0LTMxOTUyMi1kZXYnIGludG8gJ2RldmVsb3AnCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
@@ -530,7 +535,7 @@
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgICAgICBQYXltZW50TWV0aG9kQWNjZXNzU2VydmljZSBwYXltZW50TWV0aG9kSW5qZWN0U2VydmljZSkgewo+Pj4+Pj4+IHBhcmVudCBvZiAyMGJjMGViLi4uIE1lcmdlIGJyYW5jaCAndGlja2V0LTMxOTUyMi1kZXYnIGludG8gJ2RldmVsb3AnCg==</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgICAgICAgICAgZXhwZW5zZUVibVNlcnZpY2UsIGhTZWN0aW9uUHJvdmlkZXJTZXJ2aWNlLCBwYXltZW50TWV0aG9kSW5qZWN0U2VydmljZSk7Cj4+Pj4+Pj4gcGFyZW50IG9mIDIwYmMwZWIuLi4gTWVyZ2UgYnJhbmNoICd0aWNrZXQtMzE5NTIyLWRldicgaW50byAnZGV2ZWxvcCcK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -574,7 +579,7 @@
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgICAgICBQYXltZW50TWV0aG9kQWNjZXNzU2VydmljZSBwYXltZW50TWV0aG9kSW5qZWN0U2VydmljZSkgewo+Pj4+Pj4+IHBhcmVudCBvZiAyMGJjMGViLi4uIE1lcmdlIGJyYW5jaCAndGlja2V0LTMxOTUyMi1kZXYnIGludG8gJ2RldmVsb3AnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
