@@ -36,7 +36,8 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/worksap/company/hue-application-input-framework/18.02.00.0000.20180213.2007/hue-application-input-framework-18.02.00.0000.20180213.2007-sources.jar!/com/worksap/company/framework/inputfw/module/ApplicationTransitionSharedServiceImpl.java" timestamp="1519385833693" />
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/service/AcExpenseEntityDiffService.java" timestamp="1519471751074" />
-      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/application/specialized/AbstractSpecializedExpenseApplicationService.java" timestamp="1519635890850">
+      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/application/specialized/AbstractSpecializedExpenseApplicationService.java" timestamp="1519697190377">
+        <mark key="'" line="1292" column="62" />
         <mark key="[" line="1320" column="51" />
         <mark key="]" line="1321" column="55" />
         <mark key="." line="1321" column="55" />
@@ -232,11 +233,17 @@
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/CostSharingSectionConsistencyValidatorImpl.java" timestamp="1519297950578" />
       <file name="/AbstractSpecializedExpenseApplicationService.java" timestamp="1519367987016" />
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/TripTermDateValidatorImpl.java" timestamp="1519627294950" />
+      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/service/validator/ExpenseValidatorServiceImpl.java" timestamp="1519627328254">
+        <mark key="'" line="193" column="0" />
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
+        <mark key="^" line="165" column="110" />
+      </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/test/java/com/worksap/company/hue/ac/bizcore/expense/record/service/emptyrow/EmptyRecordDecisionServiceImplTest.java" timestamp="1519290106631" />
       <file name="$MAVEN_REPOSITORY$/com/worksap/company/company-framework-core-dto/17.10.00.0003.20180213.1300.interim/company-framework-core-dto-17.10.00.0003.20180213.1300.interim-sources.jar!/com/worksap/company/framework/core/model/validation/SimpleValidationViolation.java" timestamp="1519475934333" />
     </filemarks>
     <jumps>
-      <jump line="165" column="1" filename="C:/HUE/WorkSpace/Develop/cs-i-examination/main/js/bootcamp/webeditor/ui/article-editor.js" />
       <jump line="287" column="7" filename="C:/HUE/WorkSpace/Develop/cs-i-examination/main/js/bootcamp/webeditor/ui/article-editor.js" />
       <jump line="108" column="25" filename="C:/HUE/WorkSpace/Develop/cs-i-practice/main/js/bootcamp/todolist/todolist-app.js" />
       <jump line="49" column="20" filename="C:/HUE/WorkSpace/Develop/cs-i-examination/main/js/bootcamp/webeditor/webeditor-app.js" />
@@ -336,6 +343,7 @@
       <jump line="5" column="3" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/service/impl/ValidationResultMergeServiceImpl.java" />
       <jump line="63" column="0" filename="$MAVEN_REPOSITORY$/com/worksap/company/hue-application-input-framework/18.02.00.0000.20180213.2007/hue-application-input-framework-18.02.00.0000.20180213.2007-sources.jar!/com/worksap/company/framework/inputfw/module/validation/ValidationSharedServiceImpl.java" />
       <jump line="38" column="32" filename="$MAVEN_REPOSITORY$/com/worksap/company/hue-application-input-framework/18.02.00.0000.20180213.2007/hue-application-input-framework-18.02.00.0000.20180213.2007-sources.jar!/com/worksap/company/framework/inputfw/view/transition/ViewTransition.java" />
+      <jump line="1292" column="62" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/application/specialized/AbstractSpecializedExpenseApplicationService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
