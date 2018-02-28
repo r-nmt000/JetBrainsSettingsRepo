@@ -9,6 +9,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="39" column="20" />
       </file>
+      <file name="C:/HUE/WorkSpace/1712/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/mapper/util/ExpenseApplicationContentsMapper.java" timestamp="1519824131558">
+        <mark key="[" line="387" column="19" />
+        <mark key="]" line="387" column="18" />
+        <mark key="." line="387" column="18" />
+        <mark key="^" line="387" column="18" />
+      </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/application/specialized/AcExpenseDomesticBizTripApplicationServiceImpl.java" timestamp="1519698215483">
         <mark key="[" line="152" column="0" />
         <mark key="]" line="152" column="0" />
@@ -24,7 +30,11 @@
       <file name="/fragment.py" timestamp="1519813710718">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/HUE/WorkSpace/1712/hue-ac-expense/hue-ac-expense-dto/src/main/java/com/worksap/company/hue/ac/type/expense/record/ExpenseRecordBase.java" timestamp="1519824063407">
+        <mark key="'" line="462" column="5" />
+      </file>
       <file name="C:/HUE/WorkSpace/1712/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/event/ExpensePayplanLinkStartListnerImpl.java" timestamp="1519810689604" />
+      <file name="C:/HUE/WorkSpace/1712/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/service/impl/CostSharingSectionServiceImpl.java" timestamp="1519823826071" />
       <file name="C:/HUE/WorkSpace/1712/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/travelexpense/event/ExpenseStartListnerImpl.java" timestamp="1519809369091" />
       <file name="$MAVEN_REPOSITORY$/com/worksap/company/company-report-engine/17.07.00.0007.20180116.0903/company-report-engine-17.07.00.0007.20180116.0903-sources.jar!/com/worksap/company/framework/report/service/impl/InstaReportDownloadServiceImpl.java" timestamp="1519801302565" />
       <file name="C:/HUE/WorkSpace/1712/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/core/report/AbstractApplicationDataProvider.java" timestamp="1519822353494">
@@ -77,7 +87,7 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="32" column="19" />
       </file>
-      <file name="C:/HUE/WorkSpace/1712/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/entity/report/ExpenseReport.java" timestamp="1519818908574" />
+      <file name="C:/HUE/WorkSpace/1712/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/entity/report/ExpenseReport.java" timestamp="1519824046399" />
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-front/src/main/java/com/worksap/company/hue/controller/ac/expense/mobileexpense/ReportViewController.java" timestamp="1519533766777">
         <mark key="[" line="578" column="109" />
         <mark key="]" line="579" column="39" />
@@ -168,7 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="287" column="7" filename="C:/HUE/WorkSpace/Develop/cs-i-examination/main/js/bootcamp/webeditor/ui/article-editor.js" />
       <jump line="108" column="25" filename="C:/HUE/WorkSpace/Develop/cs-i-practice/main/js/bootcamp/todolist/todolist-app.js" />
       <jump line="49" column="20" filename="C:/HUE/WorkSpace/Develop/cs-i-examination/main/js/bootcamp/webeditor/webeditor-app.js" />
       <jump line="208" column="33" filename="C:/HUE/WorkSpace/Develop/cs-i-examination/main/js/bootcamp/webeditor/ui/article-editor.js" />
@@ -268,6 +277,7 @@
       <jump line="63" column="0" filename="$MAVEN_REPOSITORY$/com/worksap/company/hue-application-input-framework/18.02.00.0000.20180213.2007/hue-application-input-framework-18.02.00.0000.20180213.2007-sources.jar!/com/worksap/company/framework/inputfw/module/validation/ValidationSharedServiceImpl.java" />
       <jump line="38" column="32" filename="$MAVEN_REPOSITORY$/com/worksap/company/hue-application-input-framework/18.02.00.0000.20180213.2007/hue-application-input-framework-18.02.00.0000.20180213.2007-sources.jar!/com/worksap/company/framework/inputfw/view/transition/ViewTransition.java" />
       <jump line="1292" column="62" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/application/specialized/AbstractSpecializedExpenseApplicationService.java" />
+      <jump line="462" column="5" filename="C:/HUE/WorkSpace/1712/hue-ac-expense/hue-ac-expense-dto/src/main/java/com/worksap/company/hue/ac/type/expense/record/ExpenseRecordBase.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -560,13 +570,13 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>entity</text>
+        <text>setSections</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgU0VDVElPTl9OQU1FUyA9ICJzZWN0aW9uTmFtZXMiOwo=</text>
+        <text encoding="base64">ICAgICAgICBleHBlbnNlRHRvLnNldFNlY3Rpb25zKGV4cGVuc2UuZ2V0U2VjdGlvbnMoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgc2VjdGlvbk5hbWVzID0gInNlY3Rpb25OYW1lcyI7CiAgICAgICAgZmluYWwgU3RyaW5nIHNlY3Rpb25OYW1lID0gInNlY3Rpb25OYW1lIjsKCg==</text>
