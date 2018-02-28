@@ -3,16 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*jrxml" />
     <recentFileMasks>
-      <mask>*java</mask>
-      <mask>*ja</mask>
-      <mask>*j</mask>
-      <mask>*js</mask>
-      <mask>*xml</mask>
-      <mask>*jrxml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.xml</mask>
       <mask>**.xml</mask>
       <mask>*R*.xml</mask>
       <mask>*R1*.xml</mask>
@@ -27,13 +19,22 @@
       <mask>*R1225*.xml</mask>
       <mask>*R1225*.jxml</mask>
       <mask>*R1225*.jrxml</mask>
-      <mask>*.jrxml</mask>
-      <mask>*R.jrxml</mask>
-      <mask>*R1.jrxml</mask>
-      <mask>*R12.jrxml</mask>
-      <mask>*R122.jrxml</mask>
       <mask>*R1224.jrxml</mask>
       <mask>*R1225.jrxml</mask>
+      <mask>*R122.jrxml</mask>
+      <mask>*R12.jrxml</mask>
+      <mask>*R1.jrxml</mask>
+      <mask>*R.jrxml</mask>
+      <mask>*.jrxml</mask>
+      <mask>*.jrxm</mask>
+      <mask>*.jrx</mask>
+      <mask>*.jr</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
+      <mask>*xml</mask>
+      <mask>*jrxml</mask>
     </recentFileMasks>
   </component>
 </application>
