@@ -2,21 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*R1225*.xml" />
+    <option name="FILE_MASK" value="*R1225.jrxml" />
     <recentFileMasks>
-      <mask>*ac-expense-core-in*js</mask>
-      <mask>*ac-expense-core-i*js</mask>
-      <mask>*ac-expense-core-*js</mask>
-      <mask>*ac-expense-core*js</mask>
-      <mask>*ac-expense-core*j</mask>
-      <mask>*jav\</mask>
-      <mask>*xm</mask>
-      <mask>*x</mask>
-      <mask>*jav</mask>
-      <mask>*s</mask>
       <mask>*java</mask>
       <mask>*ja</mask>
       <mask>*j</mask>
@@ -36,7 +24,17 @@
       <mask>*R122400*.xml</mask>
       <mask>*R12240*.xml</mask>
       <mask>*R122*.xml</mask>
+      <mask>*R1225*.rxml</mask>
       <mask>*R1225*.xml</mask>
+      <mask>*R1225*.jxml</mask>
+      <mask>*R1225*.jrxml</mask>
+      <mask>*.jrxml</mask>
+      <mask>*R.jrxml</mask>
+      <mask>*R1.jrxml</mask>
+      <mask>*R12.jrxml</mask>
+      <mask>*R122.jrxml</mask>
+      <mask>*R1224.jrxml</mask>
+      <mask>*R1225.jrxml</mask>
     </recentFileMasks>
   </component>
 </application>
