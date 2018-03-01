@@ -3,13 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.R1225000.01*xml" />
+    <option name="FILE_MASK" value="*jrxml" />
     <recentFileMasks>
-      <mask>*AcExpenseOverseas*xml</mask>
-      <mask>*AcExpenseOverseasB*xml</mask>
-      <mask>*AcExpenseOverseasBi*xml</mask>
-      <mask>*AcExpenseOverseasBiz*xml</mask>
-      <mask>*AcExpenseOverseasBizT*xml</mask>
       <mask>*AcExpenseOverseasBizTri*xml</mask>
       <mask>*AcExpenseOverseasBizTrip*xml</mask>
       <mask>*AcExpenseOverseasBizTrip.*xml</mask>
@@ -35,6 +30,11 @@
       <mask>*AcExpens.R1225000.01*xml</mask>
       <mask>.R1225000.01*xml</mask>
       <mask>*.R1225000.01*xml</mask>
+      <mask>*.R1225000.01xml</mask>
+      <mask>xml</mask>
+      <mask>*xml</mask>
+      <mask>*jxml</mask>
+      <mask>*jrxml</mask>
     </recentFileMasks>
   </component>
 </application>
