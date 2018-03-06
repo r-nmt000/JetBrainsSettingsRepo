@@ -44,6 +44,12 @@
         <mark key="^" line="63" column="36" />
       </file>
       <file name="C:/HUE/WorkSpace/1712/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/shared/RecordAmountRangeValidatorImpl.java" timestamp="1520321207262" />
+      <file name="C:/HUE/WorkSpace/1712/hue-ac-expense/hue-ac-expense-bizcore/src/test/java/com/worksap/company/hue/ac/bizcore/expense/config/ExpenseConfiguration.java" timestamp="1520331681639">
+        <mark key="[" line="219" column="20" />
+        <mark key="]" line="219" column="20" />
+        <mark key="^" line="215" column="85" />
+        <mark key="." line="219" column="20" />
+      </file>
       <file name="C:/HUE/WorkSpace/1712/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/application/overseas_biz_trip/provider/AcExpenseOverseazBizTripDataProviderImpl.java" timestamp="1520221047555">
         <mark key="[" line="36" column="118" />
         <mark key="]" line="36" column="118" />
@@ -136,11 +142,11 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="23" column="89" />
       </file>
-      <file name="C:/HUE/WorkSpace/1712/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/service/validator/ExpenseValidatorServiceImpl.java" timestamp="1520329369471">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
+      <file name="C:/HUE/WorkSpace/1712/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/service/validator/ExpenseValidatorServiceImpl.java" timestamp="1520331328989">
+        <mark key="[" line="86" column="202" />
+        <mark key="]" line="86" column="201" />
         <mark key="^" line="86" column="201" />
-        <mark key="." line="87" column="0" />
+        <mark key="." line="86" column="201" />
       </file>
       <file name="/Dummy.txt" timestamp="1520321208624">
         <mark key="[" line="0" column="0" />
@@ -571,16 +577,16 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>ExpenseReportValidationService</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>WARNING_WITH_REASON_REQUIRED</text>
+        <text>expenseRecordCharLengthValidator</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBlMDdmOWI4Li4uIE1lcmdlIGJyYW5jaCAndGlja2V0LTQyMDQwOCcgaW50byAndXNlci1zZXR0aW5nLWpwaGQtMTcuMDYuOTkuMDAwMScK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVuc2VSZWNvcmRDaGFyTGVuZ3RoVmFsaWRhdG9ySW1wbCwK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -592,10 +598,10 @@
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFF1YWxpZmllcigiY29tLndvcmtzYXAuY29tcGFueS5odWUuYWMuYml6Y29yZS5leHBlbnNlLmFsbG9jYXRpb24uQWxsb2NhdGlvblJ1bGVWYWxpZGF0b3JJbXBsIikgQnVzaW5lc3NWYWxpZGF0b3I8RXhwZW5zZVJlcG9ydD4gYWxsb2NhdGlvblJ1bGVWYWxpZGF0b3IpIHsK</text>
+        <text encoding="base64">Pj4+Pj4+PiBlMDdmOWI4Li4uIE1lcmdlIGJyYW5jaCAndGlja2V0LTQyMDQwOCcgaW50byAndXNlci1zZXR0aW5nLWpwaGQtMTcuMDYuOTkuMDAwMScK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Pj4+Pj4+PiBlMDdmOWI4Li4uIE1lcmdlIGJyYW5jaCAndGlja2V0LTQyMDQwOCcgaW50byAndXNlci1zZXR0aW5nLWpwaGQtMTcuMDYuOTkuMDAwMScK</text>
@@ -645,10 +651,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBlMDdmOWI4Li4uIE1lcmdlIGJyYW5jaCAndGlja2V0LTQyMDQwOCcgaW50byAndXNlci1zZXR0aW5nLWpwaGQtMTcuMDYuOTkuMDAwMScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBlMDdmOWI4Li4uIE1lcmdlIGJyYW5jaCAndGlja2V0LTQyMDQwOCcgaW50byAndXNlci1zZXR0aW5nLWpwaGQtMTcuMDYuOTkuMDAwMScK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
