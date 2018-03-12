@@ -1,13 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <option name="FILE_MASK" value="*java" />
     <recentFileMasks>
-      <mask>*AcExpenseTravelAdvanceRequest.J1232000.03.ja*xml</mask>
-      <mask>*AcExpenseTravelAdvanceRequest.J1232000.03.ja*xm</mask>
-      <mask>*AcExpe</mask>
       <mask>*AcExp</mask>
       <mask>*AcE</mask>
       <mask>*Ac</mask>
@@ -34,6 +31,9 @@
       <mask>*js</mask>
       <mask>*</mask>
       <mask>*j</mask>
+      <mask>*dto*java</mask>
+      <mask>*d*java</mask>
+      <mask>**java</mask>
       <mask>*java</mask>
     </recentFileMasks>
   </component>
