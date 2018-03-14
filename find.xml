@@ -5,18 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="pom*" />
     <recentFileMasks>
-      <mask>x</mask>
-      <mask>*dto*java</mask>
-      <mask>*d*java</mask>
-      <mask>**java</mask>
-      <mask>*js</mask>
-      <mask>*java</mask>
-      <mask>*jav</mask>
-      <mask>*ja</mask>
-      <mask>*</mask>
-      <mask>*j</mask>
-      <mask>*jr</mask>
       <mask>*jrxml</mask>
       <mask>s*ja.jrxml</mask>
       <mask>st*ja.jrxml</mask>
@@ -36,6 +26,17 @@
       <mask>*s*ja.jrxml</mask>
       <mask>**ja.jrxml</mask>
       <mask>*ja.jrxml</mask>
+      <mask>*ja.jrxm</mask>
+      <mask>*java</mask>
+      <mask>*jav</mask>
+      <mask>*ja</mask>
+      <mask>*j</mask>
+      <mask>*pom</mask>
+      <mask>*po</mask>
+      <mask>*</mask>
+      <mask>po</mask>
+      <mask>pom</mask>
+      <mask>pom*</mask>
     </recentFileMasks>
   </component>
 </application>
