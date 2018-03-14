@@ -2,12 +2,11 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*java" />
+    <option name="FILE_MASK" value="*ja.jrxml" />
     <recentFileMasks>
-      <mask>*Ac</mask>
-      <mask>*x</mask>
-      <mask>*xml</mask>
       <mask>**xml</mask>
       <mask>*a*xml</mask>
       <mask>*as*xml</mask>
@@ -29,12 +28,15 @@
       <mask>*dto*java</mask>
       <mask>*d*java</mask>
       <mask>**java</mask>
+      <mask>*js</mask>
+      <mask>*java</mask>
       <mask>*jav</mask>
       <mask>*ja</mask>
-      <mask>*j</mask>
-      <mask>*js</mask>
       <mask>*</mask>
-      <mask>*java</mask>
+      <mask>*j</mask>
+      <mask>*jr</mask>
+      <mask>*jrxml</mask>
+      <mask>*ja.jrxml</mask>
     </recentFileMasks>
   </component>
 </application>
