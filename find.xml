@@ -5,17 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*config.java" />
     <recentFileMasks>
-      <mask>*AcExpenseOve*</mask>
-      <mask>*AcExpenseOv*</mask>
-      <mask>*AcExpenseO*</mask>
-      <mask>*AcExpens*</mask>
-      <mask>**</mask>
-      <mask>*A*</mask>
-      <mask>*Ac*</mask>
-      <mask>*AcE*</mask>
-      <mask>*AcEx*</mask>
-      <mask>*AcExp*</mask>
       <mask>*AcExpen*</mask>
       <mask>*AcExpense*</mask>
       <mask>*AcExpenseG*</mask>
@@ -36,6 +27,16 @@
       <mask>*AcExpenseGeneral.R1225000.0*</mask>
       <mask>*AcExpenseGeneral.R1225000.01*</mask>
       <mask>*AcExpenseGeneral*.R1225000.01*</mask>
+      <mask>*AcExpenseGeneral*.R1225000.01</mask>
+      <mask>cofn</mask>
+      <mask>cof</mask>
+      <mask>co</mask>
+      <mask>*</mask>
+      <mask>*conf</mask>
+      <mask>*config</mask>
+      <mask>*config.</mask>
+      <mask>*config.ja</mask>
+      <mask>*config.java</mask>
     </recentFileMasks>
   </component>
 </application>
