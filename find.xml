@@ -5,9 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*js" />
     <recentFileMasks>
-      <mask>*f*N1218*xml</mask>
-      <mask>layout*N1218*xml</mask>
       <mask>layou*N1218*xml</mask>
       <mask>layo*N1218*xml</mask>
       <mask>lay*N1218*xml</mask>
@@ -36,6 +35,8 @@
       <mask>t</mask>
       <mask>trip</mask>
       <mask>*AcExpenseEntertain*N1218*xml</mask>
+      <mask>*</mask>
+      <mask>*js</mask>
     </recentFileMasks>
   </component>
 </application>
