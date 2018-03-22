@@ -1,17 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*AcExpense*AdvanceRequest*xml" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*java" />
     <recentFileMasks>
-      <mask>*AcExpenseEntertainmentAdvanceRequest.N*xml</mask>
-      <mask>*AcExpenseEntertainmentAdvanceRequest.N1*xml</mask>
-      <mask>*AcExpenseEntertainmentAdvanceRequest.N12*xml</mask>
-      <mask>*AcExpenseEntertainmentAdvanceRequest.N121*xml</mask>
-      <mask>*f*AcExpenseEntertainmentAdvanceRequest.N1218*xml</mask>
       <mask>*fo*AcExpenseEntertainmentAdvanceRequest.N1218*xml</mask>
       <mask>*for*AcExpenseEntertainmentAdvanceRequest.N1218*xml</mask>
       <mask>*form*AcExpenseEntertainmentAdvanceRequest.N1218*xml</mask>
@@ -37,6 +34,11 @@
       <mask>*AcExpense*AdvanceRequest.N*xml</mask>
       <mask>*AcExpense*AdvanceRequest.*xml</mask>
       <mask>*AcExpense*AdvanceRequest*xml</mask>
+      <mask>*AcExpense*AdvanceRequest*xm</mask>
+      <mask>*j</mask>
+      <mask>*js</mask>
+      <mask>*</mask>
+      <mask>*java</mask>
     </recentFileMasks>
   </component>
 </application>
