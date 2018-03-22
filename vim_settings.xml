@@ -103,8 +103,13 @@
       <file name="C:/HUE/WorkSpace/1712/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/dao/impl/ExpenseSummaryByAdvanceMergedStatusDaoImpl.java" timestamp="1521694791922" />
       <file name="C:/HUE/WorkSpace/1712/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/event/ExpensePayplanLinkEndListnerImpl.java" timestamp="1521695395655" />
       <file name="C:/HUE/WorkSpace/1712/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/validator/TripTermDateValidatorImpl.java" timestamp="1521424855747" />
-      <file name="C:/HUE/WorkSpace/1712/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/service/impl/OriginAdvanceRequestServiceImpl.java" timestamp="1521700365732" />
-      <file name="C:/HUE/WorkSpace/1712/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/application/specialized/AbstractSpecializedExpenseApplicationService.java" timestamp="1521704776979">
+      <file name="C:/HUE/WorkSpace/1712/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/service/impl/OriginAdvanceRequestServiceImpl.java" timestamp="1521711348326">
+        <mark key="[" line="189" column="0" />
+        <mark key="]" line="189" column="0" />
+        <mark key="^" line="177" column="61" />
+        <mark key="." line="189" column="0" />
+      </file>
+      <file name="C:/HUE/WorkSpace/1712/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/application/specialized/AbstractSpecializedExpenseApplicationService.java" timestamp="1521709910981">
         <mark key="'" line="317" column="36" />
         <mark key="[" line="330" column="0" />
         <mark key="]" line="330" column="0" />
@@ -127,7 +132,12 @@
         <mark key="." line="9" column="10" />
       </file>
       <file name="C:/HUE/WorkSpace/1712/hue-ac-expense/hue-ac-expense-dto/src/main/java/com/worksap/company/hue/ac/dto/expense/ExpenseReportDto.java" timestamp="1521696845887" />
-      <file name="C:/HUE/WorkSpace/1712/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/service/impl/RequestAndReportItemMapperServiceImpl.java" timestamp="1521701404490" />
+      <file name="C:/HUE/WorkSpace/1712/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/service/impl/RequestAndReportItemMapperServiceImpl.java" timestamp="1521711506443">
+        <mark key="[" line="576" column="56" />
+        <mark key="]" line="576" column="53" />
+        <mark key="." line="576" column="53" />
+        <mark key="^" line="576" column="53" />
+      </file>
       <file name="C:/HUE/WorkSpace/1712/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/dao/impl/ExpenseApplicationContentsDaoImpl.java" timestamp="1521708660494" />
       <file name="/Dummy.txt" timestamp="1521704273872">
         <mark key="[" line="0" column="0" />
@@ -573,40 +583,40 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>initMagicImport_</text>
+        <text>request.getEmpName()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>this.acExpenseCoreUtilView_</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZXBvcnQuc2V0RW1wTmFtZShyZXF1ZXN0LmdldEVtcE5hbWUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICBzZXRBcHBsaWNhbnRVc2VySWRJblByb3h5KCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PSBpbmplY3RQYXltZW50RHVlU2VjdGlvbihtb2RlbC5nZXRCdXNpbmVzc0RhdGEoKSwgYWNVc2VyQ29udGV4dCk7CiAgICAgICAgaWYgKE9iamVjdHMubm9uTnVsbChhcHBTdGF0dXMpICYmIGFwcFN0YXR1cy5lcXVhbHMoQXBwbGljYXRpb25TdGF0dXMuQ09QWSkpIHsKICAgICAgICAgICAgcmVzZXRGaWVsZHNGb3JDb3BpZWRSZWNvcmRzKG1vZGVsKTsKICAgICAgICAgICAgcmVzZXRGaWVsZHNGb3JDb3BpZWRIZWFkKG1vZGVsKTsKICAgICAgICB9CiAgICAgICAgT3B0aW9uYWw8QXBwbGljYXRpb25JZD4gb3JpZ2luQWR2YW5jZVJlcXVlc3RBcHBJZCA9IE9wdGlvbmFsLm9mTnVsbGFibGUoaXNHZW5lcmF0ZWRGcm9tQWR2YW5jZVJlcXVlc3QoCiAgICAgICAgICAgICAgICBhcHBTdGF0dXMsIG90aGVyQXBwbGljYXRpb25JZCkgPyBvdGhlckFwcGxpY2F0aW9uSWQgOiBudWxsKTsKICAgICAgICBvcmlnaW5BZHZhbmNlUmVxdWVzdFNlcnZpY2UuaW5qZWN0U2VsZWN0ZWRBZHZhbmNlUmVxdWVzdEluZm8obW9kZWwsIG9yaWdpbkFkdmFuY2VSZXF1ZXN0QXBwSWQpOwogICAgICAgIGFjdG9yUmVzb2x2ZXJTZXJ2aWNlLnVwZGF0ZUFjdG9ycyhtb2RlbC5nZXRCdXNpbmVzc0RhdGEoKS5nZXRBcHBsaWNhbnRVc2VySWQoKSk7CiAgICAgICAgVVVJRCBhY0VtcElkID0gaXNQcm94eUFwcGxpY2F0aW9uKGFjVXNlckNvbnRleHQsIG1vZGVsKSA/IFVVSUQuZnJvbVN0cmluZyhtb2RlbC5nZXRCdXNpbmVzc0RhdGEoKQo+Pj4+Pj4+IDMyNjI1YjAuLi4gcmVmcyAjMzM4NzMyIHNldEFwcGxpY2FuVXNlcklkIGZyb20gYWR2YW5jZVJlcXVlc3QK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhY3RvclJlc29sdmVyU2VydmljZS51cGRhdGVBY3RvcnMobW9kZWwuZ2V0QnVzaW5lc3NEYXRhKCkuZ2V0QXBwbGljYW50VXNlcklkKCkpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBpbmplY3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly88PDw8PDw8IEhFQUQK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly89PT09PT09Cg==</text>
+        <text encoding="base64">PT09PT09PSBpbmplY3RQYXltZW50RHVlU2VjdGlvbihtb2RlbC5nZXRCdXNpbmVzc0RhdGEoKSwgYWNVc2VyQ29udGV4dCk7CiAgICAgICAgaWYgKE9iamVjdHMubm9uTnVsbChhcHBTdGF0dXMpICYmIGFwcFN0YXR1cy5lcXVhbHMoQXBwbGljYXRpb25TdGF0dXMuQ09QWSkpIHsKICAgICAgICAgICAgcmVzZXRGaWVsZHNGb3JDb3BpZWRSZWNvcmRzKG1vZGVsKTsKICAgICAgICAgICAgcmVzZXRGaWVsZHNGb3JDb3BpZWRIZWFkKG1vZGVsKTsKICAgICAgICB9CiAgICAgICAgT3B0aW9uYWw8QXBwbGljYXRpb25JZD4gb3JpZ2luQWR2YW5jZVJlcXVlc3RBcHBJZCA9IE9wdGlvbmFsLm9mTnVsbGFibGUoaXNHZW5lcmF0ZWRGcm9tQWR2YW5jZVJlcXVlc3QoCiAgICAgICAgICAgICAgICBhcHBTdGF0dXMsIG90aGVyQXBwbGljYXRpb25JZCkgPyBvdGhlckFwcGxpY2F0aW9uSWQgOiBudWxsKTsKICAgICAgICBvcmlnaW5BZHZhbmNlUmVxdWVzdFNlcnZpY2UuaW5qZWN0U2VsZWN0ZWRBZHZhbmNlUmVxdWVzdEluZm8obW9kZWwsIG9yaWdpbkFkdmFuY2VSZXF1ZXN0QXBwSWQpOwogICAgICAgIGFjdG9yUmVzb2x2ZXJTZXJ2aWNlLnVwZGF0ZUFjdG9ycyhtb2RlbC5nZXRCdXNpbmVzc0RhdGEoKS5nZXRBcHBsaWNhbnRVc2VySWQoKSk7CiAgICAgICAgVVVJRCBhY0VtcElkID0gaXNQcm94eUFwcGxpY2F0aW9uKGFjVXNlckNvbnRleHQsIG1vZGVsKSA/IFVVSUQuZnJvbVN0cmluZyhtb2RlbC5nZXRCdXNpbmVzc0RhdGEoKQo+Pj4+Pj4+IDMyNjI1YjAuLi4gcmVmcyAjMzM4NzMyIHNldEFwcGxpY2FuVXNlcklkIGZyb20gYWR2YW5jZVJlcXVlc3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbmplY3RQYXltZW50RHVlU2VjdGlvbihtb2RlbC5nZXRCdXNpbmVzc0RhdGEoKSwgYWNVc2VyQ29udGV4dCk7CiAgICAgICAgaWYgKE9iamVjdHMubm9uTnVsbChhcHBTdGF0dXMpICYmIGFwcFN0YXR1cy5lcXVhbHMoQXBwbGljYXRpb25TdGF0dXMuQ09QWSkpIHsKICAgICAgICAgICAgcmVzZXRGaWVsZHNGb3JDb3BpZWRSZWNvcmRzKG1vZGVsKTsKICAgICAgICAgICAgcmVzZXRGaWVsZHNGb3JDb3BpZWRIZWFkKG1vZGVsKTsKICAgICAgICB9CiAgICAgICAgT3B0aW9uYWw8QXBwbGljYXRpb25JZD4gb3JpZ2luQWR2YW5jZVJlcXVlc3RBcHBJZCA9IE9wdGlvbmFsLm9mTnVsbGFibGUoaXNHZW5lcmF0ZWRGcm9tQWR2YW5jZVJlcXVlc3QoCiAgICAgICAgICAgICAgICBhcHBTdGF0dXMsIG90aGVyQXBwbGljYXRpb25JZCkgPyBvdGhlckFwcGxpY2F0aW9uSWQgOiBudWxsKTsKICAgICAgICBvcmlnaW5BZHZhbmNlUmVxdWVzdFNlcnZpY2UuaW5qZWN0U2VsZWN0ZWRBZHZhbmNlUmVxdWVzdEluZm8obW9kZWwsIG9yaWdpbkFkdmFuY2VSZXF1ZXN0QXBwSWQsIGZyb21Nb2JpbGUpOwogICAgICAgIGFjdG9yUmVzb2x2ZXJTZXJ2aWNlLnVwZGF0ZUFjdG9ycyhtb2RlbC5nZXRCdXNpbmVzc0RhdGEoKS5nZXRBcHBsaWNhbnRVc2VySWQoKSk7CiAgICAgICAgVVVJRCBhY0VtcElkID0gaXNQcm94eUFwcGxpY2F0aW9uKGFjVXNlckNvbnRleHQsIG1vZGVsKSA/IFVVSUQuZnJvbVN0cmluZyhtb2RlbC5nZXRCdXNpbmVzc0RhdGEoKQo+Pj4+Pj4+IDMyNjI1YjAuLi4gcmVmcyAjMzM4NzMyIHNldEFwcGxpY2FuVXNlcklkIGZyb20gYWR2YW5jZVJlcXVlc3QK</text>
+        <text encoding="base64">ICAgICAgICBhY3RvclJlc29sdmVyU2VydmljZS51cGRhdGVBY3RvcnMobW9kZWwuZ2V0QnVzaW5lc3NEYXRhKCkuZ2V0QXBwbGljYW50VXNlcklkKCkpOwo=</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0aGlzLm1hZ2ljSW1wb3J0XyA9IHZpZXcuZ2V0Q29tcG9uZW50KCdtYWdpYy1pbXBvcnQtZm9yLWV4cGVuc2UnKTsK</text>
+        <text encoding="base64">Ly88PDw8PDw8IEhFQUQK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -647,10 +657,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Ly89PT09PT09Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIGhTZWN0aW9uSWQgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbmplY3RQYXltZW50RHVlU2VjdGlvbihtb2RlbC5nZXRCdXNpbmVzc0RhdGEoKSwgYWNVc2VyQ29udGV4dCk7CiAgICAgICAgaWYgKE9iamVjdHMubm9uTnVsbChhcHBTdGF0dXMpICYmIGFwcFN0YXR1cy5lcXVhbHMoQXBwbGljYXRpb25TdGF0dXMuQ09QWSkpIHsKICAgICAgICAgICAgcmVzZXRGaWVsZHNGb3JDb3BpZWRSZWNvcmRzKG1vZGVsKTsKICAgICAgICAgICAgcmVzZXRGaWVsZHNGb3JDb3BpZWRIZWFkKG1vZGVsKTsKICAgICAgICB9CiAgICAgICAgT3B0aW9uYWw8QXBwbGljYXRpb25JZD4gb3JpZ2luQWR2YW5jZVJlcXVlc3RBcHBJZCA9IE9wdGlvbmFsLm9mTnVsbGFibGUoaXNHZW5lcmF0ZWRGcm9tQWR2YW5jZVJlcXVlc3QoCiAgICAgICAgICAgICAgICBhcHBTdGF0dXMsIG90aGVyQXBwbGljYXRpb25JZCkgPyBvdGhlckFwcGxpY2F0aW9uSWQgOiBudWxsKTsKICAgICAgICBvcmlnaW5BZHZhbmNlUmVxdWVzdFNlcnZpY2UuaW5qZWN0U2VsZWN0ZWRBZHZhbmNlUmVxdWVzdEluZm8obW9kZWwsIG9yaWdpbkFkdmFuY2VSZXF1ZXN0QXBwSWQsIGZyb21Nb2JpbGUpOwogICAgICAgIGFjdG9yUmVzb2x2ZXJTZXJ2aWNlLnVwZGF0ZUFjdG9ycyhtb2RlbC5nZXRCdXNpbmVzc0RhdGEoKS5nZXRBcHBsaWNhbnRVc2VySWQoKSk7CiAgICAgICAgVVVJRCBhY0VtcElkID0gaXNQcm94eUFwcGxpY2F0aW9uKGFjVXNlckNvbnRleHQsIG1vZGVsKSA/IFVVSUQuZnJvbVN0cmluZyhtb2RlbC5nZXRCdXNpbmVzc0RhdGEoKQo+Pj4+Pj4+IDMyNjI1YjAuLi4gcmVmcyAjMzM4NzMyIHNldEFwcGxpY2FuVXNlcklkIGZyb20gYWR2YW5jZVJlcXVlc3QK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
