@@ -2,39 +2,40 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*java" />
     <recentFileMasks>
-      <mask>*Ac</mask>
-      <mask>*x</mask>
-      <mask>*xml</mask>
-      <mask>**xml</mask>
-      <mask>*a*xml</mask>
-      <mask>*as*xml</mask>
-      <mask>*ad*xml</mask>
-      <mask>*adva*xml</mask>
-      <mask>*advan*xml</mask>
-      <mask>*advanc*xml</mask>
-      <mask>*advance*xml</mask>
-      <mask>*advancere*xml</mask>
-      <mask>*advancereq*xml</mask>
-      <mask>*advancerequ*xml</mask>
-      <mask>*advancereque*xml</mask>
-      <mask>*advancerequest*xml</mask>
-      <mask>*advancerequestxml</mask>
-      <mask>*advancerequesxml</mask>
-      <mask>xml</mask>
-      <mask>xm</mask>
-      <mask>x</mask>
-      <mask>*dto*java</mask>
-      <mask>*d*java</mask>
-      <mask>**java</mask>
-      <mask>*jav</mask>
-      <mask>*ja</mask>
-      <mask>*j</mask>
-      <mask>*js</mask>
+      <mask>*AcExpenseG*</mask>
+      <mask>*AcExpenseGe*</mask>
+      <mask>*AcExpenseGene*</mask>
+      <mask>*AcExpenseGener*</mask>
+      <mask>*AcExpenseGeneral*</mask>
+      <mask>*AcExpenseGeneral.*</mask>
+      <mask>*AcExpenseGeneral.R*</mask>
+      <mask>*AcExpenseGeneral.R1*</mask>
+      <mask>*AcExpenseGeneral.R12*</mask>
+      <mask>*AcExpenseGeneral.R122*</mask>
+      <mask>*AcExpenseGeneral.R1225*</mask>
+      <mask>*AcExpenseGeneral.R12250*</mask>
+      <mask>*AcExpenseGeneral.R122500*</mask>
+      <mask>*AcExpenseGeneral.R1225000*</mask>
+      <mask>*AcExpenseGeneral.R1225000.*</mask>
+      <mask>*AcExpenseGeneral.R1225000.0*</mask>
+      <mask>*AcExpenseGeneral.R1225000.01*</mask>
+      <mask>*AcExpenseGeneral*.R1225000.01*</mask>
+      <mask>*AcExpenseGeneral*.R1225000.01</mask>
+      <mask>cofn</mask>
+      <mask>cof</mask>
+      <mask>co</mask>
       <mask>*</mask>
-      <mask>*java</mask>
+      <mask>*conf</mask>
+      <mask>*config</mask>
+      <mask>*config.</mask>
+      <mask>*config.ja</mask>
+      <mask>*config.java</mask>
+      <mask>*onfig.java</mask>
+      <mask>*Config.java</mask>
     </recentFileMasks>
   </component>
 </application>

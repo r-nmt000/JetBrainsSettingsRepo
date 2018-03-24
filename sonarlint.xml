@@ -1,0 +1,19 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="fileExclusions">
+      <list>
+        <option value="src/main/test/**" />
+      </list>
+    </option>
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://hue-analysis.internal.worksap.com" />
+          <token>df9cdf9cdf93df9bdfcedf9cdfc9df9bdf98df99df99df99dfcedfcfdfc9df92df93df9edf9bdf9fdfcfdf9edf9ddfccdf92df99dfc9df9bdfcbdf9ddfc9df9edf98df98dfc8dfccdfcbdfcfdf9ddf9c</token>
+          <option name="name" value="hue_sonarqube" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
