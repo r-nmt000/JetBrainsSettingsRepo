@@ -1,12 +1,12 @@
 <templateSet group="Annotation">
-  <template name="requiredargs" value="@RequiredArgsConstructor(onConstractor=@__(@Autowired))" toReformat="false" toShortenFQNames="true">
+  <template name="requiredargs" value="@RequiredArgsConstructor(onConstractor=@__(@Autowired))" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
       <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
     </context>
   </template>
-  <template name="fielddefault" value="@FieldDefaults(level = AccessLevel.PRIVATE, makeFinal = true)&#10;" toReformat="false" toShortenFQNames="true">
+  <template name="fielddefault" value="@FieldDefaults(level = AccessLevel.PRIVATE, makeFinal = true)&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
