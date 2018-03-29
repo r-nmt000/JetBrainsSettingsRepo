@@ -177,17 +177,16 @@
         <mark key="." line="108" column="34" />
         <mark key="^" line="108" column="34" />
       </file>
-      <file name="C:/HUE/WorkSpace/1709/hue-ac-expense/hue-ac-expense-front/src/main/webapp/lib/wap/product-js/ac/expense/core/plugin/grid/ac-expense-core-plugin-grid-ekisupa.js" timestamp="1522286149924">
-        <mark key="[" line="614" column="59" />
+      <file name="C:/HUE/WorkSpace/1709/hue-ac-expense/hue-ac-expense-front/src/main/webapp/lib/wap/product-js/ac/expense/core/plugin/grid/ac-expense-core-plugin-grid-ekisupa.js" timestamp="1522288329289">
+        <mark key="[" line="614" column="38" />
         <mark key="]" line="614" column="58" />
         <mark key="." line="614" column="58" />
         <mark key="^" line="614" column="58" />
       </file>
-      <file name="C:/HUE/WorkSpace/1709/hue-ac-expense/hue-ac-expense-front/src/main/webapp/lib/wap/product-js/ac/expense/core/simagrid/service/sima-data-service.js" timestamp="1522286135166">
-        <mark key="[" line="531" column="48" />
-        <mark key="]" line="531" column="63" />
-        <mark key="." line="531" column="63" />
-        <mark key="^" line="531" column="63" />
+      <file name="C:/HUE/WorkSpace/1709/hue-ac-expense/hue-ac-expense-front/src/main/webapp/lib/wap/product-js/ac/expense/core/simagrid/service/sima-data-service.js" timestamp="1522288315844">
+        <mark key="[" line="525" column="0" />
+        <mark key="]" line="525" column="0" />
+        <mark key="." line="525" column="0" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-front/src/test/java/com/worksap/company/hue/selenide/page/LoginPage.java" timestamp="1521975597275">
         <mark key="[" line="21" column="21" />
@@ -214,6 +213,7 @@
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="45" />
       </file>
+      <file name="C:/HUE/WorkSpace/1709/hue-ac-expense/hue-ac-expense-front/src/main/webapp/lib/wap/ui/rich-component/sima/grid/grid.js" timestamp="1522288210259" />
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/entity/report/ExpenseReport.java" timestamp="1521007767838">
         <mark key="[" line="381" column="61" />
         <mark key="]" line="381" column="61" />
@@ -667,7 +667,7 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>rowIndex, this.targetColumnId_</text>
+        <text>getActiveColumnIndex</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</text>
@@ -682,25 +682,25 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvKioqCiAgICogR2V0IGFjdGl2ZSBjZWxsIGNvbHVtbiBpbmRleC4KICAgKiBAcmV0dXJuIHtudW1iZXJ9CiAgICovCiAgU2ltYURhdGFTZXJ2aWNlLnByb3RvdHlwZS5nZXRBY3RpdmVDb2x1bW5JbmRleCA9IGZ1bmN0aW9uKCkgewogICAgdmFyIGFjdGl2ZUNlbGwgPSB0aGlzLmdyaWRfLmdldFNoZWV0KCkuZ2V0QWN0aXZlQ2VsbCgpOwogICAgaWYgKGdvb2cuaXNuKQogIH07Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBCZWZvcmVDbGFzcwogICAgcHVibGljIHN0YXRpYyB2b2lkIHNldHVwQ2xhc3MoKSB7CiAgICAgICAgQ29uZmlndXJhdGlvbi5icm93c2VyID0gV2ViRHJpdmVyUnVubmVyLkNIUk9NRTsKICAgICAgICBTeXN0ZW0uc2V0UHJvcGVydHkoQ2hyb21lRHJpdmVyU2VydmljZS5DSFJPTUVfRFJJVkVSX0VYRV9QUk9QRVJUWSwKICAgICAgICAgICAgICAgIG5ldyBGaWxlKCJ0YXJnZXQvZHJpdmVycy9jaHJvbWVkcml2ZXIuZXhlIikuZ2V0QWJzb2x1dGVQYXRoKCkpOwoKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3YXRjaGVyLmFmdGVyKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -741,10 +741,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3YXRjaGVyLmJlZm9yZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gc2V0IEltcGxpY2l0V2FpdCAol3aRZoKqjKmCwoKpgueCyIKigsaCq4LMgUGDZoN0g0iDi4NngsyNxZHlkdKCv46eitQpIGRyaXZlci5tYW5hZ2UoKS50aW1lb3V0cygpLmltcGxpY2l0bHlXYWl0KFVpVGVzdENvbmZpZy5ERUZBVUxUX1dBSVRfVElNRV9NUywgVGltZVVuaXQuTUlMTElTRUNPTkRTKTsKICAgICAgICAgICAgKChUYWtlc1NjcmVlbnNob3QpZHJpdmVyKS5nZXRTY3JlZW5zaG90QXMoT3V0cHV0VHlwZS5CWVRFUyk7Cg==</text>
+        <text encoding="base64">ICAgIEBCZWZvcmVDbGFzcwogICAgcHVibGljIHN0YXRpYyB2b2lkIHNldHVwQ2xhc3MoKSB7CiAgICAgICAgQ29uZmlndXJhdGlvbi5icm93c2VyID0gV2ViRHJpdmVyUnVubmVyLkNIUk9NRTsKICAgICAgICBTeXN0ZW0uc2V0UHJvcGVydHkoQ2hyb21lRHJpdmVyU2VydmljZS5DSFJPTUVfRFJJVkVSX0VYRV9QUk9QRVJUWSwKICAgICAgICAgICAgICAgIG5ldyBGaWxlKCJ0YXJnZXQvZHJpdmVycy9jaHJvbWVkcml2ZXIuZXhlIikuZ2V0QWJzb2x1dGVQYXRoKCkpOwoKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
