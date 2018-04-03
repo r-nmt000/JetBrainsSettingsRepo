@@ -201,7 +201,7 @@
         <mark key="." line="21" column="21" />
         <mark key="^" line="21" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522750861127">
+      <file name="/Dummy.txt" timestamp="1522752092886">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -219,12 +219,12 @@
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="45" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/entity/report/ExpenseReport.java" timestamp="1522743128845">
+      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/entity/report/ExpenseReport.java" timestamp="1522751608215">
         <mark key="'" line="101" column="4" />
-        <mark key="[" line="381" column="61" />
-        <mark key="]" line="381" column="61" />
-        <mark key="." line="381" column="61" />
-        <mark key="^" line="381" column="61" />
+        <mark key="[" line="386" column="0" />
+        <mark key="]" line="386" column="0" />
+        <mark key="." line="386" column="0" />
+        <mark key="^" line="386" column="34" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-front/src/test/java/com/worksap/company/hue/selenide/testcase/ExpensePortalTest.java" timestamp="1521977797418">
         <mark key="[" line="18" column="0" />
@@ -266,6 +266,12 @@
         <mark key="]" line="65" column="0" />
         <mark key="^" line="65" column="46" />
         <mark key="." line="65" column="0" />
+      </file>
+      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/util/ExpenseItemIdConsts.java" timestamp="1522751465536">
+        <mark key="[" line="640" column="23" />
+        <mark key="]" line="640" column="7" />
+        <mark key="^" line="640" column="7" />
+        <mark key="." line="640" column="7" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/core/i18n/text/AcExpenseCoreTextResource.java" timestamp="1520984233363">
         <mark key="[" line="62" column="11" />
@@ -670,40 +676,40 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>sheetRects</text>
+        <text>Applicatio</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmICghZ29vZy5pc0RlZkFuZE5vdE51bGwoc2hlZXRSZWN0cykpIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIEBJdGVtSWQoRXhwZW5zZUl0ZW1JZENvbnN0cy5SZXBvcnQuQUxMT0NBVElPTl9SVUxFKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhciB0ZXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBzcmMvbWFpbi93ZWJhcHAvbGliCg==</text>
+        <text encoding="base64">ICAgIGV4cGVuc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3JjL21haW4vd2ViYXBwL2xpYgo=</text>
+        <text encoding="base64">ICAgIEBJdGVtSWQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhciB0ZXN0OwogICAgICAgICAgdmFyIHRlc3Q7CiAgICAgICAgICB2YXIgdGVzdDsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZhciB0ZXN0Owo=</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBzcmMvbWFpbi93ZWJhcHAvbGliCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -744,10 +750,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvKioqCiAgICogR2V0IGFjdGl2ZSBjZWxsIGNvbHVtbiBpbmRleC4KICAgKiBAcmV0dXJuIHtudW1iZXJ9CiAgICovCiAgU2ltYURhdGFTZXJ2aWNlLnByb3RvdHlwZS5nZXRBY3RpdmVDb2x1bW5JbmRleCA9IGZ1bmN0aW9uKCkgewogICAgdmFyIGFjdGl2ZUNlbGwgPSB0aGlzLmdyaWRfLmdldFNoZWV0KCkuZ2V0QWN0aXZlQ2VsbCgpOwogICAgaWYgKGdvb2cuaXNuKQogIH07Cg==</text>
+        <text encoding="base64">c3JjL21haW4vd2ViYXBwL2xpYgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZhciB0ZXN0OwogICAgICAgICAgdmFyIHRlc3Q7CiAgICAgICAgICB2YXIgdGVzdDsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
