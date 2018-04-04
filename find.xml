@@ -5,11 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*java" />
     <recentFileMasks>
-      <mask>acexpense*ja.standarxml</mask>
-      <mask>acexpense*ja.standard.*xml</mask>
-      <mask>acexpense*ja.standard.xml</mask>
-      <mask>acexpense*ja.standardxml</mask>
       <mask>acexpense*ja.sxml</mask>
       <mask>acexpense*ja.*xml</mask>
       <mask>acexpense*ja.xml</mask>
@@ -34,8 +31,12 @@
       <mask>acexpensedomesticbiz*standardja*xml</mask>
       <mask>acexpensedomesticbiz*standard*ja*xml</mask>
       <mask>acexpensedomesticbiz*standard*ja*xm</mask>
-      <mask>*</mask>
       <mask>*xml</mask>
+      <mask>*xm</mask>
+      <mask>*x</mask>
+      <mask>*</mask>
+      <mask>*ja</mask>
+      <mask>*java</mask>
     </recentFileMasks>
   </component>
 </application>
