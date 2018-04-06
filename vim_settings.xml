@@ -21,9 +21,10 @@
         <mark key="." line="16" column="54" />
         <mark key="^" line="16" column="54" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop/environment-tools/merge-conversion2attclockinout/create-branch-from-conversion-attclockinout.sh" timestamp="1522996485962">
+      <file name="C:/HUE/WorkSpace/Develop/environment-tools/merge-conversion2attclockinout/create-branch-from-conversion-attclockinout.sh" timestamp="1523005786829">
+        <mark key="'" line="39" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="40" column="180" />
+        <mark key="]" line="0" column="12" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/slack_mailaddress.csv" timestamp="1523004657774">
         <mark key="[" line="0" column="8" />
@@ -125,6 +126,12 @@
         <mark key="." line="18" column="19" />
         <mark key="^" line="18" column="19" />
       </file>
+      <file name="C:/HUE/WorkSpace/Develop03/make_slack_account_email_mapper.sh" timestamp="1523006156421">
+        <mark key="[" line="7" column="95" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-front/src/main/webapp/WEB-INF/templates/ac/expense/core/application/fragment/input.AcExpenseDomesticBizTrip.Standard.ja.xml" timestamp="1522744889323">
         <mark key="[" line="31" column="228" />
         <mark key="]" line="31" column="227" />
@@ -148,10 +155,6 @@
         <mark key="]" line="51" column="3" />
         <mark key="." line="51" column="3" />
         <mark key="^" line="51" column="3" />
-      </file>
-      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-front/src/main/webapp/WEB-INF/templates/ac/expense/core/common/header/input-header.AcExpenseDomesticBizTrip.Standard.ja.xml" timestamp="1522807023497">
-        <mark key="[" line="70" column="35" />
-        <mark key="]" line="70" column="94" />
       </file>
       <file name="C:/HUE/WorkSpace/1712/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/service/impl/OriginAdvanceRequestServiceImpl.java" timestamp="1521712951578">
         <mark key="[" line="189" column="0" />
@@ -268,9 +271,9 @@
         <mark key="^" line="2" column="32" />
         <mark key="." line="2" column="32" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop03/sonarqube-reminder.sh" timestamp="1523003395809">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
+      <file name="C:/HUE/WorkSpace/Develop03/sonarqube-reminder.sh" timestamp="1523005889245">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="6" />
         <mark key="^" line="22" column="28" />
         <mark key="." line="1" column="0" />
       </file>
@@ -285,6 +288,11 @@
         <mark key="]" line="28" column="65" />
         <mark key="." line="28" column="65" />
         <mark key="^" line="28" column="65" />
+      </file>
+      <file name="C:/HUE/WorkSpace/Develop03/email_slack_mapping.txt" timestamp="1523006344312">
+        <mark key="[" line="22" column="23" />
+        <mark key="]" line="22" column="23" />
+        <mark key="." line="22" column="23" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/core/i18n/text/AcExpenseCoreTextResorce.java" timestamp="1520983807363">
         <mark key="[" line="9" column="33" />
@@ -312,7 +320,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="357" column="0" filename="C:/HUE/WorkSpace/Develop/cs-i-examination/main/js/bootcamp/webeditor/ui/article-editor.js" />
       <jump line="692" column="29" filename="C:/HUE/WorkSpace/Develop/cs-i-examination/lib/closure-library/closure/goog/base.js" />
       <jump line="342" column="8" filename="C:/HUE/WorkSpace/Develop/cs-i-examination/main/js/bootcamp/webeditor/container/application.js" />
       <jump line="60" column="2" filename="C:/HUE/WorkSpace/Develop/hue-ac-expense/hue-ac-expense-front/src/main/webapp/js/ac/expense/portal/container/expenseportal-userconfig.js" />
@@ -412,6 +419,7 @@
       <jump line="1068" column="0" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/entity/report/ExpenseReport.java" />
       <jump line="72" column="0" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/entity/report/ExpenseReport.java" />
       <jump line="442" column="50" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/service/impl/RequestAndReportItemMapperServiceImpl.java" />
+      <jump line="39" column="0" filename="C:/HUE/WorkSpace/Develop/environment-tools/merge-conversion2attclockinout/create-branch-from-conversion-attclockinout.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -704,35 +712,35 @@
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Imh0dHA6Ly9odWUtYW5hbHlzaXMuaW50ZXJuYWwud29ya3NhcC5jb20vYXBpL2lzc3Vlcy9zZWFyY2g/Y29tcG9uZW50S2V5cz1jb20ud29ya3NhcC5jb21wYW55JTNBaHVlLWFjLWV4cGVuc2Umcz1GSUxFX0xJTkUmcmVzb2x2ZWQ9ZmFsc2Umc2V2ZXJpdGllcz0iJDEiJnBzPTEwMCZmYWNldHM9c2V2ZXJpdGllcyUyQ3R5cGVzJmFkZGl0aW9uYWxGaWVsZHM9X2FsbCI=</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyBzdG9wIGlmIGVycm9yIG9jY3VycmVkCnNldCAtZXUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">a2F0b19zaHUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyBDcmVhdGUgbmV3IEhVRShnaXQpIGJyYW5jaCBmcm9tIENPTlZFUlNJT04gc291cmNlcwojIINSg5ODb4Fbg1eDh4OTgqmC547mk76CtYK9Q1NSL0NXU4NcgVuDWILwSFVFgsxHSVSCyYNSg36DYoNngrWBQZBWgrWCooN1g4mDk4NggvCN7JCsgrWC3IK3CiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
+        <text encoding="base64">a2F0b19zaHUK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyBDcmVhdGUgbmV3IEhVRShnaXQpIGJyYW5jaCBmcm9tIENPTlZFUlNJT04gc291cmNlcwojIINSg5ODb4Fbg1eDh4OTgqmC547mk76CtYK9Q1NSL0NXU4NcgVuDWILwSFVFgsxHSVSCyYNSg36DYoNngrWBQZBWgrWCooN1g4mDk4NggvCN7JCsgrWC3IK3CiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBlY2hvICJodHRwOi8vaHVlLWFuYWx5c2lzLmludGVybmFsLndvcmtzYXAuY29tL2FwaS9pc3N1ZXMvc2VhcmNoP2NvbXBvbmVudEtleXM9Y29tLndvcmtzYXAuY29tcGFueSUzQWh1ZS1hYy1leHBlbnNlJnM9RklMRV9MSU5FJnJlc29sdmVkPWZhbHNlJnNldmVyaXRpZXM9IiQxIiZwcz0xMDAmZmFjZXRzPXNldmVyaXRpZXMlMkN0eXBlcyZhZGRpdGlvbmFsRmllbGRzPV9hbGwiCg==</text>
+        <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyBDcmVhdGUgbmV3IEhVRShnaXQpIGJyYW5jaCBmcm9tIENPTlZFUlNJT04gc291cmNlcwojIINSg5ODb4Fbg1eDh4OTgqmC547mk76CtYK9Q1NSL0NXU4NcgVuDWILwSFVFgsxHSVSCyYNSg36DYoNngrWBQZBWgrWCooN1g4mDk4NggvCN7JCsgrWC3IK3CiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZWNobyAiaHR0cDovL2h1ZS1hbmFseXNpcy5pbnRlcm5hbC53b3Jrc2FwLmNvbS9hcGkvaXNzdWVzL3NlYXJjaD9jb21wb25lbnRLZXlzPWNvbS53b3Jrc2FwLmNvbXBhbnklM0FodWUtYWMtZXhwZW5zZSZzPUZJTEVfTElORSZyZXNvbHZlZD1mYWxzZSZzZXZlcml0aWVzPSIkMSImcHM9MTAwJmZhY2V0cz1zZXZlcml0aWVzJTJDdHlwZXMmYWRkaXRpb25hbEZpZWxkcz1fYWxsIgo=</text>
+        <text encoding="base64">ICBlY2hvICJodHRwOi8vaHVlLWFuYWx5c2lzLmludGVybmFsLndvcmtzYXAuY29tL2FwaS9pc3N1ZXMvc2VhcmNoP2NvbXBvbmVudEtleXM9Y29tLndvcmtzYXAuY29tcGFueSUzQWh1ZS1hYy1leHBlbnNlJnM9RklMRV9MSU5FJnJlc29sdmVkPWZhbHNlJnNldmVyaXRpZXM9IiQxIiZwcz0xMDAmZmFjZXRzPXNldmVyaXRpZXMlMkN0eXBlcyZhZGRpdGlvbmFsRmllbGRzPV9hbGwiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2F0ICR7VEVNUF9XT1JLX0ZJTEV9Cg==</text>
+        <text encoding="base64">ZWNobyAiaHR0cDovL2h1ZS1hbmFseXNpcy5pbnRlcm5hbC53b3Jrc2FwLmNvbS9hcGkvaXNzdWVzL3NlYXJjaD9jb21wb25lbnRLZXlzPWNvbS53b3Jrc2FwLmNvbXBhbnklM0FodWUtYWMtZXhwZW5zZSZzPUZJTEVfTElORSZyZXNvbHZlZD1mYWxzZSZzZXZlcml0aWVzPSIkMSImcHM9MTAwJmZhY2V0cz1zZXZlcml0aWVzJTJDdHlwZXMmYWRkaXRpb25hbEZpZWxkcz1fYWxsIgo=</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I3JlZm9ybWF0SnNvbgo=</text>
+        <text encoding="base64">Y2F0ICR7VEVNUF9XT1JLX0ZJTEV9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -773,10 +781,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I3JlZm9ybWF0SnNvbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gcmVmb3JtYXRKc29uKCkgewojICBjYXQgJHtURU1QX1dPUktfRklMRX0gfCBqcSAtciAnLmlzc3VlcyB8IG1hcCh7YXV0aG9yOiAuYXV0aG9yLCB1cmw6IC5rZXl9KSB8IGdyb3VwX2J5KC5hdXRob3IpJyB8IHNlZCAtZSAncy8iYXV0aG9yIjogIlwoLipcKVxALiovImF1dGhvciI6ICJcQFwxIi9nJyB8IHNlZCAtZSAncy8idXJsIjogIlwoLipcKSIvInVybCI6ICJodHRwOlwvXC9odWUtYW5hbHlzaXMuaW50ZXJuYWwud29ya3NhcC5jb21cL3Byb2plY3RcL2lzc3Vlc1w/aWQ9Y29tLndvcmtzYXAuY29tcGFueSUzQWh1ZS1hYy1leHBlbnNlXCZvcGVuPVwxXCZyZXNvbHZlZD1mYWxzZVwmc2V2ZXJpdGllcz1CTE9DS0VSIi9nJyA+ICR7VEVNUF9XT1JLX0ZJTEV9CiMgIGNhdCAke1RFTVBfV09SS19GSUxFfSB8IGpxIC1yICcuaXNzdWVzIHwgbWFwKHthdXRob3I6IC5hdXRob3IsIHVybDogLmtleX0pIHwgZ3JvdXBfYnkoLmF1dGhvciknCiMgIGNhdCAke1RFTVBfV09SS19GSUxFfSB8IGpxIC1yICcuaXNzdWVzIHwgbWFwKHthdXRob3I6IC5hdXRob3IsIHVybDogLmtleX0pJwojICBjYXQgJHtURU1QX1dPUktfRklMRX0gfCBqcSAtciAnLmlzc3VlcyB8IG1hcChbLmF1dGhvciwgLmtleV0pJwogIGNhdCAke1RFTVBfV09SS19GSUxFfSB8IGpxIC1yICcuaXNzdWVzW10gfCBbLmF1dGhvciwgLmtleV0gfCBAY3N2JyA+ICR7VEVNUF9XT1JLX0ZJTEV9Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -809,8 +817,8 @@
         <entry>qw</entry>
         <entry>;w</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>q</entry>
         <entry>]w</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
