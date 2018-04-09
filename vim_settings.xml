@@ -114,7 +114,10 @@
         <mark key="^" line="284" column="38" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop/environment-tools/merge-conversion2attclockinout/functions" timestamp="1523000403146" />
-      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/service/impl/AdvanceRequestServiceImpl.java" timestamp="1523261755164" />
+      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/service/impl/AdvanceRequestServiceImpl.java" timestamp="1523263151243">
+        <mark key="[" line="165" column="24" />
+        <mark key="]" line="165" column="108" />
+      </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-front/src/main/java/com/worksap/company/hue/adapter/AcExpenseFrontConfig.java" timestamp="1521192099301">
         <mark key="[" line="69" column="50" />
         <mark key="]" line="69" column="48" />
@@ -278,7 +281,7 @@
         <mark key="^" line="22" column="28" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/constant/BusinessValidatorIdConsts.java" timestamp="1523261392533" />
+      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/constant/BusinessValidatorIdConsts.java" timestamp="1523263582739" />
       <file name="C:/HUE/WorkSpace/1712/copy-files-for-interim-shipment.sh" timestamp="1520309313012">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -715,8 +718,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyAgY2F0IGFsbF9zbGFja191c2Vycy50eHQgfCBncmVwICR7bGluZX0gLUIgMjAgfCBncmVwIFwibmFtZVwiIHwgc2VkIC1lIHMvXCIvL2cgfCBzZWQgLWUgcy9uYW1lOi8vZwo=</text>
+      <register name="0" type="4">
+        <text>com.worksap.company.hue.ac.biz.expense.advancerequest.validator.NoRecordValidatorImpl</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIE1pZ3JhdG9yX2J1c2luZXNzCg==</text>
