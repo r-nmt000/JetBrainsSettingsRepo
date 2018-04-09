@@ -5,10 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*ja*xml" />
+    <option name="FILE_MASK" value="*java" />
     <recentFileMasks>
-      <mask>acexpense*xml</mask>
-      <mask>acexpense*jaxml</mask>
       <mask>acexpense*ja*xml</mask>
       <mask>acexpensed*ja*xml</mask>
       <mask>acexpensedo*ja*xml</mask>
@@ -29,14 +27,16 @@
       <mask>acexpensedomesticbiz*standard*ja*xm</mask>
       <mask>*xm</mask>
       <mask>*x</mask>
-      <mask>*java</mask>
       <mask>*jav</mask>
-      <mask>*ja</mask>
-      <mask>*j</mask>
-      <mask>*</mask>
       <mask>*xml</mask>
       <mask>**xml</mask>
       <mask>*ja*xml</mask>
+      <mask>*ja*xm</mask>
+      <mask>*ja*</mask>
+      <mask>*j</mask>
+      <mask>*</mask>
+      <mask>*ja</mask>
+      <mask>*java</mask>
     </recentFileMasks>
   </component>
 </application>
