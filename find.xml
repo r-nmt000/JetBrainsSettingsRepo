@@ -5,21 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*java" />
+    <option name="FILE_MASK" value="*standard*ja*xml" />
     <recentFileMasks>
-      <mask>acexpense*ja*xml</mask>
-      <mask>acexpensed*ja*xml</mask>
-      <mask>acexpensedo*ja*xml</mask>
-      <mask>acexpensedome*ja*xml</mask>
-      <mask>acexpensedomes*ja*xml</mask>
-      <mask>acexpensedomesti*ja*xml</mask>
-      <mask>acexpensedomestic*ja*xml</mask>
-      <mask>acexpensedomesticb*ja*xml</mask>
-      <mask>acexpensedomesticbi*ja*xml</mask>
-      <mask>acexpensedomesticbiz*ja*xml</mask>
-      <mask>acexpensedomesticbiz*sja*xml</mask>
-      <mask>acexpensedomesticbiz*stanja*xml</mask>
-      <mask>acexpensedomesticbiz*standja*xml</mask>
       <mask>acexpensedomesticbiz*standaja*xml</mask>
       <mask>acexpensedomesticbiz*standarja*xml</mask>
       <mask>acexpensedomesticbiz*standardja*xml</mask>
@@ -27,16 +14,29 @@
       <mask>acexpensedomesticbiz*standard*ja*xm</mask>
       <mask>*xm</mask>
       <mask>*x</mask>
-      <mask>*jav</mask>
       <mask>*xml</mask>
       <mask>**xml</mask>
-      <mask>*ja*xml</mask>
-      <mask>*ja*xm</mask>
-      <mask>*ja*</mask>
+      <mask>*java</mask>
+      <mask>*jav</mask>
       <mask>*j</mask>
       <mask>*</mask>
       <mask>*ja</mask>
-      <mask>*java</mask>
+      <mask>*ja*xml</mask>
+      <mask>*ja*xm</mask>
+      <mask>*ja*x</mask>
+      <mask>*ja*stan</mask>
+      <mask>*ja*sta</mask>
+      <mask>*ja*st</mask>
+      <mask>*ja*s</mask>
+      <mask>*ja*</mask>
+      <mask>**ja*</mask>
+      <mask>*s*ja*</mask>
+      <mask>*sta*ja*</mask>
+      <mask>*stand*ja*</mask>
+      <mask>*standa*ja*</mask>
+      <mask>*standar*ja*</mask>
+      <mask>*standard*ja*</mask>
+      <mask>*standard*ja*xml</mask>
     </recentFileMasks>
   </component>
 </application>
