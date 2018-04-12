@@ -1,12 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*java" />
     <recentFileMasks>
       <mask>acexpensedomesticbiz*standaja*xml</mask>
       <mask>acexpensedomesticbiz*standarja*xml</mask>
@@ -33,11 +34,11 @@
       <mask>*xml</mask>
       <mask>*xm</mask>
       <mask>*x</mask>
-      <mask>*java</mask>
       <mask>*jav</mask>
       <mask>*ja</mask>
       <mask>*j</mask>
       <mask>*</mask>
+      <mask>*java</mask>
     </recentFileMasks>
   </component>
 </application>
