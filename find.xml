@@ -1,13 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="customScope" value="Project 'hue-ac-expense'" />
+    <option name="defaultScopeName" value="Project 'hue-ac-expense'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*java" />
+    <option name="SEARCH_SCOPE" value="Project 'hue-ac-expense'" />
     <recentFileMasks>
       <mask>acexpensedomesticbiz*standaja*xml</mask>
       <mask>acexpensedomesticbiz*standarja*xml</mask>
@@ -15,9 +14,6 @@
       <mask>acexpensedomesticbiz*standard*ja*xml</mask>
       <mask>acexpensedomesticbiz*standard*ja*xm</mask>
       <mask>**xml</mask>
-      <mask>*jav</mask>
-      <mask>*j</mask>
-      <mask>*ja</mask>
       <mask>*ja*xml</mask>
       <mask>*ja*xm</mask>
       <mask>*ja*x</mask>
@@ -37,8 +33,11 @@
       <mask>*xml</mask>
       <mask>*xm</mask>
       <mask>*x</mask>
-      <mask>*</mask>
       <mask>*java</mask>
+      <mask>*jav</mask>
+      <mask>*ja</mask>
+      <mask>*j</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
