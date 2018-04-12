@@ -154,6 +154,13 @@
         <mark key="^" line="128" column="15" />
         <mark key="." line="142" column="0" />
       </file>
+      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/core/plugin/AcExpenseRecordConverterServiceImpl.java" timestamp="1523497454150">
+        <mark key="'" line="72" column="8" />
+        <mark key="[" line="205" column="41" />
+        <mark key="]" line="205" column="48" />
+        <mark key="." line="205" column="48" />
+        <mark key="^" line="205" column="48" />
+      </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/corporatecard/impl/ExpenseReportCreaterServiceImpl.java" timestamp="1523437269090">
         <mark key="[" line="555" column="23" />
         <mark key="]" line="555" column="30" />
@@ -341,7 +348,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="0" filename="C:/HUE/WorkSpace/Develop02/hue-ac-expense/hue-ac-expense-front/src/main/webapp/js/ac/expense/portal/container/expenseportal-sidemenu-list.js" />
       <jump line="416" column="8" filename="C:/HUE/WorkSpace/Develop02/hue-ac-expense/hue-ac-expense-front/src/main/webapp/js/ac/expense/portal/container/corporatecard/expenseportal-corporatecard-input.js" />
       <jump line="104" column="57" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-front/src/main/webapp/js/ac/expense/portal/container/expenseportal-userconfig-detail.js" />
       <jump line="190" column="48" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/test/java/com/worksap/company/hue/ac/biz/expense/autogenerator/service/ProjectCodeReplacer.java" />
@@ -441,6 +447,7 @@
       <jump line="138" column="32" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/core/report/ExpenseDataProviderUtils.java" />
       <jump line="1" column="0" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-front/src/main/resources/logback.xml" />
       <jump line="81" column="41" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/service/impl/AvailableAdvanceRequestSearchServiceImpl.java" />
+      <jump line="72" column="8" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/core/plugin/AcExpenseRecordConverterServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -728,7 +735,7 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>parallelStream</text>
+        <text>categories</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</text>
