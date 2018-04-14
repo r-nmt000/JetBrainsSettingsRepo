@@ -193,6 +193,10 @@
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="10" />
       </file>
+      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/constant/ExpenseServiceSettingConst.java" timestamp="1523682632666">
+        <mark key="[" line="165" column="36" />
+        <mark key="]" line="165" column="61" />
+      </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-front/src/test/java/com/worksap/company/hue/selenide/config/UiTestConfig.java" timestamp="1521976727005">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -349,6 +353,7 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
+      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/service/validator/ExpenseValidatorServiceImpl.java" timestamp="1523681964996" />
     </filemarks>
     <jumps>
       <jump line="140" column="2" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-front/src/main/webapp/js/ac/expense/portal/expenseportal-app.js" />
@@ -744,7 +749,7 @@
         <text encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>com.worksap.company.hue.ac.biz.expense.advancerequest.validator.NoRecordValidatorImpl</text>
+        <text>payment_method_type_select</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvLyAgICAgICAgQE92ZXJyaWRlCi8vICAgICAgICBwdWJsaWMgYm9vbGVhbiBlcXVhbHMoT2JqZWN0IG9iaikgewovLyAgICAgICAgICAgIEF1dG9Db21wbGV0ZURhdGEgc3JjID0gKEF1dG9Db21wbGV0ZURhdGEpb2JqOwovLyAgICAgICAgICAgIHJldHVybiB0aGlzLmZyb20uZXF1YWxzKHNyYy5mcm9tKSAmJiB0aGlzLnRvLmVxdWFscyhzcmMudG8pCi8vICAgICAgICAgICAgICAgICAgICAmJiB0aGlzLmRlc3RpbmF0aW9uLmVxdWFscyhzcmMuZGVzdGluYXRpb24pCi8vICAgICAgICAgICAgICAgICAgICAmJiB0aGlzLnByb2plY3RDb2RlLmVxdWFscyhzcmMucHJvamVjdENvZGUpCi8vICAgICAgICAgICAgICAgICAgICAmJiB0aGlzLnByb2plY3QuZXF1YWxzKHNyYy5wcm9qZWN0KTsKLy8gICAgICAgIH0K</text>
