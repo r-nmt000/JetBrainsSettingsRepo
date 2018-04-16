@@ -199,9 +199,9 @@
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="10" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/constant/ExpenseServiceSettingConst.java" timestamp="1523693282309">
-        <mark key="[" line="165" column="36" />
-        <mark key="]" line="165" column="61" />
+      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/constant/ExpenseServiceSettingConst.java" timestamp="1523842377737">
+        <mark key="[" line="50" column="30" />
+        <mark key="]" line="50" column="49" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-front/src/test/java/com/worksap/company/hue/selenide/config/UiTestConfig.java" timestamp="1521976727005">
         <mark key="[" line="8" column="0" />
@@ -338,6 +338,7 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="0" />
       </file>
+      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/service/impl/ExpenseServiceSettingAccessServiceImpl.java" timestamp="1523842373863" />
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-front/src/test/java/com/worksap/company/hue/selenide/testcase/expensereport/DomesticBizTripTest.java" timestamp="1521978540994">
         <mark key="[" line="27" column="76" />
         <mark key="]" line="28" column="65" />
@@ -768,8 +769,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogTmVnYXRpdmUgY29uZGl0aW9uOgogICAgICogICBQQVlNRU5UX01FVEhPRF9UWVBFX1NFTEVDVCBpcyBzZXQgYXMgMAogICAgICogICBQQVlNRU5UX01FVEhPRF9UWVBFX0NPREUgaXMgZW1wdHkgc3RyaW5nCiAgICAgKiBFeHBlY3RlZDoKICAgICAqICAgUmV0dXJuIG9uZSBlcnJvciB2YWxpZGF0aW9uIHZpb2xhdGlvbgogICAgICovCiAgICBAVGVzdCBwdWJsaWMgdm9pZCB0ZXN0VmFsaWRhdGVOZWdhdGl2ZUNvbmRpdGlvbjEoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICBNb2NraXRvLndoZW4odGhpcy5hY1VzZXJDb250ZXh0LmdldFNlcnZpY2VJZCgpKS50aGVuUmV0dXJuKFNlcnZpY2VJZC52YWx1ZU9mKCJob2dlIikpOwogICAgICAgIE1vY2tpdG8ud2hlbih0aGlzLnNldHRpbmcuZ2V0U2VsZWN0KE1vY2tpdG8uYW55U3RyaW5nKCksIE1vY2tpdG8uYW55U3RyaW5nKCkpKS50aGVuUmV0dXJuKDApOwogICAgICAgIE1vY2tpdG8ud2hlbih0aGlzLnNldHRpbmcuZ2V0TWFzdGVyKE1vY2tpdG8uYW55U3RyaW5nKCksIE1vY2tpdG8uYW55U3RyaW5nKCkpKS50aGVuUmV0dXJuKCIiKTsKICAgICAgICBWYWxpZGF0aW9uVmlvbGF0aW9uTGlzdCByZXN1bHQgPSBwYXltZW50TWV0aG9kQ29kZVZhbGlkYXRvckltcGwudmFsaWRhdGUobnVsbCk7CiAgICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscygxLCByZXN1bHQuc2l6ZSgpKTsKICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKFZhbGlkYXRpb25WaW9sYXRpb24uVmFsaWRhdGlvblZpb2xhdGlvblR5cGUuRVJST1IsIHJlc3VsdC5nZXQoMCkuZ2V0VHlwZSgpKTsKICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKCIiLCByZXN1bHQuZ2V0KDApLmdldFBhdGgoKSk7CiAgICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscyhNRVNTQUdFLCByZXN1bHQuZ2V0KDApLmdldE1lc3NhZ2UoKSk7CiAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>need_pre_application</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
