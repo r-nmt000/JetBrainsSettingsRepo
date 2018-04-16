@@ -5,11 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*controller*java" />
+    <option name="FILE_MASK" value="*java" />
     <recentFileMasks>
-      <mask>*ja*sta</mask>
-      <mask>*ja*st</mask>
-      <mask>*ja*s</mask>
       <mask>*ja*</mask>
       <mask>**ja*</mask>
       <mask>*s*ja*</mask>
@@ -26,7 +23,6 @@
       <mask>*ja</mask>
       <mask>*j</mask>
       <mask>*</mask>
-      <mask>*java</mask>
       <mask>*test*java</mask>
       <mask>*tes*java</mask>
       <mask>*te*java</mask>
@@ -37,6 +33,10 @@
       <mask>*contro*java</mask>
       <mask>*control*java</mask>
       <mask>*controller*java</mask>
+      <mask>*controllerjava</mask>
+      <mask>*controllejava</mask>
+      <mask>java</mask>
+      <mask>*java</mask>
     </recentFileMasks>
   </component>
 </application>
