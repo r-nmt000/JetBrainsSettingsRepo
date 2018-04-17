@@ -58,6 +58,7 @@
         <mark key="^" line="177" column="62" />
         <mark key="." line="180" column="0" />
       </file>
+      <file name="/ExpenseValidatorServiceImplTest.java" timestamp="1523933365939" />
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/ExpenseCostProfitItemValidatorImpl.java" timestamp="1523848461601">
         <mark key="[" line="79" column="43" />
         <mark key="]" line="79" column="3" />
@@ -194,10 +195,10 @@
         <mark key="^" line="1767" column="22" />
         <mark key="." line="1767" column="22" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/service/validator/ExpenseValidatorService.java" timestamp="1523879379004">
-        <mark key="[" line="22" column="71" />
-        <mark key="]" line="22" column="96" />
-        <mark key="." line="22" column="71" />
+      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/service/validator/ExpenseValidatorService.java" timestamp="1523933091924">
+        <mark key="[" line="16" column="89" />
+        <mark key="]" line="16" column="89" />
+        <mark key="." line="16" column="89" />
         <mark key="^" line="16" column="100" />
       </file>
       <file name="C:/HUE/WorkSpace/1709/hue-ac-expense/hue-ac-expense-front/GruntfilePrj.js" timestamp="1522303905768">
@@ -256,12 +257,6 @@
         <mark key="]" line="214" column="9" />
         <mark key="." line="214" column="9" />
         <mark key="^" line="214" column="9" />
-      </file>
-      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/test/java/com/worksap/company/hue/ac/bizcore/expense/service/validator/ExpenseValidatorServiceImplTest.java" timestamp="1523881854879">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="40" column="24" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/specialized/SpecializedAdvanceRequestService.java" timestamp="1523867959258">
         <mark key="[" line="179" column="59" />
@@ -359,6 +354,12 @@
         <mark key="]" line="188" column="9" />
         <mark key="." line="188" column="9" />
         <mark key="^" line="188" column="9" />
+      </file>
+      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-front/src/main/java/com/worksap/company/hue/controller/ac/expense/core/application/AbstractAcExpenseCoreApplicationController.java" timestamp="1523933279092">
+        <mark key="[" line="1506" column="14" />
+        <mark key="]" line="1506" column="35" />
+        <mark key="." line="1506" column="35" />
+        <mark key="^" line="1506" column="35" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/specialized/EquipmentPurchaseAdvanceRequestServiceImpl.java" timestamp="1523868017540">
         <mark key="'" line="78" column="21" />
@@ -528,10 +529,10 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/service/validator/ExpenseValidatorServiceImpl.java" timestamp="1523931196386">
-        <mark key="[" line="212" column="0" />
-        <mark key="]" line="212" column="54" />
-        <mark key="." line="212" column="0" />
+      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/service/validator/ExpenseValidatorServiceImpl.java" timestamp="1523933079949">
+        <mark key="[" line="205" column="89" />
+        <mark key="]" line="205" column="89" />
+        <mark key="." line="205" column="89" />
         <mark key="^" line="220" column="7" />
       </file>
     </filemarks>
@@ -923,13 +924,13 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>List</text>
+        <text>appId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRDb21tb25WYWxpZGF0b3JzKHNlcnZpY2VEZWZJZCwgdmFsaWRhdG9ycyk7Cg==</text>
+      <register name="0" type="4">
+        <text>ServiceDefId.valueOf(getServiceDefId())</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB2YWxpZGF0b3JzLmFkZEFsbChjb21tb25WYWxpZGF0b3JzKTsK</text>
