@@ -5,8 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*js" />
     <recentFileMasks>
-      <mask>*accar*xml</mask>
       <mask>*acecar*xml</mask>
       <mask>*acexpcar*xml</mask>
       <mask>*acexpecar*xml</mask>
@@ -25,7 +25,6 @@
       <mask>*aca*xml</mask>
       <mask>*a*xml</mask>
       <mask>**xml</mask>
-      <mask>*xm</mask>
       <mask>*config</mask>
       <mask>*config.</mask>
       <mask>*config.ja</mask>
@@ -33,9 +32,11 @@
       <mask>*config.jav</mask>
       <mask>*con</mask>
       <mask>*co</mask>
-      <mask>*</mask>
-      <mask>*x</mask>
       <mask>*xml</mask>
+      <mask>*xm</mask>
+      <mask>*x</mask>
+      <mask>*</mask>
+      <mask>*js</mask>
     </recentFileMasks>
   </component>
 </application>
