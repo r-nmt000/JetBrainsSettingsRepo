@@ -356,11 +356,11 @@
         <mark key="." line="18" column="19" />
         <mark key="^" line="18" column="19" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/validator_list.csv" timestamp="1524286065962">
-        <mark key="[" line="0" column="116" />
-        <mark key="]" line="0" column="125" />
-        <mark key="^" line="0" column="125" />
-        <mark key="." line="0" column="125" />
+      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/validator_list.csv" timestamp="1524286225059">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="27" />
+        <mark key="^" line="0" column="27" />
+        <mark key="." line="0" column="27" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-front/src/main/webapp/WEB-INF/templates/ac/expense/core/application/fragment/input.AcExpenseDomesticBizTrip.Standard.ja.xml" timestamp="1522744889323">
         <mark key="[" line="31" column="228" />
@@ -407,11 +407,12 @@
         <mark key="." line="308" column="33" />
         <mark key="^" line="308" column="33" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/create_validator_list.sh" timestamp="1524285812866">
-        <mark key="[" line="15" column="313" />
-        <mark key="]" line="15" column="314" />
-        <mark key="." line="15" column="314" />
-        <mark key="^" line="15" column="314" />
+      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/create_validator_list.sh" timestamp="1524289147156">
+        <mark key="'" line="53" column="11" />
+        <mark key="[" line="73" column="4" />
+        <mark key="]" line="75" column="0" />
+        <mark key="^" line="69" column="7" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/externalservice/scrape/Scraper.java" timestamp="1524102888039">
         <mark key="[" line="97" column="0" />
@@ -446,11 +447,11 @@
         <mark key="^" line="85" column="122" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/ApplicantBankAccountValidatorImpl.java" timestamp="1524209005295" />
-      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/AdvanceRequestTotalCheckValidatorImpl.java" timestamp="1524284157369">
-        <mark key="[" line="30" column="19" />
-        <mark key="]" line="30" column="43" />
-        <mark key="^" line="30" column="18" />
-        <mark key="." line="30" column="19" />
+      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/AdvanceRequestTotalCheckValidatorImpl.java" timestamp="1524286184418">
+        <mark key="[" line="38" column="38" />
+        <mark key="]" line="39" column="49" />
+        <mark key="^" line="39" column="49" />
+        <mark key="." line="39" column="49" />
       </file>
       <file name="C:/HUE/WorkSpace/1712/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/service/impl/RequestAndReportItemMapperServiceImpl.java" timestamp="1521719635607">
         <mark key="[" line="107" column="51" />
@@ -592,7 +593,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="381" column="4" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-front/src/main/webapp/js/ac/expense/advancerequest/common/advance-request-application-input.js" />
       <jump line="170" column="2" filename="C:/HUE/WorkSpace/Develop/cs-i-examination/main/js/bootcamp/webeditor/ui/article-editor.js" />
       <jump line="968" column="15" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/specialized/AbstractSpecializedAdvanceRequestService.java" />
       <jump line="23" column="17" filename="C:/HUE/WorkSpace/Develop03/company-framework-client-lib/src/main/webapp/test/fixture-helper.js" />
@@ -692,6 +692,7 @@
       <jump line="59" column="58" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/linktopayplan/ExpensePayplanLinkServiceImpl.java" />
       <jump line="102" column="9" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/linktopayplan/ExpensePayplanLinkServiceImpl.java" />
       <jump line="85" column="65" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/service/impl/ExpenseContentsInterceptorServiceImpl.java" />
+      <jump line="53" column="11" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/create_validator_list.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -979,16 +980,16 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>echo</text>
+        <text>fucntion</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">VEVNUF9XT1JLX0ZJTEU9JHtTQ1JJUFRfRElSfS90ZW1wLnR4dAo=</text>
+        <text encoding="base64">ICAgIGxvY2FsIF9SRUFTT05fVE9fVVNFX09USEVSX1RBQkxFU19KUD1gZ2V0X2Fubm90YXRlZF92YWx1ZSBAcmVhc29uX3RvX3VzZV9vdGhlcl90YWJsZXNfanBgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">a2trawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -997,22 +998,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAjIINvg4qDZoFbg1aDh4OTg06DiYNYgvCI6oLCgriCwpPHgt2NnoLeCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm92ZXJTZWFzVmFsaWRhdG9ycyA9IEltbXV0YWJsZUxpc3Qub2YoCiAgICAgICAgICAgICAgICBub0NvcnBvcmF0ZVBvbGljeVJhdGVWYWxpZGF0b3IKICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgIGVjaG8gJHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTGlzdDxCdXNpbmVzc1ZhbGlkYXRvcjxFeHBlbnNlUmVwb3J0Pj4gb3ZlclNlYXNWYWxpZGF0b3JzOwo=</text>
+        <text encoding="base64">IyAgICBsb2NhbCBfTkFNRV9KUD1gZ3JlcCAibmFtZV9qcCIgJHtfVkFMSURBVE9SX0NMQVNTX0ZJTEVfUEFUSH0gfCBzZWQgLWUgInMvXi4qQG5hbWVfanAgLy9nImAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBncmVwICQxICR7Cg==</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgYWRkT3ZlclNlYXNWYWxpZGF0b3JGb3JUYXJnZXRTZXJ2aWNlRGVmKFNlcnZpY2VEZWZJZCBzZXJ2aWNlRGVmSWQsCiAgICAgICAgICAgIExpc3Q8QnVzaW5lc3NWYWxpZGF0b3I8RXhwZW5zZVJlcG9ydD4+IHZhbGlkYXRvcnMpIHsKICAgICAgICBMaXN0PFNlcnZpY2VEZWZJZD4gc2VydmljZURlZklkcyA9IEltbXV0YWJsZUxpc3Qub2YoCiAgICAgICAgICAgICAgICBFeHBlbnNlU2VydmljZURlZklkLkFjRXhwZW5zZU92ZXJzZWFzQml6VHJpcC50b0RlZklkKCksCiAgICAgICAgICAgICAgICBFeHBlbnNlU2VydmljZURlZklkLkFjRXhwZW5zZU92ZXJzZWFzTG9uZ1Rlcm1CaXpUcmlwLnRvRGVmSWQoKQogICAgICAgICk7CiAgICAgICAgaWYgKHNlcnZpY2VEZWZJZHMuY29udGFpbnMoc2VydmljZURlZklkKSkgewogICAgICAgICAgICB2YWxpZGF0b3JzLmFkZEFsbChvdmVyU2Vhc1ZhbGlkYXRvcnMpOwogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1053,10 +1054,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEV4cGVuc2VTZXJ2aWNlRGVmSWQuQWNFeHBlbnNlR2VuZXJhbC50b0RlZklkKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEV4cGVuc2VTZXJ2aWNlRGVmSWQuQWNFeHBlbnNlRXF1aXBtZW50UHVyY2hhc2UudG9EZWZJZCgpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
