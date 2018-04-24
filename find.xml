@@ -7,7 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*ValidatorImpl*.java" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*</mask>
       <mask>*js</mask>
@@ -29,7 +29,6 @@
       <mask>*con.java</mask>
       <mask>*co.java</mask>
       <mask>*c.java</mask>
-      <mask>*.java</mask>
       <mask>**.java</mask>
       <mask>*V*.java</mask>
       <mask>*Va*.java</mask>
@@ -37,8 +36,9 @@
       <mask>*Validator*.java</mask>
       <mask>*ValidatorI*.java</mask>
       <mask>*ValidatorIm*.java</mask>
-      <mask>*ValidatorImp*.java</mask>
       <mask>*ValidatorImpl*.java</mask>
+      <mask>*ValidatorImp*.java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
