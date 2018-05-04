@@ -2,41 +2,41 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*xml" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*accar*xml</mask>
-      <mask>*acecar*xml</mask>
-      <mask>*acexpcar*xml</mask>
-      <mask>*acexpecar*xml</mask>
-      <mask>*acexpensecar*xml</mask>
-      <mask>*acexpensecar*jaxml</mask>
-      <mask>*acexpensecar*ja*xml</mask>
-      <mask>*acexpensecar*ja*xm</mask>
-      <mask>pom</mask>
-      <mask>pom.xml</mask>
-      <mask>pom.xm</mask>
-      <mask>pom.x</mask>
-      <mask>pom.</mask>
-      <mask>po</mask>
-      <mask>p</mask>
-      <mask>*acar*xml</mask>
-      <mask>*aca*xml</mask>
-      <mask>*a*xml</mask>
-      <mask>**xml</mask>
-      <mask>*xm</mask>
-      <mask>*config</mask>
-      <mask>*config.</mask>
-      <mask>*config.ja</mask>
-      <mask>*config.java</mask>
-      <mask>*config.jav</mask>
-      <mask>*con</mask>
-      <mask>*co</mask>
       <mask>*</mask>
-      <mask>*x</mask>
-      <mask>*xml</mask>
+      <mask>*js</mask>
+      <mask>*j</mask>
+      <mask>*ja</mask>
+      <mask>**java</mask>
+      <mask>*java</mask>
+      <mask>*conjava</mask>
+      <mask>*contjava</mask>
+      <mask>*controjava</mask>
+      <mask>*controljava</mask>
+      <mask>*controllerjava</mask>
+      <mask>*controller.java</mask>
+      <mask>*controlle.java</mask>
+      <mask>*controll.java</mask>
+      <mask>*control.java</mask>
+      <mask>*contro.java</mask>
+      <mask>*contr.java</mask>
+      <mask>*con.java</mask>
+      <mask>*co.java</mask>
+      <mask>*c.java</mask>
+      <mask>**.java</mask>
+      <mask>*V*.java</mask>
+      <mask>*Va*.java</mask>
+      <mask>*Valida*.java</mask>
+      <mask>*Validator*.java</mask>
+      <mask>*ValidatorI*.java</mask>
+      <mask>*ValidatorIm*.java</mask>
+      <mask>*ValidatorImpl*.java</mask>
+      <mask>*ValidatorImp*.java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
