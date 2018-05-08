@@ -5,24 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*travel*xml" />
     <recentFileMasks>
-      <mask>*</mask>
-      <mask>*js</mask>
-      <mask>*j</mask>
-      <mask>*ja</mask>
-      <mask>**java</mask>
-      <mask>*java</mask>
-      <mask>*conjava</mask>
-      <mask>*contjava</mask>
-      <mask>*controjava</mask>
-      <mask>*controljava</mask>
-      <mask>*controllerjava</mask>
-      <mask>*controller.java</mask>
-      <mask>*controlle.java</mask>
-      <mask>*controll.java</mask>
-      <mask>*control.java</mask>
-      <mask>*contro.java</mask>
-      <mask>*contr.java</mask>
       <mask>*con.java</mask>
       <mask>*co.java</mask>
       <mask>*c.java</mask>
@@ -36,6 +20,23 @@
       <mask>*ValidatorImpl*.java</mask>
       <mask>*ValidatorImp*.java</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>xml</mask>
+      <mask>txml</mask>
+      <mask>traxml</mask>
+      <mask>travxml</mask>
+      <mask>travelxml</mask>
+      <mask>travelbixml</mask>
+      <mask>travelbizxml</mask>
+      <mask>travelbiz*xml</mask>
+      <mask>travelbi*xml</mask>
+      <mask>travelb*xml</mask>
+      <mask>travel*xml</mask>
+      <mask>*travel*xml</mask>
     </recentFileMasks>
   </component>
 </application>
