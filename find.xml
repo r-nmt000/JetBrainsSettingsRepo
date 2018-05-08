@@ -1,16 +1,14 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="regularExpressions" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*java" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*Validator*.java</mask>
-      <mask>*ValidatorI*.java</mask>
-      <mask>*ValidatorIm*.java</mask>
-      <mask>*ValidatorImpl*.java</mask>
       <mask>*ValidatorImp*.java</mask>
       <mask>*.java</mask>
       <mask>*.jav</mask>
@@ -34,9 +32,13 @@
       <mask>jav</mask>
       <mask>ja</mask>
       <mask>j</mask>
-      <mask>*</mask>
-      <mask>*ja</mask>
       <mask>*java</mask>
+      <mask>*jav</mask>
+      <mask>*ja</mask>
+      <mask>*j</mask>
+      <mask>*</mask>
+      <mask>*js</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
