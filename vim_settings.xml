@@ -45,6 +45,7 @@
         <mark key="." line="4" column="39" />
         <mark key="^" line="4" column="39" />
       </file>
+      <file name="C:/HUE/WorkSpace/1706/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/mapper/util/AdvanceRequestEntityMapper.java" timestamp="1525852188663" />
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-version-up/src/main/java/com.worksap.company.hue/Migrator_BusinessValidationServiceCfg.java" timestamp="1524635752603">
         <mark key="[" line="24" column="60" />
         <mark key="]" line="24" column="60" />
@@ -314,6 +315,12 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="24" />
       </file>
+      <file name="C:/HUE/WorkSpace/1706/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/mapper/util/ExpenseRecordMapper.java" timestamp="1525852571488">
+        <mark key="[" line="640" column="12" />
+        <mark key="]" line="640" column="22" />
+        <mark key="." line="640" column="22" />
+        <mark key="^" line="640" column="22" />
+      </file>
       <file name="C:/HUE/WorkSpace/Develop03/redribbon/front/src/app/component/man-hour-task-list/man-hour-task-list.component.ts" timestamp="1525252648620">
         <mark key="[" line="31" column="13" />
         <mark key="]" line="31" column="13" />
@@ -374,6 +381,7 @@
         <mark key="^" line="62" column="16" />
         <mark key="." line="62" column="16" />
       </file>
+      <file name="C:/HUE/WorkSpace/1706/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/service/impl/OriginAdvanceRequestServiceImpl.java" timestamp="1525852024047" />
       <file name="C:/HUE/WorkSpace/Develop03/redribbon/front/src/app/component/man-hour-task-inbox/man-hour-task-inbox.component.html" timestamp="1525165115442">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="43" column="5" />
@@ -517,6 +525,7 @@
         <mark key="." line="21" column="56" />
         <mark key="^" line="21" column="18" />
       </file>
+      <file name="/AbstractAdvanceRequestController.java" timestamp="1525853089400" />
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/RequiredFieldsForMileageCarValidatorImpl.java" timestamp="1524830294486">
         <mark key="[" line="31" column="38" />
         <mark key="]" line="31" column="38" />
@@ -707,7 +716,7 @@
         <mark key="^" line="34" column="11" />
       </file>
       <file name="C:/HUE/WorkSpace/1706/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/service/impl/AdvanceRequestModelInjectionServiceImpl.java" timestamp="1525840653986" />
-      <file name="/fragment.java" timestamp="1525834479665">
+      <file name="/fragment.java" timestamp="1525851876811">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
@@ -1163,7 +1172,7 @@
         <mark key="^" line="32" column="23" />
         <mark key="." line="32" column="23" />
       </file>
-      <file name="C:/HUE/WorkSpace/1706/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/service/impl/ActiveAdvanceRequestServiceImpl.java" timestamp="1525850946480" />
+      <file name="C:/HUE/WorkSpace/1706/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/service/impl/ActiveAdvanceRequestServiceImpl.java" timestamp="1525851989905" />
       <file name="C:/HUE/WorkSpace/Develop03/my-app/src/app/app.component.ts" timestamp="1525067947990">
         <mark key="[" line="8" column="11" />
         <mark key="]" line="8" column="31" />
@@ -1305,10 +1314,10 @@
         <mark key="." line="35" column="62" />
       </file>
       <file name="C:/HUE/WorkSpace/1706/hue-ac-expense/hue-ac-expense-front/src/main/java/com/worksap/company/hue/controller/ac/expense/advancerequest/AbstractAdvanceRequestController.java" timestamp="1525846863558">
-        <mark key="[" line="1023" column="60" />
-        <mark key="]" line="1023" column="60" />
-        <mark key="." line="1023" column="60" />
-        <mark key="^" line="1023" column="60" />
+        <mark key="[" line="1017" column="60" />
+        <mark key="]" line="1017" column="60" />
+        <mark key="." line="1017" column="60" />
+        <mark key="^" line="1017" column="60" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/corporatecard/service/BreakdownAmountValueValidatorImpl.java" timestamp="1523498133980">
         <mark key="[" line="75" column="17" />
@@ -1780,7 +1789,7 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>Fix collectly in http://hue-redmine/redmine/issues/558707</text>
+        <text>recordBase</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</text>
@@ -1967,7 +1976,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed G</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
