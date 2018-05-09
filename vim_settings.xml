@@ -63,6 +63,7 @@
         <mark key="." line="301" column="61" />
         <mark key="^" line="301" column="61" />
       </file>
+      <file name="C:/HUE/WorkSpace/1706/hue-ac-expense/hue-ac-expense-front/src/main/webapp/js/ac/expense/core/application/ac-expense-core-application-input.js" timestamp="1525834939816" />
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/pom.xml" timestamp="1524469470038">
         <mark key="[" line="7" column="15" />
         <mark key="]" line="7" column="15" />
@@ -373,7 +374,7 @@
         <mark key="." line="1" column="31" />
       </file>
       <file name="C:/HUE/WorkSpace/1706/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/core/plugin/AcExpenseLayoutServiceImpl.java" timestamp="1525778419559" />
-      <file name="C:/HUE/WorkSpace/1706/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/service/impl/ExpenseReportInputInitializeServiceImpl.java" timestamp="1525779966303" />
+      <file name="C:/HUE/WorkSpace/1706/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/service/impl/ExpenseReportInputInitializeServiceImpl.java" timestamp="1525833396756" />
       <file name="C:/HUE/WorkSpace/1712/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/entity/report/ExpenseReport.java" timestamp="1521419700293">
         <mark key="[" line="216" column="0" />
         <mark key="]" line="216" column="60" />
@@ -585,7 +586,7 @@
         <mark key="." line="8" column="17" />
         <mark key="^" line="8" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525780742665">
+      <file name="/Dummy.txt" timestamp="1525834824882">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -670,7 +671,7 @@
         <mark key="." line="34" column="11" />
         <mark key="^" line="34" column="11" />
       </file>
-      <file name="/fragment.java" timestamp="1525782137124">
+      <file name="/fragment.java" timestamp="1525834479665">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
@@ -730,9 +731,6 @@
         <mark key="]" line="26" column="37" />
         <mark key="." line="26" column="37" />
         <mark key="^" line="26" column="37" />
-      </file>
-      <file name="C:/HUE/WorkSpace/1706/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/event/ExpensePayplanLinkStartListnerImpl.java" timestamp="1525769883489">
-        <mark key="." line="182" column="41" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/test/java/com/worksap/company/hue/ac/biz/expense/core/i18n/text/AcExpenseCoreTextResourceTest.java" timestamp="1520986952613">
         <mark key="[" line="25" column="0" />
@@ -819,6 +817,7 @@
         <mark key="." line="17" column="35" />
         <mark key="^" line="17" column="35" />
       </file>
+      <file name="C:/HUE/WorkSpace/1706/hue-ac-expense/hue-ac-expense-dto/src/main/java/com/worksap/company/hue/ac/dto/expense/OriginAdvanceRequestDto.java" timestamp="1525833873119" />
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/RecordQuantityNegativeValidatorImpl.java" timestamp="1524827138229">
         <mark key="[" line="21" column="38" />
         <mark key="]" line="21" column="38" />
@@ -904,6 +903,7 @@
         <mark key="." line="16" column="59" />
         <mark key="^" line="16" column="59" />
       </file>
+      <file name="C:/HUE/WorkSpace/1706/hue-ac-expense/hue-ac-expense-front/src/main/java/com/worksap/company/hue/controller/ac/expense/common/search/AvailableAdvanceRequestSearchController.java" timestamp="1525833450008" />
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-front/pom.xml" timestamp="1524469833910">
         <mark key="[" line="7" column="17" />
         <mark key="]" line="7" column="17" />
@@ -934,6 +934,7 @@
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="45" />
       </file>
+      <file name="C:/HUE/WorkSpace/1706/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/service/impl/AvailableAdvanceRequestSearchServiceImpl.java" timestamp="1525834442816" />
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/RecordArrivalNotEqualsAsDepartureValidatorImpl.java" timestamp="1524827101669">
         <mark key="[" line="28" column="40" />
         <mark key="]" line="28" column="41" />
@@ -1185,6 +1186,12 @@
         <mark key="." line="8" column="17" />
         <mark key="^" line="8" column="17" />
       </file>
+      <file name="C:/HUE/WorkSpace/1706/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/advancerequest/dao/impl/OriginAdvanceRequestIndexDaoImpl.java" timestamp="1525834118912">
+        <mark key="[" line="63" column="18" />
+        <mark key="]" line="63" column="3" />
+        <mark key="^" line="63" column="3" />
+        <mark key="." line="63" column="3" />
+      </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/ApplicantBankAccountValidatorImpl.java" timestamp="1524827089733">
         <mark key="[" line="34" column="40" />
         <mark key="]" line="34" column="41" />
@@ -1277,6 +1284,9 @@
         <mark key="." line="8" column="22" />
         <mark key="^" line="8" column="22" />
       </file>
+      <file name="C:/HUE/WorkSpace/1706/hue-ac-expense/hue-ac-expense-front/src/main/webapp/lib/wap/ui/input/field-control/wap-master-input.js" timestamp="1525835418392">
+        <mark key="'" line="495" column="3" />
+      </file>
       <file name="C:/HUE/WorkSpace/1712/copy-files-for-interim-shipment.sh" timestamp="1520309313012">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -1321,7 +1331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="462" column="5" filename="C:/HUE/WorkSpace/1712/hue-ac-expense/hue-ac-expense-dto/src/main/java/com/worksap/company/hue/ac/type/expense/record/ExpenseRecordBase.java" />
       <jump line="710" column="0" filename="C:/HUE/WorkSpace/1712/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/mapper/util/ExpenseReportMapper.java" />
       <jump line="503" column="43" filename="C:/HUE/WorkSpace/1712/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/mapper/util/ExpenseApplicationContentsMapper.java" />
       <jump line="286" column="4" filename="C:/HUE/WorkSpace/1712/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/entity/report/ExpenseReport.java" />
@@ -1421,6 +1430,7 @@
       <jump line="60" column="13" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-front/src/main/java/com/worksap/company/hue/controller/ac/expense/core/approval/AbsAcExpenseCarApprovalController.java" />
       <jump line="67" column="13" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-front/src/main/java/com/worksap/company/hue/controller/ac/expense/core/approval/AbsAcExpenseShortTransApprovalController.java" />
       <jump line="63" column="13" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-front/src/main/java/com/worksap/company/hue/controller/ac/expense/core/approval/AbsAcExpenseOverseasBizTripApprovalController.java" />
+      <jump line="495" column="3" filename="C:/HUE/WorkSpace/1706/hue-ac-expense/hue-ac-expense-front/src/main/webapp/lib/wap/ui/input/field-control/wap-master-input.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
