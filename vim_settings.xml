@@ -765,12 +765,11 @@
         <mark key="." line="22" column="38" />
         <mark key="^" line="22" column="42" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-version-up/src/test/java/migration/com/worksap/company/hue/ac/dto/expense/MigratorBusinessValidationServiceCfgTest.java" timestamp="1526034962796">
-        <mark key="'" line="59" column="14" />
-        <mark key="[" line="345" column="0" />
-        <mark key="]" line="345" column="0" />
-        <mark key="." line="345" column="0" />
-        <mark key="^" line="53" column="17" />
+      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-version-up/src/test/java/migration/com/worksap/company/hue/ac/dto/expense/MigratorBusinessValidationServiceCfgTest.java" timestamp="1526036179982">
+        <mark key="'" line="39" column="62" />
+        <mark key="[" line="241" column="0" />
+        <mark key="]" line="241" column="0" />
+        <mark key="." line="241" column="0" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/portal/ExpensePortalServiceManageServiceImpl.java" timestamp="1523437312195">
         <mark key="[" line="45" column="101" />
@@ -1322,6 +1321,7 @@
         <mark key="^" line="18" column="6" />
         <mark key="." line="18" column="6" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/rules/ExpectedException.java" timestamp="1526035912933" />
       <file name="$USER_HOME$/repos/forStudy/electron_tutorial/index.js" timestamp="1525439442178">
         <mark key="[" line="36" column="2" />
         <mark key="]" line="36" column="2" />
@@ -1456,7 +1456,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="40" filename="C:/HUE/WorkSpace/1712/hue-approval-service/hue-approval-front/src/main/less/less/components/essence/hue-drive-empty-view-container.less" />
       <jump line="206" column="4" filename="$MAVEN_REPOSITORY$/com/worksap/company/hue-com-ac-bizcore/18.03.ac-bizcom-SNAPSHOT/hue-com-ac-bizcore-18.03.ac-bizcom-20180315.145436-41.jar!/com/worksap/company/hue/com/bizcore/ac/segment/service/BizPartnerSegmentSyncServiceImpl.class" />
       <jump line="304" column="27" filename="C:/HUE/WorkSpace/1712/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/application/specialized/AbstractSpecializedExpenseApplicationService.java" />
       <jump line="63" column="4" filename="C:/HUE/WorkSpace/1712/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/service/impl/CostSharingSectionServiceImpl.java" />
@@ -1556,6 +1555,7 @@
       <jump line="259" column="62" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-version-up/src/test/java/migration/com/worksap/company/hue/ac/dto/expense/MigratorBusinessValidationServiceCfgTest.java" />
       <jump line="256" column="8" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-version-up/src/test/java/migration/com/worksap/company/hue/ac/dto/expense/MigratorBusinessValidationServiceCfgTest.java" />
       <jump line="47" column="14" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-version-up/src/test/java/migration/com/worksap/company/hue/ac/dto/expense/MigratorBusinessValidationServiceCfgTest.java" />
+      <jump line="39" column="62" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-version-up/src/test/java/migration/com/worksap/company/hue/ac/dto/expense/MigratorBusinessValidationServiceCfgTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1843,7 +1843,7 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>ch.qos.logback.core.Appender mockAppender;</text>
+        <text>TokenFilter</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</text>
@@ -1852,7 +1852,7 @@
         <text encoding="base64">ICAgICAgICBmaW5hbCBMb2dnZXIgbG9nZ2VyID0gKExvZ2dlcikgTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoTG9nZ2VyLlJPT1RfTE9HR0VSX05BTUUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvd24uZXhwZWN0TWVzc2FnZShTdHJpbmdDb250YWlucy5jb250YWluc1N0cmluZygiRmFpbCB0byBpbnNlcnQgZm9sbG93aW5nIFNldHRpbmdEZXRhaWxDZmdEdG8gcmVjb3JkIikpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1861,22 +1861,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIJCzj+2MbjogQnVzaW5lc3NEZXRhaWxDZmdEdG+CqoK3gsWCyZG2jd2Ct4LpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uc2V0UHJvcGVydHkoImNvbXBhbnkuY29uZmlndXJhdGlvbi5sb2NhbC5wYXRoIiwgImZpbGU6QzovSFVFL1dvcmtTcGFjZS9EZXZlbG9wMDMvY29tcGFueS1jb25maWctZmlsZXMvYXBwbGljYXRpb24ucHJvcGVydGllcyIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIEBUZXN0IHB1YmxpYyB2b2lkIHRlc3RNaWdyYXRlKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgdGFyZ2V0Lm1pZ3JhdGUoKTsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0YXJnZXQuaW5zZXJ0TGlzdFRvREIoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBMb2dnZXIgbG9nZ2VyID0gKExvZ2dlcikgTG9nZ2VyRmFjdG9yeS5nZXQK</text>
+        <text encoding="base64">ICAgIEBBZnRlciBwdWJsaWMgdm9pZCB0ZWFyZG93bigpIHsKICAgICAgICBmaW5hbCBMb2dnZXIgbG9nZ2VyID0gKExvZ2dlcikgTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoTG9nZ2VyLlJPT1RfTE9HR0VSX05BTUUpOwogICAgICAgIGxvZ2dlci5kZXRhY2hBcHBlbmRlcihtb2NrQXBwZW5kZXIpOwogICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1917,10 +1917,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZwo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBMb2dnZXIgbG9nZ2VyID0gKExvZ2dlcikgTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoTG9nZ2VyLlJPT1RfTE9HR0VSX05BTUUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXJGYWN0b3J5Owo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuYWRkQXBwZW5kZXIobW9ja0FwcGVuZGVyKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
