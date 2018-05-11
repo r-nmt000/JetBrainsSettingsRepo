@@ -651,7 +651,7 @@
         <mark key="." line="8" column="17" />
         <mark key="^" line="8" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526018606663">
+      <file name="/Dummy.txt" timestamp="1526019206627">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -826,12 +826,12 @@
         <mark key="^" line="0" column="59" />
         <mark key="." line="0" column="59" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-version-up/src/main/java/migration/com/worksap/company/hue/ac/dto/expense/MigratorBusinessValidationServiceCfg.java" timestamp="1526019205077">
+      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-version-up/src/main/java/migration/com/worksap/company/hue/ac/dto/expense/MigratorBusinessValidationServiceCfg.java" timestamp="1526020582859">
         <mark key="'" line="35" column="49" />
-        <mark key="[" line="135" column="53" />
-        <mark key="]" line="135" column="65" />
-        <mark key="." line="135" column="65" />
-        <mark key="^" line="135" column="65" />
+        <mark key="[" line="262" column="0" />
+        <mark key="]" line="262" column="0" />
+        <mark key="." line="262" column="0" />
+        <mark key="^" line="259" column="36" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/autogenerator/service/TravelExpenseAppAutoRemoverImpl.java" timestamp="1526002164379">
         <mark key="'" line="0" column="0" />
@@ -1837,31 +1837,31 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>defDto.getSettingId()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTZXR0aW5nRGV0YWlsQ2ZnQ2hpbGREdG8yMDE4MDUxMDAwMDAwMCBjb252ZXJ0RFRPKEJ1c2luZXNzVmFsaWRhdGlvblNlcnZpY2VDZmdEdG8yMDE4MDUxMDAwMDAwMCBkdG9PZk9sZFZlcnNpb24pIHsK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRNYXAucHV0KE1BSU5fQ09ORl9LRVksIG5ld0R0byk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IHByb3BlcnRpZXMgPSBkdG9PZk9sZFZlcnNpb24uZ2V0UHJvcGVydGllcygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBQbGVhc2Ugc3BlY2lmeSBhbnkgU2V0dGluZ1R5cGUgaGVyZS4KICAgICAgICAvLyCUQ4jTgsyDXoNDg3aC8I53kuiCtYLEgq2CvoKzgqKBQgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBCdXNpbmVzc1ZhbGlkYXRpb25TZXR0aW5nRGVmRHRvIGRlZkR0byA9IGt2YQogICAgICAgICAgICAgICAgLmdldFNpbmdsZShBcnJheXMuYXNMaXN0KHNlcnZpY2VEZWZJZC5nZXRWYWx1ZSgpLCBkdG9PZk9sZFZlcnNpb24uZ2V0QnVzaW5lc3NWYWxpZGF0b3JJZCgpKSwKICAgICAgICAgICAgICAgICAgICAgICAgQnVzaW5lc3NWYWxpZGF0aW9uU2V0dGluZ0RlZkR0by5jbGFzcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -1870,7 +1870,7 @@
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgU3RyaW5nPiBwcm9wZXJ0aWVzID0gZHRvT2ZPbGRWZXJzaW9uLmdldFByb3BlcnRpZXMoKTsK</text>
+        <text encoding="base64">ICAgICAgICBTZXR0aW5nRGV0YWlsQ2ZnQ2hpbGREdG8yMDE4MDUxMDAwMDAwMCBuZXdEdG8gPSBjcmVhdGVFbXB0eU5ld0R0b0luc3RhbmNlKCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1911,10 +1911,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHByb3BlcnRpZXMgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgaWYgKHByb3BlcnRpZXMuc2l6ZSgpICE9IDApIHsKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmdldE1hc3RlclZhbHVlKCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAocHJvcGVydGllcyA9PSBudWxsKSByZXR1cm4gbnVsbDsKICAgICAgICBpZiAocHJvcGVydGllcy5zaXplKCkgPT0gMCkgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
