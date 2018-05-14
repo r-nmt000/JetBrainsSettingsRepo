@@ -3,18 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*Validatorimpl*.java" />
     <recentFileMasks>
-      <mask>*ValidatorImp*.java</mask>
-      <mask>xml</mask>
-      <mask>txml</mask>
-      <mask>traxml</mask>
-      <mask>travxml</mask>
-      <mask>travelxml</mask>
-      <mask>travelbixml</mask>
-      <mask>travelbizxml</mask>
-      <mask>travelbiz*xml</mask>
-      <mask>travelbi*xml</mask>
       <mask>travelb*xml</mask>
       <mask>travel*xml</mask>
       <mask>*travel*xml</mask>
@@ -35,6 +25,16 @@
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>**.java</mask>
+      <mask>*V*.java</mask>
+      <mask>*Va*.java</mask>
+      <mask>*Vali*.java</mask>
+      <mask>*Valida*.java</mask>
+      <mask>*Validator*.java</mask>
+      <mask>*Validatori*.java</mask>
+      <mask>*Validatorim*.java</mask>
+      <mask>*Validatorimp*.java</mask>
+      <mask>*Validatorimpl*.java</mask>
     </recentFileMasks>
   </component>
 </application>
