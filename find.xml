@@ -3,9 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*config*.java" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.js</mask>
       <mask>*V*.java</mask>
       <mask>*Va*.java</mask>
       <mask>*Vali*.java</mask>
@@ -31,10 +30,11 @@
       <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.</mask>
-      <mask>*.java</mask>
       <mask>**.java</mask>
       <mask>*conf*.java</mask>
       <mask>*config*.java</mask>
+      <mask>*confi*.java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
