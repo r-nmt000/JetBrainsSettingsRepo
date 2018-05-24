@@ -3,9 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*java" />
+    <option name="FILE_MASK" value="*test*java" />
     <recentFileMasks>
-      <mask>*AcExpenseOverseasBizTrip.Sta*</mask>
       <mask>*AcExpenseOverseasBizTrip.Stan*</mask>
       <mask>*AcExpenseOverseasBizTrip.Stand*</mask>
       <mask>*AcExpenseOverseasBizTrip.Standar*</mask>
@@ -24,7 +23,6 @@
       <mask>*conf</mask>
       <mask>*con</mask>
       <mask>*co</mask>
-      <mask>**java</mask>
       <mask>*co*java</mask>
       <mask>*conf*java</mask>
       <mask>*config*java</mask>
@@ -35,6 +33,8 @@
       <mask>*</mask>
       <mask>*ja</mask>
       <mask>*java</mask>
+      <mask>**java</mask>
+      <mask>*test*java</mask>
     </recentFileMasks>
   </component>
 </application>
