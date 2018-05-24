@@ -649,7 +649,7 @@
         <mark key="." line="8" column="17" />
         <mark key="^" line="8" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527078650079">
+      <file name="/Dummy.txt" timestamp="1527132670650">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -708,7 +708,12 @@
         <mark key="." line="20" column="38" />
         <mark key="^" line="20" column="51" />
       </file>
-      <file name="C:/HUE/WorkSpace/Develop03/hue-approval-service/hue-approval-front/src/main/java/com/worksap/company/approvalflow/config/HueApprovalFrontConfig.java" timestamp="1527131052933" />
+      <file name="C:/HUE/WorkSpace/Develop03/hue-approval-service/hue-approval-front/src/main/java/com/worksap/company/approvalflow/config/HueApprovalFrontConfig.java" timestamp="1527133178287">
+        <mark key="[" line="256" column="0" />
+        <mark key="]" line="256" column="0" />
+        <mark key="." line="256" column="0" />
+        <mark key="^" line="265" column="19" />
+      </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/config/ExpenseCostTypeConfig.java" timestamp="1525678561951">
         <mark key="[" line="48" column="41" />
         <mark key="]" line="48" column="49" />
@@ -1044,6 +1049,7 @@
         <mark key="^" line="37" column="41" />
         <mark key="." line="37" column="41" />
       </file>
+      <file name="C:/HUE/WorkSpace/Develop03/hue-approval-service/hue-approval-front/src/main/java/com/worksap/company/approvalflow/service/settings/ApprovalProxySettingsServiceImpl.java" timestamp="1527132668577" />
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/master/BssecMasterValidatorImpl.java" timestamp="1524451647815">
         <mark key="[" line="25" column="28" />
         <mark key="]" line="25" column="24" />
@@ -1358,7 +1364,7 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/worksap/company/hue-approval-core-impl/18.05.00.0000.20180522.1243/hue-approval-core-impl-18.05.00.0000.20180522.1243-sources.jar!/com/worksap/company/hue/approvalflow/config/ApprovalCoreImplConfig.java" timestamp="1527128926273">
+      <file name="$MAVEN_REPOSITORY$/com/worksap/company/hue-approval-core-impl/18.05.00.0000.20180522.1243/hue-approval-core-impl-18.05.00.0000.20180522.1243-sources.jar!/com/worksap/company/hue/approvalflow/config/ApprovalCoreImplConfig.java" timestamp="1527134547036">
         <mark key="'" line="1163" column="4" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/core/function/ExpenseCalculationConfig.java" timestamp="1526449218194">
@@ -1828,7 +1834,7 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>approverAssignSecCfgDao</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</text>
@@ -1837,31 +1843,31 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gY2hlY2tMaXN0LmNvbnRhaW5zKGNhbmRpZGF0ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5yZXF1ZXN0VmFsaWRhdGlvblNlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXBwcm92ZXJBc3NpZ25TZWNDZmdEYW8gYXBwcm92ZXJBc3NpZ25TZWNDZmdEYW8sCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBWYWxpZGF0aW9uU2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgICBBcHByb3ZhbENvcmVJbXBsQ29uZmlnLmNsYXNzLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5yZXF1ZXN0VmFsaWRhdGlvblNlcnZpY2U7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qCiAgICAgKiBDcmVhdGVkIGluIHRoaXMgY2xhc3MKICAgICAqLwogICAgcHJpdmF0ZSBFeHBlbnNlQXBwbGljYXRpb25WYWxpZGF0aW9uU2VydmljZTxFeHBlbnNlUmVwb3J0PiByZXBvcnRWYWxpZGF0aW9uU2VydmljZTsKCiAgICBwcml2YXRlIEV4cGVuc2VBcHBsaWNhdGlvblZhbGlkYXRpb25TZXJ2aWNlPEFkdmFuY2VSZXF1ZXN0PiByZXF1ZXN0VmFsaWRhdGlvblNlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBWYWxpZGF0aW9uU2VydmljZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBAQmVhbgogICAgcHVibGljIERhdGFGaWx0ZXJBYnN0cmFjdEZ1bmN0aW9uUHJvdmlkZXIgbm9tb3RvKCkgewogICAgICAgIHJldHVybiBuZXcgTm9tb3RvRnVuY3Rpb25Qcm92aWRlcigpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIC8qCiAgICAgKiBDcmVhdGVkIGluIHRoaXMgY2xhc3MKICAgICAqLwogICAgcHJpdmF0ZSBFeHBlbnNlQXBwbGljYXRpb25WYWxpZGF0aW9uU2VydmljZTxFeHBlbnNlUmVwb3J0PiByZXBvcnRWYWxpZGF0aW9uU2VydmljZTsKCiAgICBwcml2YXRlIEV4cGVuc2VBcHBsaWNhdGlvblZhbGlkYXRpb25TZXJ2aWNlPEFkdmFuY2VSZXF1ZXN0PiByZXF1ZXN0VmFsaWRhdGlvblNlcnZpY2U7Cg==</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1902,27 +1908,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBAQmVhbgogICAgcHVibGljIERhdGFGaWx0ZXJBYnN0cmFjdEZ1bmN0aW9uUHJvdmlkZXIgbm9tb3RvKCkgewogICAgICAgIHJldHVybiBuZXcgTm9tb3RvRnVuY3Rpb25Qcm92aWRlcigpOwogICAgfQo=</text>
       </register>
-      <register name="9" type="8">
-        <text>1
-0
-0
-3
-0
-0
-0
-2
-2
-2
-6
-0
-9
-8
-9
-3
-0
-9</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
