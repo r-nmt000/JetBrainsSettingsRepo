@@ -2,13 +2,11 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*test*java" />
+    <option name="FILE_MASK" value="*java" />
     <recentFileMasks>
-      <mask>*AcExpenseOverseasBizTrip.Stan*</mask>
-      <mask>*AcExpenseOverseasBizTrip.Stand*</mask>
-      <mask>*AcExpenseOverseasBizTrip.Standar*</mask>
-      <mask>*AcExpenseOverseasBizTrip.Standard*</mask>
       <mask>*AcExpenseOverseasBizTrip.Standard.*</mask>
       <mask>*AcExpenseOverseasBizTrip.Standard.j*</mask>
       <mask>*AcExpenseOverseasBizTrip.Standard.ja*</mask>
@@ -32,9 +30,13 @@
       <mask>*j</mask>
       <mask>*</mask>
       <mask>*ja</mask>
-      <mask>*java</mask>
-      <mask>**java</mask>
+      <mask>*test\\*java</mask>
+      <mask>*test\*java</mask>
       <mask>*test*java</mask>
+      <mask>*tes*java</mask>
+      <mask>*t*java</mask>
+      <mask>**java</mask>
+      <mask>*java</mask>
     </recentFileMasks>
   </component>
 </application>
