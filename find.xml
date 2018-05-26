@@ -2,41 +2,16 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*java" />
-    <recentFileMasks>
-      <mask>*AcExpenseOverseasBizTrip.Standard.*</mask>
-      <mask>*AcExpenseOverseasBizTrip.Standard.j*</mask>
-      <mask>*AcExpenseOverseasBizTrip.Standard.ja*</mask>
-      <mask>*AcExpenseOverseasBizTrip.Standard.ja.*</mask>
-      <mask>*AcExpenseOverseasBizTrip.Standard.ja.xml*</mask>
-      <mask>*AcExpenseOverseasBizTrip.Standard.ja.xml</mask>
-      <mask>*AcExpenseOerseasBizTrip.Standard.ja.xml</mask>
-      <mask>erseasBizTrip.Standard.ja.xml</mask>
-      <mask>erseasBizTrip.Standard.ja.xm</mask>
-      <mask>*config*jav</mask>
-      <mask>*confi</mask>
-      <mask>*conf</mask>
-      <mask>*con</mask>
-      <mask>*co</mask>
-      <mask>*co*java</mask>
-      <mask>*conf*java</mask>
-      <mask>*config*java</mask>
-      <mask>*confi*java</mask>
-      <mask>*jav</mask>
-      <mask>*js</mask>
-      <mask>*j</mask>
-      <mask>*</mask>
-      <mask>*ja</mask>
-      <mask>*test\\*java</mask>
-      <mask>*test\*java</mask>
-      <mask>*test*java</mask>
-      <mask>*tes*java</mask>
-      <mask>*t*java</mask>
-      <mask>**java</mask>
-      <mask>*java</mask>
-    </recentFileMasks>
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*java</mask>
   </component>
 </application>
