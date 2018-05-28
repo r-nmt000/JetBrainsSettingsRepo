@@ -139,6 +139,9 @@
         <mark key="." line="14" column="106" />
         <mark key="^" line="14" column="106" />
       </file>
+      <file name="/com_ac_cost_type_cfg_mst_cost_categories_name_list_mst [@openstack-aurora]" timestamp="1527492242587">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/LodgeUnitAmountMaxValueValidatorImpl.java" timestamp="1526527814841">
         <mark key="[" line="49" column="60" />
         <mark key="]" line="49" column="52" />
@@ -618,7 +621,7 @@
         <mark key="^" line="214" column="54" />
         <mark key="." line="214" column="54" />
       </file>
-      <file name="/dummy.sql" timestamp="1527491641554">
+      <file name="/dummy.sql" timestamp="1527492544787">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/test/java/com/worksap/company/hue/ac/bizcore/expense/validator/shared/PaymentMethodCodeValidatorImplTest.java" timestamp="1523779201398">
@@ -1037,6 +1040,13 @@
         <mark key="^" line="14" column="49" />
         <mark key="." line="14" column="49" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1459eeb1-1045-4e98-ace2-1359c17f6090/console.sql" timestamp="1527493408173">
+        <mark key="'" line="0" column="118" />
+        <mark key="[" line="0" column="120" />
+        <mark key="]" line="0" column="116" />
+        <mark key="." line="0" column="116" />
+        <mark key="^" line="0" column="116" />
+      </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-front/src/test/java/com/worksap/company/hue/selenide/testcase/expensereport/DomesticBizTripTest.java" timestamp="1521978540994">
         <mark key="[" line="27" column="76" />
         <mark key="]" line="28" column="65" />
@@ -1438,7 +1448,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="8" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/specialized/EquipmentPurchaseAdvanceRequestServiceImpl.java" />
       <jump line="59" column="103" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/specialized/TravelAdvanceRequestServiceImpl.java" />
       <jump line="146" column="0" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/specialized/TemporaryPaymentServiceImpl.java" />
       <jump line="56" column="55" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/specialized/CarAdvanceRequestServiceImpl.java" />
@@ -1538,6 +1547,7 @@
       <jump line="133" column="89" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-front/src/main/webapp/js/ac/expense/core/util/ac-expense-core-util-master-resource-registerer.js" />
       <jump line="1163" column="4" filename="$MAVEN_REPOSITORY$/com/worksap/company/hue-approval-core-impl/18.05.00.0000.20180522.1243/hue-approval-core-impl-18.05.00.0000.20180522.1243-sources.jar!/com/worksap/company/hue/approvalflow/config/ApprovalCoreImplConfig.java" />
       <jump line="4" column="0" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-front/src/main/webapp/js/ac/expense/components/globalexpense/ac-expense-records-grid.js" />
+      <jump line="0" column="118" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1459eeb1-1045-4e98-ace2-1359c17f6090/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1825,7 +1835,7 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>testExpenseRecord.getAmount(), is(testExpenseRecord.getCurrencyAmount())</text>
+        <text>where com_ac_cost_type_master_mst_id = 17036;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</text>
