@@ -435,6 +435,9 @@
         <mark key="." line="30" column="22" />
         <mark key="^" line="30" column="22" />
       </file>
+      <file name="/com_ac_cost_type_master_mst_cost_categories_list_mst [@openstack-aurora]" timestamp="1527495488860">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/shared/LodgeTermStartDateEndDateOrderValidatorImpl.java" timestamp="1524385956442">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="38" column="2" />
@@ -621,7 +624,7 @@
         <mark key="^" line="214" column="54" />
         <mark key="." line="214" column="54" />
       </file>
-      <file name="/dummy.sql" timestamp="1527494624177">
+      <file name="/dummy.sql" timestamp="1527495489130">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/test/java/com/worksap/company/hue/ac/bizcore/expense/validator/shared/PaymentMethodCodeValidatorImplTest.java" timestamp="1523779201398">
@@ -1040,12 +1043,12 @@
         <mark key="^" line="14" column="49" />
         <mark key="." line="14" column="49" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1459eeb1-1045-4e98-ace2-1359c17f6090/console.sql" timestamp="1527493408173">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1459eeb1-1045-4e98-ace2-1359c17f6090/console.sql" timestamp="1527495764415">
         <mark key="'" line="0" column="118" />
-        <mark key="[" line="0" column="120" />
-        <mark key="]" line="0" column="116" />
-        <mark key="." line="0" column="116" />
-        <mark key="^" line="0" column="116" />
+        <mark key="[" line="0" column="62" />
+        <mark key="]" line="0" column="65" />
+        <mark key="." line="0" column="65" />
+        <mark key="^" line="0" column="65" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-front/src/test/java/com/worksap/company/hue/selenide/testcase/expensereport/DomesticBizTripTest.java" timestamp="1521978540994">
         <mark key="[" line="27" column="76" />
@@ -1835,7 +1838,7 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>where com_ac_cost_type_master_mst_id = 17036;</text>
+        <text>com_ac_cost_type_master_mst_cost_categories_name_list_mst</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</text>
