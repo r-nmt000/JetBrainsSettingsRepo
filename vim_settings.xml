@@ -27,8 +27,8 @@
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/service/impl/RequestAndReportItemMapperServiceImpl.java" timestamp="1527847719397">
-        <mark key="[" line="401" column="53" />
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/service/impl/RequestAndReportItemMapperServiceImpl.java" timestamp="1527918248192">
+        <mark key="[" line="401" column="56" />
         <mark key="]" line="401" column="56" />
         <mark key="^" line="401" column="56" />
         <mark key="." line="401" column="56" />
@@ -377,6 +377,12 @@
         <mark key="]" line="82" column="76" />
         <mark key="^" line="82" column="76" />
         <mark key="." line="82" column="76" />
+      </file>
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/vo/request/AdvanceRequest.java" timestamp="1527917261322">
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="21" />
+        <mark key="." line="108" column="0" />
+        <mark key="^" line="70" column="3" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/slack_mailaddress.csv" timestamp="1523004657774">
         <mark key="[" line="0" column="8" />
@@ -750,7 +756,7 @@
         <mark key="." line="34" column="11" />
         <mark key="^" line="34" column="11" />
       </file>
-      <file name="/fragment.java" timestamp="1527246426012">
+      <file name="/fragment.java" timestamp="1527917761836">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -822,6 +828,10 @@
         <mark key="]" line="51" column="21" />
         <mark key="." line="51" column="21" />
         <mark key="^" line="51" column="21" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/worksap/company/company-framework-core-dto/18.01.00.0003.20180509.1335/company-framework-core-dto-18.01.00.0003.20180509.1335-sources.jar!/com/worksap/company/framework/item/item/annotation/ItemId.java" timestamp="1527916901243">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="34" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-front/src/test/java/com/worksap/company/hue/selenide/page/DomesticBizTripPage.java" timestamp="1521967842477">
         <mark key="[" line="0" column="59" />
@@ -1051,6 +1061,12 @@
         <mark key="]" line="14" column="49" />
         <mark key="^" line="14" column="49" />
         <mark key="." line="14" column="49" />
+      </file>
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/annotation/NonInheritTarget.java" timestamp="1527916908984">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="9" column="16" />
+        <mark key="." line="9" column="16" />
+        <mark key="^" line="9" column="16" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-front/src/test/java/com/worksap/company/hue/selenide/testcase/expensereport/DomesticBizTripTest.java" timestamp="1521978540994">
         <mark key="[" line="27" column="76" />
@@ -1459,6 +1475,12 @@
         <mark key="^" line="161" column="74" />
         <mark key="." line="161" column="74" />
       </file>
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/test/java/com/worksap/company/hue/ac/bizcore/expense/vo/request/AdvanceRequestExpenseReportReflectionTest.java" timestamp="1527918377163">
+        <mark key="[" line="22" column="54" />
+        <mark key="]" line="22" column="66" />
+        <mark key="." line="22" column="66" />
+        <mark key="^" line="22" column="66" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="146" column="0" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/specialized/TemporaryPaymentServiceImpl.java" />
@@ -1848,40 +1870,40 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>new TagsInputVo()</text>
+        <text>AdvanceRequest</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChPYmplY3RzLmVxdWFscyhmaWVsZC5nZXROYW1lKCksICJzZWN0aW9ucyIpKSB7CiAgICAgICAgICAgICAgICAgICAgdGFnc0lucHV0Vm8uc2V0Q29kZSh2YWx1ZSk7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gcmVxdWVzdEZpZWxkTmFtZXMgPSBBcnJheXMuc3RyZWFtKEFkdmFuY2VSZXF1ZXN0LmNsYXNzLmdldERlY2xhcmVkRmllbGRzKCkpCiAgICAgICAgICAgICAgICAubWFwKEZpZWxkOjpnZXROYW1lKQogICAgICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YWdzSW5wdXRWby5zZXRDb2RlKChTdHJpbmcpdmFsdWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEZpZWxkPiByZXBvcnRGaWVsZHMgPSBBcnJheXMuc3RyZWFtKEFkdmFuY2VSZXF1ZXN0LmNsYXNzLmdldERlY2xhcmVkRmllbGRzKCkpCiAgICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdGVtVmFsdWVNYXAucHV0KHBhdGgsIHJldCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QEJ1aWxkZXIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBpdGVtCg==</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QERhdGEK</text>
+        <text encoding="base64">ICAgIEBub25pbmhlCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1922,10 +1944,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QFZhbHVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YWdzSW5wdXRWby5zZXRDb2RlKChTdHJpbmcpdmFsdWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QFZhbHVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdGVtVmFsdWVNYXAucHV0KHBhdGgsIHJldCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
