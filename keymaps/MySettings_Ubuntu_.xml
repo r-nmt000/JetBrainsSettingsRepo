@@ -1,4 +1,5 @@
 <keymap version="1" name="MySettings(Ubuntu)" parent="$default">
+  <action id="AutoIndentLines" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <mouse-shortcut keystroke="button4" />
@@ -9,6 +10,7 @@
     <keyboard-shortcut first-keystroke="ctrl space" second-keystroke="w" />
   </action>
   <action id="CodeCompletion" />
+  <action id="ContextHelp" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift f9" />
     <keyboard-shortcut first-keystroke="ctrl space" second-keystroke="d" />
@@ -36,6 +38,17 @@
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
+  <action id="GotoLine" />
+  <action id="Graph.ZoomIn">
+    <keyboard-shortcut first-keystroke="add" />
+    <keyboard-shortcut first-keystroke="equals" />
+    <mouse-shortcut keystroke="control button143" />
+  </action>
+  <action id="Graph.ZoomOut">
+    <keyboard-shortcut first-keystroke="subtract" />
+    <keyboard-shortcut first-keystroke="minus" />
+    <mouse-shortcut keystroke="control button142" />
+  </action>
   <action id="GuiDesigner.QuickJavadoc">
     <mouse-shortcut keystroke="alt button2" />
   </action>
@@ -43,16 +56,28 @@
     <keyboard-shortcut first-keystroke="shift ctrl f12" />
     <keyboard-shortcut first-keystroke="ctrl space" second-keystroke="m" />
   </action>
+  <action id="NewJavaDiagram">
+    <keyboard-shortcut first-keystroke="shift meta u" />
+  </action>
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+    <keyboard-shortcut first-keystroke="ctrl alt i" />
+  </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
+    <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="Resume" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift f10" />
     <keyboard-shortcut first-keystroke="ctrl space" second-keystroke="r" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="alt j" />
+    <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="shift f11" />
@@ -81,8 +106,13 @@
     <keyboard-shortcut first-keystroke="f9" />
   </action>
   <action id="TypeHierarchy">
-    <keyboard-shortcut first-keystroke="ctrl h" />
     <keyboard-shortcut first-keystroke="ctrl space" second-keystroke="h" />
+  </action>
+  <action id="TypeHierarchyBase.BaseOnThisType">
+    <keyboard-shortcut first-keystroke="ctrl space" second-keystroke="h" />
+  </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
   <action id="ViewBreakpoints">
     <keyboard-shortcut first-keystroke="shift ctrl f8" />
