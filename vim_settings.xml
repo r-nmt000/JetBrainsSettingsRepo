@@ -27,12 +27,12 @@
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/service/impl/RequestAndReportItemMapperServiceImpl.java" timestamp="1528176603175">
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/service/impl/RequestAndReportItemMapperServiceImpl.java" timestamp="1528181812997">
         <mark key="'" line="419" column="33" />
-        <mark key="[" line="456" column="0" />
-        <mark key="]" line="456" column="0" />
-        <mark key="^" line="467" column="39" />
-        <mark key="." line="456" column="0" />
+        <mark key="[" line="464" column="0" />
+        <mark key="]" line="464" column="0" />
+        <mark key="^" line="463" column="117" />
+        <mark key="." line="464" column="0" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/redribbon/front/src/app/component/man-hour-task-inbox/man-hour-task-inbox-content.component.ts" timestamp="1525156914799">
         <mark key="[" line="16" column="13" />
@@ -254,11 +254,11 @@
         <mark key="." line="615" column="43" />
         <mark key="^" line="615" column="43" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-biz/src/test/java/com/worksap/company/hue/ac/biz/expense/advancerequest/service/impl/RequestAndReportItemMapperServiceImplTest.java" timestamp="1528176057815">
-        <mark key="[" line="132" column="20" />
-        <mark key="]" line="150" column="47" />
-        <mark key="." line="150" column="47" />
-        <mark key="^" line="150" column="47" />
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-biz/src/test/java/com/worksap/company/hue/ac/biz/expense/advancerequest/service/impl/RequestAndReportItemMapperServiceImplTest.java" timestamp="1528181964114">
+        <mark key="[" line="150" column="64" />
+        <mark key="]" line="150" column="64" />
+        <mark key="." line="150" column="64" />
+        <mark key="^" line="150" column="74" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/NoRecordValidatorImpl.java" timestamp="1528166816025" />
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/PastDuplicationValidatorImpl.java" timestamp="1526528026745">
@@ -768,7 +768,7 @@
         <mark key="." line="34" column="11" />
         <mark key="^" line="34" column="11" />
       </file>
-      <file name="/fragment.java" timestamp="1528173841685">
+      <file name="/fragment.java" timestamp="1528181949400">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -1884,13 +1884,13 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>sections</text>
+        <text>toString</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaXRlbU1hcC5nZXQoInNlY3Rpb25zIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAoKFJlc3BvbnNlSXRlbSlpdGVtVmFsdWVNYXAuZ2V0KCJleHBlbnNlUmVwb3J0LnByb2plY3RzIikpLnNldFZhbHVlKG5ldyBUYWdzSW5wdXRWbyhwcm9qZWN0c0NvZGUsIHByb2plY3RzTmFtZSkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1899,25 +1899,26 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpdGVtVmFsdWVNYXAuZ2V0KCJleHBlbnNlUmVwb3J0LnNlY3Rpb25zIikK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW1WYWx1ZU1hcC5wdXQocGF0aCwgcmV0KTsK</text>
+      <register name="3" type="8">
+        <text>, new TagsInputVo(projectsCode, projectsName));
+, new TagsInputVo(sectionsCode, sectionsName));</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChNYXN0ZXJJbnB1dEZpZWxkLmlzTWFzdGVySW5wdXRGaWVsZChmaWVsZC5nZXROYW1lKCkpKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0LnNldE1hc3RlcklucHV0TmFtZUZpZWxkKHRydWUpOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdGVtVmFsdWVNYXAucHV0KHBhdGgsIHJldCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtTWFwLmVudHJ5U2V0KCkuc3RyZWFtKCkuc29ydGVkKE1hcC5FbnRyeS5jb21wYXJpbmdCeUtleSgpKS5mb3JFYWNoKGVudHJ5IC0+IHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGVudHJ5LmdldEtleSgpKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGVudHJ5LmdldFZhbHVlKCkpOwogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBSZXNwb25zZUl0ZW0gcmVzcG9uc2VJdGVtID0gbmV3IFJlc3BvbnNlSXRlbSgpCg==</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaXRlbU1hcCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1961,7 +1962,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXBvcnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
