@@ -251,6 +251,12 @@
         <mark key="." line="23" column="50" />
         <mark key="^" line="23" column="50" />
       </file>
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/vo/expense/FreeSegmentVo.java" timestamp="1528254062235">
+        <mark key="[" line="14" column="48" />
+        <mark key="]" line="14" column="51" />
+        <mark key="^" line="14" column="51" />
+        <mark key="." line="14" column="51" />
+      </file>
       <file name="C:/HUE/WorkSpace/1709/hue-ac-expense/hue-ac-expense-front/src/main/webapp/lib/wap/product-js/ac/expense/core/plugin/grid/ac-expense-core-plugin-grid-ekisupa.js" timestamp="1522315392903">
         <mark key="[" line="615" column="36" />
         <mark key="]" line="615" column="43" />
@@ -294,11 +300,11 @@
         <mark key="^" line="89" column="7" />
         <mark key="." line="89" column="7" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/annotation/NonInheritTarget.java" timestamp="1528113163926">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="11" column="19" />
-        <mark key="^" line="11" column="11" />
-        <mark key="." line="11" column="11" />
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/annotation/NonInheritTarget.java" timestamp="1528253213037">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/shared/EkisupaValidatorImpl.java" timestamp="1526377761667">
         <mark key="[" line="40" column="40" />
@@ -396,11 +402,11 @@
         <mark key="^" line="82" column="76" />
         <mark key="." line="82" column="76" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/vo/request/AdvanceRequest.java" timestamp="1528105974966">
-        <mark key="[" line="121" column="37" />
-        <mark key="]" line="122" column="20" />
-        <mark key="." line="122" column="20" />
-        <mark key="^" line="122" column="20" />
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/annotation/CustomInheritance.java" timestamp="1528253693129">
+        <mark key="[" line="17" column="18" />
+        <mark key="]" line="17" column="28" />
+        <mark key="." line="17" column="28" />
+        <mark key="^" line="17" column="28" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/slack_mailaddress.csv" timestamp="1523004657774">
         <mark key="[" line="0" column="8" />
@@ -1606,17 +1612,25 @@
         <keys>
           <key char="121" code="0" mods="0" />
           <key char="121" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="103" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
           <key char="103" code="0" mods="0" />
           <key char="106" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
           <key char="104" code="0" mods="0" />
           <key char="65535" code="65" mods="130" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
         </keys>
       </register>
       <register name="&quot;" type="4">
@@ -1887,40 +1901,40 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>code</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB2YXIgZGF0YSA9IHt9OwogIGdvb2cub2JqZWN0LmZvckVhY2gocmVxdWVzdERhdGEsIGZ1bmN0aW9uKHZhbHVlLCBrZXkpIHsKICAgIHZhciB0YXJnZXRDb21wb25lbnQgPSB0aGlzLmlucHV0Rm9ybU1vZGVsSGVscGVyXy5nZXRDb21wb25lbnRzQnlGdWxsRmllbGRLZXkoa2V5KTsKICAgIGlmIChnb29nLmlzRGVmQW5kTm90TnVsbCh0YXJnZXRDb21wb25lbnQpKSB7CiAgICAgIGRhdGFba2V5XSA9IHZhbHVlOwogICAgfQogIH0sIHRoaXMpOwoKICB0aGlzLnN0YXNoZWREYXRhXyA9IGRhdGE7Cg==</text>
+        <text encoding="base64">ICAgIEBDdXN0b21Jbmhlcml0YW5jZShrZXk9ImZyZWVTZWdtZW50MzEiLCBoYXNDaGlsZCA9IHRydWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHZhciB0YXJnZXRDb21wb25lbnQgPSB0aGlzLmdldEluaGVyaXRUYXJnZXRDb21wb25lbnRfKGtleSk7Cg==</text>
+        <text encoding="base64">ICAgIEBDdXN0b21Jbmhlcml0YW5jZShrZXk9ImZyZWVTZWdtZW50MSIsIGhhc0NoaWxkID0gdHJ1ZSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGdvb2cub2JqZWN0LmZvckVhY2gocmVxdWVzdERhdGEsIGZ1bmN0aW9uKHZhbHVlLCBrZXkpIHsKICAgIC8vICAgdmFyIGNvbXBvbmVudCA9IHRoaXMuaW5wdXRGb3JtTW9kZWxIZWxwZXJfLmdldENvbXBvbmVudHNCeUZ1bGxGaWVsZEtleShrZXkpOwogICAgLy8gICBpZiAoIWdvb2cuaXNEZWZBbmROb3ROdWxsKGNvbXBvbmVudCkpIHsKICAgIC8vICAgICByZXR1cm47CiAgICAvLyAgIH0KICAgIC8vICAgdGhpcy5hY0V4cGVuc2VDb3JlVXRpbFZpZXdfLnJlZmxlY3RWYWx1ZUFuZEJjZ0NvbG9yVG9Db21wb25lbnQodmFsdWUsIGJjZ0NvbG9yLCBjb21wb25lbnQpOwogICAgLy8gICAvLyB0aGlzLnJlc2V0Q29tcG9uZW50VmFsaWRhdGlvbl8oY29tcG9uZW50KTsKICAgIC8vIH0sIHRoaXMpOwo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBrZXkoKTsKICAgIFN0cmluZyB2YWx1ZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zdGFzaEN1cnJlbnREYXRhXyhyZXF1ZXN0RGF0YSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YVtrZXldID0gdmFsdWU7Cg==</text>
+        <text encoding="base64">ICAgIEBjdXN0bwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciBkYXRhID0ge307Cg==</text>
+        <text encoding="base64">ICAgIC8vIHZhciB0YXJnZXRDb21wb25lbnQgPSB0aGlzLmdldEluaGVyaXRUYXJnZXRDb21wb25lbnRfKGtleSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGdvb2cub2JqZWN0LmZvckVhY2gocmVxdWVzdERhdGEsIGZ1bmN0aW9uKHZhbHVlLCBrZXkpIHsKICAgIC8vICAgdmFyIGNvbXBvbmVudCA9IHRoaXMuaW5wdXRGb3JtTW9kZWxIZWxwZXJfLmdldENvbXBvbmVudHNCeUZ1bGxGaWVsZEtleShrZXkpOwogICAgLy8gICBpZiAoIWdvb2cuaXNEZWZBbmROb3ROdWxsKGNvbXBvbmVudCkpIHsKICAgIC8vICAgICByZXR1cm47CiAgICAvLyAgIH0KICAgIC8vICAgdGhpcy5hY0V4cGVuc2VDb3JlVXRpbFZpZXdfLnJlZmxlY3RWYWx1ZUFuZEJjZ0NvbG9yVG9Db21wb25lbnQodmFsdWUsIGJjZ0NvbG9yLCBjb21wb25lbnQpOwogICAgLy8gICAvLyB0aGlzLnJlc2V0Q29tcG9uZW50VmFsaWRhdGlvbl8oY29tcG9uZW50KTsKICAgIC8vIH0sIHRoaXMpOwo=</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3Rhc2hlZERhdGFfID0gZGF0YTsK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zdGFzaEN1cnJlbnREYXRhXyhyZXF1ZXN0RGF0YSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1961,10 +1975,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhciBiY2dDb2xvciA9ICcnOwoKICAgIGlmIChpc1ByZXZpZXcpIHsKICAgICAgICBpZiAoIXRoaXMuaXNQcmV2aWV3TW9kZV8pIHsKICAgICAgICAgICAgdGhpcy5zdGFzaEN1cnJlbnREYXRhXyhyZXF1ZXN0RGF0YSk7CiAgICAgICAgfQogICAgICAgIHRoaXMuY3VycmVudFByZXZpZXdEYXRhXyA9IHJlcXVlc3REYXRhOwogICAgICAgIGJjZ0NvbG9yID0gd2FwLmFjLmV4cGVuc2UuY29yZS51dGlsLkFjRXhwZW5zZUNvcmVVdGlsVmlldy5CQ0dfQ09MT1JTLkhJR0hMSUdIVDsKICAgICAgICB0aGlzLmlzUHJldmlld01vZGVfID0gdHJ1ZTsKICAgIH0gZWxzZSB7CiAgICAgICAgdGhpcy5jdXJyZW50UHJldmlld0RhdGFfID0gbnVsbDsKICAgICAgICBiY2dDb2xvciA9IHdhcC5hYy5leHBlbnNlLmNvcmUudXRpbC5BY0V4cGVuc2VDb3JlVXRpbFZpZXcuQkNHX0NPTE9SUy5ERUZBVUxUOwogICAgICAgIHRoaXMuaXNQcmV2aWV3TW9kZV8gPSBmYWxzZTsKICAgIH0KCiAgICB0aGlzLnJlZmxlY3REYXRhVG9WaWV3XyhyZXF1ZXN0RGF0YSwgYmNnQ29sb3IpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YVtrZXldID0gdmFsdWU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciB0YXJnZXRDb21wb25lbnQgPSB0aGlzLmlucHV0Rm9ybU1vZGVsSGVscGVyXy5nZXRDb21wb25lbnRzQnlGdWxsRmllbGRLZXkoa2V5KTsK</text>
+        <text encoding="base64">ICAgIHZhciBkYXRhID0ge307Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
