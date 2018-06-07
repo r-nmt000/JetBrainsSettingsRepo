@@ -850,10 +850,10 @@
         <mark key="." line="18" column="1" />
         <mark key="^" line="18" column="1" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/js/ac/expense/core/plugin/visit/ac-expense-core-plugin-visit-input-renderer.js" timestamp="1528366641129">
-        <mark key="'" line="450" column="4" />
-        <mark key="[" line="624" column="67" />
-        <mark key="]" line="624" column="67" />
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/js/ac/expense/core/plugin/visit/ac-expense-core-plugin-visit-input-renderer.js" timestamp="1528374202096">
+        <mark key="'" line="236" column="6" />
+        <mark key="[" line="611" column="0" />
+        <mark key="]" line="611" column="71" />
         <mark key="^" line="609" column="70" />
         <mark key="." line="624" column="67" />
       </file>
@@ -1175,12 +1175,11 @@
         <mark key="." line="57" column="11" />
         <mark key="^" line="57" column="11" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/js/ac/expense/components/ac-expense-input-base-component.js" timestamp="1528372646865">
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/js/ac/expense/components/ac-expense-input-base-component.js" timestamp="1528374203817">
         <mark key="'" line="15" column="14" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="15" column="7" />
-        <mark key="." line="18" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/ProjectConsistencyValidatorImpl.java" timestamp="1524392018148">
         <mark key="[" line="30" column="0" />
@@ -1541,7 +1540,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1063" column="4" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-front/src/main/java/com/worksap/company/hue/controller/ac/expense/advancerequest/AbstractAdvanceRequestController.java" />
       <jump line="274" column="8" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/service/validator/ExpenseValidatorServiceImpl.java" />
       <jump line="651" column="0" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/autogenerator/service/ShortTransAppAutoGeneratorImpl.java" />
       <jump line="28" column="0" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/autogenerator/service/TravelExpenseAppAutoRemoverImpl.java" />
@@ -1641,6 +1639,7 @@
       <jump line="128" column="55" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/js/ac/expense/core/util/ac-expense-core-util-view.js" />
       <jump line="16" column="42" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/js/ac/expense/core/util/ac-expense-core-util-view.js" />
       <jump line="583" column="0" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/lib/closure-library/closure/goog/base.js" />
+      <jump line="236" column="6" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/js/ac/expense/core/plugin/visit/ac-expense-core-plugin-visit-input-renderer.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1919,11 +1918,11 @@
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>AcExpenseInputBaseComponent,</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgKiBAcGFyYW0ge3N0cmluZ30gYmNnQ29sb3IgYmFja2dyb3VuZCBjb2xvciB3aGVuIHZhbHVlIGlzIGluaGVyaXRlZC4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSB7c3RyaW5nfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1938,16 +1937,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Z29vZy5wcm92aWRlKCd3YXAuYWMuZXhwZW5zZS5BY0V4cGVuc2VJbnB1dEJhc2VDb21wb25lbnQnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Z29vZy5yZXF1aXJlKCd3YXAuYWMuZXhwZW5zZS5jb21wb25lbnRzLkFjRXhwZW5zZUlucHV0QmFzZUNvbXBvbmVudCcpOwo=</text>
+        <text encoding="base64">Z29vZy5wcm92aWRlKCd3YXAuYWMuZXhwZW5zZS5BY0V4cGVuc2VJbnB1dEJhc2VDb21wb25lbnQnKTsK</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cAo=</text>
+        <text encoding="base64">Z29vZy5yZXF1aXJlKCd3YXAuYWMuZXhwZW5zZS5jb21wb25lbnRzLkFjRXhwZW5zZUlucHV0QmFzZUNvbXBvbmVudCcpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1988,10 +1987,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Z29vZwo=</text>
+        <text encoding="base64">cAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Z29vZwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
