@@ -1,22 +1,21 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*controller.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*controller.java</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*acexpensedomesticbiztrip.standard.ja*.xml</mask>
     <mask>*java</mask>
     <mask>*js</mask>
+    <mask>*controller.java</mask>
   </component>
 </application>
