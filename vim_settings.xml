@@ -856,12 +856,12 @@
         <mark key="." line="18" column="1" />
         <mark key="^" line="18" column="1" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/js/ac/expense/core/plugin/visit/ac-expense-core-plugin-visit-input-renderer.js" timestamp="1528530435415">
-        <mark key="'" line="537" column="39" />
-        <mark key="[" line="605" column="0" />
-        <mark key="]" line="610" column="4" />
-        <mark key="^" line="627" column="1" />
-        <mark key="." line="604" column="0" />
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/js/ac/expense/core/plugin/visit/ac-expense-core-plugin-visit-input-renderer.js" timestamp="1528618899634">
+        <mark key="'" line="59" column="4" />
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="0" />
+        <mark key="." line="177" column="0" />
+        <mark key="^" line="637" column="75" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/test/java/com/worksap/company/hue/ac/biz/expense/core/i18n/text/AcExpenseCoreTextResourceTest.java" timestamp="1520986952613">
         <mark key="[" line="25" column="0" />
@@ -1559,8 +1559,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="9" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/linktopayplan/ExpensePayplanLinkServiceImpl.java" />
-      <jump line="85" column="65" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/service/impl/ExpenseContentsInterceptorServiceImpl.java" />
       <jump line="53" column="11" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/create_validator_list.sh" />
       <jump line="33" column="25" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/shared/BulkTermVisitsValidatorImpl.java" />
       <jump line="83" column="39" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/shared/AttendeeInfoRequiredValidatorImpl.java" />
@@ -1659,6 +1657,8 @@
       <jump line="220" column="79" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-biz/src/test/java/com/worksap/company/hue/ac/biz/expense/advancerequest/service/impl/RequestAndReportItemMapperServiceImplTest.java" />
       <jump line="265" column="2" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/lib/closure-library/closure/goog/ui/component.js" />
       <jump line="269" column="22" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/vo/request/AdvanceRequest.java" />
+      <jump line="635" column="43" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/js/ac/expense/core/plugin/visit/ac-expense-core-plugin-visit-input-renderer.js" />
+      <jump line="53" column="4" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/js/ac/expense/core/plugin/visit/ac-expense-core-plugin-visit-input-renderer.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1932,40 +1932,40 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>String, Object</text>
+        <text>getInputElement</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBOb25IZWFkZXJJbmhlcml0VGFyZ2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICBnb29nLnN0eWxlLnNldFN0eWxlKHRhZ3NJbnB1dC5nZXRJbnB1dEVsZW1lbnQoKSwgJ2JhY2tncm91bmQtY29sb3InLCBiY2dDb2xvcik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudC5jbGVhcigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGl0ZW1NYXAuZ2V0KCJleHBlbnNlUmVwb3J0LnNlY3Rpb25zIikpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihpdGVtTWFwLmdldCgiZXhwZW5zZVJlcG9ydC5wcm9qZWN0cyIpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaXRlbU1hcC5nZXQoImV4cGVuc2VSZXBvcnQuZnJlZVNlZ21lbnQxLm5hbWVTdHJpbmciKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGl0ZW1NYXAuZ2V0KCJleHBlbnNlUmVwb3J0LmZyZWVTZWdtZW50Mi5uYW1lU3RyaW5nIikpOwo=</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLmlzSW5wdXRWaWV3XygpKSB7CiAgICAgIHZhciBmb3JtTW9kZWxIZWxwZXIgPSB0aGlzLmlucHV0QXJlYV8uZ2V0Rm9ybU1vZGVsSGVscGVyKCk7CiAgICAgIGlmIChnb29nLmlzRGVmQW5kTm90TnVsbChmb3JtTW9kZWxIZWxwZXIpKSB7CiAgICAgICAgZm9ybU1vZGVsSGVscGVyLnJlZ2lzdGVyQ29tcG9uZW50KHRoaXMpOwogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NldAo=</text>
+        <text encoding="base64">ICAgIC8qKiBAdHlwZSB7d2FwLmFjLmV4cGVuc2UuY29yZS5hcHBsaWNhdGlvbi5BY0V4cGVuc2VDb3JlQXBwbGljYXRpb25JbnB1dH0gKi8KICAgIHRoaXMuaW5wdXRBcmVhXyA9IC8qKiBAdHlwZSB7d2FwLmFjLmV4cGVuc2UuY29yZS5hcHBsaWNhdGlvbi5BY0V4cGVuc2VDb3JlQXBwbGljYXRpb25JbnB1dH0gKi8KICAgICAgKHZpZXcuZ2V0Q29tcG9uZW50KCdmb3JtLWFyZWEnKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHZpc2l0TGlzdCA9ICgpCg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEB0eXBlIHt3YXAuYWMuZXhwZW5zZS5jb3JlLmFwcGxpY2F0aW9uLkFjRXhwZW5zZUNvcmVBcHBsaWNhdGlvbklucHV0fQogICAgICogQHByaXZhdGUKICAgICAqLwogICAgdGhpcy5pbnB1dEFyZWFfID0gbnVsbDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBNYXAK</text>
+        <text encoding="base64">ICAgIC8vIHZhciBpbnB1dEVsZW1lbnRzID0gZ29vZy5kb20uZ2V0RWxlbWVudHNCeUNsYXNzKCd3YXAtdGFncy1pbnB1dCcsIHRoaXMuZWxlbWVudF8pOwogICAgLy8gZ29vZy5hcnJheS5mb3JFYWNoKGlucHV0RWxlbWVudHMgfHwgW10sIGZ1bmN0aW9uKGlucHV0RWxlbWVudCkgewogICAgLy8gICBnb29nLnN0eWxlLnNldFN0eWxlKGlucHV0RWxlbWVudCwgJ2JhY2tncm91bmQtY29sb3InLCBiY2dDb2xvcik7CiAgICAvLyB9LCB0aGlzKTsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICBnb29nLgo=</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgLyoqIEAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2006,10 +2006,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIElucHV0OiAqIEV4cGVjdGVkOgo=</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudC5jbGVhcigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqICAqIENoZWNrIEBOb25Jbmhlcml0YW5jZVRhcmdldCBhbm5vdGF0aW9uIHdvcmtzIGNvcnJlY3RseQogICAgICogICogQ2hlY2sgQEN1c3RvbUluaGVyaXRhbmNlIGFubm90YXRpb24gd29ya3MgY29ycmVjdGx5CiAgICAgKiAgICAqIEJpbmQgaWQgYW5kIG5hbWUgaW4KICAgICAqICAgICogVHJhdmVyc2UgdmFsdWUgcmVjdXJzaXZlbHkK</text>
+        <text encoding="base64">CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGl0ZW1NYXAuZ2V0KCJleHBlbnNlUmVwb3J0LnNlY3Rpb25zIikpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihpdGVtTWFwLmdldCgiZXhwZW5zZVJlcG9ydC5wcm9qZWN0cyIpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaXRlbU1hcC5nZXQoImV4cGVuc2VSZXBvcnQuZnJlZVNlZ21lbnQxLm5hbWVTdHJpbmciKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGl0ZW1NYXAuZ2V0KCJleHBlbnNlUmVwb3J0LmZyZWVTZWdtZW50Mi5uYW1lU3RyaW5nIikpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
