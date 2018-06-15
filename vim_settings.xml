@@ -36,13 +36,6 @@
         <mark key="." line="17" column="47" />
         <mark key="^" line="15" column="85" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/lib/wap/product-js/ac/expense/core/plugin/bulkterm/ac-expense-core-plugin-bulk-term-input.js" timestamp="1528961659904">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="424" column="23" />
-        <mark key="]" line="424" column="26" />
-        <mark key="." line="424" column="26" />
-        <mark key="^" line="424" column="26" />
-      </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/event/ExpensePayplanLinkStartListnerImpl.java" timestamp="1529045568057" />
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/lib/wap/product-js/ac/expense/components/com-expense-input-base-component.js" timestamp="1528959914102">
         <mark key="[" line="8" column="14" />
@@ -62,24 +55,19 @@
         <mark key="." line="28" column="3" />
         <mark key="^" line="28" column="3" />
       </file>
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/GlobalExpenseDuplicateRecordValidatorImpl.java" timestamp="1529048499224" />
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/vo/expense/VisitVo.java" timestamp="1528962426488">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/event/AdvanceRequestEventHandlerImpl.java" timestamp="1529045846037" />
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/PeriodExpiredValidatorImpl.java" timestamp="1529048398487" />
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-dto/src/main/java/com/worksap/company/hue/ac/dto/expense/ActiveAdvanceRequestDto.java" timestamp="1529033216561">
         <mark key="[" line="87" column="33" />
         <mark key="]" line="87" column="34" />
         <mark key="." line="87" column="34" />
         <mark key="^" line="87" column="34" />
-      </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/lib/wap/product-js/ac/expense/core/plugin/visit/com-expense-core-plugin-visit-input-readonly-renderer.js" timestamp="1528960849123">
-        <mark key="'" line="79" column="0" />
-        <mark key="[" line="23" column="15" />
-        <mark key="]" line="23" column="75" />
-        <mark key="." line="23" column="15" />
-        <mark key="^" line="329" column="6" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/js/deps.js" timestamp="1529031205314" />
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/shared/PayplanCycleExistenceValidatorImpl.java" timestamp="1529045322961">
@@ -103,6 +91,7 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="94" column="4" />
       </file>
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/DuplicateRecordValidatorImpl.java" timestamp="1529048477650" />
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/lib/wap/product-js/ac/expense/core/plugin/allocation/com-expense-core-plugin-allocation-rule.js" timestamp="1528957749500">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="26" />
@@ -118,7 +107,10 @@
         <mark key="]" line="17" column="69" />
         <mark key="." line="17" column="72" />
       </file>
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/RequiredRecordValidatorImpl.java" timestamp="1529048715603" />
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/validator/RequiredRecordValidatorImpl.java" timestamp="1529048728109" />
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/service/impl/OriginAdvanceRequestServiceImpl.java" timestamp="1529041763126" />
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/RecordPeriodExpiredValidatorImpl.java" timestamp="1529048358392" />
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/lib/wap/product-js/ac/expense/core/plugin/visit/com-expense-core-plugin-visit-input-adaptor.js" timestamp="1529040472829">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="59" />
