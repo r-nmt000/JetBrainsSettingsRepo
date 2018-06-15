@@ -13,6 +13,13 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="45" column="2" />
       </file>
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/service/impl/RequestAndReportItemMapperServiceImpl.java" timestamp="1529032561424">
+        <mark key="'" line="628" column="29" />
+        <mark key="[" line="644" column="33" />
+        <mark key="]" line="644" column="33" />
+        <mark key="^" line="55" column="83" />
+        <mark key="." line="644" column="33" />
+      </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/js/ac/expense/core/plugin/visit/ac-expense-core-plugin-visit-input-renderer.js" timestamp="1528961043700">
         <mark key="[" line="636" column="6" />
         <mark key="]" line="636" column="6" />
@@ -91,7 +98,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/application/specialized/AllowanceInjectorImpl.java" />
       <jump line="270" column="57" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/application/specialized/AllowanceInjectorImpl.java" />
       <jump line="0" column="0" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/service/ExpenseTransactionServiceImpl.java" />
       <jump line="55" column="13" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/temppayment/service/impl/TempPaymentBalanceDetailServiceImpl.java" />
@@ -191,6 +197,7 @@
       <jump line="32" column="3" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/js/ac/expense/core/plugin/visit/ac-expense-core-plugin-visit-input-renderer.js" />
       <jump line="12" column="0" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/js/ac/expense/core/util/ac-expense-core-util-input-model-helper.js" />
       <jump line="58" column="0" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/lib/wap/product-js/ac/expense/core/plugin/bulkterm/ac-expense-core-plugin-bulk-term-input.js" />
+      <jump line="628" column="29" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/service/impl/RequestAndReportItemMapperServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -464,7 +471,7 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>bulkTerm</text>
+        <text>ProjectDao</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY1VzZXJDb250ZXh0XD4=</text>
@@ -479,25 +486,25 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECmltcG9ydCBjb20ud29ya3NhcC5jb21wYW55LmZyYW1ld29yay5pdGVtLml0ZW0uYW5ub3RhdGlvbi5JdGVtSWQ7Cj09PT09PT0KaW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGU7CmltcG9ydCBqYXZhLnV0aWwuTGlzdDsKPj4+Pj4+PiBkZXZlbG9wCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5kYXRhYmluZC5PYmplY3RXcml0ZXI7CmltcG9ydCBjb20uZmFzdGVyeG1sLmphY2tzb24uY29yZS5Kc29uUHJvY2Vzc2luZ0V4Y2VwdGlvbjsKaW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5kYXRhYmluZC5PYmplY3RNYXBwZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhwZW5zZVByb2plY3RTZXJ2aWNlLmdldFByb2plY3RzKHJlcXVlc3QuZ2V0Q29ycElkKCksIG5vbkNoYWNoZWRQcm9qZWN0cywgYmFzZURhdGUpLmZvckVhY2goCiAgICAgICAgICAgICAgICAgICAgcHJvamVjdCAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBwcm9qZWN0Q29kZSA9IHByb2plY3QuZ2V0RXhwZW5zZVByb2plY3RDb2RlKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBwcm9qZWN0Q2FwdGlvbiA9IHByb2plY3QuZ2V0UHJvamVjdE5hbWUoKS5nZXQoKTsKICAgICAgICAgICAgICAgICAgICAgICAgc2VydmljZVNlc3Npb25DYWNoZU1hbmFnZXIucHV0KENBQ0hFX0tFWV9QUkVGSVggKyBwcm9qZWN0Q29kZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9qZWN0Q2FwdGlvbik7CiAgICAgICAgICAgICAgICAgICAgICAgIHByb2plY3RzVG9TZXQuYWRkKHByb2plY3RDb2RlKTsKICAgICAgICAgICAgICAgICAgICAgICAgcHJvamVjdHNDYXB0aW9uVG9TZXQuYWRkKHByb2plY3RDYXB0aW9uKTsKICAgICAgICAgICAgICAgICAgICAgICAgbm9uQ2hhY2hlZFByb2plY3RzLnJlbW92ZShwcm9qZWN0Q29kZSk7CiAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECmltcG9ydCBjb20ud29ya3NhcC5jb21wYW55LmZyYW1ld29yay5pdGVtLml0ZW0uYW5ub3RhdGlvbi5JdGVtSWQ7Cj09PT09PT0KaW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGU7CmltcG9ydCBqYXZhLnV0aWwuTGlzdDsKPj4+Pj4+PiBkZXZlbG9wCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5kYXRhYmluZC5PYmplY3RXcml0ZXI7CmltcG9ydCBjb20uZmFzdGVyeG1sLmphY2tzb24uY29yZS5Kc29uUHJvY2Vzc2luZ0V4Y2VwdGlvbjsKaW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5kYXRhYmluZC5PYmplY3RNYXBwZXI7Cg==</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHtib29sZWFufSBpc1ByZXZpZXcK</text>
+        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -538,10 +545,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Z29vZy5yZXF1aXJlKCd3YXAuY29tLmNsLmFjLmV4cGVuc2UuY29tcG9uZW50cy5BY0V4cGVuc2VJbnB1dEJhc2VDb21wb25lbnQnKTsK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Z29vZy5yZXF1aXJlKCd3YXAuY29yZS51aS5JbnB1dEJhc2VDb21wb25lbnQnKTsK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
