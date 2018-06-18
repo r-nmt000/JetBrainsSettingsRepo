@@ -3,12 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-approval-service/hue-approval-front/src/main/java/com/worksap/company/hue/approvalflow/constant/ApproverInboxHoverButton.java" timestamp="1529301692706" />
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/service/impl/RequestAndReportItemMapperServiceImpl.java" timestamp="1529287336547">
         <mark key="'" line="632" column="29" />
         <mark key="[" line="412" column="6" />
         <mark key="]" line="413" column="5" />
         <mark key="." line="413" column="5" />
         <mark key="^" line="413" column="5" />
+      </file>
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/java/com/worksap/company/framework/forneus/generator/LoadOptimizedResourceServiceImpl.java" timestamp="1529046300699">
+        <mark key="[" line="17" column="47" />
+        <mark key="]" line="18" column="74" />
+        <mark key="." line="17" column="47" />
+        <mark key="^" line="15" column="85" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/lib/wap/product-js/ac/expense/core/plugin/bulkterm/ac-expense-core-plugin-bulk-term-input.js" timestamp="1528961659904">
         <mark key="'" line="58" column="0" />
@@ -17,7 +24,14 @@
         <mark key="." line="424" column="26" />
         <mark key="^" line="424" column="26" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-dto/src/main/java/com/worksap/company/hue/ac/dto/expense/RequestSummaryMergedStatusIndex.java" timestamp="1529149203488" />
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-dto/src/main/java/com/worksap/company/hue/ac/dto/expense/RequestSummaryMergedStatusIndex.java" timestamp="1529302593781" />
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/lib/wap/product-js/ac/expense/core/plugin/bulkterm/ac-expense-core-plugin-bulk-term-input-adaptor.js" timestamp="1529040956906">
+        <mark key="[" line="66" column="61" />
+        <mark key="]" line="66" column="74" />
+        <mark key="." line="66" column="74" />
+        <mark key="^" line="66" column="74" />
+      </file>
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-dto/src/main/java/com/worksap/company/hue/ac/dto/expense/ExpenseSummaryByMergedStatusDto.java" timestamp="1529302617160" />
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-biz/src/test/java/com/worksap/company/hue/ac/biz/expense/application/specialized/AllowanceInjectorImplTest.java" timestamp="1529140868929">
         <mark key="'" line="57" column="78" />
         <mark key="[" line="136" column="38" />
@@ -25,38 +39,6 @@
         <mark key="^" line="136" column="47" />
         <mark key="." line="136" column="47" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/mapper/util/ExpenseReportMapper.java" timestamp="1529296867766" />
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/PeriodExpiredValidatorImpl.java" timestamp="1529048398487" />
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/shared/PayplanCycleExistenceValidatorImpl.java" timestamp="1529045322961">
-        <mark key="[" line="67" column="23" />
-        <mark key="]" line="67" column="23" />
-        <mark key="^" line="67" column="23" />
-        <mark key="." line="67" column="23" />
-      </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/DuplicateRecordValidatorImpl.java" timestamp="1529048477650" />
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/dao/impl/ExpenseSummaryByAdvanceMergedStatusDaoImpl.java" timestamp="1529146987203" />
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/shared/PaymentMethodCodeValidatorImpl.java" timestamp="1529065162394" />
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/WEB-INF/templates/ac/expense/advancerequest/traveladvancerequest/fragment/input.AcExpenseTravelAdvanceRequest.Standard.ja.xml" timestamp="1529285197810" />
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/RecordPeriodExpiredValidatorImpl.java" timestamp="1529048358392" />
-      <file name="$MAVEN_REPOSITORY$/com/worksap/company/company-framework-core-dto/18.01.00.0004.20180606.0930/company-framework-core-dto-18.01.00.0004.20180606.0930-sources.jar!/com/worksap/company/hue/core/dto/ServiceCfgDto.java" timestamp="1529129522771" />
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/java/com/worksap/company/framework/forneus/generator/LoadOptimizedResourceServiceImpl.java" timestamp="1529046300699">
-        <mark key="[" line="17" column="47" />
-        <mark key="]" line="18" column="74" />
-        <mark key="." line="17" column="47" />
-        <mark key="^" line="15" column="85" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/worksap/company/company-security-core/18.01.00.0004.20180606.0930/company-security-core-18.01.00.0004.20180606.0930-sources.jar!/com/worksap/company/framework/security/authority/AuthorityManagerImpl.java" timestamp="1529146908530" />
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/event/ExpensePayplanLinkStartListnerImpl.java" timestamp="1529060314294" />
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/shared/BudgetLimitValidatorImpl.java" timestamp="1529050695421" />
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/lib/wap/product-js/ac/expense/core/plugin/bulkterm/ac-expense-core-plugin-bulk-term-input-adaptor.js" timestamp="1529040956906">
-        <mark key="[" line="66" column="61" />
-        <mark key="]" line="66" column="74" />
-        <mark key="." line="66" column="74" />
-        <mark key="^" line="66" column="74" />
-      </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/java/com/worksap/company/hue/controller/ac/expense/portal/ExpensePortalProxySubmissionController.java" timestamp="1529142789308" />
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/java/com/worksap/company/hue/controller/ac/expense/portal/ExpensePortalController.java" timestamp="1529143036009" />
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/WEB-INF/templates/ac/expense/advancerequest/traveladvancerequest/fragment/freesegment/free-segment-select.AcExpenseTravelAdvanceRequest.Standard.ja.xml" timestamp="1529284442766" />
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/lib/wap/product-js/ac/expense/core/plugin/visit/com-expense-core-plugin-visit-input-readonly-renderer.js" timestamp="1528960849123">
         <mark key="'" line="79" column="0" />
         <mark key="[" line="23" column="15" />
@@ -64,8 +46,12 @@
         <mark key="." line="23" column="15" />
         <mark key="^" line="329" column="6" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/js/deps.js" timestamp="1529031205314" />
-      <file name="$MAVEN_REPOSITORY$/com/worksap/company/company-servicesettings-dto/18.01.00.0004.20180606.0930/company-servicesettings-dto-18.01.00.0004.20180606.0930-sources.jar!/com/worksap/company/hue/servicesettings/dto/ServiceCfgSearchIndexDto.java" timestamp="1529129630846" />
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/shared/PayplanCycleExistenceValidatorImpl.java" timestamp="1529045322961">
+        <mark key="[" line="67" column="23" />
+        <mark key="]" line="67" column="23" />
+        <mark key="^" line="67" column="23" />
+        <mark key="." line="67" column="23" />
+      </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-dto/src/main/java/com/worksap/company/hue/ac/type/expense/record/ExpenseRecordBase.java" timestamp="1529141317898">
         <mark key="[" line="1054" column="53" />
         <mark key="]" line="1054" column="53" />
@@ -76,7 +62,6 @@
         <mark key="'" line="70" column="94" />
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/advancerequest/service/impl/OriginAdvanceRequestServiceImpl.java" timestamp="1529151893535" />
       <file name="/fragment.java" timestamp="1529288512866">
         <mark key="[" line="0" column="0" />
       </file>
@@ -547,7 +532,7 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
