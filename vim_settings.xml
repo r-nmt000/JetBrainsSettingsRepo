@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/vo/request/AdvanceRequest.java" timestamp="1529556528260">
-        <mark key="[" line="179" column="0" />
-        <mark key="]" line="179" column="27" />
-        <mark key="^" line="147" column="26" />
-        <mark key="." line="179" column="0" />
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/vo/request/AdvanceRequest.java" timestamp="1529929819522">
+        <mark key="'" line="322" column="0" />
+        <mark key="[" line="323" column="45" />
+        <mark key="]" line="324" column="3" />
+        <mark key="^" line="324" column="3" />
+        <mark key="." line="324" column="3" />
       </file>
       <file name="/a.dummy" timestamp="1529741863362">
         <mark key="[" line="0" column="0" />
@@ -74,11 +75,11 @@
         <mark key="^" line="39" column="20" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-build/mr-message-list.tsv" timestamp="1529928023302">
-        <mark key="[" line="1" column="195" />
-        <mark key="]" line="1" column="200" />
-        <mark key="." line="1" column="200" />
-        <mark key="^" line="1" column="200" />
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-build/mr-message-list.tsv" timestamp="1529929830977">
+        <mark key="[" line="1" column="54" />
+        <mark key="]" line="1" column="61" />
+        <mark key="." line="1" column="61" />
+        <mark key="^" line="1" column="61" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/master/BssecMasterValidatorImpl.java" timestamp="1529892426750">
         <mark key="'" line="37" column="46" />
@@ -134,6 +135,10 @@
         <mark key="[" line="41" column="0" />
         <mark key="]" line="45" column="4" />
       </file>
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-build/additional-pre-merge.sh" timestamp="1529930151079">
+        <mark key="[" line="67" column="8" />
+        <mark key="]" line="67" column="38" />
+      </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-dto/src/main/java/com/worksap/company/hue/ac/dto/expense/ExpenseApplicationContentsDto.java" timestamp="1529921191982" />
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-version-up/src/main/java/versionup/dto/com/worksap/company/hue/ac/dto/expense/AdvanceRequestHistoryChildDto20180622000000.java" timestamp="1529737851998">
         <mark key="[" line="16" column="0" />
@@ -174,7 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="270" column="8" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-version-up/src/main/java/migration/com/worksap/company/hue/ac/dto/expense/MigratorBusinessValidationServiceCfg.java" />
       <jump line="252" column="50" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-version-up/src/test/java/migration/com/worksap/company/hue/ac/dto/expense/MigratorBusinessValidationServiceCfgTest.java" />
       <jump line="62" column="17" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-version-up/src/main/java/migration/com/worksap/company/hue/ac/dto/expense/MigratorBusinessValidationServiceCfg.java" />
       <jump line="283" column="28" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-version-up/src/test/java/migration/com/worksap/company/hue/ac/dto/expense/MigratorBusinessValidationServiceCfgTest.java" />
@@ -274,6 +278,7 @@
       <jump line="37" column="46" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/master/BssecMasterValidatorImpl.java" />
       <jump line="0" column="1" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-cql/src/main/resources/cl_ac_expense/ac_expense_-_ac_expense_refund_deposit_activity_20180622205649_ADD.CQL" />
       <jump line="70" column="51" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-version-up/src/test/java/migration/com/worksap/company/hue/ac/dto/expense/M201806220000MigrationAdvanceRequestHistoryTest.java" />
+      <jump line="322" column="0" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/vo/request/AdvanceRequest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -547,13 +552,13 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>ExpenseReport</text>
+        <text>and</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY1VzZXJDb250ZXh0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">L2NvbS93b3Jrc2FwL2NvbXBhbnkvaHVlL2FjL2JpemNvcmUvZXhwZW5zZS9lbnRpdHkvcmVwb3J0L0V4cGVuc2VSZXBvcnQuamF2YSQJTQkjIyBXaGVuIGFkZGluZyBmaWVsZHMgdG8gRXhwZW5zZVJlcG9ydCwgcGxlYXNlIGNoZWNrIGZvbGxvd2luZyBwb2ludHNcXG4tIG1hcHBpbmcgbG9naWMgaXMgbmVlZGVkIGluIEV4cGVuc2VSZXBvcnRNYXBwZXIgYW5kIEV4cGVuc2VBcHBsaWNhdGlvbkNvbnRlbnRzTWFwcGVyIHRvIHNhdmUgdGhlIGZpZWxkXFxuLSBJTlNFUlQganNvbiBmb3IgUmRiQ29sRHRvIGlzIG5lZWRlZCB0byBzdXBwb3J0IG91dHB1dCBlbmdpbmUK</text>
+      <register name="0" type="4">
+        <text>git diff --cached --name-status</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">VmFsaWRhdG9ySW1wbC5qYXZhJAlBCSMjIFdoZW4gY3JlYXRpbmcgbmV3IEJ1c2luZXNzVmFsaWRhdG9yLCBwbGVhc2UgY2hlY2sgZm9sbG93aW5nIHBvaW50c1xcbi0gUGxlYXNlIGNvbmZpcm0gQmFzaWNWYWxpZGF0aW9uIGRvZXNuJ3Qgc3VwcG9ydCBpdCAoWW91IHNob3VsZCB1c2UgQmFzaWNWYWxpZGF0aW9uIGlmIEJhc2ljVmFsaWRhdGlvbiBzdXBwb3J0IGl0KVxcbiAgLSBodHRwOi8vaHVld2lraS9tZWRpYXdpa2kvaW5kZXgucGhwL0Jhc2ljX1ZhbGlkYXRpb25cXG4tIFVzZSBFeHBlbnNlQXBwbGljYXRpb24gaW5zdGVhZCBvZiBFeHBlbnNlUmVwb3J0IG9yIEFkdmFuY2VSZXF1ZXN0IGlmIHRoaXMgdmFsaWRhdGlvbiB3aWxsIGJlIHVzZWQgaW4gYm90aCByZXF1ZXN0IGFuZCByZXBvcnRcXG4tIEFkZCBhbmQgZmlsdGVyIHRoZSB2YWxpZGF0b3IgYXBwcm9wcmlhdGVseSBpbiBBZHZhbmNlUmVxdWVzdFZhbGlkYXRvclNlcnZpY2UgYW5kL29yIEV4cGVuc2VWYWxpZGF0b3JTZXJ2aWNlXFxuICAtIFBsZWFzZSBjb25zaWRlciBpbiB3aGljaCBhcHBsaWNhdGlvbiB0aGUgdmFsaWRhdG9yIHNob3VsZCBydW5cXG4tIFNoaXAgSU5TRVJUIGpzb24gZm9yIEJ1c2luZXNzVmFsaWRhdGlvblNldHRpbmdEZWZEdG8gYW5kIGRpc2FibGUgdGhpcyB2YWxpZGF0aW9uIGluIGRlZmF1bHQsIGV4Y2VwdCBzcGVjaWFsIHJlYXNvblxcbiAgLSBodHRwOi8vaHVld2lraS9tZWRpYXdpa2kvaW5kZXgucGhwL0hvd190b19jcmVhdGVfYnVzaW5lc3NfdmFsaWRhdGlvbiNOZXdfc2V0dGluZ18uMjhmcm9tXzE3LjA3QlQuMjlcXG4tUGxlYXNlIGFkZCBqYXZhZG9jXFxuICAtIGh0dHA6Ly9odWV3aWtpL21lZGlhd2lraS9pbmRleC5waHAvRGV2ZWxvcF9FeHBlbnNlX0J1c2luZXNzX1ZhbGlkYXRpb24jMy5fQWRkX2phdmFkb2MK</text>
