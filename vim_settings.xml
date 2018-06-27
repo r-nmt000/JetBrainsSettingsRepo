@@ -111,11 +111,10 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="17" column="28" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-build/mr-error-rules.sh" timestamp="1530093789011">
-        <mark key="[" line="12" column="2" />
-        <mark key="]" line="13" column="49" />
-        <mark key="." line="13" column="49" />
-        <mark key="^" line="13" column="49" />
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-build/mr-error-rules.sh" timestamp="1530101143821">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1529747349809">
         <mark key="[" line="0" column="0" />
@@ -124,12 +123,12 @@
         <mark key="[" line="102" column="0" />
         <mark key="]" line="102" column="55" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-build/additional-pre-merge.sh" timestamp="1530094009255">
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-build/additional-pre-merge.sh" timestamp="1530102016117">
         <mark key="'" line="18" column="9" />
-        <mark key="[" line="105" column="12" />
-        <mark key="]" line="105" column="7" />
-        <mark key="." line="105" column="7" />
-        <mark key="^" line="105" column="7" />
+        <mark key="[" line="41" column="27" />
+        <mark key="]" line="41" column="27" />
+        <mark key="." line="41" column="27" />
+        <mark key="^" line="41" column="27" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/entity/record/TransportationExpenseRecord.java" timestamp="1530015676012" />
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/WEB-INF/templates/ac/expense/core/common/form-layout-readonly.AcExpenseDomesticBizTrip.Standard.ja.xml" timestamp="1529999892122" />
@@ -172,6 +171,12 @@
         <mark key="]" line="48" column="102" />
         <mark key="." line="48" column="102" />
         <mark key="^" line="48" column="102" />
+      </file>
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-dto/src/main/java/com/worksap/company/hue/ac/type/expense/transportation/TransportationRoute.java" timestamp="1530101700614">
+        <mark key="[" line="70" column="39" />
+        <mark key="]" line="71" column="24" />
+        <mark key="." line="71" column="24" />
+        <mark key="^" line="71" column="24" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-version-up/src/test/java/migration/com/worksap/company/hue/ac/dto/expense/M201806220000MigrationAdvanceRequestHistoryTest.java" timestamp="1529902128753">
         <mark key="'" line="70" column="51" />
@@ -581,31 +586,31 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>Error! there is Expense rule check violation(s)&quot;</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY1VzZXJDb250ZXh0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBnaXQgZGlmZiBvcmlnaW4vJHtnaXRsYWJUYXJnZXRCcmFuY2h9Li4ub3JpZ2luLyR7Z2l0bGFiU291cmNlQnJhbmNofSAtLW5hbWUtc3RhdHVzID4gJHtIVUVfQUNfRVhQRU5TRV9CVUlMRH0vZ2l0ZGlmZi53cmsK</text>
+      <register name="0" type="4">
+        <text>gitlabSourceBranch</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBwcmUtY29tbWl0IGV4ZWN1dGlvbiBjaGVjawojIFlvdSBtdXN0IGV4ZWN1dGUgYGdydW50IHByZS1jb21taXRgIGJlZm9yZSBnaXQgcHVzaCB5b3VyIG1vZGlmaWNhdGlvbgpmdW5jdGlvbiBjaGVjay1wcmUtY29tbWl0KCkgewogICAgaWYgWyAtbiAiJChnaXQgc3RhdHVzIHwgZ3JlcCAnLmpzJCcpIiBdOyB0aGVuCiAgICAgIGVjaG8gIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iCiAgICAgIGVjaG8gIlBMRUFTRSBFWEVDVVRFIGdydW50IHByZS1jb21taXQgVU5ERVIgRlJPTlQgUFJPSkVDVCBCRUZPUkUgQ09NTUlUISEhIgogICAgICBnaXQgc3RhdHVzIHwgZ3JlcCAnLmpzJCcgfCB4YXJncyAtaXt9IGVjaG8ge30KIyAgICAgIHBvc3QtbWVzc2FnZSAnIyMgUExFQVNFIEVYRUNVVEUgZ3J1bnQgcHJlY29tbWl0IFVOREVSIEZST05UIFBST0pFQ1QgQkVGT1JFIENPTU1JVCEhIScKICAgICAgcmV0dXJuIDEKICAgIGZpCiAgICByZXR1cm4gMAp9Cg==</text>
+        <text encoding="base64">ICBnaXQgZGlmZiBvcmlnaW4vJHtnaXRsYWJUYXJnZXRCcmFuY2h9Li4ub3JpZ2luLyR7Z2l0bGFiU291cmNlQnJhbmNofSAtVTEwMDAwID4gJHtIVUVfQUNfRVhQRU5TRV9CVUlMRH0vZGlmZi1maWxlLW5hbWUtbGlzdC53cmsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdpdCBkaWZmIG9yaWdpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBnaXQgZGlmZgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBnaXQgZGlmZiBvcmlnaW4vJHtnaXRsYWJUYXJnZXRCcmFuY2h9Li4ub3JpZ2luLyR7Z2l0bGFiU291cmNlQnJhbmNofSAtLW5hbWUtb25seSA+ICR7SFVFX0FDX0VYUEVOU0VfQlVJTER9L2dpdGRpZmYud3JrCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvY2FsIHJlc3VsdF9zdWNjZXNzPWBleGVjdXRlLXJ1bGUtY2hlY2tlcmAK</text>
+        <text encoding="base64">IyBwcmUtY29tbWl0IGV4ZWN1dGlvbiBjaGVjawojIFlvdSBtdXN0IGV4ZWN1dGUgYGdydW50IHByZS1jb21taXRgIGJlZm9yZSBnaXQgcHVzaCB5b3VyIG1vZGlmaWNhdGlvbgpmdW5jdGlvbiBjaGVjay1wcmUtY29tbWl0KCkgewogICAgaWYgWyAtbiAiJChnaXQgc3RhdHVzIHwgZ3JlcCAnLmpzJCcpIiBdOyB0aGVuCiAgICAgIGVjaG8gIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iCiAgICAgIGVjaG8gIlBMRUFTRSBFWEVDVVRFIGdydW50IHByZS1jb21taXQgVU5ERVIgRlJPTlQgUFJPSkVDVCBCRUZPUkUgQ09NTUlUISEhIgogICAgICBnaXQgc3RhdHVzIHwgZ3JlcCAnLmpzJCcgfCB4YXJncyAtaXt9IGVjaG8ge30KIyAgICAgIHBvc3QtbWVzc2FnZSAnIyMgUExFQVNFIEVYRUNVVEUgZ3J1bnQgcHJlY29tbWl0IFVOREVSIEZST05UIFBST0pFQ1QgQkVGT1JFIENPTU1JVCEhIScKICAgICAgcmV0dXJuIDEKICAgIGZpCiAgICByZXR1cm4gMAp9Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -614,7 +619,7 @@
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmV4ZWN1dGUtcnVsZS1jaGVja2VyKCkgewogIGxvY2FsIHJlc3VsdF9zdWNjZXNzPXRydWUKICBjYXQgJHtIVUVfQUNfRVhQRU5TRV9CVUlMRH0vY2hla2MtcnVsZS1saXN0LndyayB8IHdoaWxlIHJlYWQgbGluZQogIGRvCiAgICAke2xpbmV9CiAgICBpZiBbICQ/ID0gMSBdOyB0aGVuCiAgICAgIHJlc3VsdF9zdWNjZXNzPWZhbHNlCiAgICBmaQogIGRvbmUKICBlY2hvICR7cmVzdWx0X3N1Y2Nlc3N9CiAgcmV0dXJuIDAKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -655,10 +660,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgaWYgWyAtbiAiJChnaXQgc3RhdHVzIC0tcG9yY2VsYWluIFwKICAgICMgICB8IGdyZXAgLXYgJy5qcycgXAogICAgIyAgICkiIF07IHRoZW4KICAgICMgICBlY2hvICItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIgogICAgIyAgIGVjaG8gIlBMRUFTRSBBREQgWU9VUiBHRU5FUkFURUQgRklMRVMgVE8gR0lUSUdOT1JFISEhISIKICAgICMgICBnaXQgc3RhdHVzIC0tcG9yY2VsYWluIFwKICAgICMgICAgIHwgZ3JlcCAtdiAnLmpzJyBcCiAgICAjICAgICB8IHhhcmdzIC1pe30gZWNobyB7fQogICAgIyAgIHJldHVybiAxCiAgICAjIGZpCgojICAgIGlmIFsgLW4gIiQoZ2l0IHN0YXR1cyB8IGdyZXAgJy5qcyQnKSIgXTsgdGhlbgojICAgICAgZWNobyAiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIKIyAgICAgIGVjaG8gIlBMRUFTRSBFWEVDVVRFIGdydW50IHByZS1jb21taXQgVU5ERVIgRlJPTlQgUFJPSkVDVCBCRUZPUkUgQ09NTUlUISEhIgojICAgICAgZ2l0IHN0YXR1cyB8IGdyZXAgJy5qcyQnIHwgeGFyZ3MgLWl7fSBlY2hvIHt9CiMgICAgICBwb3N0LW1lc3NhZ2UgJyMjIFBMRUFTRSBFWEVDVVRFIGdydW50IHByZWNvbW1pdCBVTkRFUiBGUk9OVCBQUk9KRUNUIEJFRk9SRSBDT01NSVQhISEnCiMgICAgICByZXR1cm4gMQojICAgIGVsc2UKIyAgICAgIGVjaG8gIklUIElTIENMRUFOIgojICAgICAgcmV0dXJuIDAKIyAgICBmaQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBlY2hvICR7cmVzdWx0X3N1Y2Nlc3N9Cg==</text>
+        <text encoding="base64">ICAgIGxvY2FsIHJlc3VsdF9zdWNjZXNzPWBleGVjdXRlLXJ1bGUtY2hlY2tlcmAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
