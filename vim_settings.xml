@@ -88,10 +88,6 @@
       <file name="/Dummy.txt" timestamp="1529747349809">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/WEB-INF/templates/insta-report/advance-request/jrxml/AcExpenseOverseasTravelAdvanceRequest.Standard.Cancellation.ja.jrxml" timestamp="1529995335267">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="55" />
-      </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-build/additional-pre-merge.sh" timestamp="1530157684814">
         <mark key="'" line="18" column="9" />
         <mark key="[" line="139" column="0" />
@@ -100,9 +96,8 @@
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/entity/record/TransportationExpenseRecord.java" timestamp="1530015676012" />
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/WEB-INF/templates/ac/expense/core/common/form-layout-readonly.AcExpenseDomesticBizTrip.Standard.ja.xml" timestamp="1529999892122" />
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/WEB-INF/templates/ac/expense/core/common/header/confirm-header.AcExpenseGeneral.Allocation.en.xml" timestamp="1529995538570">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="40" column="24" />
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/entity/report/ExpenseReportSummary.java" timestamp="1530159203536">
+        <mark key="'" line="96" column="47" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/WEB-INF/templates/ac/expense/advancerequest/traveladvancerequest/form-layout.AcExpenseTravelAdvanceRequest.Standard.ja.xml" timestamp="1529999919496">
         <mark key="[" line="92" column="0" />
@@ -183,7 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="46" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/generalexpense/validation/RequiredValidatorImpl.java" />
       <jump line="354" column="0" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/config/AcExpenseBizConfig.java" />
       <jump line="382" column="0" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/config/AcExpenseBizConfig.java" />
       <jump line="386" column="4" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/config/AcExpenseBizConfig.java" />
@@ -283,6 +277,7 @@
       <jump line="197" column="0" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/js/ac/expense/core/util/ac-expense-core-util-view.js" />
       <jump line="730" column="0" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/service/impl/ExpenseServiceSettingAccessServiceImpl.java" />
       <jump line="276" column="24" filename="$MAVEN_REPOSITORY$/com/worksap/company/company-servicesettings-accessor/18.01.00.0004.20180620.2200/company-servicesettings-accessor-18.01.00.0004.20180620.2200-sources.jar!/com/worksap/company/hue/servicesettings/service/accessor/SettingAccessorServiceImpl.java" />
+      <jump line="96" column="47" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/entity/report/ExpenseReportSummary.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
