@@ -9,6 +9,10 @@
       <file name="/com_ac_announce_mst [@openstack-aurora]" timestamp="1531980583877">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/create_validator_list.sh" timestamp="1532077399742">
+        <mark key="[" line="174" column="13" />
+        <mark key="]" line="174" column="30" />
+      </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-gl/hue-ac-gl-bizcore/src/test/java/com/worksap/company/hue/ac/biz/gl/clustering/dao/JournalIdfDaoTest.java" timestamp="1532069606060">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -21,7 +25,18 @@
         <mark key="." line="414" column="27" />
         <mark key="^" line="414" column="27" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/RequiredAdvanceRequestValidatorImpl.java" timestamp="1532073587179" />
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/RequiredAdvanceRequestValidatorImpl.java" timestamp="1532076851960">
+        <mark key="[" line="39" column="11" />
+        <mark key="]" line="39" column="11" />
+        <mark key="^" line="34" column="77" />
+        <mark key="." line="39" column="11" />
+      </file>
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/shared/BudgetLimitValidatorImpl.java" timestamp="1532077179835">
+        <mark key="[" line="40" column="23" />
+        <mark key="]" line="40" column="25" />
+        <mark key="." line="40" column="25" />
+        <mark key="^" line="40" column="25" />
+      </file>
       <file name="/com_ac_cost_sharing_section_mst [@openstack-aurora]" timestamp="1531980583970">
         <mark key="[" line="0" column="0" />
       </file>
@@ -37,11 +52,21 @@
       <file name="/com_ac_h_section_mst_mst [@openstack-aurora]" timestamp="1531980584499">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/shared/BudgetLimitRequiredValidatorImpl.java" timestamp="1532077117744">
+        <mark key="[" line="36" column="24" />
+        <mark key="]" line="36" column="25" />
+        <mark key="." line="36" column="25" />
+        <mark key="^" line="36" column="25" />
+      </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-build/util-functions.sh" timestamp="1531213491600">
         <mark key="[" line="2" column="32" />
         <mark key="]" line="3" column="12" />
         <mark key="." line="3" column="12" />
         <mark key="^" line="3" column="12" />
+      </file>
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/shared/SectionsRequiredValidatorImpl.java" timestamp="1532077251624">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="50" column="2" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-build/mr-error-rules.sh" timestamp="1531365842068">
         <mark key="[" line="124" column="0" />
@@ -49,7 +74,12 @@
         <mark key="^" line="104" column="56" />
         <mark key="." line="124" column="0" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/1803/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/ekisupa/AspEkispertExecutor.java" timestamp="1531990832981" />
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/OverseasLodgeExpenseValidatorImpl.java" timestamp="1532077528162">
+        <mark key="[" line="38" column="15" />
+        <mark key="]" line="38" column="14" />
+        <mark key="." line="38" column="14" />
+        <mark key="^" line="38" column="14" />
+      </file>
       <file name="/com_ac_cost_category_def_mst [@openstack-aurora]" timestamp="1531980584362">
         <mark key="[" line="0" column="0" />
       </file>
@@ -59,7 +89,10 @@
         <mark key="^" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/constant/ExpenseServiceSettingConst.java" timestamp="1532073397406" />
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/constant/ExpenseServiceSettingConst.java" timestamp="1532076498776">
+        <mark key="[" line="168" column="45" />
+        <mark key="]" line="168" column="79" />
+      </file>
       <file name="/com_ac_h_section_mst [@openstack-aurora]" timestamp="1531980584389">
         <mark key="[" line="0" column="0" />
       </file>
@@ -78,7 +111,14 @@
       <file name="/com_ac_cost_type_master_mst_opp_account_title_options_map_mst [@openstack-aurora]" timestamp="1531980583928">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/service/validator/ExpenseValidatorServiceImpl.java" timestamp="1532073258644" />
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/service/validator/ExpenseValidatorServiceImpl.java" timestamp="1532077240881" />
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/shared/HeaderFreeSegmentValidatorImpl.java" timestamp="1532076090797">
+        <mark key="'" line="73" column="66" />
+        <mark key="[" line="53" column="11" />
+        <mark key="]" line="53" column="11" />
+        <mark key="." line="53" column="11" />
+        <mark key="^" line="46" column="27" />
+      </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-dto/src/main/java/com/worksap/company/hue/ac/Test.java" timestamp="1531219133390">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="3" column="2" />
@@ -87,8 +127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="54" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-front/src/main/webapp/lib/wap/page/inputservice/adaptor/input-base-model-adaptor.js" />
-      <jump line="0" column="0" filename="/fragment.java" />
       <jump line="667" column="42" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-dto/src/main/java/com/worksap/company/hue/ac/type/expense/record/ExpenseRecordBase.java" />
       <jump line="133" column="89" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-front/src/main/webapp/js/ac/expense/core/util/ac-expense-core-util-master-resource-registerer.js" />
       <jump line="1163" column="4" filename="$MAVEN_REPOSITORY$/com/worksap/company/hue-approval-core-impl/18.05.00.0000.20180522.1243/hue-approval-core-impl-18.05.00.0000.20180522.1243-sources.jar!/com/worksap/company/hue/approvalflow/config/ApprovalCoreImplConfig.java" />
@@ -187,6 +225,8 @@
       <jump line="73" column="26" filename="$MAVEN_REPOSITORY$/com/worksap/company/hue-com-ac-bizcore/18.07.ac-bizcom-SNAPSHOT/hue-com-ac-bizcore-18.07.ac-bizcom-20180627.114114-2-sources.jar!/com/worksap/company/hue/com/bizcore/ac/util/StringUtils.java" />
       <jump line="42" column="14" filename="$USER_HOME$/HUE/Application/oracle-jdk-1.8.0_121/src.zip!/java/io/Serializable.java" />
       <jump line="24" column="58" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-gl/hue-ac-gl-bizcore/src/test/java/com/worksap/company/hue/ac/biz/gl/clustering/dao/JournalIdfDaoTest.java" />
+      <jump line="101" column="8" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/shared/HeaderFreeSegmentValidatorImpl.java" />
+      <jump line="73" column="66" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/validator/shared/HeaderFreeSegmentValidatorImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -460,40 +500,40 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>AC_EXPENSE_PORTAL_SEARCH</text>
+        <text>ALL</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY1VzZXJDb250ZXh0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyBqYXZhZG9jIGNoZWNrCiMgWW91IG11c3Qgd3JpdGUgamF2YWRvYyB3aGVuIHlvdSBhZGQgbmV3IGphdmEgY2xhc3MKZnVuY3Rpb24gY2hlY2stY29kZS1kb2N1bWVudGF0aW9uKCkgewogIHdoaWxlIHJlYWQgbGluZQogIGRvCiAgICBsb2NhbCBkaWZmX3R5cGU9JChhd2sgJ3twcmludCAkMX0nIDw8PCR7bGluZX0pCiAgICBsb2NhbCBkaWZmX2ZpbGVuYW1lPSQoYXdrICd7cHJpbnQgJDJ9JyA8PDwke2xpbmV9KQogICAgbG9jYWwgZGlmZl9jb250ZW50PSQoYXdrICd7cHJpbnQgJDN9JyA8PDwke2xpbmV9KQoKCWlmIFsgJHtkaWZmX3R5cGV9ICE9ICdBJyBdOyB0aGVuCgkgIGNvbnRpbnVlCglmaQoKICAgIGxvY2FsIGlzX2phdmE9JChncmVwIC1lICdcLmphdmEkJyAke2RpZmZfY29udGVudH0pCgogICAgaWYgWyAtbiAiJGlzX2phdmEiIF07IHRoZW4KICAgICAgIyBDaGVjayBqYXZhZG9jIGlzIHdyaXR0ZW4KICAgICAgbG9jYWwgZ3JlcF9yZXN1bHQ9JChncmVwIC1lICdwdWJsaWMgY2xhc3MnIC1CIDEwICR7ZGlmZl9jb250ZW50fSB8IGdyZXAgLWUgJ1wqJykKICAgICAgaWYgWyAteiAiJGdyZXBfcmVzdWx0IiBdOyB0aGVuCiAgICAgICAgZWNobyAiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIKICAgICAgICBlY2hvICJZb3UgTVVTVCB3cml0ZSBqYXZhZG9jIHdoZW4geW91IGFkZCBqYXZhIGZpbGUgbmV3bHkiCiAgICAgICAgZWNobyAke2RpZmZfZmlsZW5hbWV9CiAgICAgICAgcmV0dXJuIDEKICAgICAgZmkKICAgIGZpCiAgZG9uZTwke0hVRV9BQ19FWFBFTlNFX0JVSUxEfS9kYXRhLndyawogIHJldHVybiAwCn0K</text>
+      <register name="0" type="4">
+        <text>ALL_EXPENSE_REPORT</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgY29tLndvcmtzYXAudG9vbHMuc2hhZGVkLmNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuTWFwczsK</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0Cgo=</text>
+        <text encoding="base64">ICogdG8gaW1wbGVtZW50IHZhbGlkYXRpb25zIGZvciBwcm9qZWN0cyBhbmQgc2VjdGlvbnMsIHJlc3BlY3RpdmVseS4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGdpdCBkaWZmIG9yaWdpbi8ke2dpdGxhYlRhcmdldEJyYW5jaH0uLi5vcmlnaW4vJHtnaXRsYWJTb3VyY2VCcmFuY2h9IC0tbmFtZS1vbmx5ID4gJHtIVUVfQUNfRVhQRU5TRV9CVUlMRH0vZGlmZi1maWxlLW5hbWUtbGlzdC53cmsK</text>
+        <text encoding="base64">ICogVE9ETyB2YWxpZGF0aW9uIGZvciBjb2xsZWN0aW9uIGZpZWxkcyBzaG91bGQgYmUgaW50ZWdyYXRlZCBhcyBvbmUgdmFsaWRhdGlvbi4gY3VycmVudGx5LCB3ZSBoYXZlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogcmVxdWlyZWQgY29udHJvbCBmb3IgaGVhZGVyIHNlZ21lbnRzIGZpZWxkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiMgRXhwZW5zZSBidXNpbmVzcyB2YWxpZGF0aW9uIGphdmFkb2MgY2hlY2sKIyBZb3UgbXVzdCB3cml0ZSBzcGVjaWFsIGphdmFkb2MgZm9yIGJ1c2luZXNzIHZhbGlkYXRvciB3aGVuIHlvdSBhZGQgbmV3IGJ1c2luZXNzIHZhbGlkYXRvcgpmdW5jdGlvbiBjaGVjay1jb2RlLWRvY3VtZW50YXRpb24oKSB7CiAgd2hpbGUgcmVhZCBsaW5lCiAgZG8KICAgIGxvY2FsIGRpZmZfdHlwZT0kKGF3ayAne3ByaW50ICQxfScgPDw8JHtsaW5lfSkKICAgIGxvY2FsIGRpZmZfZmlsZW5hbWU9JChhd2sgJ3twcmludCAkMn0nIDw8PCR7bGluZX0pCiAgICBsb2NhbCBkaWZmX2NvbnRlbnQ9JChhd2sgJ3twcmludCAkM30nIDw8PCR7bGluZX0pCgoJaWYgWyAke2RpZmZfdHlwZX0gIT0gJ0EnIF07IHRoZW4KCSAgY29udGludWUKCWZpCgogICAgbG9jYWwgaXNfYnVzaW5lc3NfdmFsaWRhdG9yPSQoZ3JlcCAtZSAnVmFsaWRhdG9ySW1wbFwuamF2YSQnICR7ZGlmZl9maWxlbmFtZX0pCgogICAgaWYgWyAtbiAiJGlzX2phdmEiIF07IHRoZW4KICAgICAgIyBDaGVjayBqYXZhZG9jIGlzIHdyaXR0ZW4KICAgICAgbG9jYWwgZ3JlcF9yZXN1bHQ9JChncmVwIC1lICdwdWJsaWMgY2xhc3MnIC1CIDEwMCAke2RpZmZfY29udGVudH0gfCBncmVwIC1lICdAbmFtZV9qcCcpCiAgICAgIGlmIFsgLXogIiRncmVwX3Jlc3VsdCIgXTsgdGhlbgogICAgICAgIGVjaG8gIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iCiAgICAgICAgZWNobyAiWW91IE1VU1Qgd3JpdGUgamF2YWRvYyBmb3IgYnVzaW5lc3MgdmFsaWRhdGlvbiB3aGVuIHlvdSBhZGQgbmV3IGJ1c2luZXNzIHZhbGlkYXRvciIKICAgICAgICBlY2hvICR7ZGlmZl9maWxlbmFtZX0KICAgICAgICByZXR1cm4gMQogICAgICBmaQogICAgZmkKICBkb25lPCR7SFVFX0FDX0VYUEVOU0VfQlVJTER9L2RhdGEud3JrCiAgcmV0dXJuIDAKfQo=</text>
+        <text encoding="base64">ICogQG1lbW80Y29uc3VsdGFudF9qcCDjg5jjg4Pjg4Djg7zosqDmi4Xpg6jploDjga7lv4XpoIjliLblvqEK</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
+        <text encoding="base64">ICogICAgICAgICAgICAgICAgICAgICBBY0V4cGVuc2VPdmVyc2Vhc0xvbmdUZXJtQml6VHJpcCwgQWNFeHBlbnNlQ2FyLCBBY0V4cGVuc2VFbnRlcnRhaW5tZW50LAogKiAgICAgICAgICAgICAgICAgICAgIEFjRXhwZW5zZUVxdWlwbWVudFB1cmNoYXNlLCBBY0V4cGVuc2VHZW5lcmFsLCBBY0V4cGVuc2VUZW1wb3JhcnlQYXltZW50LAogKiAgICAgICAgICAgICAgICAgICAgIEFjRXhwZW5zZVRyYXZlbEFkdmFuY2VSZXF1ZXN0LCBBY0V4cGVuc2VPdmVyc2Vhc1RyYXZlbEFkdmFuY2VSZXF1ZXN0LCBBY0V4cGVuc2VDYXJBZHZhbmNlUmVxdWVzdCwKICogICAgICAgICAgICAgICAgICAgICBBY0V4cGVuc2VFbnRlcnRhaW5tZW50QWR2YW5jZVJlcXVlc3QsIEFjRXhwZW5zZUVxdWlwbWVudFB1cmNoYXNlQWR2YW5jZVJlcXVlc3QsCiAqICAgICAgICAgICAgICAgICAgICAgQWNFeHBlbnNlR2VuZXJhbEFkdmFuY2VSZXF1ZXN0Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -533,11 +573,16 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJ2NoZWNrLXByZS1jb21taXQnCg==</text>
+      <register name="8" type="4">
+        <text>AcExpenseDomesticBizTrip, AcExpenseShortTrans, AcExpenseOverseasBizTrip,
+ *                     AcExpenseOverseasLongTermBizTrip, AcExpenseCar, AcExpenseEntertainment,
+ *                     AcExpenseEquipmentPurchase, AcExpenseGeneral, AcExpenseTemporaryPayment,
+ *                     AcExpenseTravelAdvanceRequest, AcExpenseOverseasTravelAdvanceRequest, AcExpenseCarAdvanceRequest,
+ *                     AcExpenseEntertainmentAdvanceRequest, AcExpenseEquipmentPurchaseAdvanceRequest,
+ *                     AcExpenseGeneralAdvanceRequest</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICJTZWUgaHR0cDovL2h1ZXdpa2kvbWVkaWF3aWtpL2luZGV4LnBocC9IdWVTZXJpYWxpemFibGUiCg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
