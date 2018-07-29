@@ -3,6 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/com/worksap/company/hue-com-inputengine-spec/17.10.00.0004.20180328.1900/hue-com-inputengine-spec-17.10.00.0004.20180328.1900-sources.jar!/com/worksap/company/hue/com/webapi/spec/inputengine/vo/fw/IfxIELineInfo.java" timestamp="1532853948523">
+        <mark key="[" line="43" column="11" />
+        <mark key="]" line="43" column="24" />
+      </file>
+      <file name="$USER_HOME$/HUE/WorkSpace/1803/hue-ac-expense/hue-ac-expense-bizcore/src/test/java/com/worksap/company/hue/ac/bizcore/expense/ifx/converter/CommuterPassConverterTest.java" timestamp="1532854897524">
+        <mark key="[" line="39" column="46" />
+        <mark key="]" line="39" column="51" />
+        <mark key="." line="39" column="51" />
+        <mark key="^" line="39" column="51" />
+      </file>
       <file name="$USER_HOME$/HUE/WorkSpace/1803/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/ifx/checkpattern/commuterpass/AdjustRouteImpl.java" timestamp="1532768070361">
         <mark key="." line="85" column="135" />
       </file>
@@ -12,22 +22,11 @@
         <mark key="^" line="184" column="0" />
         <mark key="." line="184" column="0" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/1803/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/ifx/validator/IfxCommuterPassValidatorServiceImpl.java" timestamp="1532768268919">
-        <mark key="[" line="26" column="20" />
-        <mark key="]" line="26" column="21" />
-        <mark key="^" line="26" column="21" />
-        <mark key="." line="26" column="21" />
-      </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/1803/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/ifx/converter/CommuterPassConverter.java" timestamp="1532853221797">
-        <mark key="[" line="127" column="27" />
-        <mark key="]" line="127" column="48" />
-        <mark key="." line="132" column="64" />
-        <mark key="^" line="132" column="64" />
-      </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/1803/hue-ac-expense/hue-ac-expense-bizcore/src/test/java/com/worksap/company/hue/ac/bizcore/expense/ifx/converter/CommuterPassConverterTest.java" timestamp="1532853389551">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/HUE/WorkSpace/1803/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/ifx/converter/CommuterPassConverter.java" timestamp="1532853519514">
+        <mark key="[" line="130" column="4" />
+        <mark key="]" line="130" column="4" />
+        <mark key="." line="130" column="4" />
+        <mark key="^" line="129" column="21" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/1803/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/portal/service/ProxySubmissionTraySummaryServiceImpl.java" timestamp="1532658447117">
         <mark key="[" line="102" column="8" />
@@ -35,7 +34,12 @@
         <mark key="^" line="102" column="14" />
         <mark key="." line="102" column="14" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/1803/hue-com-ifx/hue-com-ifx-biz/src/main/java/com/worksap/company/hue/com/biz/ifx/api/exec/IfxInputEngineExecuterImpl.java" timestamp="1532852816709" />
+      <file name="$USER_HOME$/HUE/WorkSpace/1803/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/ifx/validator/IfxCommuterPassValidatorServiceImpl.java" timestamp="1532768268919">
+        <mark key="[" line="26" column="20" />
+        <mark key="]" line="26" column="21" />
+        <mark key="^" line="26" column="21" />
+        <mark key="." line="26" column="21" />
+      </file>
       <file name="/fragment.java" timestamp="1532852525485">
         <mark key="[" line="0" column="0" />
       </file>
@@ -414,40 +418,40 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>testCreateMergedCommuterPassDto</text>
+        <text>new</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY1VzZXJDb250ZXh0XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>nextIsOtherTermElement</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBJZnhJRUNvbHVtblNldCBpZnhJRUNvbHVtblNldDEgPSBJZnhJRUNvbHVtblNldC5idWlsZGVyKCkuY29sSGVhZGVycygpLmNvbFZhbHVlcygpLmJ1aWxkKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBQYXJhbWV0ZXJpemVkLlBhcmFtZXRlcnMgcHVibGljIHN0YXRpYyBDb2xsZWN0aW9uPE9iamVjdFtdPiBkYXRhKCkgewogICAgICAgIAogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICBJZnhJRUNvbHVtblNldCBpZnhJRUNvbHVtblNldDIgPSBJZnhJRUNvbHVtblNldCgpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBAVGVzdCBwdWJsaWMgdm9pZCBuYW1lKCkgewogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBJZnhJRUxpbmVJbmZvIGlmeElFTGluZUluZm8yID0gbmV3IElmeElFTGluZUluZm8oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly9HZW5lcmF0ZWQgd2l0aCBsb3ZlIGJ5IFRlc3RNZSA6KSBQbGVhc2UgcmVwb3J0IGlzc3VlcyBhbmQgc3VibWl0IGZlYXR1cmUgcmVxdWVzdHMgYXQ6IGh0dHA6Ly93ZWlyZGRldi5jb20vZm9ydW0jIS90ZXN0bWUK</text>
+        <text encoding="base64">ICAgICAgICBJZnhJRUNvbHVtblNldCBpZnhJRUNvbHVtblNldDIgPSBuZXcgSWZ4SUVDb2x1bW5TZXQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBUZXN0IHB1YmxpYyB2b2lkIHRlc3RDb252ZXJ0Rm9yRGVsZXRlKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgQ29tbXV0ZXJQYXNzRHRvIHJlc3VsdCA9IENvbW11dGVyUGFzc0NvbnZlcnRlci5jb252ZXJ0Rm9yRGVsZXRlKG51bGwpOwogICAgICAgIEFzc2VydC5hc3NlcnRFcXVhbHMobmV3IENvbW11dGVyUGFzc0R0byhudWxsLCBMb2NhbERhdGUub2YoMjAxOCwgTW9udGguSlVMWSwgMjkpLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsKSwKICAgICAgICAgICAgICAgIHJlc3VsdCk7CiAgICB9CgogICAgQFRlc3QgcHVibGljIHZvaWQgdGVzdENyZWF0ZU1lcmdlZENvbW11dGVyUGFzc0R0bygpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIExpc3Q8Q29tbXV0ZXJQYXNzRHRvPiByZXN1bHQgPSBDb21tdXRlclBhc3NDb252ZXJ0ZXIuY3JlYXRlTWVyZ2VkQ29tbXV0ZXJQYXNzRHRvKAogICAgICAgICAgICAgICAgbmV3IENvbW11dGVyUGFzc1JvdXRlU2VhcmNoU2VydmljZUltcGwobmV3IFN0YXRpb25NYXN0ZXJTZWFyY2hTZXJ2aWNlSW1wbCgKICAgICAgICAgICAgICAgICAgICAgICAgQXJyYXlzLjxTdGF0aW9uTWFzdGVyU2VhcmNoQnlOYXRpb25Db2RlU2VydmljZT5hc0xpc3QoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IFN0YXRpb25NYXN0ZXJTZWFyY2hCeUpwblNlcnZpY2VJbXBsKCkpLCBudWxsKSwgbmV3IFJvdXRlU2VhcmNoU2VydmljZUltcGwoCiAgICAgICAgICAgICAgICAgICAgICAgIEFycmF5cy48Um91dGVTZWFyY2hCeU5hdGlvbkNvZGVTZXJ2aWNlPmFzTGlzdChuZXcgUm91dGVTZWFyY2hCeUpwblNlcnZpY2VJbXBsKG51bGwsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IFN0YXRpb25NYXN0ZXJTZWFyY2hTZXJ2aWNlSW1wbCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFycmF5cy48U3RhdGlvbk1hc3RlclNlYXJjaEJ5TmF0aW9uQ29kZVNlcnZpY2U+YXNMaXN0KAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZXcgU3RhdGlvbk1hc3RlclNlYXJjaEJ5SnBuU2VydmljZUltcGwoKSksIG51bGwpKSkpKSwKICAgICAgICAgICAgICAgIEFycmF5cy48SWZ4SUVMaW5lSW5mbz5hc0xpc3QobnVsbCkpOwogICAgICAgIEFzc2VydC5hc3NlcnRFcXVhbHMoQXJyYXlzLjxDb21tdXRlclBhc3NEdG8+YXNMaXN0KAogICAgICAgICAgICAgICAgbmV3IENvbW11dGVyUGFzc0R0byhudWxsLCBMb2NhbERhdGUub2YoMjAxOCwgTW9udGguSlVMWSwgMjkpLCBMb2NhbERhdGUub2YoMjAxOCwgTW9udGguSlVMWSwgMjkpLAogICAgICAgICAgICAgICAgICAgICAgICBBcnJheXMuPFN0cmluZz5hc0xpc3QoIlN0cmluZyIpLCAiZWtpc3BlcnRSZXN0b3Jlcm91dGUiLCAibmF0aW9uQ29kZSIsCiAgICAgICAgICAgICAgICAgICAgICAgIEFycmF5cy48Q29tbXV0ZXJQYXNzSW5kaXZpZHVhbEluZm8+YXNMaXN0KG5ldyBDb21tdXRlclBhc3NJbmRpdmlkdWFsSW5mbygpKSkpLCByZXN1bHQpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBJZnhJRUNvbHVtblNldCBpZnhJRUNvbHVtblNldDEgPSBuZXcgSWZ4SUVDb2x1bW5TZXQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAqICAgLSAK</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGlkZkRpdjsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -488,10 +492,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBBdWRpdFRyYWlsSWdub3JlCiAgICBwcml2YXRlIGludCBkZWZEaXY7Cg==</text>
+        <text encoding="base64">Ly9HZW5lcmF0ZWQgd2l0aCBsb3ZlIGJ5IFRlc3RNZSA6KSBQbGVhc2UgcmVwb3J0IGlzc3VlcyBhbmQgc3VibWl0IGZlYXR1cmUgcmVxdWVzdHMgYXQ6IGh0dHA6Ly93ZWlyZGRldi5jb20vZm9ydW0jIS90ZXN0bWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBBdWRpdFRyYWlsSWdub3JlCiAgICBwcml2YXRlIGludCBkZWZEaXY7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
