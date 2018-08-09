@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Production Files" />
-    <option name="defaultScopeName" value="Project Production Files" />
-    <option name="SEARCH_SCOPE" value="Project Production Files" />
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <option name="FILE_MASK" value="*java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
@@ -20,10 +20,10 @@
     <mask>*AdvanceRequest*xml</mask>
     <mask>*js</mask>
     <mask>*xml</mask>
-    <mask>*controller*java</mask>
     <mask>*dto*java</mask>
     <mask>*config*java</mask>
     <mask>*AcExpenseShortTrans*xml</mask>
+    <mask>*controller*java</mask>
     <mask>*java</mask>
   </component>
 </application>
