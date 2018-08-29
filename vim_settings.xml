@@ -222,12 +222,12 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="22" column="3" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-webapi/src/main/resources/swagger.yaml" timestamp="1535540438490">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="478" column="38" />
-        <mark key="]" line="478" column="38" />
-        <mark key="." line="478" column="38" />
-        <mark key="^" line="478" column="38" />
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-webapi/src/main/resources/swagger.yaml" timestamp="1535541889723">
+        <mark key="'" line="524" column="24" />
+        <mark key="[" line="524" column="84" />
+        <mark key="]" line="524" column="87" />
+        <mark key="." line="524" column="87" />
+        <mark key="^" line="524" column="87" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/1803/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/ifx/converter/CommuterPassConverter.java" timestamp="1532935215201">
         <mark key="[" line="61" column="74" />
@@ -277,7 +277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="4" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/lib/wap/product-js/ac/expense/core/plugin/bulkterm/ac-expense-core-plugin-bulk-term-input.js" />
       <jump line="42" column="20" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/lib/wap/product-js/ac/expense/core/plugin/visit/com-expense-core-plugin-visit-input-readonly-renderer.js" />
       <jump line="79" column="0" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/lib/wap/product-js/ac/expense/core/plugin/visit/com-expense-core-plugin-visit-input-readonly-renderer.js" />
       <jump line="32" column="3" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/js/ac/expense/core/plugin/visit/ac-expense-core-plugin-visit-input-renderer.js" />
@@ -377,6 +376,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-webapi/src/main/resources/swagger.yaml" />
       <jump line="781" column="9" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-webapi/src/main/resources/swagger.yaml" />
       <jump line="2" column="0" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-webapi/src/main/resources/swagger.yaml" />
+      <jump line="524" column="24" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-webapi/src/main/resources/swagger.yaml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -650,40 +650,40 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>master</text>
+        <text>integer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY1VzZXJDb250ZXh0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogInNldHRpbmcgZm9yIGF1dG9Db21wbGV0ZS4gQ29tcGxldGlvbiBzb3VyY2UgbWFzdGVyIgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHNjaGVtYToKICAgICAgICAgICAgdHlwZTogInN0cmluZyIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogInNldHRpbmcgZm9yIGF1dG9Db21wbGV0ZS4gIgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHNjaGVtYToKICAgICAgICAgICAgJHJlZjogIiMvZGVmaW5pdGlvbnMvRnVuY3Rpb25Hcm91cCIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogInNldHRpbmcgZm9yIGVyIgo=</text>
+        <text encoding="base64">ICAgICAgICAgIGVudW06CiAgICAgICAgICAtICJhdXRvQ29tcGxldGUiCiAgICAgICAgICAtICJyZWxhdGVkRmlsdGVyIgogICAgICAgICAgLSAiZXJyb3JDaGVjayIKICAgICAgICAgIC0gInJlcXVpcmVkQ2hlY2siCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAtICJlbmFibGVkIgo=</text>
+        <text encoding="base64">ICAgICAgICB0eXBlOiAiYXJyYXkiCiAgICAgICAgbWluaW11bTogMS4wCiAgICAgICAgZm9ybWF0OiAiaW50NjQiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlOiAic3RyaW5nIgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAtICJhdXRvQ29tcGxldGUiCiAgICAgICAgLSAicmVsYXRlZEZpbHRlciIKICAgICAgICAtICJlcnJvckNoZWNrIgogICAgICAgIC0gInJlcXVpcmVkQ2hlY2siCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAtICJhdXRvQ29tcGxldGUiCiAgICAgICAgLSAicmVsYXRlZEZpbHRlciIK</text>
+        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogInNldHRpbmcgZm9yIGF1dG9Db21wbGV0ZS4gIgo=</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogIgo=</text>
+        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogInNldHRpbmcgZm9yIGVyIgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -724,7 +724,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYXV0b0lucHV0TW9kZURpdjoK</text>
+        <text encoding="base64">ICAgICAgICAtICJlbmFibGVkIgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICB0eXBlOiAic3RyaW5nIgo=</text>
