@@ -33,12 +33,6 @@
         <mark key="." line="66" column="28" />
         <mark key="^" line="66" column="28" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-dto/src/main/java/com/worksap/company/hue/ac/dto/expense/inputmanagement/transaction/entity/ImCalculationResultResponse.java" timestamp="1535624902880">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management-sdk/hue-input-management-webapi-spec/pom.xml" timestamp="1535695973623">
         <mark key="[" line="4" column="38" />
         <mark key="]" line="5" column="0" />
@@ -63,6 +57,12 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
         <mark key="^" line="44" column="37" />
+      </file>
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management-poms/pom.xml" timestamp="1535710612776">
+        <mark key="[" line="15" column="38" />
+        <mark key="]" line="15" column="37" />
+        <mark key="." line="15" column="37" />
+        <mark key="^" line="15" column="37" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/1803/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/ifx/service/IfxCommuterPassServiceImpl.java" timestamp="1532771138804">
         <mark key="[" line="183" column="0" />
@@ -154,6 +154,12 @@
         <mark key="^" line="3" column="29" />
         <mark key="." line="3" column="10" />
       </file>
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-cql/pom.xml" timestamp="1535709779689">
+        <mark key="[" line="5" column="40" />
+        <mark key="]" line="5" column="53" />
+        <mark key="^" line="5" column="53" />
+        <mark key="." line="5" column="53" />
+      </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-layout-designer/hue-layout-designer-batch/src/test/resources/debugConfig.xml" timestamp="1533613580942">
         <mark key="[" line="22" column="27" />
         <mark key="]" line="22" column="27" />
@@ -175,6 +181,12 @@
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management-poms/hue-expense-cassandra-cql/pom.xml" timestamp="1535709752594">
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="12" column="35" />
+        <mark key="." line="12" column="35" />
+        <mark key="^" line="12" column="35" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-dto/src/main/java/com/worksap/company/hue/ac/dto/expense/inputmanagement/master/ImColumnMstColIdIndexDto.java" timestamp="1533817435974">
         <mark key="[" line="18" column="19" />
@@ -205,9 +217,6 @@
         <mark key="]" line="14" column="3" />
         <mark key="^" line="14" column="3" />
         <mark key="." line="14" column="3" />
-      </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/application/specialized/AbstractSpecializedExpenseApplicationService.java" timestamp="1535688106147">
-        <mark key="'" line="1676" column="20" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/inputmanagement/InputCheckPatternNodeDao.java" timestamp="1533800625507">
         <mark key="[" line="39" column="40" />
@@ -716,7 +725,7 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>definitions</text>
+        <text>expense</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY1VzZXJDb250ZXh0XD4=</text>
