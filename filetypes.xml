@@ -3,6 +3,7 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="Migrator_BusinessValidationServiceCfg" type="CLASS" />
+      <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="release" type="PLAIN_TEXT" />
       <mapping ext="wrk" type="PLAIN_TEXT" />
     </extensionMap>
