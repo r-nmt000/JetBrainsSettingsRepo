@@ -104,12 +104,12 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management-sdk/hue-input-management-webapi-spec/src/main/java/com/worksap/company/inputmanagement/client/model/CalculationResult.java" timestamp="1535875773095">
-        <mark key="'" line="1860" column="26" />
-        <mark key="[" line="96" column="10" />
-        <mark key="]" line="96" column="18" />
-        <mark key="." line="96" column="18" />
-        <mark key="^" line="96" column="18" />
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management-sdk/hue-input-management-webapi-spec/src/main/java/com/worksap/company/inputmanagement/client/model/CalculationResult.java" timestamp="1535877991389">
+        <mark key="'" line="216" column="6" />
+        <mark key="[" line="39" column="2" />
+        <mark key="]" line="27" column="2" />
+        <mark key="." line="27" column="2" />
+        <mark key="^" line="27" column="2" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-webapi/src/main/java/com/worksap/company/hue/inputmanagement/Application.java" timestamp="1535100038557">
         <mark key="[" line="6" column="44" />
@@ -292,9 +292,9 @@
         <mark key="^" line="208" column="27" />
         <mark key="." line="208" column="27" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-dto/src/main/java/com/worksap/company/hue/ac/dto/expense/inputmanagement/transaction/InputCheckPatternNodeDto.java" timestamp="1535525074124">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="81" column="41" />
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-dto/src/main/java/com/worksap/company/hue/ac/dto/expense/inputmanagement/transaction/InputCheckPatternNodeDto.java" timestamp="1535877939096">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="88" />
         <mark key="." line="51" column="25" />
         <mark key="^" line="51" column="25" />
       </file>
@@ -458,8 +458,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="1" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-cql/src/main/resources/cl_ac_expense/ac_expense_-_ac_expense_refund_deposit_activity_20180622205649_ADD.CQL" />
-      <jump line="70" column="51" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-version-up/src/test/java/migration/com/worksap/company/hue/ac/dto/expense/M201806220000MigrationAdvanceRequestHistoryTest.java" />
       <jump line="322" column="0" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/vo/request/AdvanceRequest.java" />
       <jump line="189" column="6" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-approval-service/hue-approval-front/src/main/java/com/worksap/company/approvalflow/controller/approval/settings/ApprovalProxySettingsController.java" />
       <jump line="18" column="9" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-build/additional-pre-merge.sh" />
@@ -558,6 +556,8 @@
       <jump line="97" column="8" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/documents/swagger.yaml" />
       <jump line="3" column="0" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/documents/swagger.yaml" />
       <jump line="1859" column="26" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management-sdk/hue-input-management-webapi-spec/src/main/java/com/worksap/company/inputmanagement/client/model/CalculationResult.java" />
+      <jump line="938" column="4" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management-sdk/hue-input-management-webapi-spec/src/main/java/com/worksap/company/inputmanagement/client/model/CalculationResult.java" />
+      <jump line="176" column="6" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management-sdk/hue-input-management-webapi-spec/src/main/java/com/worksap/company/inputmanagement/client/model/CalculationResult.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -831,40 +831,40 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>OffsdiwetDateTime</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY1VzZXJDb250ZXh0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20ud29ya3NhcC5jb21wYW55LmlucHV0bWFuYWdlbWVudC5jbGllbnQud2ViYXBpCg==</text>
+        <text encoding="base64">ICAgIEBDb21tZW50KCJSZWxhdGVkIHRvIGNvbS53b3Jrc2FwLmNvbXBhbnkuaHVlLmNvbS5kdG8uYWMuQ29tcGV0ZW5jeVF1YWxpZmljYXRpb25EdG8iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy50aHJlZXRlbi5icC5PZmZzZXREYXRlVGltZTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QGphdmF4LmFubm90YXRpb24uR2VuZXJhdGVkKHZhbHVlID0gImlvLnN3YWdnZXIuY29kZWdlbi5sYW5ndWFnZXMuSmF2YUNsaWVudENvZGVnZW4iLCBkYXRlID0gIjIwMTgtMDktMDJUMDc6MDc6MjMuNDMzWiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGFja2FnZSBpby5zd2FnZ2VyLmNsaWVudC5tb2RlbDsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLnN3YWdnZXIuY2xpZW50LkFwaUNhbGxiYWNrOwppbXBvcnQgaW8uc3dhZ2dlci5jbGllbnQuQXBpQ2xpZW50OwppbXBvcnQgaW8uc3dhZ2dlci5jbGllbnQuQXBpRXhjZXB0aW9uOwppbXBvcnQgaW8uc3dhZ2dlci5jbGllbnQuQXBpUmVzcG9uc2U7CmltcG9ydCBpby5zd2FnZ2VyLmNsaWVudC5Db25maWd1cmF0aW9uOwppbXBvcnQgaW8uc3dhZ2dlci5jbGllbnQuUGFpcjsKaW1wb3J0IGlvLnN3YWdnZXIuY2xpZW50LlByb2dyZXNzUmVxdWVzdEJvZHk7CmltcG9ydCBpby5zd2FnZ2VyLmNsaWVudC5Qcm9ncmVzc1Jlc3BvbnNlQm9keTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBFcnJvckxldmVsRGl2RW51bSBlcnJvckxldmVsRGl2OwogIExpc3Q8TG9uZz4gc2VjdGlvbklkczsKICBMaXN0PExvbmc+IGNvc3RTaGFyaW5nU2VjdGlvbklkczsKICBMaXN0PExvbmc+IHByb2plY3RJZHM7CiAgTGlzdDxMb25nPiBic3NlY0lkczsKICBMaXN0PExvbmc+IHNlY3Rpb25Qcm9qZWN0SWRzOwogIExpc3Q8TG9uZz4gcmVhc29uSWRzOwogIExpc3Q8U3RyaW5nPiBzZWF0VHlwZUNvZGVzOwogIExpc3Q8U3RyaW5nPiBwb3NpdGlvbkNvZGVzOwogIExpc3Q8U3RyaW5nPiBjb21wZW50ZW5jeVF1YWxpZmljYXRpb25Db2RlczsKICBMaXN0PFN0cmluZz4gcm9sZUlkczsKICBMaXN0PFN0cmluZz4gZnJlZVNlZ21lbnRDb2RlczE7CiAgTGlzdDxTdHJpbmc+IGZyZWVTZWdtZW50Q29kZXMyOwogIExpc3Q8U3RyaW5nPiBmcmVlU2VnbWVudENvZGVzMzsKICBMaXN0PFN0cmluZz4gZnJlZVNlZ21lbnRDb2RlczQ7CiAgTGlzdDxTdHJpbmc+IGZyZWVTZWdtZW50Q29kZXM1OwogIExpc3Q8U3RyaW5nPiBmcmVlU2VnbWVudENvZGVzNjsKICBMaXN0PFN0cmluZz4gZnJlZVNlZ21lbnRDb2Rlczc7CiAgTGlzdDxTdHJpbmc+IGZyZWVTZWdtZW50Q29kZXM4OwogIExpc3Q8U3RyaW5nPiBmcmVlU2VnbWVudENvZGVzOTsKICBMaXN0PFN0cmluZz4gZnJlZVNlZ21lbnRDb2RlczEwOwogIExpc3Q8U3RyaW5nPiBmcmVlU2VnbWVudENvZGVzMTE7CiAgTGlzdDxTdHJpbmc+IGZyZWVTZWdtZW50Q29kZXMxMjsKICBMaXN0PFN0cmluZz4gZnJlZVNlZ21lbnRDb2RlczEzOwogIExpc3Q8U3RyaW5nPiBmcmVlU2VnbWVudENvZGVzMTQ7CiAgTGlzdDxTdHJpbmc+IGZyZWVTZWdtZW50Q29kZXMxNTsKICBMaXN0PFN0cmluZz4gZnJlZVNlZ21lbnRDb2RlczE2OwogIExpc3Q8U3RyaW5nPiBmcmVlU2VnbWVudENvZGVzMTc7CiAgTGlzdDxTdHJpbmc+IGZyZWVTZWdtZW50Q29kZXMxODsKICBMaXN0PFN0cmluZz4gZnJlZVNlZ21lbnRDb2RlczE5OwogIExpc3Q8U3RyaW5nPiBmcmVlU2VnbWVudENvZGVzMjA7CiAgTGlzdDxTdHJpbmc+IGZyZWVTZWdtZW50Q29kZXMyMTsKICBMaXN0PFN0cmluZz4gZnJlZVNlZ21lbnRDb2RlczIyOwogIExpc3Q8U3RyaW5nPiBmcmVlU2VnbWVudENvZGVzMjM7CiAgTGlzdDxTdHJpbmc+IGZyZWVTZWdtZW50Q29kZXMyNDsKICBMaXN0PFN0cmluZz4gZnJlZVNlZ21lbnRDb2RlczI1OwogIExpc3Q8U3RyaW5nPiBmcmVlU2VnbWVudENvZGVzMjY7CiAgTGlzdDxTdHJpbmc+IGZyZWVTZWdtZW50Q29kZXMyNzsKICBMaXN0PFN0cmluZz4gZnJlZVNlZ21lbnRDb2RlczI4OwogIExpc3Q8U3RyaW5nPiBmcmVlU2VnbWVudENvZGVzMjk7CiAgTGlzdDxTdHJpbmc+IGZyZWVTZWdtZW50Q29kZXMzMDsK</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBDYWxjdWxhdGlvblJlc3VsdEFwaSgpIHsKICAgICAgICB0aGlzKENvbmZpZ3VyYXRpb24uZ2V0RGVmYXVsdEFwaUNsaWVudCgpKTsKICAgIH0KCiAgICBwdWJsaWMgQ2FsY3VsYXRpb25SZXN1bHRBcGkoQXBpQ2xpZW50IGFwaUNsaWVudCkgewogICAgICAgIHRoaXMuYXBpQ2xpZW50ID0gYXBpQ2xpZW50OwogICAgfQoKICAgIHB1YmxpYyBBcGlDbGllbnQgZ2V0QXBpQ2xpZW50KCkgewogICAgICAgIHJldHVybiBhcGlDbGllbnQ7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0QXBpQ2xpZW50KEFwaUNsaWVudCBhcGlDbGllbnQpIHsKICAgICAgICB0aGlzLmFwaUNsaWVudCA9IGFwaUNsaWVudDsK</text>
+        <text encoding="base64">ICBwcml2YXRlIFJlcXVpcmVkRGlzYWJsZWRJbnB1dERpdkVudW0gcmVxdWlyZWREaXNhYmxlZElucHV0RGl2Owo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -905,10 +905,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBhdXRvdwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QFJlcXVpcmVkQXJnc0NvbnN0cnVjdG9yKG9uQ29uc3RydWN0b3IgPSBAX18oQEF1dG93aXJlZCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
