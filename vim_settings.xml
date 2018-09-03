@@ -91,11 +91,11 @@
         <mark key="^" line="3" column="29" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-webapi/src/main/java/com/worksap/company/hue/inputmanagement/controller/CalculationResultController.java" timestamp="1535959421952">
-        <mark key="[" line="9" column="42" />
-        <mark key="]" line="12" column="34" />
-        <mark key="." line="12" column="34" />
-        <mark key="^" line="12" column="34" />
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-webapi/src/main/java/com/worksap/company/hue/inputmanagement/controller/CalculationResultController.java" timestamp="1535961611334">
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="18" column="7" />
+        <mark key="." line="18" column="7" />
+        <mark key="^" line="18" column="7" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management-pom/hue-input-management-server-side/pom.xml" timestamp="1535616837992">
         <mark key="[" line="16" column="0" />
@@ -130,6 +130,11 @@
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-webapi/src/test/java/com/worksap/company/hue/inputmanagement/InputManagementApplicationTests.java" timestamp="1535887843562">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-dto/src/main/java/com/worksap/company/hue/inputmanagement/dto/InputCheckPatternWkDto.java" timestamp="1535961973786">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="37" column="1" />
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/test.puml" timestamp="1534336991768">
@@ -184,11 +189,16 @@
         <mark key="^" line="11" column="30" />
         <mark key="." line="11" column="30" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-dto/src/main/java/com/worksap/company/hue/inputmanagement/response/CalculationResultResponse.java" timestamp="1535960077904">
-        <mark key="[" line="12" column="14" />
-        <mark key="]" line="12" column="14" />
-        <mark key="^" line="0" column="31" />
-        <mark key="." line="12" column="14" />
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-dto/src/main/java/com/worksap/company/hue/inputmanagement/response/CalculationResultResponse.java" timestamp="1535960931714">
+        <mark key="[" line="27" column="1" />
+        <mark key="]" line="27" column="5" />
+        <mark key="^" line="27" column="5" />
+        <mark key="." line="27" column="5" />
+      </file>
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-dto/src/main/java/com/worksap/company/hue/inputmanagement/type/ErrorLevelDivEnum.java" timestamp="1535960837525">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/1803/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/ifx/converter/CommuterPassConverter.java" timestamp="1532935215201">
         <mark key="[" line="61" column="74" />
@@ -243,16 +253,31 @@
         <mark key="^" line="13" column="18" />
         <mark key="." line="13" column="18" />
       </file>
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-dto/src/main/java/com/worksap/company/hue/inputmanagement/type/CheckDivEnum.java" timestamp="1535960418114">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="55" column="1" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-dto/src/main/java/com/worksap/company/hue/ac/dto/expense/inputmanagement/master/functiongroup/ImFuncGrpMstIndex.java" timestamp="1533817521357">
         <mark key="[" line="14" column="71" />
         <mark key="]" line="15" column="3" />
         <mark key="." line="15" column="3" />
         <mark key="^" line="15" column="3" />
       </file>
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-dto/src/main/java/com/worksap/company/hue/ac/dto/expense/inputmanagement/transaction/InputCheckPatternWkDto.java" timestamp="1535961972081">
+        <mark key="'" line="23" column="13" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="37" column="0" />
+      </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management-sdk/hue-input-management-webapi-spec/src/main/java/com.worksap.company.inputmanagement.client.webapi/SettingApi.java" timestamp="1535873358290">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="57" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-dto/src/main/java/com/worksap/company/hue/inputmanagement/type/AutoCompleteDivEnum.java" timestamp="1535960712486">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="51" column="1" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-build/pom.xml" timestamp="1535715330149">
         <mark key="[" line="4" column="0" />
@@ -290,18 +315,21 @@
         <mark key="^" line="26" column="21" />
         <mark key="." line="26" column="21" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/ekisupa/AspEkispertExecutor.java" timestamp="1535953547031" />
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-dto/src/main/java/com/worksap/company/hue/inputmanagement/type/AutoCompleteDefaultSetDivEnum.java" timestamp="1535960663756">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="52" column="1" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/expense/ifx/service/IfxCommuterPassServiceImpl.java" timestamp="1534318081809">
         <mark key="[" line="182" column="27" />
         <mark key="]" line="183" column="3" />
         <mark key="^" line="183" column="3" />
         <mark key="." line="183" column="3" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/pom.xml" timestamp="1535715297784">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="5" column="51" />
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/pom.xml" timestamp="1535961649365">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-version-up/pom.xml" timestamp="1535715773353">
         <mark key="[" line="7" column="36" />
@@ -325,9 +353,6 @@
         <mark key="]" line="7" column="45" />
         <mark key="." line="7" column="45" />
         <mark key="^" line="7" column="45" />
-      </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/core/mastersearch/ExpenseMasterSearchCostTypeFilterImpl.java" timestamp="1535946629723">
-        <mark key="'" line="20" column="102" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-layout-designer/hue-layout-designer-batch/src/test/resources/debugConfig.xml" timestamp="1533613580942">
         <mark key="[" line="22" column="27" />
@@ -358,12 +383,10 @@
         <mark key="^" line="3" column="29" />
         <mark key="." line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management-sdk/hue-input-management-webapi-spec/src/main/java/com/worksap/company/inputmanagement/client/webapi/CalculationResultApi.java" timestamp="1535884021553">
-        <mark key="'" line="33" column="117" />
-        <mark key="[" line="49" column="71" />
-        <mark key="]" line="49" column="170" />
-        <mark key="^" line="49" column="170" />
-        <mark key="." line="49" column="170" />
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-dto/src/main/java/com/worksap/company/hue/inputmanagement/type/RequiredDisabledInputDivEnum.java" timestamp="1535960754288">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-dto/src/main/java/com/worksap/company/hue/ac/dto/expense/inputmanagement/master/ImColumnMstDto.java" timestamp="1534136384545">
         <mark key="[" line="40" column="14" />
@@ -377,7 +400,6 @@
         <mark key="^" line="78" column="21" />
         <mark key="." line="78" column="21" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-gl/hue-ac-gl-biz/src/main/java/com/worksap/company/hue/ac/biz/gl/journal/master/im/service/checkptn/search/JournalInputManagementCheckPtnWkSearchServiceImpl.java" timestamp="1535867914386" />
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-dto/src/main/java/com/worksap/company/hue/ac/dto/expense/inputmanagement/transaction/entity/InputCheckPatternEntity.java" timestamp="1535524956627">
         <mark key="[" line="12" column="29" />
         <mark key="]" line="14" column="3" />
@@ -390,10 +412,15 @@
         <mark key="." line="39" column="40" />
         <mark key="^" line="39" column="40" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/worksap/company/hue-com-journal-bizcore/18.07.financials-SNAPSHOT/hue-com-journal-bizcore-18.07.financials-20180719.050654-9-sources.jar!/com/worksap/company/hue/com/bizcore/journal/coordinator/service/checkpattern/CorrelationCheckServiceImpl.java" timestamp="1535956228390" />
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-dto/src/main/java/com/worksap/company/hue/ac/dto/expense/inputmanagement/transaction/InputCheckPatternNodeDto.java" timestamp="1535877939096">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="88" />
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-dto/src/main/java/com/worksap/company/hue/inputmanagement/dto/InputCheckPatternNodeDto.java" timestamp="1535961925475">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="82" column="1" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-dto/src/main/java/com/worksap/company/hue/ac/dto/expense/inputmanagement/transaction/InputCheckPatternNodeDto.java" timestamp="1535961916539">
+        <mark key="'" line="12" column="36" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="82" column="0" />
         <mark key="." line="51" column="25" />
         <mark key="^" line="51" column="25" />
       </file>
@@ -420,7 +447,6 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/worksap/company/hue-com-inputengine-core/18.03.00.0005.20180619.1026/hue-com-inputengine-core-18.03.00.0005.20180619.1026-sources.jar!/com/worksap/company/hue/com/bizcore/inputengine/fw/control/IfxInputEngineManager.java" timestamp="1535953509186" />
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-dto/src/main/java/com/worksap/company/hue/ac/dto/expense/inputmanagement/master/functiongroup/ImModuleMstDto.java" timestamp="1535865806270">
         <mark key="[" line="6" column="4" />
         <mark key="]" line="11" column="29" />
@@ -468,6 +494,11 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-dto/src/main/java/com/worksap/company/hue/inputmanagement/type/OkDivEnum.java" timestamp="1535960787231">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-dto/src/main/java/com/worksap/company/hue/ac/dto/expense/inputmanagement/transaction/functiongroup/ImFuncGrpMstDto.java" timestamp="1533810821796">
         <mark key="[" line="11" column="45" />
         <mark key="]" line="14" column="18" />
@@ -486,7 +517,7 @@
         <mark key="^" line="102" column="14" />
         <mark key="." line="102" column="14" />
       </file>
-      <file name="/fragment.java" timestamp="1535878262234">
+      <file name="/fragment.java" timestamp="1535960264746">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="^" line="0" column="18" />
@@ -504,8 +535,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="33" filename="$MAVEN_REPOSITORY$/com/worksap/company/company-framework-web/18.01.00.0004.20180620.2200/company-framework-web-18.01.00.0004.20180620.2200-sources.jar!/com/worksap/company/framework/web/controller/TextResourceController.java" />
-      <jump line="762" column="12" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/java/com/worksap/company/hue/controller/ac/expense/core/ExpenseCommonController.java" />
       <jump line="103" column="43" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/java/com/worksap/company/hue/controller/ac/expense/shorttransapp/AutoCompleteController.java" />
       <jump line="66" column="6" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/java/com/worksap/company/hue/controller/ac/expense/common/search/AvailableAdvanceRequestSearchController.java" />
       <jump line="59" column="16" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-build/mr-error-rules.sh" />
@@ -604,6 +633,8 @@
       <jump line="11" column="0" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management-sdk/hue-input-management-webapi-spec/src/main/java/com/worksap/company/inputmanagement/client/model/CalculationResult.java" />
       <jump line="403" column="0" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management-sdk/hue-input-management-webapi-spec/src/main/java/com/worksap/company/inputmanagement/client/model/CalculationResult.java" />
       <jump line="12" column="0" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management-sdk/hue-input-management-webapi-spec/src/main/java/com/worksap/company/inputmanagement/client/model/CalculationResult.java" />
+      <jump line="12" column="36" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-dto/src/main/java/com/worksap/company/hue/ac/dto/expense/inputmanagement/transaction/InputCheckPatternNodeDto.java" />
+      <jump line="23" column="13" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-dto/src/main/java/com/worksap/company/hue/ac/dto/expense/inputmanagement/transaction/InputCheckPatternWkDto.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -877,40 +908,40 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>experimental</text>
+        <text>calculationresultresponse</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY1VzZXJDb250ZXh0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LyoKICogSW5wdXQgTWFuYWdlbWVudCBBUEkKICogVGhpcyBpcyBJbnB1dCBNYW5hZ2VtZW50IHdlYiBBUEkgc3BlY2lmaWNhdGlvbi4gQWJvdXQgSW5wdXQgTWFuYWdlbWVudCwgc2VlIHRoaXMgd2lraS4KICoKICogT3BlbkFQSSBzcGVjIHZlcnNpb246IDEuMC4wCiAqIENvbnRhY3Q6IG5vbW90b19yQHdvcmtzYXAuY28uanAKICoKICogTk9URTogVGhpcyBjbGFzcyBpcyBhdXRvIGdlbmVyYXRlZCBieSB0aGUgc3dhZ2dlciBjb2RlIGdlbmVyYXRvciBwcm9ncmFtLgogKiBodHRwczovL2dpdGh1Yi5jb20vc3dhZ2dlci1hcGkvc3dhZ2dlci1jb2RlZ2VuLmdpdAogKiBEbyBub3QgZWRpdCB0aGUgY2xhc3MgbWFudWFsbHkuCiAqLwoKCnBhY2thZ2UgY29tLndvcmtzYXAuY29tcGFueS5pbnB1dG1hbmFnZW1lbnQuY2xpZW50Lm1vZGVsOwoKaW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb247CmltcG9ydCBqYXZhLnRpbWUuT2Zmc2V0RGF0ZVRpbWU7CmltcG9ydCBqYXZhLnV0aWwuTGlzdDsKCmltcG9ydCBjb20uZ29vZ2xlLmdzb24uVHlwZUFkYXB0ZXI7CmltcG9ydCBjb20uZ29vZ2xlLmdzb24uYW5ub3RhdGlvbnMuSnNvbkFkYXB0ZXI7CmltcG9ydCBjb20uZ29vZ2xlLmdzb24uc3RyZWFtLkpzb25SZWFkZXI7CmltcG9ydCBjb20uZ29vZ2xlLmdzb24uc3RyZWFtLkpzb25Xcml0ZXI7CmltcG9ydCBsb21ib2suQWNjZXNzTGV2ZWw7CmltcG9ydCBsb21ib2suRGF0YTsKaW1wb3J0IGxvbWJvay5leHBlcmltZW50YWwuQnVpbGRlcjsKaW1wb3J0IGxvbWJvay5leHBlcmltZW50YWwuRmllbGREZWZhdWx0czsKCmltcG9ydCBjb20ud29ya3NhcC5jb21wYW55LmR0by5hbm5vdGF0aW9uLkNvbW1lbnQ7CgovKioKICogQ2FsY3VsYXRpb25SZXN1bHQKICovCkBEYXRhCkBCdWlsZGVyCkBGaWVsZERlZmF1bHRzKGxldmVsID0gQWNjZXNzTGV2ZWwuUFJJVkFURSkKcHVibGljIGNsYXNzIENhbGN1bGF0aW9uUmVzdWx0IHsKICAKICAgIExvbmcgY29ycElkOwogICAgTG9uZyBjaGVja0lkOwogICAgU3RyaW5nIGNoZWNrTmFtZTsKICAgIENoZWNrRGl2RW51bSBjaGVja0RpdjsKICAgIE9mZnNldERhdGVUaW1lIHN0YXJ0RGF0ZTsKICAgIE9mZnNldERhdGVUaW1lIGVuZERhdGU7CiAgICBMb25nIHByaW9yaXR5OwogICAgU3RyaW5nIGVycm9yVGV4dElkOwogICAgTGlzdDxTdHJpbmc+IHRhcmdldENvbHVtbklkczsKICAgIFN0cmluZyBlcnJvclRhcmdldENvbHVtbklkOwogICAgU3RyaW5nIGF1dG9Db21wbGV0ZVRhcmdldEl0ZW1JZDsKICAgIFN0cmluZyBhdXRvQ29tcGxldGVJZDsKICAgIFN0cmluZyBhdXRvQ29tcGxldGVDb2RlOwogICAgU3RyaW5nIGF1dG9Db21wbGV0ZVZhbHVlOwogICAgU3RyaW5nIGF1dG9Db21wbGV0ZU1hc3RlclR5cGU7CiAgICBTdHJpbmcgYXV0b0NvbXBsZXRlTWFzdGVyRmllbGROYW1lOwogICAgQXV0b0NvbXBsZXRlRGVmYXVsdFNldERpdkVudW0gYXV0b0NvbXBsZXRlRGVmYXVsdFNldERpdjsKICAgIEF1dG9Db21wbGV0ZURpdkVudW0gYXV0b0NvbXBsZXRlRGl2OwogICAgU3RyaW5nIHJlcXVpcmVkRGlzYWJsZWRJbnB1dEl0ZW1JZDsKICAgIFJlcXVpcmVkRGlzYWJsZWRJbnB1dERpdkVudW0gcmVxdWlyZWREaXNhYmxlZElucHV0RGl2OwogICAgRXJyb3JMZXZlbERpdkVudW0gZXJyb3JMZXZlbERpdjsKICAgIExpc3Q8TG9uZz4gc2VjdGlvbklkczsKICAgIExpc3Q8TG9uZz4gY29zdFNoYXJpbmdTZWN0aW9uSWRzOwogICAgTGlzdDxMb25nPiBwcm9qZWN0SWRzOwogICAgTGlzdDxMb25nPiBic3NlY0lkczsKICAgIExpc3Q8TG9uZz4gc2VjdGlvblByb2plY3RJZHM7CiAgICBMaXN0PExvbmc+IHJlYXNvbklkczsKICAgIExpc3Q8U3RyaW5nPiBzZWF0VHlwZUNvZGVzOwogICAgTGlzdDxTdHJpbmc+IHBvc2l0aW9uQ29kZXM7CiAgICBAQ29tbWVudCgiUmVsYXRlZCB0byBjb20ud29ya3NhcC5jb21wYW55Lmh1ZS5jb20uZHRvLmFjLkNvbXBldGVuY3lRdWFsaWZpY2F0aW9uRHRvIikKICAgIExpc3Q8U3RyaW5nPiBjb21wZXRlbmN5UXVhbGlmaWNhdGlvbkNvZGVzOwogICAgTGlzdDxTdHJpbmc+IHJvbGVJZHM7CiAgICBMaXN0PFN0cmluZz4gZnJlZVNlZ21lbnRDb2RlczE7CiAgICBMaXN0PFN0cmluZz4gZnJlZVNlZ21lbnRDb2RlczI7CiAgICBMaXN0PFN0cmluZz4gZnJlZVNlZ21lbnRDb2RlczM7CiAgICBMaXN0PFN0cmluZz4gZnJlZVNlZ21lbnRDb2RlczQ7CiAgICBMaXN0PFN0cmluZz4gZnJlZVNlZ21lbnRDb2RlczU7CiAgICBMaXN0PFN0cmluZz4gZnJlZVNlZ21lbnRDb2RlczY7CiAgICBMaXN0PFN0cmluZz4gZnJlZVNlZ21lbnRDb2Rlczc7CiAgICBMaXN0PFN0cmluZz4gZnJlZVNlZ21lbnRDb2Rlczg7CiAgICBMaXN0PFN0cmluZz4gZnJlZVNlZ21lbnRDb2Rlczk7CiAgICBMaXN0PFN0cmluZz4gZnJlZVNlZ21lbnRDb2RlczEwOwogICAgTGlzdDxTdHJpbmc+IGZyZWVTZWdtZW50Q29kZXMxMTsKICAgIExpc3Q8U3RyaW5nPiBmcmVlU2VnbWVudENvZGVzMTI7CiAgICBMaXN0PFN0cmluZz4gZnJlZVNlZ21lbnRDb2RlczEzOwogICAgTGlzdDxTdHJpbmc+IGZyZWVTZWdtZW50Q29kZXMxNDsKICAgIExpc3Q8U3RyaW5nPiBmcmVlU2VnbWVudENvZGVzMTU7CiAgICBMaXN0PFN0cmluZz4gZnJlZVNlZ21lbnRDb2RlczE2OwogICAgTGlzdDxTdHJpbmc+IGZyZWVTZWdtZW50Q29kZXMxNzsKICAgIExpc3Q8U3RyaW5nPiBmcmVlU2VnbWVudENvZGVzMTg7CiAgICBMaXN0PFN0cmluZz4gZnJlZVNlZ21lbnRDb2RlczE5OwogICAgTGlzdDxTdHJpbmc+IGZyZWVTZWdtZW50Q29kZXMyMDsKICAgIExpc3Q8U3RyaW5nPiBmcmVlU2VnbWVudENvZGVzMjE7CiAgICBMaXN0PFN0cmluZz4gZnJlZVNlZ21lbnRDb2RlczIyOwogICAgTGlzdDxTdHJpbmc+IGZyZWVTZWdtZW50Q29kZXMyMzsKICAgIExpc3Q8U3RyaW5nPiBmcmVlU2VnbWVudENvZGVzMjQ7CiAgICBMaXN0PFN0cmluZz4gZnJlZVNlZ21lbnRDb2RlczI1OwogICAgTGlzdDxTdHJpbmc+IGZyZWVTZWdtZW50Q29kZXMyNjsKICAgIExpc3Q8U3RyaW5nPiBmcmVlU2VnbWVudENvZGVzMjc7CiAgICBMaXN0PFN0cmluZz4gZnJlZVNlZ21lbnRDb2RlczI4OwogICAgTGlzdDxTdHJpbmc+IGZyZWVTZWdtZW50Q29kZXMyOTsKICAgIExpc3Q8U3RyaW5nPiBmcmVlU2VnbWVudENvZGVzMzA7CgogICAgLyoqCiAgICAgKiBHZXRzIG9yIFNldHMgY2hlY2tEaXYKICAgICAqLwogICAgQEpzb25BZGFwdGVyKENoZWNrRGl2RW51bS5BZGFwdGVyLmNsYXNzKQogICAgcHVibGljIGVudW0gQ2hlY2tEaXZFbnVtIHsKICAgICAgQVVUT0NPTVBMRVRFKCJhdXRvQ29tcGxldGUiKSwKCiAgICAgIENPTlNJU1RFTkNZQ09SUkVDVENIRUNLKCJjb25zaXN0ZW5jeUNvcnJlY3RDaGVjayIpLAoKICAgICAgQ09OU0lTVEVOQ1lFUlJPUkNIRUNLKCJjb25zaXN0ZW5jeUVycm9yQ2hlY2siKSwKCiAgICAgIFJFUVVJUkVERElTQUJMRURJTlBVVENIRUNLKCJyZXF1aXJlZERpc2FibGVkSW5wdXRDaGVjayIpOwoKICAgICAgcHJpdmF0ZSBTdHJpbmcgdmFsdWU7CgogICAgICBDaGVja0RpdkVudW0oU3RyaW5nIHZhbHVlKSB7CiAgICAgICAgdGhpcy52YWx1ZSA9IHZhbHVlOwogICAgICB9CgogICAgICBwdWJsaWMgU3RyaW5nIGdldFZhbHVlKCkgewogICAgICAgIHJldHVybiB2YWx1ZTsKICAgICAgfQoKICAgICAgQE92ZXJyaWRlCiAgICAgIHB1YmxpYyBTdHJpbmcgdG9TdHJpbmcoKSB7CiAgICAgICAgcmV0dXJuIFN0cmluZy52YWx1ZU9mKHZhbHVlKTsKICAgICAgfQoKICAgICAgcHVibGljIHN0YXRpYyBDaGVja0RpdkVudW0gZnJvbVZhbHVlKFN0cmluZyB0ZXh0KSB7CiAgICAgICAgZm9yIChDaGVja0RpdkVudW0gYiA6IENoZWNrRGl2RW51bS52YWx1ZXMoKSkgewogICAgICAgICAgaWYgKFN0cmluZy52YWx1ZU9mKGIudmFsdWUpLmVxdWFscyh0ZXh0KSkgewogICAgICAgICAgICByZXR1cm4gYjsKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgIH0KCiAgICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgQWRhcHRlciBleHRlbmRzIFR5cGVBZGFwdGVyPENoZWNrRGl2RW51bT4gewogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyB2b2lkIHdyaXRlKGZpbmFsIEpzb25Xcml0ZXIganNvbldyaXRlciwgZmluYWwgQ2hlY2tEaXZFbnVtIGVudW1lcmF0aW9uKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgICAganNvbldyaXRlci52YWx1ZShlbnVtZXJhdGlvbi5nZXRWYWx1ZSgpKTsKICAgICAgICB9CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyBDaGVja0RpdkVudW0gcmVhZChmaW5hbCBKc29uUmVhZGVyIGpzb25SZWFkZXIpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgICBTdHJpbmcgdmFsdWUgPSBqc29uUmVhZGVyLm5leHRTdHJpbmcoKTsKICAgICAgICAgIHJldHVybiBDaGVja0RpdkVudW0uZnJvbVZhbHVlKFN0cmluZy52YWx1ZU9mKHZhbHVlKSk7CiAgICAgICAgfQogICAgICB9CiAgICB9CgoKCiAgICAvKioKICAgICAqIHNldHRpbmcgZm9yIGF1dG9Db21wbGV0ZQogICAgICovCiAgICBASnNvbkFkYXB0ZXIoQXV0b0NvbXBsZXRlRGVmYXVsdFNldERpdkVudW0uQWRhcHRlci5jbGFzcykKICAgIHB1YmxpYyBlbnVtIEF1dG9Db21wbGV0ZURlZmF1bHRTZXREaXZFbnVtIHsKICAgICAgV0hFTkJMQU5LKCJ3aGVuQmxhbmsiKSwKCiAgICAgIFdIRU5FVkVSKCJ3aGVuZXZlciIpOwoKICAgICAgcHJpdmF0ZSBTdHJpbmcgdmFsdWU7CgogICAgICBBdXRvQ29tcGxldGVEZWZhdWx0U2V0RGl2RW51bShTdHJpbmcgdmFsdWUpIHsKICAgICAgICB0aGlzLnZhbHVlID0gdmFsdWU7CiAgICAgIH0KCiAgICAgIHB1YmxpYyBTdHJpbmcgZ2V0VmFsdWUoKSB7CiAgICAgICAgcmV0dXJuIHZhbHVlOwogICAgICB9CgogICAgICBAT3ZlcnJpZGUKICAgICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICByZXR1cm4gU3RyaW5nLnZhbHVlT2YodmFsdWUpOwogICAgICB9CgogICAgICBwdWJsaWMgc3RhdGljIEF1dG9Db21wbGV0ZURlZmF1bHRTZXREaXZFbnVtIGZyb21WYWx1ZShTdHJpbmcgdGV4dCkgewogICAgICAgIGZvciAoQXV0b0NvbXBsZXRlRGVmYXVsdFNldERpdkVudW0gYiA6IEF1dG9Db21wbGV0ZURlZmF1bHRTZXREaXZFbnVtLnZhbHVlcygpKSB7CiAgICAgICAgICBpZiAoU3RyaW5nLnZhbHVlT2YoYi52YWx1ZSkuZXF1YWxzKHRleHQpKSB7CiAgICAgICAgICAgIHJldHVybiBiOwogICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgfQoKICAgICAgcHVibGljIHN0YXRpYyBjbGFzcyBBZGFwdGVyIGV4dGVuZHMgVHlwZUFkYXB0ZXI8QXV0b0NvbXBsZXRlRGVmYXVsdFNldERpdkVudW0+IHsKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgdm9pZCB3cml0ZShmaW5hbCBKc29uV3JpdGVyIGpzb25Xcml0ZXIsIGZpbmFsIEF1dG9Db21wbGV0ZURlZmF1bHRTZXREaXZFbnVtIGVudW1lcmF0aW9uKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgICAganNvbldyaXRlci52YWx1ZShlbnVtZXJhdGlvbi5nZXRWYWx1ZSgpKTsKICAgICAgICB9CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyBBdXRvQ29tcGxldGVEZWZhdWx0U2V0RGl2RW51bSByZWFkKGZpbmFsIEpzb25SZWFkZXIganNvblJlYWRlcikgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgICAgICAgIFN0cmluZyB2YWx1ZSA9IGpzb25SZWFkZXIubmV4dFN0cmluZygpOwogICAgICAgICAgcmV0dXJuIEF1dG9Db21wbGV0ZURlZmF1bHRTZXREaXZFbnVtLmZyb21WYWx1ZShTdHJpbmcudmFsdWVPZih2YWx1ZSkpOwogICAgICAgIH0KICAgICAgfQogICAgfQoKCgogICAgLyoqCiAgICAgKiBzZXR0aW5nIGZvciBhdXRvQ29tcGxldGUKICAgICAqLwogICAgQEpzb25BZGFwdGVyKEF1dG9Db21wbGV0ZURpdkVudW0uQWRhcHRlci5jbGFzcykKICAgIHB1YmxpYyBlbnVtIEF1dG9Db21wbGV0ZURpdkVudW0gewogICAgICBXSEVOQkxBTksoIndoZW5CbGFuayIpLAoKICAgICAgV0hFTkVWRVIoIndoZW5ldmVyIik7CgogICAgICBwcml2YXRlIFN0cmluZyB2YWx1ZTsKCiAgICAgIEF1dG9Db21wbGV0ZURpdkVudW0oU3RyaW5nIHZhbHVlKSB7CiAgICAgICAgdGhpcy52YWx1ZSA9IHZhbHVlOwogICAgICB9CgogICAgICBwdWJsaWMgU3RyaW5nIGdldFZhbHVlKCkgewogICAgICAgIHJldHVybiB2YWx1ZTsKICAgICAgfQoKICAgICAgQE92ZXJyaWRlCiAgICAgIHB1YmxpYyBTdHJpbmcgdG9TdHJpbmcoKSB7CiAgICAgICAgcmV0dXJuIFN0cmluZy52YWx1ZU9mKHZhbHVlKTsKICAgICAgfQoKICAgICAgcHVibGljIHN0YXRpYyBBdXRvQ29tcGxldGVEaXZFbnVtIGZyb21WYWx1ZShTdHJpbmcgdGV4dCkgewogICAgICAgIGZvciAoQXV0b0NvbXBsZXRlRGl2RW51bSBiIDogQXV0b0NvbXBsZXRlRGl2RW51bS52YWx1ZXMoKSkgewogICAgICAgICAgaWYgKFN0cmluZy52YWx1ZU9mKGIudmFsdWUpLmVxdWFscyh0ZXh0KSkgewogICAgICAgICAgICByZXR1cm4gYjsKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgIH0KCiAgICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgQWRhcHRlciBleHRlbmRzIFR5cGVBZGFwdGVyPEF1dG9Db21wbGV0ZURpdkVudW0+IHsKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgdm9pZCB3cml0ZShmaW5hbCBKc29uV3JpdGVyIGpzb25Xcml0ZXIsIGZpbmFsIEF1dG9Db21wbGV0ZURpdkVudW0gZW51bWVyYXRpb24pIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgICBqc29uV3JpdGVyLnZhbHVlKGVudW1lcmF0aW9uLmdldFZhbHVlKCkpOwogICAgICAgIH0KCiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIEF1dG9Db21wbGV0ZURpdkVudW0gcmVhZChmaW5hbCBKc29uUmVhZGVyIGpzb25SZWFkZXIpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgICBTdHJpbmcgdmFsdWUgPSBqc29uUmVhZGVyLm5leHRTdHJpbmcoKTsKICAgICAgICAgIHJldHVybiBBdXRvQ29tcGxldGVEaXZFbnVtLmZyb21WYWx1ZShTdHJpbmcudmFsdWVPZih2YWx1ZSkpOwogICAgICAgIH0KICAgICAgfQogICAgfQoKCgogICAgLyoqCiAgICAgKiBzZXR0aW5nIGZvciByZXF1aXJlZERpc2FibGVkSW5wdXRDaGVjawogICAgICovCiAgICBASnNvbkFkYXB0ZXIoUmVxdWlyZWREaXNhYmxlZElucHV0RGl2RW51bS5BZGFwdGVyLmNsYXNzKQogICAgcHVibGljIGVudW0gUmVxdWlyZWREaXNhYmxlZElucHV0RGl2RW51bSB7CiAgICAgIFJFUVVJUkVEKCJyZXF1aXJlZCIpLAoKICAgICAgRElTQUJMRUQoImRpc2FibGVkIiksCgogICAgICBFTkFCTEVEKCJlbmFibGVkIik7CgogICAgICBwcml2YXRlIFN0cmluZyB2YWx1ZTsKCiAgICAgIFJlcXVpcmVkRGlzYWJsZWRJbnB1dERpdkVudW0oU3RyaW5nIHZhbHVlKSB7CiAgICAgICAgdGhpcy52YWx1ZSA9IHZhbHVlOwogICAgICB9CgogICAgICBwdWJsaWMgU3RyaW5nIGdldFZhbHVlKCkgewogICAgICAgIHJldHVybiB2YWx1ZTsKICAgICAgfQoKICAgICAgQE92ZXJyaWRlCiAgICAgIHB1YmxpYyBTdHJpbmcgdG9TdHJpbmcoKSB7CiAgICAgICAgcmV0dXJuIFN0cmluZy52YWx1ZU9mKHZhbHVlKTsKICAgICAgfQoKICAgICAgcHVibGljIHN0YXRpYyBSZXF1aXJlZERpc2FibGVkSW5wdXREaXZFbnVtIGZyb21WYWx1ZShTdHJpbmcgdGV4dCkgewogICAgICAgIGZvciAoUmVxdWlyZWREaXNhYmxlZElucHV0RGl2RW51bSBiIDogUmVxdWlyZWREaXNhYmxlZElucHV0RGl2RW51bS52YWx1ZXMoKSkgewogICAgICAgICAgaWYgKFN0cmluZy52YWx1ZU9mKGIudmFsdWUpLmVxdWFscyh0ZXh0KSkgewogICAgICAgICAgICByZXR1cm4gYjsKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgIH0KCiAgICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgQWRhcHRlciBleHRlbmRzIFR5cGVBZGFwdGVyPFJlcXVpcmVkRGlzYWJsZWRJbnB1dERpdkVudW0+IHsKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgdm9pZCB3cml0ZShmaW5hbCBKc29uV3JpdGVyIGpzb25Xcml0ZXIsIGZpbmFsIFJlcXVpcmVkRGlzYWJsZWRJbnB1dERpdkVudW0gZW51bWVyYXRpb24pIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgICBqc29uV3JpdGVyLnZhbHVlKGVudW1lcmF0aW9uLmdldFZhbHVlKCkpOwogICAgICAgIH0KCiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIFJlcXVpcmVkRGlzYWJsZWRJbnB1dERpdkVudW0gcmVhZChmaW5hbCBKc29uUmVhZGVyIGpzb25SZWFkZXIpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgICBTdHJpbmcgdmFsdWUgPSBqc29uUmVhZGVyLm5leHRTdHJpbmcoKTsKICAgICAgICAgIHJldHVybiBSZXF1aXJlZERpc2FibGVkSW5wdXREaXZFbnVtLmZyb21WYWx1ZShTdHJpbmcudmFsdWVPZih2YWx1ZSkpOwogICAgICAgIH0KICAgICAgfQogICAgfQoKCgogICAgLyoqCiAgICAgKiBzZXR0aW5nIGZvciBjb25zaXN0ZW5jeUVycm9yQ2hlY2sKICAgICAqLwogICAgQEpzb25BZGFwdGVyKE9rRGl2RW51bS5BZGFwdGVyLmNsYXNzKQogICAgcHVibGljIGVudW0gT2tEaXZFbnVtIHsKICAgICAgT0soIm9rIiksCgogICAgICBFUlJPUigiZXJyb3IiKTsKCiAgICAgIHByaXZhdGUgU3RyaW5nIHZhbHVlOwoKICAgICAgT2tEaXZFbnVtKFN0cmluZyB2YWx1ZSkgewogICAgICAgIHRoaXMudmFsdWUgPSB2YWx1ZTsKICAgICAgfQoKICAgICAgcHVibGljIFN0cmluZyBnZXRWYWx1ZSgpIHsKICAgICAgICByZXR1cm4gdmFsdWU7CiAgICAgIH0KCiAgICAgIEBPdmVycmlkZQogICAgICBwdWJsaWMgU3RyaW5nIHRvU3RyaW5nKCkgewogICAgICAgIHJldHVybiBTdHJpbmcudmFsdWVPZih2YWx1ZSk7CiAgICAgIH0KCiAgICAgIHB1YmxpYyBzdGF0aWMgT2tEaXZFbnVtIGZyb21WYWx1ZShTdHJpbmcgdGV4dCkgewogICAgICAgIGZvciAoT2tEaXZFbnVtIGIgOiBPa0RpdkVudW0udmFsdWVzKCkpIHsKICAgICAgICAgIGlmIChTdHJpbmcudmFsdWVPZihiLnZhbHVlKS5lcXVhbHModGV4dCkpIHsKICAgICAgICAgICAgcmV0dXJuIGI7CiAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiBudWxsOwogICAgICB9CgogICAgICBwdWJsaWMgc3RhdGljIGNsYXNzIEFkYXB0ZXIgZXh0ZW5kcyBUeXBlQWRhcHRlcjxPa0RpdkVudW0+IHsKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgdm9pZCB3cml0ZShmaW5hbCBKc29uV3JpdGVyIGpzb25Xcml0ZXIsIGZpbmFsIE9rRGl2RW51bSBlbnVtZXJhdGlvbikgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgICAgICAgIGpzb25Xcml0ZXIudmFsdWUoZW51bWVyYXRpb24uZ2V0VmFsdWUoKSk7CiAgICAgICAgfQoKICAgICAgQE92ZXJyaWRlCiAgICAgIHB1YmxpYyBPa0RpdkVudW0gcmVhZChmaW5hbCBKc29uUmVhZGVyIGpzb25SZWFkZXIpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgU3RyaW5nIHZhbHVlID0ganNvblJlYWRlci5uZXh0U3RyaW5nKCk7CiAgICAgICAgcmV0dXJuIE9rRGl2RW51bS5mcm9tVmFsdWUoU3RyaW5nLnZhbHVlT2YodmFsdWUpKTsKICAgICAgfQogICAgfQogIH0KCiAgCiAgcHJpdmF0ZSBPa0RpdkVudW0gb2tEaXY7CgogIC8qKgogICAqIHNldHRpbmcgZm9yIGNvbnNpc3RlbmN5RXJyb3JDaGVjawogICAqLwogIEBKc29uQWRhcHRlcihFcnJvckxldmVsRGl2RW51bS5BZGFwdGVyLmNsYXNzKQogIHB1YmxpYyBlbnVtIEVycm9yTGV2ZWxEaXZFbnVtIHsKICAgIEVSUk9SKCJlcnJvciIpLAogICAgCiAgICBXQVJOKCJ3YXJuIik7CgogICAgcHJpdmF0ZSBTdHJpbmcgdmFsdWU7CgogICAgRXJyb3JMZXZlbERpdkVudW0oU3RyaW5nIHZhbHVlKSB7CiAgICAgIHRoaXMudmFsdWUgPSB2YWx1ZTsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldFZhbHVlKCkgewogICAgICByZXR1cm4gdmFsdWU7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgU3RyaW5nIHRvU3RyaW5nKCkgewogICAgICByZXR1cm4gU3RyaW5nLnZhbHVlT2YodmFsdWUpOwogICAgfQoKICAgIHB1YmxpYyBzdGF0aWMgRXJyb3JMZXZlbERpdkVudW0gZnJvbVZhbHVlKFN0cmluZyB0ZXh0KSB7CiAgICAgIGZvciAoRXJyb3JMZXZlbERpdkVudW0gYiA6IEVycm9yTGV2ZWxEaXZFbnVtLnZhbHVlcygpKSB7CiAgICAgICAgaWYgKFN0cmluZy52YWx1ZU9mKGIudmFsdWUpLmVxdWFscyh0ZXh0KSkgewogICAgICAgICAgcmV0dXJuIGI7CiAgICAgICAgfQogICAgICB9CiAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgQWRhcHRlciBleHRlbmRzIFR5cGVBZGFwdGVyPEVycm9yTGV2ZWxEaXZFbnVtPiB7CiAgICAgIEBPdmVycmlkZQogICAgICBwdWJsaWMgdm9pZCB3cml0ZShmaW5hbCBKc29uV3JpdGVyIGpzb25Xcml0ZXIsIGZpbmFsIEVycm9yTGV2ZWxEaXZFbnVtIGVudW1lcmF0aW9uKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIGpzb25Xcml0ZXIudmFsdWUoZW51bWVyYXRpb24uZ2V0VmFsdWUoKSk7CiAgICAgIH0KCiAgICAgIEBPdmVycmlkZQogICAgICBwdWJsaWMgRXJyb3JMZXZlbERpdkVudW0gcmVhZChmaW5hbCBKc29uUmVhZGVyIGpzb25SZWFkZXIpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgU3RyaW5nIHZhbHVlID0ganNvblJlYWRlci5uZXh0U3RyaW5nKCk7CiAgICAgICAgcmV0dXJuIEVycm9yTGV2ZWxEaXZFbnVtLmZyb21WYWx1ZShTdHJpbmcudmFsdWVPZih2YWx1ZSkpOwogICAgICB9CiAgICB9CiAgfQoKICAKCn0K</text>
+        <text encoding="base64">LyoqCiAqIFRoaXMgRHRvIGlzIGV4cGFuZGVkIGZyb20gSW1DaGVja1B0bldrRHRvLgogKgogKiBAc2VlIEltQ2hlY2tQdG5Xa0R0bwogKiBAYXV0aG9yIG5vbW90b19yCiAqLwpARGF0YQpARW50aXR5CnB1YmxpYyBjbGFzcyBJbnB1dENoZWNrUGF0dGVybldrRHRvIHsKICAgIEBLZXkob3JkZXIgPSAwKQogICAgcHJpdmF0ZSBsb25nIGNvcnBJZDsKICAgIEBLZXkob3JkZXIgPSAxKQogICAgcHJpdmF0ZSBsb25nIGNoZWNrSWQ7CgogICAgcHJpdmF0ZSBMb2NhbERhdGUgc3RhcnREYXRlOwogICAgcHJpdmF0ZSBMb2NhbERhdGUgZW5kRGF0ZTsKICAgIHByaXZhdGUgbG9uZyBub2RlSWQxOwogICAgcHJpdmF0ZSBsb25nIG5vZGVJZDI7CiAgICBwcml2YXRlIGxvbmcgbm9kZUlkMzsKICAgIHByaXZhdGUgbG9uZyBub2RlSWQ0OwogICAgcHJpdmF0ZSBsb25nIG5vZGVJZDU7CiAgICBwcml2YXRlIFN0cmluZyBlcnJvclRleHQ7CgoKICAgIEBDb21tZW50KCJjb3JyZXNwb25kcyB0byB7QGNvZGUgSW1TZXJ2aWNlR3JvdXBEdG99LiBDaGVjayBhbGwgaW4gY2FzZSBvZiBudWxsIG9yIGVtcHR5LiIpCiAgICBwcml2YXRlIExpc3Q8U3RyaW5nPiBzZXJ2aWNlRGVmSWRzOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIElucHV0Q2hlY2tQYXR0ZXJuV2tEdG8gewp9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFJlbGF0ZWQgdG8gY29tLndvcmtzYXAuY29tcGFueS5odWUuY29tLmR0by5hYy5Db21wZXRlbmN5UXVhbGlmaWNhdGlvbkR0bwo=</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIElucHV0Q2hlY2tQYXR0ZXJuTm9kZUR0byB7CiAgICAKfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFJlbGF0ZWQgdG8gY29tLndvcmtzYXAuY29tcGFueS5odWUuY29tLmR0by5hYy5Db21wZXRlbmN5UXVhbGlmaWNhdGlvbkR0bwogICAgTGlzdDxTdHJpbmc+IGNvbXBldGVuY3lRdWFsaWZpY2F0aW9uQ29kZXM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CTxtb2RlbFZlcnNpb24+NC4wLjA8L21vZGVsVmVyc2lvbj4K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoKICogSW5wdXQgTWFuYWdlbWVudCBBUEkKICogVGhpcyBpcyBJbnB1dCBNYW5hZ2VtZW50IHdlYiBBUEkgc3BlY2lmaWNhdGlvbi4gQWJvdXQgSW5wdXQgTWFuYWdlbWVudCwgc2VlIHRoaXMgd2lraS4KICoKICogT3BlbkFQSSBzcGVjIHZlcnNpb246IDEuMC4wCiAqIENvbnRhY3Q6IG5vbW90b19yQHdvcmtzYXAuY28uanAKICoKICogTk9URTogVGhpcyBjbGFzcyBpcyBhdXRvIGdlbmVyYXRlZCBieSB0aGUgc3dhZ2dlciBjb2RlIGdlbmVyYXRvciBwcm9ncmFtLgogKiBodHRwczovL2dpdGh1Yi5jb20vc3dhZ2dlci1hcGkvc3dhZ2dlci1jb2RlZ2VuLmdpdAogKiBEbyBub3QgZWRpdCB0aGUgY2xhc3MgbWFudWFsbHkuCiAqLwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKi8K</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20ud29ya3NhcC5jb21wYW55Lmh1ZS5pbnB1dG1hbmFnZW1lbnQucmVzcG9uc2U7CgpwdWJsaWMgY2xhc3MgQ2FsY3VsYXRpb25SZXN1bHRSZXNwb25zZSB7Cn0K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgT2tEaXZFbnVtIG9rRGl2Owo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -951,10 +982,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIElucHV0TWFuYWdlbWVudEVuZFBvaW50Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIENBTENVTEFURSgiY2FsY3VsYXRpb25SZXN1bHRzL2NhbGN1bGF0ZSIpOwo=</text>
+        <text encoding="base64">LyoqCiAqIHNldHRpbmcgZm9yIGNvbnNpc3RlbmN5RXJyb3JDaGVjawogKi8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -967,7 +998,7 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
