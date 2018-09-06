@@ -540,9 +540,10 @@
         <mark key="]" line="90" column="1" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/pom.xml" timestamp="1536228305886">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="54" />
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/pom.xml" timestamp="1536229318778">
+        <mark key="v" line="50" column="48" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="20" column="16" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="51" column="26" />
       </file>
@@ -862,6 +863,11 @@
         <mark key="]" line="28" column="12" />
         <mark key="." line="28" column="12" />
         <mark key="^" line="28" column="12" />
+      </file>
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management-poms/hue-input-management-server-side/pom.xml" timestamp="1536229327095">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -1244,43 +1250,43 @@
         <text encoding="base64">XDxhY1VzZXJDb250ZXh0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CTx2ZXJzaW9uPjE4LjA5LmlucHV0LW1hbmFnZW1lbnQtU05BUFNIT1Q8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">CTxwcm9wZXJ0aWVzPgoJCTxwcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nPlVURi04PC9wcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nPgoJCTxwcm9qZWN0LnJlcG9ydGluZy5vdXRwdXRFbmNvZGluZz5VVEYtODwvcHJvamVjdC5yZXBvcnRpbmcub3V0cHV0RW5jb2Rpbmc+CgkJPGphdmEudmVyc2lvbj4xLjg8L2phdmEudmVyc2lvbj4KCQk8aHVlLmlucHV0LW1hbmFnZW1lbnQtc2RrLnZlcnNpb24+MTguMDkuaW5wdXQtbWFuYWdlbWVudC1zZGstU05BUFNIT1Q8L2h1ZS5pbnB1dC1tYW5hZ2VtZW50LXNkay52ZXJzaW9uPgoJPC9wcm9wZXJ0aWVzPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tLndvcmtzYXAuY29tcGFueTwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+aHVlLWlucHV0LW1hbmFnZW1lbnQtc2RrLXdlYmFwaS1zcGVjPC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj4xOC4wOS5pbnB1dC1tYW5hZ2VtZW50LXNkay1TTkFQU0hPVDwvdmVyc2lvbj4KCQkJPHNjb3BlPmNvbXBpbGU8L3Njb3BlPgoJCTwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">CQk8cHJvamVjdC5idWlsZC5zb3VyY2VFbmNvZGluZz5VVEYtODwvcHJvamVjdC5idWlsZC5zb3VyY2VFbmNvZGluZz4KCQk8cHJvamVjdC5yZXBvcnRpbmcub3V0cHV0RW5jb2Rpbmc+VVRGLTg8L3Byb2plY3QucmVwb3J0aW5nLm91dHB1dEVuY29kaW5nPgoJCTxqYXZhLnZlcnNpb24+MS44PC9qYXZhLnZlcnNpb24+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tLndvcmtzYXAuY29tcGFueTwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+aHVlLWlucHV0LW1hbmFnZW1lbnQtd2ViYXBpLXNwZWM8L2FydGlmYWN0SWQ+CgkJCTx2ZXJzaW9uPiR7cHJvamVjdC52ZXJzaW9ufTwvdmVyc2lvbj4KCQkJPHNjb3BlPmNvbXBpbGU8L3Njb3BlPgoJCTwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">CTxwcm9wZXJ0aWVzPjxwcm9wZXJ0aWVzLz4KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJPHZlcnNpb24+MTguMDkuYWMtYml6Y29tLVNOQVBTSE9UPC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIElucHV0Q2hlY2tQYXR0ZXJuV2tEYW9JbXBsIGltcGxlbWVudHMgSW5wdXRDaGVja1BhdHRlcm5Xa0RhbyB7Cg==</text>
+        <text encoding="base64">CTxkZXBlbmRlbmNpZXM+PC9kZXBlbmRlbmNpZXM+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5CdWlsZGVyOwo=</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tLndvcmtzYXAuY29tcGFueTwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+aHVlLWlucHV0LW1hbmFnZW1lbnQtc2RrLXdlYmFwaS1zcGVjPC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj4xOC4wOS5pbnB1dC1tYW5hZ2VtZW50LXNkay1TTkFQU0hPVDwvdmVyc2lvbj4KCQkJPHNjb3BlPmNvbXBpbGU8L3Njb3BlPgoJCTwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5CdWlsZGVyOwo=</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tLndvcmtzYXAuY29tcGFueTwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+aHVlLWlucHV0LW1hbmFnZW1lbnQtd2ViYXBpLXNwZWM8L2FydGlmYWN0SWQ+CgkJCTx2ZXJzaW9uPiR7cHJvamVjdC52ZXJzaW9ufTwvdmVyc2lvbj4KCQkJPHNjb3BlPmNvbXBpbGU8L3Njb3BlPgoJCTwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5CdWlsZGVyOwo=</text>
+        <text encoding="base64">CQkJPHZlcnNpb24+MTguMDkuYWMtYml6Y29tLVNOQVBTSE9UPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLnByb2plY3Rsb21ib2s8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmxvbWJvazwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+MS4xOC4yPC92ZXJzaW9uPgoJCQk8c2NvcGU+Y29tcGlsZTwvc2NvcGU+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIElucHV0Q2hlY2tQYXR0ZXJuV2tEYW9JbXBsIGltcGxlbWVudHMgSW5wdXRDaGVja1BhdHRlcm5Xa0RhbyB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFJlc3BvbnNlRW50aXR5PD4oTGlzdHMubmV3QXJyYXlMaXN0KGZ1bmN0aW9uR3JvdXBSZXNwb25zZSksCiAgICAgICAgICAgICAgICBIdHRwU3RhdHVzLk5PVF9JTVBMRU1FTlRFRCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGxvbWJvay5CdWlsZGVyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1293,7 +1299,7 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
