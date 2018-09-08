@@ -37,7 +37,7 @@
         <mark key="." line="6" column="33" />
         <mark key="^" line="6" column="33" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/ColumnConditionAnalyzerImpl.java" timestamp="1536402276469">
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/ColumnConditionAnalyzerImpl.java" timestamp="1536409192259">
         <mark key="'" line="29" column="8" />
         <mark key="[" line="31" column="77" />
         <mark key="]" line="31" column="91" />
@@ -712,11 +712,11 @@
         <mark key="." line="18" column="19" />
         <mark key="^" line="18" column="19" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-dto/src/main/java/com/worksap/company/hue/inputmanagement/dto/ColumnIdDefinitionDto.java" timestamp="1536402508472">
-        <mark key="[" line="20" column="40" />
-        <mark key="]" line="20" column="40" />
-        <mark key="." line="20" column="40" />
-        <mark key="^" line="20" column="49" />
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-dto/src/main/java/com/worksap/company/hue/inputmanagement/dto/ColumnIdDefinitionDto.java" timestamp="1536409136310">
+        <mark key="[" line="27" column="58" />
+        <mark key="]" line="27" column="66" />
+        <mark key="." line="27" column="66" />
+        <mark key="^" line="27" column="66" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/dao/ImFunctionMstDao.java" timestamp="1536146488518">
         <mark key="[" line="12" column="14" />
@@ -1485,46 +1485,46 @@
         <text>gkgk</text>
       </register>
       <register name="-" type="4">
-        <text>targetColumnIds</text>
+        <text>If tchis is not master value, this field could be null.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY1VzZXJDb250ZXh0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QFJlcXVpcmVkQXJnc0NvbnN0cnVjdG9yKG9uQ29uc3RydWN0b3IgPSBAX18oQEF1dG93aXJlZCkpCkBGaWVsZERlZmF1bHRzKGxldmVsID0gQWNjZXNzTGV2ZWwuUFJJVkFURSwgbWFrZUZpbmFsID0gdHJ1ZSkK</text>
+        <text encoding="base64">ICAgIEBDb21tZW50KCJJZiB0aGlzIGlzIG5vdCBtYXN0ZXIgdmFsdWUsIHRoaXMgZmllbGQgY291bGQgYmUgbnVsbC4iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHRhYmxlTmFtZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uZGl0aW9uLnNldE9wcER0bEZsZyhub2RlSXRlbS5nZXRPcHBEdGxGbGcoKSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHRhYmxlTmFtZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuTGlzdHM7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdHMubmV3Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uZGl0aW9uLnNldE9wcER0bEZsZyhub2RlSXRlbS5nZXRPcHBEdGxGbGcoKSk7Cg==</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuTGlzdHM7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ2hlY2tzIHdoZXRoZXIge0Bjb2RlIG1hc3RlckRhdGF9IHNob3VsZCBiZSBjb250YWluZWQgYnkKICAgICAqIHtAbGluayBjb20ud29ya3NhcC5jb21wYW55Lmh1ZS5pbnB1dG1hbmFnZW1lbnQuZHRvLklucHV0Q2hlY2tQYXR0ZXJuTm9kZUR0b30gY29ycmVzcG9uZGluZyB0byB7QGNvZGUgaW1Ob2RlTXN0fS4KICAgICAqCiAgICAgKiBAcGFyYW0gbWFzdGVyRGF0YUR0bwogICAgICogICAgICAgICAgICBEVE8gbGlrZSB7QGxpbmsgQWNjb3VudEl0ZW1EdG99IGV0Yy4KICAgICAqIEBwYXJhbSBpbU5vZGVNc3QKICAgICAqICAgICAgICAgICAgbWFzdGVyIG5vZGUgZHRvCiAgICAgKiBAcGFyYW0gY29ycElkCiAgICAgKiAgICAgICAgICAgIGNvcnBJZCBvZiBtYXN0ZXJEYXRhRHRvLCBvbmx5IHVzZWQgZm9yIGNvbmRpdGlvbi5TVFJVQ1RVUkUKICAgICAqIEBwYXJhbSB0ZXJtU3RhcnREYXRlCiAgICAgKiAgICAgICAgICAgIHRlcm0gb2YgY2hlY2tQYXR0ZXJuRHRvLCBvbmx5IHVzZWQgZm9yIGNvbmRpdGlvbi5TVFJVQ1RVUkUKICAgICAqIEByZXR1cm4gdGhlIG1hdGNoIHJlc3VsdCBvZiBib3RoIE5vcm1hbCBhbmQgT3Bwb25lbnQgZmxhZ3MKICAgICAqLwogICAgVHVwbGUyPEJvb2xlYW4sIEJvb2xlYW4+IHNob3VsZEJlbG9uZ1RvSm91cm5hbENoZWNrUGF0dGVybk5vZGUoT2JqZWN0IG1hc3RlckRhdGFEdG8sIEltTm9kZU1zdCBpbU5vZGVNc3QsCiAgICAgICAgICAgIExvY2FsRGF0ZSB0ZXJtU3RhcnREYXRlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdHMubmV3Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
