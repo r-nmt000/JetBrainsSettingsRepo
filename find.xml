@@ -3,6 +3,7 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -23,9 +24,9 @@
     <mask>*xml</mask>
     <mask>*dto*java</mask>
     <mask>*project*java</mask>
-    <mask>*java</mask>
     <mask>*config.java</mask>
     <mask>*.xml</mask>
     <mask>pom.xml</mask>
+    <mask>*java</mask>
   </component>
 </application>
