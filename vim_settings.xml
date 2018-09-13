@@ -107,6 +107,13 @@
         <mark key="^" line="39" column="18" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management-sdk/hue-input-management-sdk-webapi-spec/src/main/java/com/worksap/company/inputmanagement/webapi/spec/data/type/ImTargetDef.java" timestamp="1536809102177">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="64" />
+        <mark key="." line="12" column="22" />
+        <mark key="^" line="12" column="22" />
+      </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-dto/src/main/java/com/worksap/company/hue/inputmanagement/dto/ImColumnMstColIdIndexDto.java" timestamp="1536565211539">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="30" column="1" />
@@ -173,12 +180,12 @@
         <mark key="." line="21" column="4" />
         <mark key="^" line="21" column="35" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/service/CalculationResultServiceImpl.java" timestamp="1536807938188">
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/service/CalculationResultServiceImpl.java" timestamp="1536809401057">
         <mark key="'" line="36" column="11" />
-        <mark key="[" line="55" column="74" />
-        <mark key="]" line="55" column="74" />
-        <mark key="^" line="55" column="74" />
-        <mark key="." line="55" column="74" />
+        <mark key="[" line="53" column="17" />
+        <mark key="]" line="53" column="17" />
+        <mark key="^" line="53" column="24" />
+        <mark key="." line="53" column="17" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-webapi/src/main/java/com/worksap/company/hue/inputmanagement/adaptor/WebContextResolver.java" timestamp="1536575916501">
         <mark key="[" line="15" column="59" />
@@ -1283,11 +1290,11 @@
         <mark key="^" line="14" column="17" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management-sdk/hue-input-management-sdk-webapi-spec/src/main/java/com/worksap/company/inputmanagement/webapi/spec/data/CalculationResult.java" timestamp="1536478696176">
-        <mark key="[" line="48" column="4" />
-        <mark key="]" line="48" column="4" />
-        <mark key="." line="48" column="4" />
-        <mark key="^" line="47" column="13" />
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management-sdk/hue-input-management-sdk-webapi-spec/src/main/java/com/worksap/company/inputmanagement/webapi/spec/data/CalculationResult.java" timestamp="1536809397851">
+        <mark key="[" line="27" column="28" />
+        <mark key="]" line="27" column="28" />
+        <mark key="." line="27" column="28" />
+        <mark key="^" line="27" column="28" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/util/ImFunctionGroupConverter.java" timestamp="1536220743175">
         <mark key="[" line="83" column="0" />
@@ -1743,13 +1750,13 @@
         <text>gjgkgjgjgjddgjgjddgjgjddgjgj</text>
       </register>
       <register name="-" type="4">
-        <text>1000L</text>
+        <text>imtarget</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY1VzZXJDb250ZXh0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIFJFQVNPTl9JRCgicmVhc29uSWQiKSwK</text>
+      <register name="0" type="4">
+        <text>com.worksap.company.inputmanagement.webapi.spec.data.type</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
