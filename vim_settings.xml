@@ -479,6 +479,11 @@
         <mark key="^" line="85" column="0" />
         <mark key="." line="88" column="3" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/worksap/company/hue-com-ac-dto/18.09.ac-bizcom-SNAPSHOT/hue-com-ac-dto-18.09.ac-bizcom-20180914.125621-20-sources.jar!/com/worksap/company/hue/com/type/ac/common/MasterType.java" timestamp="1537084790718">
+        <mark key="'" line="63" column="4" />
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="49" />
+      </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/service/InputCheckPatternWkConvertor.java" timestamp="1536394856445">
         <mark key="[" line="11" column="7" />
         <mark key="]" line="11" column="56" />
@@ -885,11 +890,11 @@
         <mark key="^" line="10" column="32" />
         <mark key="." line="10" column="32" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-dto/src/main/java/com/worksap/company/hue/inputmanagement/dto/ColumnIdDefinitionDto.java" timestamp="1536477252567">
-        <mark key="[" line="29" column="86" />
-        <mark key="]" line="29" column="97" />
-        <mark key="." line="29" column="97" />
-        <mark key="^" line="29" column="97" />
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-dto/src/main/java/com/worksap/company/hue/inputmanagement/dto/ColumnIdDefinitionDto.java" timestamp="1537084805833">
+        <mark key="[" line="24" column="83" />
+        <mark key="]" line="25" column="14" />
+        <mark key="." line="25" column="14" />
+        <mark key="^" line="25" column="14" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/dao/ImFunctionMstDao.java" timestamp="1536146488518">
         <mark key="[" line="12" column="14" />
@@ -1362,7 +1367,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management-sdk/hue-input-management-webapi-spec/src/main/java/com/worksap/company/inputmanagement/client/model/CalculationResult.java" />
       <jump line="403" column="0" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management-sdk/hue-input-management-webapi-spec/src/main/java/com/worksap/company/inputmanagement/client/model/CalculationResult.java" />
       <jump line="12" column="0" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management-sdk/hue-input-management-webapi-spec/src/main/java/com/worksap/company/inputmanagement/client/model/CalculationResult.java" />
       <jump line="12" column="36" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-dto/src/main/java/com/worksap/company/hue/ac/dto/expense/inputmanagement/transaction/InputCheckPatternNodeDto.java" />
@@ -1462,6 +1466,7 @@
       <jump line="68" column="24" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/test/java/com/worksap/company/hue/inputmanagement/bizcore/service/ImFunctionGroupValidatorImplTest.java" />
       <jump line="186" column="37" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/test/java/com/worksap/company/hue/inputmanagement/bizcore/service/settingdetail/ImSettingDetailValidatorImplTest.java" />
       <jump line="224" column="46" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/test/java/com/worksap/company/hue/inputmanagement/bizcore/service/settingdetail/ImSettingDetailValidatorImplTest.java" />
+      <jump line="63" column="4" filename="$MAVEN_REPOSITORY$/com/worksap/company/hue-com-ac-dto/18.09.ac-bizcom-SNAPSHOT/hue-com-ac-dto-18.09.ac-bizcom-20180914.125621-20-sources.jar!/com/worksap/company/hue/com/type/ac/common/MasterType.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1758,13 +1763,13 @@
         <text>gjgkgjgjgjddgjgjddgjgjddgjgj</text>
       </register>
       <register name="-" type="4">
-        <text>NoArgsConstructor</text>
+        <text>MasterType</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY1VzZXJDb250ZXh0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QEFsbEFyZ3NDb25zdHJ1Y3Rvcgo=</text>
+      <register name="0" type="4">
+        <text>com.worksap.company.hue.com.type.ac.common</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">QUAK</text>
