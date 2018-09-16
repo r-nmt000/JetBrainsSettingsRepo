@@ -93,6 +93,12 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="3" column="2" />
       </file>
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/service/settingdetail/ImSettingDetailValidator.java" timestamp="1537012032995">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="21" column="119" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/service/InputCheckPatternServiceImpl.java" timestamp="1536411386764">
         <mark key="[" line="47" column="8" />
         <mark key="]" line="47" column="31" />
@@ -646,7 +652,7 @@
         <mark key="^" line="14" column="71" />
         <mark key="." line="16" column="4" />
       </file>
-      <file name="/fragment.java" timestamp="1537011076470">
+      <file name="/fragment.java" timestamp="1537072336557">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="^" line="0" column="18" />
@@ -922,11 +928,11 @@
         <mark key="^" line="6" column="7" />
         <mark key="." line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/service/ImFunctionGroupValidator.java" timestamp="1536996942042">
-        <mark key="[" line="27" column="71" />
-        <mark key="]" line="27" column="94" />
-        <mark key="." line="27" column="94" />
-        <mark key="^" line="27" column="94" />
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/service/ImFunctionGroupValidator.java" timestamp="1537012009183">
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="21" column="23" />
+        <mark key="." line="21" column="23" />
+        <mark key="^" line="21" column="23" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-dto/src/main/java/com/worksap/company/hue/inputmanagement/dto/ImEnumTypeMstDto.java" timestamp="1536139060341">
         <mark key="[" line="28" column="17" />
@@ -1692,16 +1698,16 @@
         <text>gjgkgjgjgjddgjgjddgjgjddgjgj</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>functions</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY1VzZXJDb250ZXh0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBJbUNvbmRpdGlvbkRldGFpbCBkZXRhaWwxID0gSW1Db25kaXRpb25EZXRhaWwuYnVpbGRlcigpCiAgICAgICAgICAgICAgICAuY29ycElkKDEwMDBMKQogICAgICAgICAgICAgICAgLm5vZGVJZCgxTCkKICAgICAgICAgICAgICAgIC5zZXFObygxTCkKICAgICAgICAgICAgICAgIC5ub3RUeXBlKDApCiAgICAgICAgICAgICAgICAuY29uZERpdigwKQogICAgICAgICAgICAgICAgLmxpa2VEaXYoMCkKICAgICAgICAgICAgICAgIC5jb2x1bW5JZCgxMDApCiAgICAgICAgICAgICAgICAuZGF0YTEoIjEwMCIpCiAgICAgICAgICAgICAgICAuc2lnbjEoMikKICAgICAgICAgICAgICAgIC5kYXRhMigiMTEwIikKICAgICAgICAgICAgICAgIC5zaWduMigyKQogICAgICAgICAgICAgICAgLmJ1aWxkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBmdW5jdGlvbkdyb3VwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAqICAtIHByb2R1Y3RJZCwgbW9kdWxlSWQsIGZ1bmN0aW9uSWQgYXJlIHZhbGlkIG9yIG5vdAogICAgICogIC0gRnVuY3Rpb25Hcm91cElkIGFscmVhZHkgZXhpc3RzIG9yIG5vdAogICAgICogIC0gRnVuY3Rpb25Hcm91cENvZGUgZHVwbGljYXRpb24KICAgICAqICAtIHNlcnZpY2VJZCBpcyB2YWxpZCBvciBub3QK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1712,34 +1718,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGNvcnJlc3BvbmRzIHRvIHtAY29kZSBjb20ud29ya3NhcC5jb21wYW55Lmh1ZS5hYy5kdG8uZXhwZW5zZS5pbnB1dG1hbmFnZW1lbnQuTGlrZURpdn0K</text>
+        <text encoding="base64">ICAgICAqICAtIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGNvcnJlc3BvbmRzIHRvIHtAY29kZSBjb20ud29ya3NhcC5jb21wYW55Lmh1ZS5hYy5kdG8uZXhwZW5zZS5pbnB1dG1hbmFnZW1lbnQuQ29uZERpdn0K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDEwMDBMLCAxTCwKICAgICAgICAgICAgICAgICJub2RlQ29kZTEiLAogICAgICAgICAgICAgICAgIm5vZGVOYW1lMSIsCiAgICAgICAgICAgICAgICAwLAogICAgICAgICAgICAgICAgMUwKICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgIC8vIGNvcnJlc3BvbmRzIHRvIHtAY29kZSBjb20ud29ya3NhcC5jb21wYW55Lmh1ZS5hYy5kdG8uZXhwZW5zZS5pbnB1dG1hbmFnZW1lbnQuTGlrZURpdn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIGNvcnJlc3BvbmRzIHRvIHtAY29kZSBjb20ud29ya3NhcC5jb21wYW55Lmh1ZS5hYy5kdG8uZXhwZW5zZS5pbnB1dG1hbmFnZW1lbnQuQ29uZERpdn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDEwMDBMLCAxTCwKICAgICAgICAgICAgICAgICJub2RlQ29kZTEiLAogICAgICAgICAgICAgICAgIm5vZGVOYW1lMSIsCiAgICAgICAgICAgICAgICAwLAogICAgICAgICAgICAgICAgMUwKICAgICAgICApOwo=</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEV4ZWN1dGUgYmF0Y2guCiAgICAgKiBAcGFyYW0gb3BlcmF0aW9uCiAgICAgKiBAcGFyYW0gdGFyZ2V0U2V0dGluZ0pzb24KICAgICAqIEByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9wZXJhdGlvbiwK</text>
+        <text encoding="base64">ICAgICAqIEV4ZWN1dGUgYmF0Y2guCiAgICAgKiBAcGFyYW0gb3BlcmF0aW9uCiAgICAgKiBAcGFyYW0gdGFyZ2V0U2V0dGluZ0pzb24KICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
