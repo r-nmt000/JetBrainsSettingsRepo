@@ -130,6 +130,7 @@
         <mark key="^" line="27" column="1" />
         <mark key="." line="27" column="1" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/worksap/company/company-remote-client-unshaded/18.07.00.0002.20180912.0243/company-remote-client-unshaded-18.07.00.0002.20180912.0243-sources.jar!/com/worksap/company/framework/remote/client/rest/MicroServiceRestTemplateConfig.java" timestamp="1538653155007" />
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/service/ImFunctionGroupServiceImpl.java" timestamp="1537007558597">
         <mark key="[" line="82" column="66" />
         <mark key="]" line="82" column="64" />
@@ -269,6 +270,7 @@
         <mark key="." line="8" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/worksap/company/hue-com-ac-bizcore/18.10.ac-bizcom-SNAPSHOT/hue-com-ac-bizcore-18.10.ac-bizcom-20181003.105011-13-sources.jar!/com/worksap/company/hue/com/bizcore/ac/config/ComAcDaoNonMarkerInterfacesConfig.java" timestamp="1538651970601" />
+      <file name="$MAVEN_REPOSITORY$/com/worksap/company/hue-com-rest-core/18.07.00.0002.20180912.0243/hue-com-rest-core-18.07.00.0002.20180912.0243-sources.jar!/com/worksap/company/hue/com/rest/core/configuration/WebApiConfiguration.java" timestamp="1538653177328" />
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/service/ImNodeService.java" timestamp="1536471525780">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -773,6 +775,10 @@
         <mark key="^" line="37" column="49" />
         <mark key="." line="37" column="49" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/worksap/company/hue-com-ac-bizcore/18.10.ac-bizcom-SNAPSHOT/hue-com-ac-bizcore-18.10.ac-bizcom-20181003.105011-13-sources.jar!/com/worksap/company/hue/com/bizcore/ac/config/ComAcCollectWebApiConfig.java" timestamp="1538653229130">
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="45" />
+      </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-dto/src/main/java/com/worksap/company/hue/ac/dto/expense/inputmanagement/InputCheckPatternNodeV2Dto.java" timestamp="1533805992267">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -1065,11 +1071,11 @@
         <mark key="^" line="28" column="17" />
         <mark key="." line="28" column="17" />
       </file>
-      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-front/src/main/java/com/worksap/company/hue/config/inputmanagement/ProductConfig.java" timestamp="1538652189323">
-        <mark key="[" line="33" column="44" />
-        <mark key="]" line="34" column="7" />
-        <mark key="." line="34" column="7" />
-        <mark key="^" line="34" column="7" />
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-front/src/main/java/com/worksap/company/hue/config/inputmanagement/ProductConfig.java" timestamp="1538653236202">
+        <mark key="[" line="36" column="32" />
+        <mark key="]" line="36" column="38" />
+        <mark key="." line="36" column="38" />
+        <mark key="^" line="36" column="38" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management-sdk/README.md" timestamp="1535693415734">
         <mark key="[" line="0" column="26" />
@@ -1932,8 +1938,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxhY1VzZXJDb250ZXh0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiY2xhc3NwYXRoOmNmdy13ZWItY29udGV4dC54bWwiLAo=</text>
+      <register name="0" type="4">
+        <text>ComAcCollectWebApiConfig</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBSZXF1ZXN0Q2FycmllckNvbmZpZy5jbGFzcywK</text>
