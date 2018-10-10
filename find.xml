@@ -20,13 +20,14 @@
     <mask>*config*java</mask>
     <mask>*AcExpenseShortTrans*xml</mask>
     <mask>*controller*java</mask>
-    <mask>*xml</mask>
     <mask>*dto*java</mask>
     <mask>*project*java</mask>
     <mask>*config.java</mask>
     <mask>*.xml</mask>
     <mask>pom.xml</mask>
-    <mask>*java</mask>
     <mask>*dto.java</mask>
+    <mask>*sh</mask>
+    <mask>*java</mask>
+    <mask>*xml</mask>
   </component>
 </application>
