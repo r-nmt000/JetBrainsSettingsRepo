@@ -423,6 +423,10 @@
         <mark key="^" line="43" column="46" />
         <mark key="." line="43" column="46" />
       </file>
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-webapi/src/main/java/com/worksap/company/hue/inputmanagement/controller/SettingDetailController.java" timestamp="1538653989472">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="44" column="4" />
+      </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-dto/src/main/java/com/worksap/company/hue/ac/dto/expense/inputmanagement/transaction/functiongroup/ImFuncGrpMstIndex.java" timestamp="1533810950824">
         <mark key="[" line="11" column="95" />
         <mark key="]" line="13" column="18" />
@@ -792,6 +796,10 @@
         <mark key="^" line="37" column="49" />
         <mark key="." line="37" column="49" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/worksap/company/hue-com-ac-bizcore/18.10.ac-bizcom-SNAPSHOT/hue-com-ac-bizcore-18.10.ac-bizcom-20181003.105011-13-sources.jar!/com/worksap/company/hue/com/bizcore/ac/config/ComAcCollectWebApiConfig.java" timestamp="1538653229130">
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="45" />
+      </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-dto/src/main/java/com/worksap/company/hue/ac/dto/expense/inputmanagement/InputCheckPatternNodeV2Dto.java" timestamp="1533805992267">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -1039,6 +1047,12 @@
         <mark key="]" line="16" column="16" />
         <mark key="." line="16" column="16" />
         <mark key="^" line="16" column="35" />
+      </file>
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-build/mr-error-rules.sh" timestamp="1539318133297">
+        <mark key="[" line="84" column="13" />
+        <mark key="]" line="84" column="22" />
+        <mark key="^" line="84" column="22" />
+        <mark key="." line="84" column="22" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management-sdk/hue-input-management-sdk-webapi-spec/src/main/java/com/worksap/company/inputmanagement/webapi/spec/response/Function.java" timestamp="1536150727262">
         <mark key="[" line="15" column="22" />
@@ -1481,6 +1495,10 @@
         <mark key="]" line="22" column="45" />
         <mark key="." line="22" column="45" />
         <mark key="^" line="22" column="45" />
+      </file>
+      <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-build/additional-pre-merge.sh" timestamp="1539317416385">
+        <mark key="[" line="137" column="29" />
+        <mark key="]" line="137" column="40" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management-pom/hue-expense-cassandra-cql/pom.xml" timestamp="1535616848169">
         <mark key="[" line="15" column="0" />
@@ -1955,16 +1973,16 @@
         <text>gjgkgjgjgjddgjgjddgjgjddgjgj</text>
       </register>
       <register name="-" type="4">
-        <text>nomoto</text>
+        <text>&quot;You MUST write javadoc when you add java file newly&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY1VzZXJDb250ZXh0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgPGdyb3VwSWQ+Y29tLmZhc3RlcnhtbC5qYWNrc29uLmNvcmU8L2dyb3VwSWQ+CiAgICAgICAgPGFydGlmYWN0SWQ+amFja3Nvbi1kYXRhYmluZDwvYXJ0aWZhY3RJZD4KICAgICAgICA8dmVyc2lvbj4yLjkuNjwvdmVyc2lvbj4KICAgICAgPC9kZXBlbmRlbmN5PgogICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICA8Z3JvdXBJZD5jb20uZmFzdGVyeG1sLmphY2tzb24uY29yZTwvZ3JvdXBJZD4KICAgICAgICA8YXJ0aWZhY3RJZD5qYWNrc29uLWNvcmU8L2FydGlmYWN0SWQ+CiAgICAgICAgPHZlcnNpb24+Mi45LjY8L3ZlcnNpb24+CiAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgPGdyb3VwSWQ+Y29tLmZhc3RlcnhtbC5qYWNrc29uLmNvcmU8L2dyb3VwSWQ+CiAgICAgICAgPGFydGlmYWN0SWQ+amFja3Nvbi1hbm5vdGF0aW9uczwvYXJ0aWZhY3RJZD4KICAgICAgICA8dmVyc2lvbj4yLjkuNjwvdmVyc2lvbj4KICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+      <register name="0" type="4">
+        <text>You MUST write javadoc when you add java file newly</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctd2ViPC9hcnRpZmFjdElkPgogICAgICA8c2NvcGU+Y29tcGlsZTwvc2NvcGU+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICR7ZGlmZl9maWxlbmFtZX0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1975,10 +1993,10 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPHZlcnNpb24+NS4wLjguUkVMRUFTRTwvdmVyc2lvbj4K</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctd2ViPC9hcnRpZmFjdElkPgogICAgICA8c2NvcGU+Y29tcGlsZTwvc2NvcGU+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPHZlcnNpb24+Mi45LjY8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgPHZlcnNpb24+NS4wLjguUkVMRUFTRTwvdmVyc2lvbj4K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgPHZlcnNpb24+Mi45LjY8L3ZlcnNpb24+Cg==</text>
@@ -1987,22 +2005,22 @@
         <text encoding="base64">ICAgICAgPHZlcnNpb24+Mi45LjY8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPGRlcGVuCg==</text>
+        <text encoding="base64">ICAgICAgPHZlcnNpb24+Mi45LjY8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQEFwaVBhcmFtKHZhbHVlID0gIlNwZWNpZnkgd2hpY2ggY29ycG9yYXRpb24ncyBzZXR0aW5nIiwgcmVxdWlyZWQgPSB0cnVlKQogICAgICAgICAgICBATm9ubnVsbCBAVmFsaWQgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJjb3JwSWQiLCByZXF1aXJlZCA9IHRydWUpIExvbmcgY29ycElkLAogICAgICAgICAgICBAQXBpUGFyYW0odmFsdWUgPSAiVGFyZ2V0IG1hc3RlciBvZiBJbnB1dCBNYW5hZ2VtZW50IiwgcmVxdWlyZWQgPSB0cnVlKQogICAgICAgICAgICBATm9ubnVsbCBAVmFsaWQgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJ0YXJnZXQiLCByZXF1aXJlZCA9IGZhbHNlKSBTdHJpbmcgdGFyZ2V0LAogICAgICAgICAgICBAQXBpUGFyYW0odmFsdWUgPSAiRnVsbCB0ZXh0IHNlYXJjaCBxdWVyeSIpCiAgICAgICAgICAgIEBWYWxpZCBAUmVxdWVzdFBhcmFtKHZhbHVlID0gInEiLCByZXF1aXJlZCA9IGZhbHNlKSBTdHJpbmcgcSkgewogICAgICAgIC8vIFRPRE86IGltcGxlbWVudCBpdAogICAgICAgIFNldDxTZXR0aW5nRGV0YWlsUmVzcG9uc2U+IHJlc3BvbnNlID0gaW1TZXR0aW5nRGV0YWlsU2VydmljZS5nZXRNdWx0aXBsZShjb3JwSWQsIHRhcmdldCwgcSk7Cg==</text>
+        <text encoding="base64">ICAgICAgPGRlcGVuCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBSZXF1ZXN0Q2FycmllckNvbmZpZy5jbGFzcywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEFwaVBhcmFtKHZhbHVlID0gIlNwZWNpZnkgd2hpY2ggY29ycG9yYXRpb24ncyBzZXR0aW5nIiwgcmVxdWlyZWQgPSB0cnVlKQogICAgICAgICAgICBATm9ubnVsbCBAVmFsaWQgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJjb3JwSWQiLCByZXF1aXJlZCA9IHRydWUpIExvbmcgY29ycElkLAogICAgICAgICAgICBAQXBpUGFyYW0odmFsdWUgPSAiVGFyZ2V0IG1hc3RlciBvZiBJbnB1dCBNYW5hZ2VtZW50IiwgcmVxdWlyZWQgPSB0cnVlKQogICAgICAgICAgICBATm9ubnVsbCBAVmFsaWQgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJ0YXJnZXQiLCByZXF1aXJlZCA9IGZhbHNlKSBTdHJpbmcgdGFyZ2V0LAogICAgICAgICAgICBAQXBpUGFyYW0odmFsdWUgPSAiRnVsbCB0ZXh0IHNlYXJjaCBxdWVyeSIpCiAgICAgICAgICAgIEBWYWxpZCBAUmVxdWVzdFBhcmFtKHZhbHVlID0gInEiLCByZXF1aXJlZCA9IGZhbHNlKSBTdHJpbmcgcSkgewogICAgICAgIC8vIFRPRE86IGltcGxlbWVudCBpdAogICAgICAgIFNldDxTZXR0aW5nRGV0YWlsUmVzcG9uc2U+IHJlc3BvbnNlID0gaW1TZXR0aW5nRGV0YWlsU2VydmljZS5nZXRNdWx0aXBsZShjb3JwSWQsIHRhcmdldCwgcSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3RjYXJyaWVyCg==</text>
+        <text encoding="base64">ICAgICAgICBSZXF1ZXN0Q2FycmllckNvbmZpZy5jbGFzcywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
