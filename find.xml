@@ -5,9 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*java" />
+    <option name="FILE_MASK" value="*xml" />
     <recentFileMasks>
-      <mask>*AcExpenseOverseasBizTrip.Standard.*</mask>
       <mask>*AcExpenseOverseasBizTrip.Standard.j*</mask>
       <mask>*AcExpenseOverseasBizTrip.Standard.ja*</mask>
       <mask>*AcExpenseOverseasBizTrip.Standard.ja.*</mask>
@@ -27,9 +26,6 @@
       <mask>*confi*java</mask>
       <mask>*jav</mask>
       <mask>*js</mask>
-      <mask>*j</mask>
-      <mask>*</mask>
-      <mask>*ja</mask>
       <mask>*test\\*java</mask>
       <mask>*test\*java</mask>
       <mask>*test*java</mask>
@@ -37,6 +33,10 @@
       <mask>*t*java</mask>
       <mask>**java</mask>
       <mask>*java</mask>
+      <mask>*ja</mask>
+      <mask>*j</mask>
+      <mask>*</mask>
+      <mask>*xml</mask>
     </recentFileMasks>
   </component>
 </application>
