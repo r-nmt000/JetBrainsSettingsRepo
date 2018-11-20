@@ -633,12 +633,12 @@
         <mark key="^" line="11" column="42" />
         <mark key="." line="11" column="42" />
       </file>
-      <file name="C:/Develop/Trunk/company/java/jp/co/worksap/companyac/cfm/ex/common/filtersec/ExFilterStringMaker.java" timestamp="1542615352871">
-        <mark key="'" line="710" column="60" />
-        <mark key="[" line="884" column="38" />
-        <mark key="]" line="885" column="49" />
-        <mark key="." line="884" column="38" />
-        <mark key="^" line="883" column="7" />
+      <file name="C:/Develop/Trunk/company/java/jp/co/worksap/companyac/cfm/ex/common/filtersec/ExFilterStringMaker.java" timestamp="1542679963527">
+        <mark key="'" line="709" column="60" />
+        <mark key="[" line="345" column="0" />
+        <mark key="]" line="345" column="0" />
+        <mark key="." line="345" column="0" />
+        <mark key="^" line="882" column="7" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-front/src/main/java/com/worksap/company/hue/controller/ac/expense/core/approval/AbsAcExpenseGeneralApprovalController.java" timestamp="1526274625100">
         <mark key="[" line="214" column="44" />
@@ -758,7 +758,7 @@
         <mark key="." line="34" column="11" />
         <mark key="^" line="34" column="11" />
       </file>
-      <file name="/fragment.java" timestamp="1542349581854">
+      <file name="/fragment.java" timestamp="1542679775370">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -1166,7 +1166,7 @@
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="C:/Develop/Trunk/company/java/jp/co/worksap/companyac/cfm/ex/reference/appliListRef/function/ExSQLMaker.java" timestamp="1542613230472">
+      <file name="C:/Develop/Trunk/company/java/jp/co/worksap/companyac/cfm/ex/reference/appliListRef/function/ExSQLMaker.java" timestamp="1542679916222">
         <mark key="'" line="104" column="12" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-cql/pom.xml" timestamp="1524469541182">
@@ -1436,7 +1436,7 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="57" column="15" />
       </file>
-      <file name="C:/Develop/Trunk/company/java/jp/co/worksap/companyac/cfm/ex/reference/appliListRef/DoLogic.java" timestamp="1542623808360" />
+      <file name="C:/Develop/Trunk/company/java/jp/co/worksap/companyac/cfm/ex/reference/appliListRef/DoLogic.java" timestamp="1542679841198" />
       <file name="C:/HUE/WorkSpace/Develop03/redribbon/front/src/app/component/man-hour-task-table/man-hour-task-table.component.less" timestamp="1525258765180">
         <mark key="[" line="10" column="18" />
         <mark key="]" line="10" column="19" />
@@ -1860,9 +1860,8 @@
         <text>fltStrBuffer, &quot;AC_EX_PROJECT_MST&quot;, AcExProjectMstFilteredKeyColName,
 				&quot;EX.COMMON.FLT_AC_EX_PROJECT_MST&quot;</text>
       </register>
-      <register name="1" type="4">
-        <text>fltStrBuffer, &quot;AC_COM_SECTION_MST&quot;, AcComSectionMstFilteredKeyColName,
-					&quot;EX.COMMON.FLT_AC_COM_SECTION_MST&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIGludCBOT1RfVVNFRCA9IC0xOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1874,8 +1873,9 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>fltStrBuffer, &quot;AC_COM_SECTION_MST&quot;, AcComSectionMstFilteredKeyColName,
+					&quot;EX.COMMON.FLT_AC_COM_SECTION_MST&quot;</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1884,16 +1884,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIGFwcGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJcmV0dXJuIGFwcGVuZAo=</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1907,10 +1907,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQkJcmV0dXJuIDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlpZiAoaXNGaWx0ZXJCeUhlYWRlcikgewoJCQlpbnB1dCA9IGJ1aWxkSW5wdXREYXRhKHZpZXdOYW1lLCBmaWx0ZXJlZFZpZXdCeUhlYWRlciwga2V5Q29sLCBBcHBIZWFkZXJEZXRhaWwuQVBQX0hFQURFUik7CgkJCWZsdFN0ckJ1ZmZlci5hcHBlbmQodG9vbHMubWFrZVN0cmluZ1NRTCh0ZW1wbGF0ZSwgaW5wdXQsIG51bGwsIDAsIG51bGwpKTsKCQl9CgoJCWlmIChpc0ZpbHRlckJ5RGV0YWlsKSB7CgkJCWlucHV0ID0gYnVpbGRJbnB1dERhdGEodmlld05hbWUsIGZpbHRlcmVkVmlld0J5RGV0YWlsLCBrZXlDb2wsIEFwcEhlYWRlckRldGFpbC5BUFBfREVUQUlMKTsKCQkJZmx0U3RyQnVmZmVyLmFwcGVuZCh0b29scy5tYWtlU3RyaW5nU1FMKHRlbXBsYXRlLCBpbnB1dCwgbnVsbCwgMCwgbnVsbCkpOwoJCX0KCgkJLy8gSWYgdGhlcmUgYXJlIG5vIGRldGFpbCBmdW5jdGlvbiBzZXR0aW5ncwoJCWlmICghaXNGaWx0ZXJCeUhlYWRlciAmJiAhaXNGaWx0ZXJCeURldGFpbCkgewo=</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
