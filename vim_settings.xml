@@ -422,6 +422,9 @@
         <mark key="^" line="109" column="12" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/conversion-nbh-cws/jar_cws/src/test/java/jp/co/worksap/companyweb/sys/patrol/action/ExpireAlertPatrolStopTest.java" timestamp="1545206932804" />
+      <file name="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/jar_cws/src/main/java/jp/co/worksap/companyweb/service/cost/apptrip/back/manager/AbsTripManager.java" timestamp="1545293847598">
+        <mark key="'" line="674" column="25" />
+      </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/core/i18n/text/AcExpenseCoreTextResource.java" timestamp="1520984233363">
         <mark key="[" line="62" column="11" />
         <mark key="]" line="62" column="16" />
@@ -576,6 +579,7 @@
         <mark key="^" line="78" column="52" />
         <mark key="." line="78" column="52" />
       </file>
+      <file name="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/jar_cws/src/main/java/jp/co/worksap/companyweb/sys/CwsSignOnCfg.java" timestamp="1545293336315" />
       <file name="C:/Develop/Trunk/company/company_server/WEB-INF/src_common_external/jp/co/worksap/companyac/common/log/DBBusinessOperationLog.java" timestamp="1543561103309">
         <mark key="[" line="214" column="121" />
         <mark key="]" line="214" column="121" />
@@ -721,7 +725,7 @@
         <mark key="." line="8" column="17" />
         <mark key="^" line="8" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545291887471">
+      <file name="/Dummy.txt" timestamp="1545293820310">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -823,7 +827,7 @@
         <mark key="." line="34" column="11" />
         <mark key="^" line="34" column="11" />
       </file>
-      <file name="/fragment.java" timestamp="1545292604722">
+      <file name="/fragment.java" timestamp="1545293270635">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Develop/Trunk/company/company_server/WEB-INF/src_common_external/jp/co/worksap/companyac/workflow/front/sync/ConnectionManager.java" timestamp="1543561080341">
@@ -1233,9 +1237,6 @@
         <mark key="^" line="21" column="32" />
         <mark key="." line="21" column="32" />
       </file>
-      <file name="C:/Develop/Trunk/company/java/jp/co/worksap/companyac/web/cfm/ex/adjust/travel/common/TravelHdMethods.java" timestamp="1543840819485">
-        <mark key="'" line="83" column="0" />
-      </file>
       <file name="C:/Develop/Trunk/company/java/jp/co/worksap/companyac/cfm/ex/report/app/Transp/TranspReportPageLogic.java" timestamp="1545286300530" />
       <file name="C:/HUE/WorkSpace/1712/hue-ac-expense/hue-ac-expense-bizcore/src/test/java/com/worksap/company/hue/ac/bizcore/expense/config/ExpenseConfiguration.java" timestamp="1520331681639">
         <mark key="[" line="218" column="20" />
@@ -1513,9 +1514,6 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="C:/Develop/Trunk/company/company_server/WEB-INF/src_web_external/jp/co/worksap/companyac/web/common/servlet/WAServletForWeb.java" timestamp="1543568909032">
-        <mark key="'" line="47" column="0" />
-      </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-biz/src/main/java/com/worksap/company/hue/ac/biz/expense/core/function/ExpenseCalculationConfig.java" timestamp="1526449218194">
         <mark key="[" line="24" column="34" />
         <mark key="]" line="25" column="7" />
@@ -1590,7 +1588,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="56" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-version-up/src/main/java/migration/com/worksap/company/hue/ac/dto/expense/MigratorBusinessValidationServiceCfg.java" />
       <jump line="241" column="45" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-version-up/src/test/java/migration/com/worksap/company/hue/ac/dto/expense/MigratorBusinessValidationServiceCfgTest.java" />
       <jump line="270" column="24" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-version-up/src/test/java/migration/com/worksap/company/hue/ac/dto/expense/MigratorBusinessValidationServiceCfgTest.java" />
       <jump line="34" column="90" filename="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-version-up/src/main/java/migration/com/worksap/company/hue/ac/dto/expense/MigratorBusinessValidationServiceCfg.java" />
@@ -1690,6 +1687,7 @@
       <jump line="11" column="0" filename="C:/Develop/Trunk/company/company_server/WEB-INF/src_common_external/jp/co/worksap/companyac/report/dao/ReportManagerDaoUtils.java" />
       <jump line="61" column="24" filename="C:/Develop/Trunk/company/company_server/WEB-INF/src_common_external/jp/co/worksap/companyac/report/dao/ReportManagerDaoUtils.java" />
       <jump line="34" column="0" filename="C:/Develop/Trunk/company/java/jp/co/worksap/companyac/cfm/ex/acprocessing/approval/ExApprovalListRecInfo.java" />
+      <jump line="674" column="25" filename="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/jar_cws/src/main/java/jp/co/worksap/companyweb/service/cost/apptrip/back/manager/AbsTripManager.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
