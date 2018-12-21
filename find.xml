@@ -6,9 +6,6 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
-      <mask>*confi*java</mask>
-      <mask>*jav</mask>
-      <mask>*js</mask>
       <mask>*test\\*java</mask>
       <mask>*test\*java</mask>
       <mask>*test*java</mask>
@@ -28,7 +25,6 @@
       <mask>.po</mask>
       <mask>.p</mask>
       <mask>.</mask>
-      <mask>*</mask>
       <mask>op</mask>
       <mask>o</mask>
       <mask>po</mask>
@@ -36,6 +32,10 @@
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
