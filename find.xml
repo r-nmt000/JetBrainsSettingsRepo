@@ -2,41 +2,35 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.java" />
-    <recentFileMasks>
-      <mask>*</mask>
-      <mask>*js</mask>
-      <mask>*j</mask>
-      <mask>*ja</mask>
-      <mask>**java</mask>
-      <mask>*java</mask>
-      <mask>*conjava</mask>
-      <mask>*contjava</mask>
-      <mask>*controjava</mask>
-      <mask>*controljava</mask>
-      <mask>*controllerjava</mask>
-      <mask>*controller.java</mask>
-      <mask>*controlle.java</mask>
-      <mask>*controll.java</mask>
-      <mask>*control.java</mask>
-      <mask>*contro.java</mask>
-      <mask>*contr.java</mask>
-      <mask>*con.java</mask>
-      <mask>*co.java</mask>
-      <mask>*c.java</mask>
-      <mask>**.java</mask>
-      <mask>*V*.java</mask>
-      <mask>*Va*.java</mask>
-      <mask>*Valida*.java</mask>
-      <mask>*Validator*.java</mask>
-      <mask>*ValidatorI*.java</mask>
-      <mask>*ValidatorIm*.java</mask>
-      <mask>*ValidatorImpl*.java</mask>
-      <mask>*ValidatorImp*.java</mask>
-      <mask>*.java</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*xml" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*acexpensedomesticbiztrip.standard.ja*.xml</mask>
+    <mask>*controller.java</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*Test.java</mask>
+    <mask>*Mapper.java</mask>
+    <mask>*AdvanceRequest*xml</mask>
+    <mask>*js</mask>
+    <mask>*config*java</mask>
+    <mask>*AcExpenseShortTrans*xml</mask>
+    <mask>*controller*java</mask>
+    <mask>*dto*java</mask>
+    <mask>*project*java</mask>
+    <mask>*config.java</mask>
+    <mask>*.xml</mask>
+    <mask>pom.xml</mask>
+    <mask>*dto.java</mask>
+    <mask>*sh</mask>
+    <mask>*ExpenseCar.K1201000.01.ja*xml</mask>
+    <mask>*java</mask>
+    <mask>*Expense*OverseasBiz*.K1201000.01.ja*xml</mask>
+    <mask>*xml</mask>
   </component>
 </application>
