@@ -2,40 +2,35 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <recentFileMasks>
-      <mask>*test\\*java</mask>
-      <mask>*test\*java</mask>
-      <mask>*test*java</mask>
-      <mask>*tes*java</mask>
-      <mask>*t*java</mask>
-      <mask>**java</mask>
-      <mask>*ja</mask>
-      <mask>*j</mask>
-      <mask>*xml</mask>
-      <mask>*x</mask>
-      <mask>*html</mask>
-      <mask>*htm</mask>
-      <mask>*ht</mask>
-      <mask>*h</mask>
-      <mask>*java</mask>
-      <mask>.pom</mask>
-      <mask>.po</mask>
-      <mask>.p</mask>
-      <mask>.</mask>
-      <mask>op</mask>
-      <mask>o</mask>
-      <mask>po</mask>
-      <mask>pom*</mask>
-      <mask>pom</mask>
-      <mask>pom.</mask>
-      <mask>pom.xml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*xml" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*acexpensedomesticbiztrip.standard.ja*.xml</mask>
+    <mask>*controller.java</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*Test.java</mask>
+    <mask>*Mapper.java</mask>
+    <mask>*AdvanceRequest*xml</mask>
+    <mask>*js</mask>
+    <mask>*config*java</mask>
+    <mask>*AcExpenseShortTrans*xml</mask>
+    <mask>*controller*java</mask>
+    <mask>*dto*java</mask>
+    <mask>*project*java</mask>
+    <mask>*config.java</mask>
+    <mask>*.xml</mask>
+    <mask>pom.xml</mask>
+    <mask>*dto.java</mask>
+    <mask>*sh</mask>
+    <mask>*ExpenseCar.K1201000.01.ja*xml</mask>
+    <mask>*java</mask>
+    <mask>*Expense*OverseasBiz*.K1201000.01.ja*xml</mask>
+    <mask>*xml</mask>
   </component>
 </application>
