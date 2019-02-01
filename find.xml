@@ -1,27 +1,35 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.java" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>.mxml</mask>
-      <mask>.mxm</mask>
-      <mask>.mx</mask>
-      <mask>.m</mask>
-      <mask>.</mask>
-      <mask>*.java.java</mask>
-      <mask>*.jav.java</mask>
-      <mask>.java</mask>
-      <mask>*.java</mask>
-    </recentFileMasks>
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*acexpensedomesticbiztrip.standard.ja*.xml</mask>
+    <mask>*controller.java</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*Test.java</mask>
+    <mask>*Mapper.java</mask>
+    <mask>*AdvanceRequest*xml</mask>
+    <mask>*js</mask>
+    <mask>*config*java</mask>
+    <mask>*AcExpenseShortTrans*xml</mask>
+    <mask>*controller*java</mask>
+    <mask>*dto*java</mask>
+    <mask>*project*java</mask>
+    <mask>*config.java</mask>
+    <mask>*.xml</mask>
+    <mask>pom.xml</mask>
+    <mask>*dto.java</mask>
+    <mask>*sh</mask>
+    <mask>*ExpenseCar.K1201000.01.ja*xml</mask>
+    <mask>*java</mask>
+    <mask>*Expense*OverseasBiz*.K1201000.01.ja*xml</mask>
+    <mask>*xml</mask>
   </component>
 </application>
