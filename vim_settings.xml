@@ -1435,6 +1435,9 @@
         <mark key="^" line="8" column="112" />
         <mark key="." line="8" column="112" />
       </file>
+      <file name="$USER_HOME$/repos/LitePalette/node_modules/codemirror/lib/codemirror.js" timestamp="1550758800096">
+        <mark key="'" line="10" column="4" />
+      </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-webapi-spec/src/main/java/com/worksap/company/hue/inputmanagement/webapispec/endpoint/InputManagementEndPoint.java" timestamp="1536130431272">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="45" column="0" />
@@ -1480,11 +1483,11 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="45" />
       </file>
-      <file name="$USER_HOME$/repos/LitePalette/src/components/NoteEditor.js" timestamp="1550754767605">
-        <mark key="[" line="10" column="11" />
-        <mark key="]" line="10" column="13" />
-        <mark key="^" line="10" column="13" />
-        <mark key="." line="10" column="13" />
+      <file name="$USER_HOME$/repos/LitePalette/src/components/NoteEditor.js" timestamp="1550759098709">
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="17" column="2" />
+        <mark key="." line="17" column="2" />
+        <mark key="^" line="17" column="2" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/service/ImNodeService.java" timestamp="1536471525780">
         <mark key="[" line="19" column="0" />
@@ -1693,9 +1696,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="19" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/service/CalculationResultServiceImpl.java" />
-      <jump line="19" column="0" filename="$MAVEN_REPOSITORY$/com/worksap/company/hue-com-journal-dto/18.07.financials-SNAPSHOT/hue-com-journal-dto-18.07.financials-20180719.050612-9-sources.jar!/com/worksap/company/hue/com/type/journal/checkpattern/ImNodeMst.java" />
-      <jump line="16" column="4" filename="$MAVEN_REPOSITORY$/com/worksap/company/hue-com-journal-dto/18.07.financials-SNAPSHOT/hue-com-journal-dto-18.07.financials-20180719.050612-9-sources.jar!/com/worksap/company/hue/com/type/journal/checkpattern/ImNodeCondition.java" />
       <jump line="72" column="13" filename="$MAVEN_REPOSITORY$/com/worksap/company/hue-com-journal-bizcore/18.07.financials-SNAPSHOT/hue-com-journal-bizcore-18.07.financials-20180719.050654-9-sources.jar!/com/worksap/company/hue/com/bizcore/journal/master/imconvertor/service/ColumnConditionAnalyzerServiceImpl.java" />
       <jump line="102" column="16" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/service/converter/InputCheckPatternNodeConverterImpl.java" />
       <jump line="23" column="11" filename="$MAVEN_REPOSITORY$/com/worksap/company/hue-com-journal-dto/18.07.financials-SNAPSHOT/hue-com-journal-dto-18.07.financials-20180719.050612-9-sources.jar!/com/worksap/company/hue/com/type/journal/checkpattern/ConditionType.java" />
@@ -1793,6 +1793,9 @@
       <jump line="9" column="0" filename="$USER_HOME$/repos/react-native-elements-app/src/drawer/components.js" />
       <jump line="30" column="8" filename="$USER_HOME$/repos/react-native-elements-app/src/drawer/components.js" />
       <jump line="60" column="11" filename="$USER_HOME$/repos/LitePalette/src/components/NotesInDeck.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/LitePalette/node_modules/codemirror/lib/codemirror.js" />
+      <jump line="86" column="8" filename="$USER_HOME$/repos/LitePalette/node_modules/codemirror/lib/codemirror.js" />
+      <jump line="10" column="4" filename="$USER_HOME$/repos/LitePalette/node_modules/codemirror/lib/codemirror.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2105,7 +2108,7 @@
         <text>'#DBB34D'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPFZpZXcgc3R5bGU9e3tmbGV4OjEsIGFsaWduSXRlbXM6ICdjZW50ZXInLCBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcid9fT4KICAgICAgICA8VGV4dD7oqbPntLDjg5rjg7zjgrg8L1RleHQ+CiAgICAgIDwvVmlldz4K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2116,34 +2119,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYWN0aXZlVGludENvbG9yOiAnI0RCQjM0RCcsCg==</text>
+        <text encoding="base64">PENvZGVNaXJyb3IKICB2YWx1ZT0nPGgxPkkg4pmlIHJlYWN0LWNvZGVtaXJyb3IyPC9oMT4nCiAgb3B0aW9ucz17ewogICAgbW9kZTogJ3htbCcsCiAgICB0aGVtZTogJ21hdGVyaWFsJywKICAgIGxpbmVOdW1iZXJzOiB0cnVlCiAgfX0KICBvbkNoYW5nZT17KGVkaXRvciwgZGF0YSwgdmFsdWUpID0+IHsKICB9fQovPiAgICApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gdGFiU3R5bGU6IHsKICAgICAgLy8gICBiYWNrZ3JvdW5kQ29sb3I6ICd3aGl0ZScsCiAgICAgIC8vICAgY29sb3I6ICcjMDAwMDAwJywKICAgICAgLy8gfSwK</text>
+        <text encoding="base64">ICAgICAgPFZpZXcgc3R5bGU9e3tmbGV4OjEsIGFsaWduSXRlbXM6ICdjZW50ZXInLCBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcid9fT4KICAgICAgICA8VGV4dD7oqbPntLDjg5rjg7zjgrg8L1RleHQ+CiAgICAgIDwvVmlldz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgYWN0aXZlVGludENvbG9yOiAnI0RCQjM0RCcsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgLy8gdGFiU3R5bGU6IHsKICAgICAgLy8gICBiYWNrZ3JvdW5kQ29sb3I6ICd3aGl0ZScsCiAgICAgIC8vICAgY29sb3I6ICcjMDAwMDAwJywKICAgICAgLy8gfSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXJTdHlsZTogewogICAgICAgICAgYmFja2dyb3VuZENvbG9yOiAnI0Y5RjlGOScsCiAgICAgICAgICBlbGV2YXRpb246IDAsCiAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aXRsZTogbmF2aWdhdGlvbi5zdGF0ZS5wYXJhbXMuZGVja05hbWUsCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaGVhZGVyU3R5bGU6IHsKICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6ICcjRjlGOUY5JywKICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICBoZWFkZXJTdHlsZTogewogICAgICAgICAgYmFja2dyb3VuZENvbG9yOiAnI0Y5RjlGOScsCiAgICAgICAgICBlbGV2YXRpb246IDAsCiAgICAgICAgfSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYWRkaW5nQm90dG9tOiAxNiwK</text>
+        <text encoding="base64">ICAgICAgICB0aXRsZTogbmF2aWdhdGlvbi5zdGF0ZS5wYXJhbXMuZGVja05hbWUsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2156,7 +2159,7 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
