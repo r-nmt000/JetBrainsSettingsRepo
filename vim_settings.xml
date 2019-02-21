@@ -123,11 +123,11 @@
         <mark key="." line="39" column="40" />
         <mark key="^" line="39" column="40" />
       </file>
-      <file name="$USER_HOME$/repos/LitePalette/src/navigation/NoteNavigator.js" timestamp="1550587579315">
-        <mark key="[" line="20" column="16" />
-        <mark key="]" line="20" column="17" />
-        <mark key="^" line="20" column="17" />
-        <mark key="." line="20" column="17" />
+      <file name="$USER_HOME$/repos/LitePalette/src/navigation/NoteNavigator.js" timestamp="1550675962111">
+        <mark key="[" line="30" column="8" />
+        <mark key="]" line="31" column="27" />
+        <mark key="^" line="31" column="27" />
+        <mark key="." line="31" column="27" />
       </file>
       <file name="$USER_HOME$/Develop/Branch36/company/company_server/WEB-INF/web.xml" timestamp="1539768156171">
         <mark key="'" line="189" column="0" />
@@ -1105,9 +1105,9 @@
         <mark key="^" line="0" column="56" />
         <mark key="." line="0" column="57" />
       </file>
-      <file name="$USER_HOME$/repos/LitePalette/src/components/NewNoteButton.js" timestamp="1550333449875">
-        <mark key="[" line="14" column="59" />
-        <mark key="]" line="14" column="63" />
+      <file name="$USER_HOME$/repos/LitePalette/src/components/NewNoteButton.js" timestamp="1550675726569">
+        <mark key="[" line="29" column="11" />
+        <mark key="]" line="29" column="19" />
         <mark key="^" line="14" column="63" />
         <mark key="." line="14" column="63" />
       </file>
@@ -1225,11 +1225,11 @@
         <mark key="." line="20" column="5" />
         <mark key="^" line="20" column="5" />
       </file>
-      <file name="$USER_HOME$/repos/LitePalette/src/navigation/DeckNavigator.js" timestamp="1550585027689">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="33" column="26" />
+      <file name="$USER_HOME$/repos/LitePalette/src/navigation/DeckNavigator.js" timestamp="1550675523361">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="47" column="8" />
+        <mark key="." line="44" column="28" />
+        <mark key="^" line="42" column="19" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-dto/src/main/java/com/worksap/company/hue/inputmanagement/dto/ImEnumTypeMstDto.java" timestamp="1536139060341">
         <mark key="[" line="28" column="17" />
@@ -2096,16 +2096,16 @@
         <text>gjgkgjgjgjddgjgjddgjgjddgjgj</text>
       </register>
       <register name="-" type="4">
-        <text>marginBottom</text>
+        <text>''</text>
       </register>
       <register name="/" type="4">
         <text>newnote</text>
       </register>
       <register name="0" type="4">
-        <text>#000000</text>
+        <text>'#DBB34D'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYWRkaW5nQm90dG9tOiAxNiwK</text>
+        <text encoding="base64">ICAgICAgYWN0aXZlVGludENvbG9yOiAnI0RCQjM0RCcsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2116,34 +2116,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvcjogJyMwMDAwMDAnLAo=</text>
+        <text encoding="base64">ICAgICAgLy8gdGFiU3R5bGU6IHsKICAgICAgLy8gICBiYWNrZ3JvdW5kQ29sb3I6ICd3aGl0ZScsCiAgICAgIC8vICAgY29sb3I6ICcjMDAwMDAwJywKICAgICAgLy8gfSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBoZWFkZXJTdHlsZTogewogICAgICAgICAgYmFja2dyb3VuZENvbG9yOiAnI0Y5RjlGOScsCiAgICAgICAgICBlbGV2YXRpb246IDAsCiAgICAgICAgfSwK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0eWxlOiB7CiAgICAgIEJhY2tncm91bmRDb2xvcjogJ3doaXRlJywKICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICB0aXRsZTogbmF2aWdhdGlvbi5zdGF0ZS5wYXJhbXMuZGVja05hbWUsCg==</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRhYlN0eWxlOiB7CiAgICAgIEJhY2tncm91bmRDb2xvcjogJ3doaXRlJywKICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgaGVhZGVyU3R5bGU6IHsKICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6ICcjRjlGOUY5JywKICAgICAgfSwK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYWRkaW5nQm90dG9tOiAxNiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICBjb2xvcjogJyMwMDAwMDAnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
