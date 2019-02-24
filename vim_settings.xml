@@ -877,6 +877,11 @@
         <mark key="^" line="74" column="15" />
         <mark key="." line="74" column="15" />
       </file>
+      <file name="$USER_HOME$/repos/react-native-webview-quilljs-test-app/webpack.config.js" timestamp="1551016545728">
+        <mark key="'" line="17" column="10" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="16" column="3" />
+      </file>
       <file name="/fragment.java" timestamp="1539669744448">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
@@ -1717,7 +1722,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="16" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/service/converter/InputCheckPatternNodeConverterImpl.java" />
       <jump line="23" column="11" filename="$MAVEN_REPOSITORY$/com/worksap/company/hue-com-journal-dto/18.07.financials-SNAPSHOT/hue-com-journal-dto-18.07.financials-20180719.050612-9-sources.jar!/com/worksap/company/hue/com/type/journal/checkpattern/ConditionType.java" />
       <jump line="29" column="8" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/ColumnConditionAnalyzerImpl.java" />
       <jump line="26" column="4" filename="$MAVEN_REPOSITORY$/com/worksap/company/hue-com-journal-bizcore/18.07.financials-SNAPSHOT/hue-com-journal-bizcore-18.07.financials-20180719.050654-9-sources.jar!/com/worksap/company/hue/com/bizcore/journal/master/imconvertor/entity/MasterDatas.java" />
@@ -1817,6 +1821,7 @@
       <jump line="86" column="8" filename="$USER_HOME$/repos/LitePalette/node_modules/codemirror/lib/codemirror.js" />
       <jump line="10" column="4" filename="$USER_HOME$/repos/LitePalette/node_modules/codemirror/lib/codemirror.js" />
       <jump line="32" column="4" filename="$USER_HOME$/repos/react-native-webview-quilljs-test-app/App.js" />
+      <jump line="17" column="10" filename="$USER_HOME$/repos/react-native-webview-quilljs-test-app/webpack.config.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2126,7 +2131,7 @@
         <text>newnote</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC1uYXRpdmUiOiAiaHR0cHM6Ly9naXRodWIuY29tL2V4cG8vcmVhY3QtbmF0aXZlL2FyY2hpdmUvc2RrLTMyLjAuMC50YXIuZ3oiLAo=</text>
+        <text encoding="base64">ICBvdXRwdXQ6IHsKICAgIHBhdGg6IHBhdGguam9pbihfX2Rpcm5hbWUsICcuL2Rpc3QnKSwKICAgIGZpbGVuYW1lOiAnW25hbWVdLmJ1bmRsZS5qcycKICB9LAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICB9Cg==</text>
