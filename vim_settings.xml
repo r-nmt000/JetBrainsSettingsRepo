@@ -877,10 +877,10 @@
         <mark key="^" line="74" column="15" />
         <mark key="." line="74" column="15" />
       </file>
-      <file name="$USER_HOME$/repos/react-native-webview-quilljs-test-app/webpack.config.js" timestamp="1551016545728">
-        <mark key="'" line="17" column="10" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="16" column="3" />
+      <file name="$USER_HOME$/repos/react-native-webview-quilljs-test-app/webpack.config.js" timestamp="1551018179866">
+        <mark key="'" line="52" column="19" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="64" column="2" />
       </file>
       <file name="/fragment.java" timestamp="1539669744448">
         <mark key="[" line="0" column="0" />
@@ -1722,7 +1722,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="11" filename="$MAVEN_REPOSITORY$/com/worksap/company/hue-com-journal-dto/18.07.financials-SNAPSHOT/hue-com-journal-dto-18.07.financials-20180719.050612-9-sources.jar!/com/worksap/company/hue/com/type/journal/checkpattern/ConditionType.java" />
       <jump line="29" column="8" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/ColumnConditionAnalyzerImpl.java" />
       <jump line="26" column="4" filename="$MAVEN_REPOSITORY$/com/worksap/company/hue-com-journal-bizcore/18.07.financials-SNAPSHOT/hue-com-journal-bizcore-18.07.financials-20180719.050654-9-sources.jar!/com/worksap/company/hue/com/bizcore/journal/master/imconvertor/entity/MasterDatas.java" />
       <jump line="29" column="13" filename="$MAVEN_REPOSITORY$/com/worksap/company/hue-com-journal-bizcore/18.07.financials-SNAPSHOT/hue-com-journal-bizcore-18.07.financials-20180719.050654-9-sources.jar!/com/worksap/company/hue/com/bizcore/journal/master/imconvertor/util/KeyGetter.java" />
@@ -1822,6 +1821,7 @@
       <jump line="10" column="4" filename="$USER_HOME$/repos/LitePalette/node_modules/codemirror/lib/codemirror.js" />
       <jump line="32" column="4" filename="$USER_HOME$/repos/react-native-webview-quilljs-test-app/App.js" />
       <jump line="17" column="10" filename="$USER_HOME$/repos/react-native-webview-quilljs-test-app/webpack.config.js" />
+      <jump line="52" column="19" filename="$USER_HOME$/repos/react-native-webview-quilljs-test-app/webpack.config.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2131,7 +2131,7 @@
         <text>newnote</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBvdXRwdXQ6IHsKICAgIHBhdGg6IHBhdGguam9pbihfX2Rpcm5hbWUsICcuL2Rpc3QnKSwKICAgIGZpbGVuYW1lOiAnW25hbWVdLmJ1bmRsZS5qcycKICB9LAo=</text>
+        <text encoding="base64">ICBwbHVnaW5zOiBbCiAgICBuZXcgSHRtbFdlYnBhY2tQbHVnaW4oewogICAgICB0ZW1wbGF0ZTogJy4vd2ViL3JlYWN0TmF0aXZlQ29tcG9uZW50VGVtcGxhdGUuaHRtbCcsCiAgICAgIGNodW5rczogWydlZGl0b3InLCAnY29tbW9ucyddLAogICAgICBpbmplY3Q6ICdib2R5JywKICAgICAgZmlsZW5hbWU6ICcuL3JlYWN0UXVpbGxFZGl0b3ItaW5kZXguaHRtbCcKICAgIH0pLAogICAgbmV3IEh0bWxXZWJwYWNrUGx1Z2luKHsKICAgICAgdGVtcGxhdGU6ICcuL3dlYi9yZWFjdE5hdGl2ZUNvbXBvbmVudFRlbXBsYXRlLmh0bWwnLAogICAgICBjaHVua3M6IFsndmlld2VyJywgJ2NvbW1vbnMnXSwKICAgICAgaW5qZWN0OiAnYm9keScsCiAgICAgIGZpbGVuYW1lOiAnLi9yZWFjdFF1aWxsVmlld2VyLWluZGV4Lmh0bWwnCiAgICAgIAogICAgfSksCiAgICBjb21tb25zUGx1Z2luCiAgXQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICB9Cg==</text>
