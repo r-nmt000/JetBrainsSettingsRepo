@@ -697,11 +697,11 @@
         <mark key="." line="1" column="16" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/repos/LitePalette/webpack.config.js" timestamp="1551280670389">
-        <mark key="[" line="54" column="19" />
-        <mark key="]" line="54" column="28" />
-        <mark key="^" line="54" column="28" />
-        <mark key="." line="54" column="28" />
+      <file name="$USER_HOME$/repos/LitePalette/webpack.config.js" timestamp="1551709030496">
+        <mark key="[" line="48" column="17" />
+        <mark key="]" line="48" column="17" />
+        <mark key="^" line="49" column="5" />
+        <mark key="." line="48" column="17" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-build/kubernetes/services/input-management-pdb.yaml.j2" timestamp="1536289907670">
         <mark key="[" line="7" column="38" />
@@ -805,6 +805,9 @@
         <mark key="^" line="18" column="18" />
         <mark key="." line="18" column="18" />
       </file>
+      <file name="/Dummy.txt" timestamp="1551706058731">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-build/kubernetes/services/input-management.yaml.j2" timestamp="1536289957854">
         <mark key="[" line="8" column="38" />
         <mark key="]" line="8" column="53" />
@@ -883,10 +886,10 @@
         <mark key="^" line="74" column="15" />
         <mark key="." line="74" column="15" />
       </file>
-      <file name="$USER_HOME$/repos/react-native-webview-quilljs-test-app/webpack.config.js" timestamp="1551280480378">
-        <mark key="'" line="7" column="2" />
+      <file name="$USER_HOME$/repos/react-native-webview-quilljs-test-app/webpack.config.js" timestamp="1551708220399">
+        <mark key="'" line="57" column="40" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="65" column="1" />
+        <mark key="]" line="2" column="56" />
       </file>
       <file name="/fragment.java" timestamp="1539669744448">
         <mark key="[" line="0" column="0" />
@@ -1183,9 +1186,9 @@
         <mark key="." line="13" column="58" />
       </file>
       <file name="$USER_HOME$/repos/LitePalette/package.json" timestamp="1551706056762">
-        <mark key="[" line="29" column="22" />
-        <mark key="]" line="29" column="23" />
-        <mark key="." line="29" column="23" />
+        <mark key="[" line="30" column="22" />
+        <mark key="]" line="30" column="23" />
+        <mark key="." line="30" column="23" />
         <mark key="^" line="16" column="27" />
       </file>
       <file name="$USER_HOME$/repos/react-native-webview-quilljs-test-app/package.json" timestamp="1551280760937">
@@ -1725,7 +1728,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="13" filename="$MAVEN_REPOSITORY$/com/worksap/company/hue-com-journal-bizcore/18.07.financials-SNAPSHOT/hue-com-journal-bizcore-18.07.financials-20180719.050654-9-sources.jar!/com/worksap/company/hue/com/bizcore/journal/master/imconvertor/service/NodeConditionMatcherServiceImpl.java" />
       <jump line="24" column="13" filename="$MAVEN_REPOSITORY$/com/worksap/company/hue-com-journal-bizcore/18.07.financials-SNAPSHOT/hue-com-journal-bizcore-18.07.financials-20180719.050654-9-sources.jar!/com/worksap/company/hue/com/bizcore/journal/master/imconvertor/util/RangeConditionMatcherUtil.java" />
       <jump line="108" column="96" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/ColumnConditionAnalyzerImpl.java" />
       <jump line="50" column="0" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management-sdk/hue-input-management-sdk-webapi-spec/src/main/java/com/worksap/company/inputmanagement/webapi/spec/data/type/ImTargetDef.java" />
@@ -1825,6 +1827,7 @@
       <jump line="91" column="36" filename="$USER_HOME$/repos/LitePalette/src/components/AllDecks.js" />
       <jump line="28" column="12" filename="$USER_HOME$/repos/react-native-webview-quilljs-test-app/package.json" />
       <jump line="41" column="10" filename="$USER_HOME$/repos/react-native-webview-quilljs-test-app/package.json" />
+      <jump line="57" column="40" filename="$USER_HOME$/repos/react-native-webview-quilljs-test-app/webpack.config.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2128,16 +2131,16 @@
         <text>gjgkgjgjgjddgjgjddgjgjddgjgj</text>
       </register>
       <register name="-" type="4">
-        <text>ReactQuillEditor</text>
+        <text>commons</text>
       </register>
       <register name="/" type="4">
         <text>newnote</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0RE9NIGZyb20gInJlYWN0LWRvbSI7CmltcG9ydCBSZWFjdFF1aWxsRWRpdG9yIGZyb20gJy4vcmVhY3RRdWlsbEVkaXRvcic7CmltcG9ydCBSZWFjdCBmcm9tICJyZWFjdCI7CgpSZWFjdERPTS5yZW5kZXIoPFJlYWN0UXVpbGxFZGl0b3IgLz4sIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJyb290IikpOwo=</text>
+        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKTsKY29uc3Qgd2VicGFjayA9IHJlcXVpcmUoJ3dlYnBhY2snKTsKY29uc3QgSHRtbFdlYnBhY2tQbHVnaW4gPSByZXF1aXJlKCdodG1sLXdlYnBhY2stcGx1Z2luJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5ldyBIdG1sV2VicGFja1BsdWdpbih7CiAgICAgIHRlbXBsYXRlOiAnLi9zcmMvbm90ZS93ZWIvdGVtcGxhdGUuaHRtbCcsCiAgICAgIGNodW5rczogWyd2aWV3ZXInLCAnY29tbW9ucyddLAogICAgICBpbmplY3Q6ICdib2R5JywKICAgICAgZmlsZW5hbWU6ICcuL3JlYWN0UXVpbGxWaWV3ZXItaW5kZXguaHRtbCcKCiAgICB9KSwK</text>
+        <text encoding="base64">ICAgIGNvbW1vbnNQbHVnaW4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2148,34 +2151,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGVtcGxhdGU6ICcuL3dlYi9yZWFjdE5hdGl2ZUNvbXBvbmVudFRlbXBsYXRlLmh0bWwnLAo=</text>
+        <text encoding="base64">Y29uc3QgY29tbW9uc1BsdWdpbiA9IG5ldyB3ZWJwYWNrLm9wdGltaXplLkNvbW1vbnNDaHVua1BsdWdpbih7CiAgbmFtZTogJ2NvbW1vbnMnLCAvLyBKdXN0IG5hbWUgaXQKICBmaWxlbmFtZTogJ2NvbW1vbi5qcycgLy8gTmFtZSBvZiB0aGUgb3V0cHV0IGZpbGUKICAvLyBUaGVyZSBhcmUgbW9yZSBvcHRpb25zLCBidXQgd2UgZG9uJ3QgbmVlZCB0aGVtIHlldC4KfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZpZXdlcjogJy4uL2NvbXBvbmVudFZpZXdlci5qcycK</text>
+        <text encoding="base64">aW1wb3J0IHBhdGggZnJvbSAicGF0aCI7CmltcG9ydCBIdG1sV2VicGFja1BsdWdpbiBmcm9tICJodG1sLXdlYnBhY2stcGx1Z2luIjsKaW1wb3J0IHdlYnBhY2sgZnJvbSAid2VicGFjayI7Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHdlYnBhY2sgZnJvbSAid2VicGFjayI7Cg==</text>
+        <text encoding="base64">ICAgIG5ldyBIdG1sV2VicGFja1BsdWdpbih7CiAgICAgIHRlbXBsYXRlOiAnLi9zcmMvbm90ZS93ZWIvdGVtcGxhdGUuaHRtbCcsCiAgICAgIGNodW5rczogWyd2aWV3ZXInLCAnY29tbW9ucyddLAogICAgICBpbmplY3Q6ICdib2R5JywKICAgICAgZmlsZW5hbWU6ICcuL3JlYWN0UXVpbGxWaWV3ZXItaW5kZXguaHRtbCcKCiAgICB9KSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGVtcGxhdGU6ICcuL3dlYi9yZWFjdE5hdGl2ZUNvbXBvbmVudFRlbXBsYXRlLmh0bWwnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZpZXdlcjogJy4uL2NvbXBvbmVudFZpZXdlci5qcycK</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDx0aXRsZT5UaXRsZTwvdGl0bGU+CjwvaGVhZD4KPGJvZHk+Cgo8L2JvZHk+CjwvaHRtbD4K</text>
+        <text encoding="base64">aW1wb3J0IHdlYnBhY2sgZnJvbSAid2VicGFjayI7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiZW52IjogewogICAgImRldmVsb3BtZW50IjogewogICAgICAicGx1Z2lucyI6IFsidHJhbnNmb3JtLXJlYWN0LWpzeC1zb3VyY2UiXQogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
