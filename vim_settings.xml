@@ -697,11 +697,12 @@
         <mark key="." line="1" column="16" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/repos/LitePalette/webpack.config.js" timestamp="1551967440157">
-        <mark key="[" line="34" column="22" />
-        <mark key="]" line="34" column="22" />
-        <mark key="." line="34" column="22" />
-        <mark key="^" line="34" column="22" />
+      <file name="$USER_HOME$/repos/LitePalette/webpack.config.js" timestamp="1551971289497">
+        <mark key="'" line="13" column="22" />
+        <mark key="[" line="19" column="57" />
+        <mark key="]" line="19" column="57" />
+        <mark key="^" line="19" column="57" />
+        <mark key="." line="19" column="57" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-build/kubernetes/services/input-management-pdb.yaml.j2" timestamp="1536289907670">
         <mark key="[" line="7" column="38" />
@@ -886,8 +887,8 @@
         <mark key="^" line="74" column="15" />
         <mark key="." line="74" column="15" />
       </file>
-      <file name="$USER_HOME$/repos/react-native-webview-quilljs-test-app/webpack.config.js" timestamp="1551708220399">
-        <mark key="'" line="57" column="40" />
+      <file name="$USER_HOME$/repos/react-native-webview-quilljs-test-app/webpack.config.js" timestamp="1551968785649">
+        <mark key="'" line="54" column="36" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="56" />
       </file>
@@ -1185,11 +1186,11 @@
         <mark key="^" line="13" column="58" />
         <mark key="." line="13" column="58" />
       </file>
-      <file name="$USER_HOME$/repos/LitePalette/package.json" timestamp="1551706056762">
-        <mark key="[" line="35" column="22" />
-        <mark key="]" line="35" column="23" />
-        <mark key="." line="35" column="23" />
+      <file name="$USER_HOME$/repos/LitePalette/package.json" timestamp="1551970231913">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
         <mark key="^" line="16" column="27" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/repos/react-native-webview-quilljs-test-app/package.json" timestamp="1551280760937">
         <mark key="'" line="41" column="10" />
@@ -1728,8 +1729,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="13" filename="$MAVEN_REPOSITORY$/com/worksap/company/hue-com-journal-bizcore/18.07.financials-SNAPSHOT/hue-com-journal-bizcore-18.07.financials-20180719.050654-9-sources.jar!/com/worksap/company/hue/com/bizcore/journal/master/imconvertor/util/RangeConditionMatcherUtil.java" />
-      <jump line="108" column="96" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/ColumnConditionAnalyzerImpl.java" />
       <jump line="50" column="0" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management-sdk/hue-input-management-sdk-webapi-spec/src/main/java/com/worksap/company/inputmanagement/webapi/spec/data/type/ImTargetDef.java" />
       <jump line="70" column="18" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/service/converter/InputCheckPatternNodeConvertorImpl.java" />
       <jump line="68" column="0" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/service/converter/InputCheckPatternNodeConvertorImpl.java" />
@@ -1828,6 +1827,8 @@
       <jump line="28" column="12" filename="$USER_HOME$/repos/react-native-webview-quilljs-test-app/package.json" />
       <jump line="41" column="10" filename="$USER_HOME$/repos/react-native-webview-quilljs-test-app/package.json" />
       <jump line="57" column="40" filename="$USER_HOME$/repos/react-native-webview-quilljs-test-app/webpack.config.js" />
+      <jump line="54" column="36" filename="$USER_HOME$/repos/react-native-webview-quilljs-test-app/webpack.config.js" />
+      <jump line="14" column="22" filename="$USER_HOME$/repos/LitePalette/webpack.config.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2131,7 +2132,7 @@
         <text>gjgkgjgjgjddgjgjddgjgjddgjgj</text>
       </register>
       <register name="-" type="4">
-        <text>commons</text>
+        <text>webview</text>
       </register>
       <register name="/" type="4">
         <text>newnote</text>
@@ -2140,7 +2141,7 @@
         <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKTsKY29uc3Qgd2VicGFjayA9IHJlcXVpcmUoJ3dlYnBhY2snKTsKY29uc3QgSHRtbFdlYnBhY2tQbHVnaW4gPSByZXF1aXJlKCdodG1sLXdlYnBhY2stcGx1Z2luJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAnZXgyMDE1Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAnc3RhZ2UtMicsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2151,34 +2152,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAnc3RhZ2UtMicsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbW1vbnNQbHVnaW4K</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wcmVzZXQtc3RhZ2UtMCI6ICJeNi4yNC4xIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgY29tbW9uc1BsdWdpbiA9IG5ldyB3ZWJwYWNrLm9wdGltaXplLkNvbW1vbnNDaHVua1BsdWdpbih7CiAgbmFtZTogJ2NvbW1vbnMnLCAvLyBKdXN0IG5hbWUgaXQKICBmaWxlbmFtZTogJ2NvbW1vbi5qcycgLy8gTmFtZSBvZiB0aGUgb3V0cHV0IGZpbGUKICAvLyBUaGVyZSBhcmUgbW9yZSBvcHRpb25zLCBidXQgd2UgZG9uJ3QgbmVlZCB0aGVtIHlldC4KfSk7Cg==</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wcmVzZXQtcmVhY3QiOiAiXjYuMjQuMSIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHBhdGggZnJvbSAicGF0aCI7CmltcG9ydCBIdG1sV2VicGFja1BsdWdpbiBmcm9tICJodG1sLXdlYnBhY2stcGx1Z2luIjsKaW1wb3J0IHdlYnBhY2sgZnJvbSAid2VicGFjayI7Cgo=</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wcmVzZXQtZXMyMDE1IjogIl42LjI0LjEiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5ldyBIdG1sV2VicGFja1BsdWdpbih7CiAgICAgIHRlbXBsYXRlOiAnLi9zcmMvbm90ZS93ZWIvdGVtcGxhdGUuaHRtbCcsCiAgICAgIGNodW5rczogWyd2aWV3ZXInLCAnY29tbW9ucyddLAogICAgICBpbmplY3Q6ICdib2R5JywKICAgICAgZmlsZW5hbWU6ICcuL3JlYWN0UXVpbGxWaWV3ZXItaW5kZXguaHRtbCcKCiAgICB9KSwK</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wcmVzZXQtZW52IjogIl4xLjcuMCIsCg==</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGVtcGxhdGU6ICcuL3dlYi9yZWFjdE5hdGl2ZUNvbXBvbmVudFRlbXBsYXRlLmh0bWwnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAnZXgyMDE1JywK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZpZXdlcjogJy4uL2NvbXBvbmVudFZpZXdlci5qcycK</text>
+        <text encoding="base64">Y29uc3Qgd2VicGFjayA9IHJlcXVpcmUoJ3dlYnBhY2snKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHdlYnBhY2sgZnJvbSAid2VicGFjayI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAnZXgyMDE1Jwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
