@@ -583,6 +583,7 @@
         <mark key="]" line="14" column="2" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/react-native-webview-quilljs-test-app/WebViewQuillEditor.js" timestamp="1552055345126" />
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/vo/ColumnConditionResult.java" timestamp="1536399472873">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="9" column="5" />
@@ -697,12 +698,12 @@
         <mark key="." line="1" column="16" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/repos/LitePalette/webpack.config.js" timestamp="1552053528322">
+      <file name="$USER_HOME$/repos/LitePalette/webpack.config.js" timestamp="1552056669678">
         <mark key="'" line="13" column="22" />
-        <mark key="[" line="19" column="30" />
-        <mark key="]" line="19" column="30" />
-        <mark key="." line="19" column="30" />
-        <mark key="^" line="4" column="21" />
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="10" column="65" />
+        <mark key="." line="10" column="61" />
+        <mark key="^" line="10" column="61" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-build/kubernetes/services/input-management-pdb.yaml.j2" timestamp="1536289907670">
         <mark key="[" line="7" column="38" />
@@ -945,6 +946,13 @@
         <mark key="]" line="12" column="87" />
         <mark key="^" line="12" column="87" />
         <mark key="." line="12" column="87" />
+      </file>
+      <file name="$USER_HOME$/repos/LitePalette/.gitignore" timestamp="1552056675274">
+        <mark key="'" line="281" column="60" />
+        <mark key="[" line="664" column="0" />
+        <mark key="]" line="664" column="0" />
+        <mark key="^" line="664" column="0" />
+        <mark key="." line="664" column="0" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-build/run.sh" timestamp="1536297481384">
         <mark key="[" line="0" column="0" />
@@ -1190,9 +1198,9 @@
         <mark key="." line="13" column="58" />
       </file>
       <file name="$USER_HOME$/repos/LitePalette/package.json" timestamp="1552046428139">
-        <mark key="[" line="34" column="21" />
-        <mark key="]" line="34" column="28" />
-        <mark key="." line="34" column="21" />
+        <mark key="[" line="33" column="21" />
+        <mark key="]" line="33" column="28" />
+        <mark key="." line="33" column="21" />
       </file>
       <file name="$USER_HOME$/repos/react-native-webview-quilljs-test-app/package.json" timestamp="1552052319630">
         <mark key="'" line="46" column="21" />
@@ -1731,8 +1739,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="0" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/service/converter/InputCheckPatternNodeConvertorImpl.java" />
-      <jump line="84" column="47" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/config/InputManagementBizcoreConfig.java" />
       <jump line="10" column="4" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-gl/hue-ac-gl-biz/src/main/java/com/worksap/company/hue/ac/biz/gl/journal/master/im/model/JournalInputManagementCheckPtnWk.java" />
       <jump line="43" column="11" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management-sdk/hue-input-management-sdk-webapi-spec/src/main/java/com/worksap/company/inputmanagement/webapi/spec/data/Setting.java" />
       <jump line="34" column="48" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-webapi/src/main/java/com/worksap/company/hue/inputmanagement/controller/SettingDetailController.java" />
@@ -1831,6 +1837,8 @@
       <jump line="14" column="22" filename="$USER_HOME$/repos/LitePalette/webpack.config.js" />
       <jump line="1" column="0" filename="$USER_HOME$/repos/LitePalette/dist/editor.bundle.js" />
       <jump line="46" column="21" filename="$USER_HOME$/repos/react-native-webview-quilljs-test-app/package.json" />
+      <jump line="144" column="0" filename="$USER_HOME$/repos/LitePalette/.gitignore" />
+      <jump line="281" column="60" filename="$USER_HOME$/repos/LitePalette/.gitignore" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2134,16 +2142,16 @@
         <text>gjgkgjgjgjddgjgjddgjgjddgjgj</text>
       </register>
       <register name="-" type="4">
-        <text>babel</text>
+        <text>'.</text>
       </register>
       <register name="/" type="4">
-        <text>newnote</text>
+        <text>dis</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAnc3RhZ2UtMicK</text>
+      <register name="0" type="4">
+        <text>./src/components/note/webview/dist</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAnZXMyMDE1Jwo=</text>
+        <text encoding="base64">Li9zcmMK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2154,31 +2162,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAnc3RhZ2UtMicsCiAgICAgICAgICAgICAgJ2VzMjAxNScK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAnc3RhZ2UtMCcsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJAYmFiZWwvcHJlc2V0LWVudiI6ICJeNy4zLjQiLAogICAgIkBiYWJlbC9wcmVzZXQtcmVhY3QiOiAiXjcuMC4wIiwKICAgICJAYmFiZWwvcHJlc2V0LXN0YWdlLTAiOiAiXjcuMC4wIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAnZW52JywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAnZXMyMDE1Jwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAnQGJhYmVsL3N0YWdlLTInLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAnc3RhZ2UtMicsCiAgICAgICAgICAgICAgJ2VzMjAxNScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1wcmVzZXQtc3RhZ2UtMCI6ICJeNi4yNC4xIiwK</text>
+        <text encoding="base64">ICAgICJAYmFiZWwvcHJlc2V0LWVudiI6ICJeNy4zLjQiLAogICAgIkBiYWJlbC9wcmVzZXQtcmVhY3QiOiAiXjcuMC4wIiwKICAgICJAYmFiZWwvcHJlc2V0LXN0YWdlLTAiOiAiXjcuMC4wIiwK</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAnc3RhZ2UtMicsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAnc3RhZ2UtMicsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAnQGJhYmVsL3N0YWdlLTInLAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICJiYWJlbC1wcmVzZXQtc3RhZ2UtMCI6ICJeNi4yNC4xIiwK</text>
@@ -2188,13 +2196,13 @@
       </register>
     </registers>
     <search>
-      <last-search>newnote</last-search>
+      <last-search>dis</last-search>
       <last-offset />
-      <last-pattern>newnote</last-pattern>
+      <last-pattern>dis</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxtb2RlbEFuZFZpZXdcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -2203,6 +2211,7 @@
         <entry encoding="base64">XDxjXD4=</entry>
         <entry encoding="base64">XDxhY1VzZXJDb250ZXh0XD4=</entry>
         <entry>newnote</entry>
+        <entry>dis</entry>
       </history-search>
       <history-cmd>
         <entry>dw</entry>
