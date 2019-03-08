@@ -697,12 +697,12 @@
         <mark key="." line="1" column="16" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/repos/LitePalette/webpack.config.js" timestamp="1552047305112">
+      <file name="$USER_HOME$/repos/LitePalette/webpack.config.js" timestamp="1552051027719">
         <mark key="'" line="13" column="22" />
-        <mark key="[" line="34" column="23" />
-        <mark key="]" line="35" column="20" />
-        <mark key="." line="35" column="20" />
-        <mark key="^" line="35" column="20" />
+        <mark key="[" line="32" column="18" />
+        <mark key="]" line="32" column="18" />
+        <mark key="." line="32" column="18" />
+        <mark key="^" line="32" column="18" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-build/kubernetes/services/input-management-pdb.yaml.j2" timestamp="1536289907670">
         <mark key="[" line="7" column="38" />
@@ -887,7 +887,7 @@
         <mark key="^" line="74" column="15" />
         <mark key="." line="74" column="15" />
       </file>
-      <file name="$USER_HOME$/repos/react-native-webview-quilljs-test-app/webpack.config.js" timestamp="1552046494840">
+      <file name="$USER_HOME$/repos/react-native-webview-quilljs-test-app/webpack.config.js" timestamp="1552051280327">
         <mark key="'" line="54" column="36" />
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="23" />
@@ -1089,6 +1089,9 @@
         <mark key="]" line="24" column="76" />
         <mark key="." line="24" column="46" />
         <mark key="^" line="30" column="50" />
+      </file>
+      <file name="$USER_HOME$/repos/LitePalette/dist/editor.bundle.js" timestamp="1552051685310">
+        <mark key="'" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/service/setting/ImSettingValidatorImpl.java" timestamp="1537675077116">
         <mark key="[" line="118" column="64" />
@@ -1728,7 +1731,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="0" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management-sdk/hue-input-management-sdk-webapi-spec/src/main/java/com/worksap/company/inputmanagement/webapi/spec/data/type/ImTargetDef.java" />
       <jump line="70" column="18" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/service/converter/InputCheckPatternNodeConvertorImpl.java" />
       <jump line="68" column="0" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/service/converter/InputCheckPatternNodeConvertorImpl.java" />
       <jump line="84" column="47" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/config/InputManagementBizcoreConfig.java" />
@@ -1828,6 +1830,7 @@
       <jump line="57" column="40" filename="$USER_HOME$/repos/react-native-webview-quilljs-test-app/webpack.config.js" />
       <jump line="54" column="36" filename="$USER_HOME$/repos/react-native-webview-quilljs-test-app/webpack.config.js" />
       <jump line="14" column="22" filename="$USER_HOME$/repos/LitePalette/webpack.config.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/repos/LitePalette/dist/editor.bundle.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2140,7 +2143,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAnc3RhZ2UtMicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJAYmFiZWwvcHJlc2V0LWVudiI6ICJeNy4zLjQiLAogICAgIkBiYWJlbC9wcmVzZXQtcmVhY3QiOiAiXjcuMC4wIiwKICAgICJAYmFiZWwvcHJlc2V0LXN0YWdlLTAiOiAiXjcuMC4wIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAnZXMyMDE1Jwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2151,34 +2154,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAnc3RhZ2UtMicsCiAgICAgICAgICAgICAgJ2VzMjAxNScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAnQGJhYmVsL3N0YWdlLTInLAo=</text>
+        <text encoding="base64">ICAgICJAYmFiZWwvcHJlc2V0LWVudiI6ICJeNy4zLjQiLAogICAgIkBiYWJlbC9wcmVzZXQtcmVhY3QiOiAiXjcuMC4wIiwKICAgICJAYmFiZWwvcHJlc2V0LXN0YWdlLTAiOiAiXjcuMC4wIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1wcmVzZXQtc3RhZ2UtMCI6ICJeNi4yNC4xIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAnc3RhZ2UtMicsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAnQGJhYmVsL3N0YWdlLTInLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAnc3RhZ2UtMicsCg==</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wcmVzZXQtc3RhZ2UtMCI6ICJeNi4yNC4xIiwK</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1wcmVzZXQtc3RhZ2UtMCI6ICJeNi4yNC4xIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAnc3RhZ2UtMicsCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1wcmVzZXQtcmVhY3QiOiAiXjYuMjQuMSIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAnc3RhZ2UtMicsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1wcmVzZXQtZXMyMDE1IjogIl42LjI0LjEiLAo=</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wcmVzZXQtc3RhZ2UtMCI6ICJeNi4yNC4xIiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
