@@ -583,7 +583,11 @@
         <mark key="]" line="14" column="2" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/react-native-webview-quilljs-test-app/WebViewQuillEditor.js" timestamp="1552055345126" />
+      <file name="$USER_HOME$/repos/react-native-webview-quilljs-test-app/WebViewQuillEditor.js" timestamp="1552490370513">
+        <mark key="'" line="162" column="16" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="38" column="2" />
+      </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/vo/ColumnConditionResult.java" timestamp="1536399472873">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="9" column="5" />
@@ -735,6 +739,12 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/LitePalette/src/components/note/webview/NoteEditorCore.js" timestamp="1552489482315">
+        <mark key="[" line="4" column="31" />
+        <mark key="]" line="4" column="34" />
+        <mark key="." line="4" column="34" />
+        <mark key="^" line="4" column="34" />
+      </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-version-up/pom.xml" timestamp="1538559217946">
         <mark key="[" line="8" column="23" />
         <mark key="]" line="8" column="40" />
@@ -806,6 +816,13 @@
         <mark key="]" line="42" column="72" />
         <mark key="^" line="18" column="18" />
         <mark key="." line="18" column="18" />
+      </file>
+      <file name="$USER_HOME$/repos/LitePalette/src/components/note/NoteEditor.js" timestamp="1552490065571">
+        <mark key="'" line="24" column="17" />
+        <mark key="[" line="26" column="3" />
+        <mark key="]" line="27" column="1" />
+        <mark key="." line="27" column="1" />
+        <mark key="^" line="27" column="1" />
       </file>
       <file name="/Dummy.txt" timestamp="1551706058731">
         <mark key="[" line="0" column="0" />
@@ -1616,6 +1633,12 @@
         <mark key="^" line="19" column="91" />
         <mark key="." line="19" column="91" />
       </file>
+      <file name="$USER_HOME$/repos/LitePalette/src/components/note/webview/componentEditor.js" timestamp="1552489493647">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="30" />
+        <mark key="." line="4" column="30" />
+        <mark key="^" line="4" column="30" />
+      </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-batch/src/main/resources/application.properties" timestamp="1536818174701">
         <mark key="[" line="18" column="41" />
         <mark key="]" line="18" column="39" />
@@ -1739,9 +1762,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="4" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-gl/hue-ac-gl-biz/src/main/java/com/worksap/company/hue/ac/biz/gl/journal/master/im/model/JournalInputManagementCheckPtnWk.java" />
-      <jump line="43" column="11" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management-sdk/hue-input-management-sdk-webapi-spec/src/main/java/com/worksap/company/inputmanagement/webapi/spec/data/Setting.java" />
-      <jump line="34" column="48" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-webapi/src/main/java/com/worksap/company/hue/inputmanagement/controller/SettingDetailController.java" />
       <jump line="21" column="8" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/dao/ImCheckPtnWkDaoImpl.java" />
       <jump line="19" column="0" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-front/src/main/webapp/lib/wap/product-js/ac/expense/components/com-expense-attachment.js" />
       <jump line="150" column="55" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/config/InputManagementBizcoreConfig.java" />
@@ -1839,6 +1859,9 @@
       <jump line="46" column="21" filename="$USER_HOME$/repos/react-native-webview-quilljs-test-app/package.json" />
       <jump line="144" column="0" filename="$USER_HOME$/repos/LitePalette/.gitignore" />
       <jump line="281" column="60" filename="$USER_HOME$/repos/LitePalette/.gitignore" />
+      <jump line="150" column="10" filename="$USER_HOME$/repos/react-native-webview-quilljs-test-app/WebViewQuillEditor.js" />
+      <jump line="162" column="16" filename="$USER_HOME$/repos/react-native-webview-quilljs-test-app/WebViewQuillEditor.js" />
+      <jump line="24" column="17" filename="$USER_HOME$/repos/LitePalette/src/components/note/NoteEditor.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2142,16 +2165,16 @@
         <text>gjgkgjgjgjddgjgjddgjgjddgjgj</text>
       </register>
       <register name="-" type="4">
-        <text>'.</text>
+        <text>index</text>
       </register>
       <register name="/" type="4">
         <text>dis</text>
       </register>
-      <register name="0" type="4">
-        <text>./src/components/note/webview/dist</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjb25zdHJ1Y3RvcigpIHsKICAgIHN1cGVyKCk7CiAgICB0aGlzLnN0YXRlID0gewogICAgICB3ZWJWaWV3Tm90TG9hZGVkOiB0cnVlLCAvLyBmbGFnIHRvIHNob3cgYWN0aXZpdHkgaW5kaWNhdG9yCiAgICAgIHdlYlZpZXdGaWxlc05vdEF2YWlsYWJsZTogdHJ1ZQogICAgfTsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Li9zcmMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2162,34 +2185,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAnc3RhZ2UtMCcsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAnZW52JywK</text>
+        <text encoding="base64">ICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogJyNmZmViYmEnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAnZXMyMDE1Jwo=</text>
+        <text encoding="base64">ICAgICAgPFZpZXcgc3R5bGU9e3tmbGV4OjEsIGFsaWduSXRlbXM6ICdjZW50ZXInLCBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcid9fT4KICAgICAgICA8VGV4dD7oqbPntLDjg5rjg7zjgrg8L1RleHQ+CiAgICAgIDwvVmlldz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAnc3RhZ2UtMicsCiAgICAgICAgICAgICAgJ2VzMjAxNScK</text>
+        <text encoding="base64">Li9zcmMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJAYmFiZWwvcHJlc2V0LWVudiI6ICJeNy4zLjQiLAogICAgIkBiYWJlbC9wcmVzZXQtcmVhY3QiOiAiXjcuMC4wIiwKICAgICJAYmFiZWwvcHJlc2V0LXN0YWdlLTAiOiAiXjcuMC4wIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAnc3RhZ2UtMCcsCg==</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAnZW52JywK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAnQGJhYmVsL3N0YWdlLTInLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAnZXMyMDE1Jwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1wcmVzZXQtc3RhZ2UtMCI6ICJeNi4yNC4xIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAnc3RhZ2UtMicsCiAgICAgICAgICAgICAgJ2VzMjAxNScK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
