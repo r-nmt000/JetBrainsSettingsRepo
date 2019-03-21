@@ -11,6 +11,7 @@
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-front/src/main/java/com/worksap/company/hue/controller/report/ApplicationReportController.java" timestamp="1552987162009" />
       <file name="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/jar_cws/src/main/java/jp/co/worksap/companyweb/service/cost/apptrip/back/corporateCard/dao/CorporateUpdateRelationDao.java" timestamp="1553153708562" />
+      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-corporatecard/hue-ac-corporatecard-dto/src/main/java/com/worksap/company/hue/ac/dto/corporatecard/CardHolderV2Dto.java" timestamp="1553170039034" />
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-expense/hue-ac-expense-batch/src/main/java/com/worksap/company/hue/ac/batch/expense/corporatecard/visa/store/model/vcf44/record/annotation/VcfField.java" timestamp="1553165097756" />
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-corporatecard/hue-ac-corporatecard-ifx-batch-spark/pom.xml" timestamp="1551179968527">
         <mark key="[" line="20" column="0" />
@@ -25,6 +26,9 @@
         <mark key="'" line="67" column="6" />
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-corporatecardlib/hue-ac-corporatecardlib-bizcore/src/main/resources/corporate-card-file-definition-smcc.yml" timestamp="1552971911317" />
+      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-corporatecard/hue-ac-corporatecard-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/corporatecard/dao/impl/CardHolderDaoImpl.java" timestamp="1553169186135">
+        <mark key="'" line="221" column="71" />
+      </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-corporatecardlib/hue-ac-corporatecardlib-bizcore/src/main/resources/corporate-card-file-definition-visa.yml" timestamp="1552970039409" />
       <file name="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/jar_cws/src/main/java/jp/co/worksap/companyweb/ApiServiceServlet.java" timestamp="1552988962009">
         <mark key="'" line="494" column="20" />
@@ -32,7 +36,7 @@
         <mark key="]" line="252" column="0" />
         <mark key="." line="252" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553166478527">
+      <file name="/Dummy.txt" timestamp="1553169892776">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/jar_common-rpc/src/main/java/jp/co/worksap/common/rpc/batch/ProcedureResult.java" timestamp="1553157906861">
@@ -44,6 +48,9 @@
       </file>
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-corporatecard/hue-ac-corporatecard-batch/src/main/java/com/worksap/company/hue/ac/batch/corporatecard/f2o/common/service/StatementProcessServiceImpl.java" timestamp="1553166227279">
         <mark key="'" line="105" column="36" />
+      </file>
+      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-corporatecard/hue-ac-corporatecard-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/corporatecard/service/impl/CardHolderCoreServiceImpl.java" timestamp="1553169210950">
+        <mark key="'" line="134" column="42" />
       </file>
       <file name="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/jar_csd-core/src/main/java/jp/co/worksap/csd/core/di/dict/IDictLoader.java" timestamp="1552991693536" />
       <file name="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/jar_cws/src/main/java/jp/co/worksap/companyweb/service/cost/apptrip/back/corporateCard/model/CorporateLoadProcessor.java" timestamp="1552990042601" />
@@ -61,6 +68,7 @@
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-corporatecardhub/hue-ac-corporatecardhub-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/corporatecardhub/defaultjob/jobs/decrypt/facade/DefaultDecryptJobFacadeImpl.java" timestamp="1552902776750">
         <mark key="'" line="39" column="16" />
       </file>
+      <file name="C:/HUE/WorkSpace/Develop03/hue-ac-corporatecard/hue-ac-corporatecard-batch/src/main/java/com/worksap/company/hue/ac/batch/corporatecard/o2s/service/OriginalToStatementProcessServiceImpl.java" timestamp="1553169713843" />
       <file name="/fragment.java" timestamp="1552977020691">
         <mark key="[" line="0" column="0" />
       </file>
@@ -69,8 +77,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-webapi/src/main/java/com/worksap/company/hue/inputmanagement/config/application.properties" />
-      <jump line="48" column="69" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-webapi/src/main/java/com/worksap/company/hue/inputmanagement/controller/FunctionGroupController.java" />
       <jump line="0" column="0" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-webapi/src/main/java/com/worksap/company/hue/inputmanagement/controller/FunctionGroupController.java" />
       <jump line="20" column="16" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management-sdk/hue-input-management-sdk-webapi-spec/src/main/java/com/worksap/company/inputmanagement/webapi/spec/response/CalculationResultResponse.java" />
       <jump line="22" column="16" filename="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management-sdk/hue-input-management-sdk-webapi-spec/src/main/java/com/worksap/company/inputmanagement/webapi/spec/response/CalculationResultResponse.java" />
@@ -169,6 +175,8 @@
       <jump line="77" column="40" filename="$MAVEN_REPOSITORY$/com/worksap/company/hue-ac-corporatecardlib-bizcore/18.12.expense-SNAPSHOT/hue-ac-corporatecardlib-bizcore-18.12.expense-20181127.103201-1-sources.jar!/com/worksap/company/hue/ac/bizcore/corporatecardlib/parsefile/service/delimiterseparated/visa/VisaParseServiceImpl.java" />
       <jump line="86" column="12" filename="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/jar_cws/src/main/java/jp/co/worksap/companyweb/sys/htmlcomponent/CorporateCardItem.java" />
       <jump line="494" column="20" filename="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/jar_cws/src/main/java/jp/co/worksap/companyweb/ApiServiceServlet.java" />
+      <jump line="221" column="71" filename="C:/HUE/WorkSpace/Develop03/hue-ac-corporatecard/hue-ac-corporatecard-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/corporatecard/dao/impl/CardHolderDaoImpl.java" />
+      <jump line="134" column="42" filename="C:/HUE/WorkSpace/Develop03/hue-ac-corporatecard/hue-ac-corporatecard-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/corporatecard/service/impl/CardHolderCoreServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
