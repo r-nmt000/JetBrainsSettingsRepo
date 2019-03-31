@@ -687,9 +687,11 @@
         <mark key="." line="1" column="16" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/repos/LitePalette/webpack.config.js" timestamp="1554020115405">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="36" />
+      <file name="$USER_HOME$/repos/LitePalette/webpack.config.js" timestamp="1554022130836">
+        <mark key="[" line="23" column="43" />
+        <mark key="]" line="23" column="43" />
+        <mark key="." line="23" column="43" />
+        <mark key="^" line="22" column="20" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-build/kubernetes/services/input-management-pdb.yaml.j2" timestamp="1536289907670">
         <mark key="[" line="7" column="38" />
@@ -1199,12 +1201,6 @@
         <mark key="]" line="13" column="58" />
         <mark key="^" line="13" column="58" />
         <mark key="." line="13" column="58" />
-      </file>
-      <file name="$USER_HOME$/repos/LitePalette/package.json" timestamp="1554015182701">
-        <mark key="[" line="37" column="21" />
-        <mark key="]" line="37" column="21" />
-        <mark key="." line="37" column="21" />
-        <mark key="^" line="37" column="21" />
       </file>
       <file name="$USER_HOME$/repos/react-native-webview-quilljs-test-app/package.json" timestamp="1554015585029">
         <mark key="'" line="47" column="21" />
@@ -2159,7 +2155,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAnQGJhYmVsL3ByZXNldC1yZWFjdCcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAvLyAnc3RhZ2UtMicK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAnc3RhZ2UtMicK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2170,34 +2166,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAncmVhY3QnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAvLyAnc3RhZ2UtMicK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdlbnYnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAncmVhY3QnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3Qgc3R5bGVzID0gU3R5bGVTaGVldC5jcmVhdGUoewogIGNvbnRhaW5lcjogewogICAgZmxleDogMSwKICAgIGJhY2tncm91bmRDb2xvcjogJyNmZmYnLAogICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCiAgICBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicsCiAgfSwKfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdlbnYnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3Qgc3R5bGVzID0gU3R5bGVTaGVldC5jcmVhdGUoewogIGNvbnRhaW5lcjogewogICAgZmxleDogMSwKICAgIGJhY2tncm91bmRDb2xvcjogJyNmZmYnLAogICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCiAgICBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicsCiAgfSwK</text>
+        <text encoding="base64">Y29uc3Qgc3R5bGVzID0gU3R5bGVTaGVldC5jcmVhdGUoewogIGNvbnRhaW5lcjogewogICAgZmxleDogMSwKICAgIGJhY2tncm91bmRDb2xvcjogJyNmZmYnLAogICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCiAgICBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicsCiAgfSwKfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZWY9e3RoaXMuY3JlYXRlV2ViVmlld1JlZn0K</text>
+        <text encoding="base64">Y29uc3Qgc3R5bGVzID0gU3R5bGVTaGVldC5jcmVhdGUoewogIGNvbnRhaW5lcjogewogICAgZmxleDogMSwKICAgIGJhY2tncm91bmRDb2xvcjogJyNmZmYnLAogICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCiAgICBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicsCiAgfSwK</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvbkxvYWRFbmQ9e3RoaXMud2ViVmlld0xvYWRlZH0KICAgICAgICBvbk1lc3NhZ2U9e3RoaXMuaGFuZGxlTWVzc2FnZX0K</text>
+        <text encoding="base64">ICAgICAgICByZWY9e3RoaXMuY3JlYXRlV2ViVmlld1JlZn0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gPyB7IHVyaTogJ2h0dHBzOi8vcmVhY3RuYXZpZ2F0aW9uLm9yZy9lbi8nfQogICAgICAgICAgICA6IHsgdXJpOiBJTkRFWF9GSUxFX1BBVEggfQo=</text>
+        <text encoding="base64">ICAgICAgICBvbkxvYWRFbmQ9e3RoaXMud2ViVmlld0xvYWRlZH0KICAgICAgICBvbk1lc3NhZ2U9e3RoaXMuaGFuZGxlTWVzc2FnZX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbmZpZy5VU0VfTE9DQUxfRklMRVMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gPyB7IHVyaTogJ2h0dHBzOi8vcmVhY3RuYXZpZ2F0aW9uLm9yZy9lbi8nfQogICAgICAgICAgICA6IHsgdXJpOiBJTkRFWF9GSUxFX1BBVEggfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
