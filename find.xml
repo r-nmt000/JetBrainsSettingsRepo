@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*dto.java" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
       <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
@@ -26,11 +24,17 @@
       <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.</mask>
-      <mask>*.java</mask>
       <mask>**.java</mask>
       <mask>*s*.java</mask>
       <mask>*sta*.java</mask>
       <mask>*status*.java</mask>
+      <mask>*statu*.java</mask>
+      <mask>*.java</mask>
+      <mask>d*.java</mask>
+      <mask>dt*.java</mask>
+      <mask>dto*.java</mask>
+      <mask>dto.java</mask>
+      <mask>*dto.java</mask>
     </recentFileMasks>
   </component>
 </application>
