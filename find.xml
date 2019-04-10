@@ -17,16 +17,20 @@
       <mask>*.les</mask>
       <mask>*.le</mask>
       <mask>*.l</mask>
-      <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
       <mask>*.xmol</mask>
       <mask>*.xmo</mask>
-      <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.java</mask>
+      <mask>**.java</mask>
+      <mask>*s*.java</mask>
+      <mask>*sta*.java</mask>
+      <mask>*status*.java</mask>
     </recentFileMasks>
   </component>
 </application>
