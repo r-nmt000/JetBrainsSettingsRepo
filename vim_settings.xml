@@ -873,11 +873,10 @@
         <mark key="." line="28" column="37" />
         <mark key="^" line="28" column="37" />
       </file>
-      <file name="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/jar_cws-expense/src/test/java/jp/co/worksap/companyweb/expense/rpc/corporate_card/service/StatementConvertServiceImplTest.java" timestamp="1560411645677">
-        <mark key="[" line="86" column="55" />
-        <mark key="]" line="86" column="52" />
-        <mark key="." line="86" column="52" />
-        <mark key="^" line="89" column="15" />
+      <file name="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/jar_cws-expense/src/test/java/jp/co/worksap/companyweb/expense/rpc/corporate_card/service/StatementConvertServiceImplTest.java" timestamp="1560415096309">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/dao/ColumnIdDefinitionDao.java" timestamp="1536402297816">
         <mark key="[" line="11" column="35" />
@@ -2356,16 +2355,16 @@
         <text>gjgkgjgjgjddgjgjddgjgjddgjgj</text>
       </register>
       <register name="-" type="4">
-        <text>.accountNo().build();</text>
+        <text>2000</text>
       </register>
       <register name="/" type="4">
         <text>dis</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTGlzdDxGaWxlQ2FyZEFjY291bnRWbz4gY2FyZEFjY291bnQ7CiAgICBwcml2YXRlIGZpbmFsIExpc3Q8RmlsZUNhcmRIb2xkZXJWbz4gY2FyZEhvbGRlcjsK</text>
+      <register name="0" type="4">
+        <text>BigDecimal.valueOf(2000)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3RzLmlzCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2376,25 +2375,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5oZWFkZXIoZmlsZUhlYWRlclZvKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hY2NvdW50Tm8oKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlSGVhZGVyVm8gZmlsZUhlYWRlclZvID0gRmlsZUhlYWRlclZvLmJ1aWxkZXIoKS5idWlsZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jYXJkQWNjb3VudChjYXJkQWNjb3VudCkKICAgICAgICAgICAgICAgIC5jYXJkSG9sZGVyKGNhcmRIb2xkZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5oZWFkZXIoZmlsZUhlYWRlclZvKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEZpbGVDYXJkQWNjb3VudFZvPiBjYXJkQWNjb3VudCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIExpc3Q8RmlsZUNhcmRIb2xkZXJWbz4gY2FyZEhvbGRlciA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBGaWxlSGVhZGVyVm8gZmlsZUhlYWRlclZvID0gRmlsZUhlYWRlclZvLmJ1aWxkZXIoKS5idWlsZCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jYXJkQWNjb3VudChjYXJkQWNjb3VudCkKICAgICAgICAgICAgICAgIC5jYXJkSG9sZGVyKGNhcmRIb2xkZXIpCg==</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEZpbGVDYXJkQWNjb3VudFZvPiBjYXJkQWNjb3VudCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIExpc3Q8RmlsZUNhcmRIb2xkZXJWbz4gY2FyZEhvbGRlciA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -2403,7 +2402,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
