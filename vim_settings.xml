@@ -567,10 +567,12 @@
         <mark key="." line="12" column="97" />
         <mark key="^" line="12" column="97" />
       </file>
-      <file name="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/jar_cws-expense/src/main/java/jp/co/worksap/companyweb/expense/rpc/corporate_card/dao/StatementConvertDaoImpl.java" timestamp="1560306183510">
-        <mark key="'" line="79" column="12" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="112" />
+      <file name="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/jar_cws-expense/src/main/java/jp/co/worksap/companyweb/expense/rpc/corporate_card/dao/StatementConvertDaoImpl.java" timestamp="1560482138556">
+        <mark key="'" line="78" column="12" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="53" column="117" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-batch/src/main/java/com/worksap/company/hue/inputmanagement/batch/config/ImFunctionGroupBatchConfig.java" timestamp="1537010768099">
         <mark key="[" line="16" column="40" />
@@ -871,12 +873,12 @@
         <mark key="." line="28" column="37" />
         <mark key="^" line="28" column="37" />
       </file>
-      <file name="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/jar_cws-expense/src/test/java/jp/co/worksap/companyweb/expense/rpc/corporate_card/service/StatementConvertServiceImplTest.java" timestamp="1560480355744">
+      <file name="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/jar_cws-expense/src/test/java/jp/co/worksap/companyweb/expense/rpc/corporate_card/service/StatementConvertServiceImplTest.java" timestamp="1560481601589">
         <mark key="'" line="103" column="24" />
-        <mark key="[" line="61" column="89" />
-        <mark key="]" line="61" column="89" />
-        <mark key="." line="61" column="89" />
-        <mark key="^" line="90" column="77" />
+        <mark key="[" line="96" column="29" />
+        <mark key="]" line="96" column="57" />
+        <mark key="." line="96" column="57" />
+        <mark key="^" line="96" column="57" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/dao/ColumnIdDefinitionDao.java" timestamp="1536402297816">
         <mark key="[" line="11" column="35" />
@@ -1259,11 +1261,11 @@
         <mark key="^" line="8" column="50" />
         <mark key="." line="8" column="50" />
       </file>
-      <file name="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/jar_cws-expense/src/main/java/jp/co/worksap/companyweb/expense/rpc/corporate_card/service/StatementConvertServiceImpl.java" timestamp="1560306529814">
-        <mark key="[" line="36" column="34" />
-        <mark key="]" line="36" column="83" />
-        <mark key="." line="36" column="83" />
-        <mark key="^" line="36" column="83" />
+      <file name="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/jar_cws-expense/src/main/java/jp/co/worksap/companyweb/expense/rpc/corporate_card/service/StatementConvertServiceImpl.java" timestamp="1560482050761">
+        <mark key="[" line="139" column="97" />
+        <mark key="]" line="139" column="103" />
+        <mark key="." line="139" column="103" />
+        <mark key="^" line="139" column="103" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/service/ImCheckPtnWkService.java" timestamp="1536492728869">
         <mark key="[" line="10" column="26" />
@@ -1506,6 +1508,12 @@
         <mark key="]" line="7" column="37" />
         <mark key="." line="7" column="13" />
         <mark key="^" line="7" column="33" />
+      </file>
+      <file name="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/jar_cws-expense/src/main/java/jp/co/worksap/companyweb/expense/rpc/corporate_card/dao/StatementConvertDao.java" timestamp="1560482076634">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="4" />
+        <mark key="^" line="12" column="54" />
+        <mark key="." line="10" column="4" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/dao/ImFuncGrpListDao.java" timestamp="1536150135272">
         <mark key="[" line="28" column="7" />
@@ -2355,16 +2363,16 @@
         <text>gjgkgjgjgjddgjgjddgjgjddgjgj</text>
       </register>
       <register name="-" type="4">
-        <text>corporateCardContractId</text>
+        <text>Code</text>
       </register>
       <register name="/" type="4">
         <text>dis</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKHN0YXRlbWVudENvbnZlcnREYW8uZ2V0RW1wSWRCeUVtcE5vKCJ3LTAwMTYiKSkudGhlblJldHVybigidy0wMDE2Iik7Cg==</text>
+      <register name="0" type="4">
+        <text>getCwsEmpIdByEmpNo(fileStatement.getEmployeeNo())</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3Nlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2375,34 +2383,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhc3Nlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5oYW1jcmVzdC5Db3JlTWF0Y2hlcnMuKjsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJlc3VsdC5nZXRDb3Jwb3JhdGVQYXJ0SGVhZEVudGl0eUxpc3QoKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5oYW1jcmVzdC5Db3JlTWF0Y2hlcnMuKjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJlc3VsdC5nZXRDb3Jwb3JhdGVQYXJ0SGVhZEVudGl0eUxpc3QoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53b3Jrc2FwLmNvbXBhbnkuaHVlLmFjLmJpemNvcmUuY29ycG9yYXRlY2FyZGxpYi5wYXJzZWZpbGUudm8uRmlsZUNhcmRBY2NvdW50Vm87CmltcG9ydCBjb20ud29ya3NhcC5jb21wYW55Lmh1ZS5hYy5iaXpjb3JlLmNvcnBvcmF0ZWNhcmRsaWIucGFyc2VmaWxlLnZvLkZpbGVDYXJkSG9sZGVyVm87CmltcG9ydCBjb20ud29ya3NhcC5jb21wYW55Lmh1ZS5hYy5iaXpjb3JlLmNvcnBvcmF0ZWNhcmRsaWIucGFyc2VmaWxlLnZvLkZpbGVIZWFkZXJWbzsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJlc3VsdCk7Cg==</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3RzLmlzCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS53b3Jrc2FwLmNvbXBhbnkuaHVlLmFjLmJpemNvcmUuY29ycG9yYXRlY2FyZGxpYi5wYXJzZWZpbGUudm8uRmlsZUNhcmRBY2NvdW50Vm87CmltcG9ydCBjb20ud29ya3NhcC5jb21wYW55Lmh1ZS5hYy5iaXpjb3JlLmNvcnBvcmF0ZWNhcmRsaWIucGFyc2VmaWxlLnZvLkZpbGVDYXJkSG9sZGVyVm87CmltcG9ydCBjb20ud29ya3NhcC5jb21wYW55Lmh1ZS5hYy5iaXpjb3JlLmNvcnBvcmF0ZWNhcmRsaWIucGFyc2VmaWxlLnZvLkZpbGVIZWFkZXJWbzsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hY2NvdW50Tm8oKQo=</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3RzLmlzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hY2NvdW50Tm8oKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
