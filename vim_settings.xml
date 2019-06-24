@@ -866,12 +866,12 @@
         <mark key="." line="22" column="27" />
         <mark key="^" line="22" column="27" />
       </file>
-      <file name="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/jar_expense-config/src/main/test/jp/co/worksap/expense/config/webapp/cjkfwservice/invoice_manage/model/InvoiceManagerGridFactoryTest.java" timestamp="1561369668348">
+      <file name="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/jar_expense-config/src/main/test/jp/co/worksap/expense/config/webapp/cjkfwservice/invoice_manage/model/InvoiceManagerGridFactoryTest.java" timestamp="1561377191501">
         <mark key="'" line="42" column="0" />
-        <mark key="[" line="103" column="30" />
-        <mark key="]" line="103" column="30" />
-        <mark key="^" line="103" column="30" />
-        <mark key="." line="103" column="30" />
+        <mark key="[" line="59" column="37" />
+        <mark key="]" line="59" column="37" />
+        <mark key="." line="59" column="37" />
+        <mark key="^" line="59" column="37" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management-sdk/hue-input-management-sdk-webapi-spec/src/main/java/com/worksap/company/inputmanagement/webapi/spec/response/ImResponseMetadata.java" timestamp="1537004081070">
         <mark key="[" line="20" column="0" />
@@ -1695,6 +1695,11 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="12" column="36" />
       </file>
+      <file name="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/jar_expense-config/src/main/java/jp/co/worksap/expense/config/webapp/cjkfwservice/invoice_manage/action/grid_action/InvoiceAfterCSVExportAction.java" timestamp="1561376602306">
+        <mark key="]" line="31" column="33" />
+        <mark key="^" line="31" column="33" />
+        <mark key="." line="31" column="33" />
+      </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/dao/ImAutnoDao.java" timestamp="1536193429871">
         <mark key="[" line="3" column="3" />
         <mark key="]" line="4" column="18" />
@@ -1892,7 +1897,7 @@
         <mark key="." line="8" column="48" />
         <mark key="^" line="8" column="47" />
       </file>
-      <file name="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/jar_expense-config/src/main/java/jp/co/worksap/expense/config/webapp/cjkfwservice/invoice_manage/model/InvoiceManagerGridFactory.java" timestamp="1561375139586">
+      <file name="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/jar_expense-config/src/main/java/jp/co/worksap/expense/config/webapp/cjkfwservice/invoice_manage/model/InvoiceManagerGridFactory.java" timestamp="1561376830614">
         <mark key="'" line="200" column="79" />
         <mark key="[" line="202" column="17" />
         <mark key="]" line="202" column="17" />
@@ -2538,49 +2543,49 @@
         <text>gjgkgjgjgjddgjgjddgjgjddgjgj</text>
       </register>
       <register name="-" type="4">
-        <text>Integer</text>
+        <text>//amount mismatch</text>
       </register>
       <register name="/" type="4">
         <text>dis</text>
       </register>
       <register name="0" type="4">
-        <text>ExpenseInvoiceStatusType.READY_TO_PAY_REQUEST.getValue()</text>
+        <text>// associated with expense report and report is approved</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkdG80LnNldEV4cGVuc2VSZXBvcnRJZCgzMDApOyAvLwo=</text>
+        <text encoding="base64">ICAgICAgICBkdG8xMC5zZXRFeHBlbnNlUmVwb3J0SWQoMzAwKTsgLy8gYXNzb2NpYXRlZCB3aXRoIGV4cGVuc2UgcmVwb3J0IGFuZCByZXBvcnQgaXMgYXBwcm92ZWQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkdG8yLnNldEludm9pY2VTdGF0dXMoMCk7IC8vlqKPiJedCg==</text>
+        <text encoding="base64">ICAgICAgICBkdG84LnNldEV4cGVuc2VSZXBvcnRJZCgzMDApOyAvLyBleHBlbnNlIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlTdHJpbmcgc3RhdHVzOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBFeHBlbnNlSW52b2ljZUR0byBkdG85ID0gbmV3IEV4cGVuc2VJbnZvaWNlRHRvKCk7CiAgICAgICAgZHRvOC5zZXRJbnZvaWNlTm8oIjgiKTsKICAgICAgICBkdG84LnNldEludm9pY2VTdGF0dXMoMyk7IC8vIFBheSByZXF1ZXN0ZWQKICAgICAgICBkdG84LnNldEV4cGVuc2VSZXBvcnRJZCgzMDApOyAvLyBhc3NvY2lhdGVkIHdpdGggZXhwZW5zZSByZXBvcnQgYW5kIHJlcG9ydCBpcyBhcHByb3ZlZAogICAgICAgIGR0bzguc2V0QW1vdW50KDIwMCk7CiAgICAgICAgZHRvOC5zZXRBbW91bnRfMSgzMDApOyAvL2Ftb3VudCBtaXNtYXRjaAogICAgICAgIG1vY2tJbnZvaWNlTGlzdC5hZGQoZHRvOCk7Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlTdHJpbmcgc3RhdHVzOwo=</text>
+        <text encoding="base64">ICAgICAgICBkdG81LnNldEFtb3VudCgyMDApOyAvL2Ftb3VudCBtaXNtYXRjaAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlTdHJpbmcgc3RhdHVzOwo=</text>
+        <text encoding="base64">ICAgICAgICBkdG80LnNldEV4cGVuc2VSZXBvcnRJZCgzMDApOyAvLwo=</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkdG8yLnNldEludm9pY2VTdGF0dXMoMCk7IC8vlqKPiJedCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3VibWl0SGVhZGVyLlNUQVRVU19PSzsK</text>
+        <text encoding="base64">CQlTdHJpbmcgc3RhdHVzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlTdHJpbmcgc3RhdHVzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
