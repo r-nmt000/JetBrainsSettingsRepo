@@ -305,7 +305,7 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="3" column="2" />
       </file>
-      <file name="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/jar_expense-config/src/main/java/jp/co/worksap/expense/config/webapp/cjkfwservice/invoice_manage/model/queryTemplate/dto/ExpenseInvoiceDto.java" timestamp="1561346898121">
+      <file name="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/jar_expense-config/src/main/java/jp/co/worksap/expense/config/webapp/cjkfwservice/invoice_manage/model/queryTemplate/dto/ExpenseInvoiceDto.java" timestamp="1561352199668">
         <mark key="]" line="9" column="19" />
         <mark key="^" line="9" column="19" />
         <mark key="." line="9" column="19" />
@@ -838,6 +838,12 @@
         <mark key="." line="22" column="27" />
         <mark key="^" line="22" column="27" />
       </file>
+      <file name="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/jar_expense-config/src/main/test/jp/co/worksap/expense/config/webapp/cjkfwservice/invoice_manage/model/InvoiceManagerGridFactoryTest.java" timestamp="1561352396795">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="49" column="63" />
+        <mark key="." line="51" column="0" />
+      </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management-sdk/hue-input-management-sdk-webapi-spec/src/main/java/com/worksap/company/inputmanagement/webapi/spec/response/ImResponseMetadata.java" timestamp="1537004081070">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -1001,10 +1007,6 @@
         <mark key="." line="57" column="75" />
         <mark key="^" line="57" column="74" />
       </file>
-      <file name="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/jar_cws/src/main/java/jp/co/worksap/companyweb/sys/hue/Interface/HueStatus.java" timestamp="1561268803902">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="35" column="4" />
-      </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-webapi/src/main/java/com/worksap/company/hue/inputmanagement/Application.java" timestamp="1535100038557">
         <mark key="[" line="6" column="44" />
         <mark key="]" line="6" column="43" />
@@ -1082,6 +1084,12 @@
         <mark key="]" line="23" column="7" />
         <mark key="." line="23" column="7" />
         <mark key="^" line="23" column="7" />
+      </file>
+      <file name="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/jar_expense-config/src/main/java/jp/co/worksap/expense/config/webapp/cjkfwservice/invoice_manage/model/InvoiceManagerGridFactoryTest.java" timestamp="1561351956186">
+        <mark key="[" line="43" column="5" />
+        <mark key="]" line="46" column="7" />
+        <mark key="." line="46" column="7" />
+        <mark key="^" line="46" column="7" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-batch/src/main/java/com/worksap/company/hue/inputmanagement/batch/entrypoint/ImFunctionGroupBatchMainImpl.java" timestamp="1538023915513">
         <mark key="[" line="14" column="0" />
@@ -1834,11 +1842,11 @@
         <mark key="." line="8" column="48" />
         <mark key="^" line="8" column="47" />
       </file>
-      <file name="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/jar_expense-config/src/main/java/jp/co/worksap/expense/config/webapp/cjkfwservice/invoice_manage/model/InvoiceManagerGridFactory.java" timestamp="1561351299293">
-        <mark key="[" line="102" column="63" />
-        <mark key="]" line="102" column="66" />
-        <mark key="." line="102" column="66" />
-        <mark key="^" line="102" column="66" />
+      <file name="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/jar_expense-config/src/main/java/jp/co/worksap/expense/config/webapp/cjkfwservice/invoice_manage/model/InvoiceManagerGridFactory.java" timestamp="1561351940250">
+        <mark key="[" line="406" column="11" />
+        <mark key="]" line="406" column="11" />
+        <mark key="." line="406" column="11" />
+        <mark key="^" line="406" column="10" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/dao/ImNodeListDao.java" timestamp="1536391253305">
         <mark key="[" line="8" column="4" />
@@ -2461,7 +2469,7 @@
         <text>gjgkgjgjgjddgjgjddgjgjddgjgj</text>
       </register>
       <register name="-" type="4">
-        <text>currencyCode</text>
+        <text>size</text>
       </register>
       <register name="/" type="4">
         <text>dis</text>
@@ -2470,40 +2478,40 @@
         <text encoding="base64">ICAgICAgICAgICAgPGNsYXNzaWZpZXI+c2hhZGVkPC9jbGFzc2lmaWVyPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8d2ItcmVzb3VyY2UgZGVwbG95LXBhdGg9Ii9XRUItSU5GL2NsYXNzZXMiIHNvdXJjZS1wYXRoPSIvamFyX2NvbW1vbi1jd2VzZW5naW5lL3NyYyIvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8Y2xhc3NwYXRoZW50cnkga2luZD0ic3JjIiBwYXRoPSJzcmMvbWFpbi9qYXZhIiBpbmNsdWRpbmc9IioqLyouamF2YSIvPgo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly9HZW5lcmF0ZWQgd2l0aCBsb3ZlIGJ5IFRlc3RNZSA6KSBQbGVhc2UgcmVwb3J0IGlzc3VlcyBhbmQgc3VibWl0IGZlYXR1cmUgcmVxdWVzdHMgYXQ6IGh0dHA6Ly93ZWlyZGRldi5jb20vZm9ydW0jIS90ZXN0bWUK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">CXByaXZhdGUgTGlzdDxFeHBlbnNlSW52b2ljZUR0bz4gY3JlYXRlVGVtcExpc3QoKSB7CgoJfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAk8ZGVwZW5kZW5jeT4KCSAgICAgICAgPGdyb3VwSWQ+Y29tLndvcmtzYXAuY29tcGFueTwvZ3JvdXBJZD4KCSAgICAgICAgPGFydGlmYWN0SWQ+d29ya3MtYXV0aC1zZGs8L2FydGlmYWN0SWQ+CgkgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgIEBUZXN0IAogICAgcHVibGljIHZvaWQgdGVzdENyZWF0ZSgpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIHdoZW4oZGF0YS5nZXRTZXJ2aWNlTmFtZSgpKS50aGVuUmV0dXJuKCJnZXRTZXJ2aWNlTmFtZVJlc3BvbnNlIik7CiAgICAgICAgd2hlbihkYXRhLmdldFNvRGF0YSgpKS50aGVuUmV0dXJuKG5ldyBJbnZvaWNlU2VydmljZU9wdGlvbkRhdGEoInNlcnZpY2VOYW1lIiwgbnVsbCkpOwogICAgICAgIHdoZW4oZGF0YS5nZXRJbnZvaWNlTGlzdCgpKS50aGVuUmV0dXJuKEFycmF5cy48RXhwZW5zZUludm9pY2VEdG8+YXNMaXN0KG5ldyBFeHBlbnNlSW52b2ljZUR0bygpKSk7CiAgICAgICAgd2hlbihkYXRhLmdldFN0YXR1cygpKS50aGVuUmV0dXJuKCJnZXRTdGF0dXNSZXNwb25zZSIpOwogICAgICAgIHdoZW4oZGF0YS5nZXRTdWJtaXRTdGF0dXMoYW55TG9uZygpKSkudGhlblJldHVybihBcnJheXMuYXNMaXN0KCJTdHJpbmciKSk7CiAgICAgICAgd2hlbihkYXRhLmdldFBheURhdGVGcm9tRXhwZW5zZShhbnlJbnQoKSwgYW55KCkpKS50aGVuUmV0dXJuKCJnZXRQYXlEYXRlRnJvbUV4cGVuc2VSZXNwb25zZSIpOwoKICAgICAgICBHcmlkIHJlc3VsdCA9IGludm9pY2VNYW5hZ2VyR3JpZEZhY3RvcnkuY3JlYXRlKG51bGwpOwogICAgICAgIEFzc2VydC5hc3NlcnRFcXVhbHMobnVsbCwgcmVzdWx0KTsKICAgIH0KCiAgICBAVGVzdCAKICAgIHB1YmxpYyB2b2lkIHRlc3RBZGRDb21tYTRkb2xsYXIoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICBTdHJpbmcgcmVzdWx0ID0gSW52b2ljZU1hbmFnZXJHcmlkRmFjdG9yeS5hZGRDb21tYTRkb2xsYXIoInN0cmluZ0ZlZSIpOwogICAgICAgIEFzc2VydC5hc3NlcnRFcXVhbHMoInJlcGxhY2VNZVdpdGhFeHBlY3RlZFJlc3VsdCIsIHJlc3VsdCk7CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCVN0cmluZyBjdXJyZW5jeUNvZGUgPSBkYW8uZ2V0Q3VyckNkQnlDdXJySWQocmF0ZUZvcm1hdElkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCWR0by5zZXRMb2NhbEFtb3VudChJbnRlZ2VyLnBhcnNlSW50KGN0eC5nZXRSZXF1ZXN0KCkuZ2V0UGFyYW1ldGVyKGtleSArICJsb2NhbEN1cnJlbmN5Q29kZSIpKSk7Cg==</text>
+        <text encoding="base64">Ly9HZW5lcmF0ZWQgd2l0aCBsb3ZlIGJ5IFRlc3RNZSA6KSBQbGVhc2UgcmVwb3J0IGlzc3VlcyBhbmQgc3VibWl0IGZlYXR1cmUgcmVxdWVzdHMgYXQ6IGh0dHA6Ly93ZWlyZGRldi5jb20vZm9ydW0jIS90ZXN0bWUK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCWN0eC5nZXRSZXF1ZXN0KCkuZ2V0UGFyYW1ldGVyKGtleSArICJsb2NhbEN1cnJlbmN5Q29kZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICA8d2ItcmVzb3VyY2UgZGVwbG95LXBhdGg9Ii9XRUItSU5GL2NsYXNzZXMiIHNvdXJjZS1wYXRoPSIvamFyX2NvbW1vbi1jd2VzZW5naW5lL3NyYyIvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8Y2xhc3NwYXRoZW50cnkga2luZD0ic3JjIiBwYXRoPSJzcmMvbWFpbi9qYXZhIiBpbmNsdWRpbmc9IioqLyouamF2YSIvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
