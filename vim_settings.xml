@@ -257,6 +257,11 @@
         <mark key="^" line="28" column="17" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/WebContent/WEB-INF/vm/service/appexpense/corporatecard-link.vm" timestamp="1564102037377">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="29" column="8" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-batch/src/main/java/com/worksap/company/hue/inputmanagement/batch/service/ImSettingInsertingBatchProcessServiceImpl.java" timestamp="1536814318535">
         <mark key="[" line="37" column="83" />
         <mark key="]" line="37" column="105" />
@@ -519,9 +524,6 @@
         <mark key="." line="102" column="10" />
         <mark key="^" line="102" column="10" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/velocity/velocity/1.7/velocity-1.7.jar!/org/apache/velocity/runtime/resource/ResourceManagerImpl.class" timestamp="1564050509947">
-        <mark key="'" line="237" column="53" />
-      </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/service/InputCheckPatternService.java" timestamp="1536394417360">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="17" column="79" />
@@ -662,6 +664,11 @@
         <mark key="]" line="2" column="28" />
         <mark key="^" line="3" column="3" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/WebContent/WEB-INF/vm/service/appexpense/reservation-link.vm" timestamp="1564102042282">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="29" column="8" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-ac-expense/hue-ac-expense-dto/src/main/java/com/worksap/company/hue/ac/dto/expense/inputmanagement/InputCheckPatternWkDto.java" timestamp="1533806883142">
         <mark key="[" line="32" column="25" />
@@ -1476,9 +1483,10 @@
         <mark key="." line="77" column="83" />
         <mark key="^" line="77" column="83" />
       </file>
-      <file name="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/WebContent/WEB-INF/vm/service/appexpense/iccard-link.vm" timestamp="1564101345002">
+      <file name="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/WebContent/WEB-INF/vm/service/appexpense/iccard-link.vm" timestamp="1564102036309">
+        <mark key="'" line="0" column="81" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="133" />
+        <mark key="]" line="29" column="7" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management-pom/project.metadata" timestamp="1535617477238">
@@ -2062,9 +2070,6 @@
         <mark key="." line="14" column="37" />
         <mark key="^" line="14" column="37" />
       </file>
-      <file name="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/jar_cws/src/main/java/jp/co/worksap/companyweb/sys/patrol/action/TodoMailPatrol.java" timestamp="1563771378228">
-        <mark key="'" line="515" column="11" />
-      </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-webapi/src/main/resources/logback.xml" timestamp="1536656496265">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="74" column="15" />
@@ -2362,6 +2367,7 @@
       <jump line="0" column="94" filename="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/WebContent/WEB-INF/csd-vm/cws/vm/service/appexpense/iccard-link.vm" />
       <jump line="0" column="0" filename="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/WebContent/WEB-INF/csd-vm/cws/vm/service/appexpense/corporatecard-link.vm" />
       <jump line="14" column="52" filename="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/jar_cws-expense/src/main/java/jp/co/worksap/companyweb/expense/service/appexpense/front/form/parts/buttons/ReservationLinkOptions.java" />
+      <jump line="0" column="81" filename="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/WebContent/WEB-INF/vm/service/appexpense/iccard-link.vm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2671,7 +2677,7 @@
         <text>dis</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PHNjcmlwdCBjaGFyc2V0PSJVVEYtOCIgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii4uLy4uLy4uL2pzL2xpYi9qcXVlcnkvanFncmlkL2pzL2kxOG4vZ3JpZC5sb2NhbGUtJHtvcHRpb25zLmxhbmd9LmpzP2N3c3Zlcm5vPSR7b3B0aW9ucy52ZXJzaW9uTm99Ij48L3NjcmlwdD4KPHNjcmlwdCBjaGFyc2V0PSJVVEYtOCIgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii4uLy4uLy4uL2pzL2xpYi9qcXVlcnkvanFncmlkL2pzL2pxdWVyeS5qcUdyaWQubWluLmpzP2N3c3Zlcm5vPSR7b3B0aW9ucy52ZXJzaW9uTm99Ij48L3NjcmlwdD4KPGxpbmsgcmVsPSJzdHlsZXNoZWV0IiB0eXBlPSJ0ZXh0L2NzcyIgaHJlZj0iLi4vLi4vLi4vY3NkLWRvY3MvY3dzL2Nzcy9zZXJ2aWNlL2FwcGV4cGVuc2UvcmVzZXJ2YXRpb25JdGVtLmNzcz9jd3N2ZXJubz0ke29wdGlvbnMudmVyc2lvbk5vfSI+CjxsaW5rIHJlbD0ic3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3MiIGhyZWY9Ii4uLy4uLy4uL2pzL2xpYi9qcXVlcnkvanF1ZXJ5VWkvY3NzL2pxdWVyeS11aS5jdXN0b20uY3NzP2N3c3Zlcm5vPSR7b3B0aW9ucy52ZXJzaW9uTm99Ij4K</text>
+        <text encoding="base64">PHNjcmlwdCBjaGFyc2V0PSJVVEYtOCIgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii4uLy4uLy4uL2pzL2xpYi9qcXVlcnkvanFncmlkL2pzL2kxOG4vZ3JpZC5sb2NhbGUtJHtvcHRpb25zLmxhbmd9LmpzP2N3c3Zlcm5vPSR7b3B0aW9ucy52ZXJzaW9uTm99Ij48L3NjcmlwdD4KPHNjcmlwdCBjaGFyc2V0PSJVVEYtOCIgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii4uLy4uLy4uL2pzL2xpYi9qcXVlcnkvanFncmlkL2pzL2pxdWVyeS5qcUdyaWQubWluLmpzP2N3c3Zlcm5vPSR7b3B0aW9ucy52ZXJzaW9uTm99Ij48L3NjcmlwdD4KPGxpbmsgcmVsPSJzdHlsZXNoZWV0IiB0eXBlPSJ0ZXh0L2NzcyIgaHJlZj0iLi4vLi4vLi4vY3NkLWRvY3MvY3dzL2Nzcy9zZXJ2aWNlL2FwcGV4cGVuc2UvcmVzZXJ2YXRpb25JdGVtLmNzcz9jd3N2ZXJubz0ke29wdGlvbnMudmVyc2lvbk5vfSI+CjxsaW5rIHJlbD0ic3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3MiIGhyZWY9Ii4uLy4uLy4uL2pzL2xpYi9qcXVlcnkvanF1ZXJ5VWkvY3NzL2pxdWVyeS11aS5jdXN0b20uY3NzP2N3c3Zlcm5vPSR7b3B0aW9ucy52ZXJzaW9uTm99Ij4KPFNDUklQVCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPmdvb2cucmVxdWlyZSgnY3dzLnNlcnZpY2UuYXBwZXhwZW5zZS5pYy5pY0RpYWxvZ0NvbnRyb2xsZXJDc2QnKTsKPC9TQ1JJUFQ+Cgo8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgaWQ9InJlbmRlckljQ2FyZERpYWxvZ0J0biIgdGl0bGU9IiR7b3B0aW9ucy50ZXh0cy5nZXQoImJ1dHRvbkNhcHRpb24iKX0iPjxpIGNsYXNzPSJ3YXAtaWNvbi1pYy1jYXJkIj48L2k+PC9idXR0b24+Cgo8ZGl2IGlkPSJpYy1EaWFsb2ciPgogIDxkaXYgaWQgPSAic2VsZWN0SUMiPgogICAgPHRhYmxlICBjbGFzcyA9ICJpY19oZWFkZGVyX3RibCI+CiAgICAgIDx0cj4KICAgICAgICA8dGQ+PC90ZD4KICAgICAgICA8dGQ+CiAgICAgICAgICA8ZGl2IGNsYXNzID0gInBpY2tJY1RyaXBEYXRlRGl2Ij4KICAgICAgICAgICAgPGlucHV0IGlkID0gc2VsZWN0X3BpY2tJY1RyaXBEYXRlIGNsYXNzID0gInBpY2tUcmlwRGF0ZSIgdHlwZSA9ICJjaGVja2JveCI+ikqObpP6lXSBQY9Jl7mT+pV0gvCO5pO+greC6QogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzID0gImljRGF0ZURpdiI+CiAgICAgICAgICAgIDxpbnB1dCBpZCA9IHNlbGVjdF9pY19zRGF0ZSBjbGFzcyA9ICJjb3Jwb3JhdGVfc0RhdGUiIHR5cGUgPSAidGV4dCI+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzID0gInNlcGFyYXRlIj6BYDwvc3Bhbj4KICAgICAgICAgICAgPGlucHV0IGlkID0gc2VsZWN0X2ljX2VEYXRlIGNsYXNzID0gImNvcnBvcmF0ZV9lRGF0ZSIgdHlwZSA9ICJ0ZXh0Ij4KICAgICAgICAgICAgPGlucHV0IGlkID0gc2VsZWN0X2ZpbHRlcl9pY19kYXRlIGNsYXNzID0gImZpbHRlcl9jb3Jwb3JhdGVfZGF0ZSBqX2J1dHRvbiIgdHlwZSA9ICJidXR0b24iIHZhbHVlPY1pjZ4+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L3RkPgogICAgICA8L3RyPgogICAgPC90YWJsZT4KICAgIDx0YWJsZSBpZCA9ICJzZWxlY3RJY1RibCI+PC90YWJsZT48ZGl2IGlkID0gInNlbGVjdEljUGFnZSI+CiAgPC9kaXY+CiAgPC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">PHNjcmlwdCBjaGFyc2V0PSJVVEYtOCIgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii4uLy4uLy4uL2pzL2xpYi9qcXVlcnkvanFncmlkL2pzL2kxOG4vZ3JpZC5sb2NhbGUtamEuanM/Y3dzdmVybm89OC4wLjAwMDAiPjwvc2NyaXB0Pgo8c2NyaXB0IGNoYXJzZXQ9IlVURi04IiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iLi4vLi4vLi4vanMvbGliL2pxdWVyeS9qcWdyaWQvanMvanF1ZXJ5LmpxR3JpZC5taW4uanM/Y3dzdmVybm89OC4wLjAwMDAiPjwvc2NyaXB0Pgo8bGluayByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiBocmVmPSIuLi8uLi8uLi9jc2QtZG9jcy9jd3MvY3NzL3NlcnZpY2UvYXBwZXhwZW5zZS9pY0NhcmQuY3NzP2N3c3Zlcm5vPTguMC4wMDAwIj4KPGxpbmsgcmVsPSJzdHlsZXNoZWV0IiB0eXBlPSJ0ZXh0L2NzcyIgaHJlZj0iLi4vLi4vLi4vanMvbGliL2pxdWVyeS9qcXVlcnlVaS9jc3MvanF1ZXJ5LXVpLmN1c3RvbS5jc3M/Y3dzdmVybm89OC4wLjAwMDAiPgo=</text>
