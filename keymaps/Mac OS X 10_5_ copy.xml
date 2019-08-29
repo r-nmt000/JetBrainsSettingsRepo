@@ -1,8 +1,5 @@
 <keymap version="1" name="My Settings" parent="Mac OS X 10.5+">
-  <action id="ActivateProjectToolWindow">
-    <keyboard-shortcut first-keystroke="meta 1" />
-    <keyboard-shortcut first-keystroke="space" second-keystroke="j" />
-  </action>
+  <action id="Console.TableResult.ColumnVisibility" />
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="back_space" />
     <keyboard-shortcut first-keystroke="shift back_space" />
