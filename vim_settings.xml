@@ -780,6 +780,12 @@
         <mark key="." line="19" column="35" />
         <mark key="^" line="19" column="35" />
       </file>
+      <file name="C:/HUE/WorkSpace/CWS/postgresql-dbobject-cws/current/hue/cws/create/app_expense_allowance_alt_868440.sql" timestamp="1568255425303">
+        <mark key="[" line="4" column="66" />
+        <mark key="]" line="4" column="71" />
+        <mark key="." line="4" column="71" />
+        <mark key="^" line="4" column="71" />
+      </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management-sdk/hue-input-management-sdk-webapi-spec/src/main/java/com/worksap/company/inputmanagement/webapi/spec/data/ImFunction.java" timestamp="1536925480432">
         <mark key="[" line="11" column="5" />
         <mark key="]" line="12" column="7" />
@@ -1271,6 +1277,10 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="15" column="17" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="C:/HUE/WorkSpace/CWS/postgresql-dbobject-cws/current/hue/cws/create/app_expense_allowance_alt_867770.sql" timestamp="1568255346119">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="80" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-dto/src/main/java/com/worksap/company/hue/inputmanagement/dto/ImFuncGrpMstIndex.java" timestamp="1537248446120">
         <mark key="[" line="10" column="63" />
@@ -2921,13 +2931,13 @@
         <text>gjgkgjgjgjddgjgjddgjgjddgjgj</text>
       </register>
       <register name="-" type="4">
-        <text>function</text>
+        <text>NVARCHAR2</text>
       </register>
       <register name="/" type="4">
         <text>dis</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IjIwMjAwMDAyMiIsIkFDX0FQX0RFQUxUWVBFX01TVF9WSUVXIiwiU1VQX05BTUUiLCKOZJP8kOaWvI/MIiwijmST/JDmlryPzCIsIjEiLCIwIiwiMSIsIjAiLCIyIiwiMCIsIjAiLCIiLCIiCg==</text>
+      <register name="0" type="4">
+        <text>BANKACCOUNT_ID</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
