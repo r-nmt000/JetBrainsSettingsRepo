@@ -1223,11 +1223,11 @@
         <mark key="." line="38" column="39" />
         <mark key="^" line="38" column="39" />
       </file>
-      <file name="C:/HUE/WorkSpace/CWS/ac-web-dbobject/current/hue/cws/data/item_mst_ins_871819.dat" timestamp="1570508167550">
-        <mark key="[" line="1" column="104" />
-        <mark key="]" line="1" column="105" />
-        <mark key="." line="1" column="105" />
-        <mark key="^" line="1" column="105" />
+      <file name="C:/HUE/WorkSpace/CWS/ac-web-dbobject/current/hue/cws/data/item_mst_ins_871819.dat" timestamp="1570509461608">
+        <mark key="[" line="4" column="102" />
+        <mark key="]" line="4" column="104" />
+        <mark key="." line="4" column="104" />
+        <mark key="^" line="4" column="104" />
       </file>
       <file name="C:/HUE/WorkSpace/CWS/postgresql-dbobject-cws/current/hue/cws/create/bk_app_expense_ent_expense_alt_861127.sql" timestamp="1566208513210">
         <mark key="[" line="4" column="69" />
@@ -2985,13 +2985,13 @@
         <text>gjgkgjgjgjddgjgjddgjgjddgjgj</text>
       </register>
       <register name="-" type="4">
-        <text>list</text>
+        <text>input</text>
       </register>
       <register name="/" type="4">
         <text>dis</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">InJvb3QuY3dzLmFwcGxpY2F0aW9uLmFwcF9ib29raW5nLmxpc3QiLCJ0b3RhbF9hbW91bnQiLCKNd5P8i+CKeiIsIo13k/yL4Ip6IiwiIiwiIiwiIiwiaW5wdXQiLDAsMCwxLDAsMCw4LDAsMCwwLDAsMCwwLCIiLCIiLDAsMCwtMSwwLDExMSwwLDAsMCwwLCIwIiwiMCIsIjgwMDEwMDAwIgoicm9vdC5jd3MuYXBwbGljYXRpb24uYXBwX2Jvb2tpbmcubGlzdCIsInVuaXRfYW1vdW50IiwijXeT/JJQib8iLCKNd5P8klCJvyIsIiIsIiIsIiIsImlucHV0IiwwLDAsMSwwLDAsOSwwLDAsMCwwLDAsMCwiIiwiIiwwLDAsLTEsMCwxMTEsMCwwLDAsMCwiMCIsIjAiLCI4MDAxMDAwMCIK</text>
+      <register name="0" type="4">
+        <text>numDouble</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CTxjbGFzc3BhdGhlbnRyeSBraW5kPSJzcmMiIHBhdGg9Imphcl9leHBlbnNlLWNvbmZpZy9zcmMvbWFpbi90ZXN0Ii8+Cg==</text>
