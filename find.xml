@@ -3,8 +3,11 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="regularExpressions" value="true" />
+    <option name="searchOverloadedMethods" value="true" />
+    <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*mail*.java" />
     <recentFileMasks>
       <mask>*.p</mask>
       <mask>*.jav</mask>
