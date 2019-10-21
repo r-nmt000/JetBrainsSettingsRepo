@@ -39,6 +39,9 @@
         <mark key="^" line="15" column="22" />
         <mark key="." line="15" column="22" />
       </file>
+      <file name="C:/HUE/WorkSpace/CWS/ac-web-core/jar_cws/src/main/java/jp/co/worksap/companyweb/sys/patrol/action/CollectMailPatrol.java" timestamp="1571634426641">
+        <mark key="'" line="159" column="31" />
+      </file>
       <file name="$USER_HOME$/repos/LitePalette/src/navigation/NoteNavigator.js" timestamp="1550675962111">
         <mark key="[" line="30" column="8" />
         <mark key="]" line="31" column="27" />
@@ -68,6 +71,9 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="23" column="50" />
+      </file>
+      <file name="C:/HUE/WorkSpace/CWS/ac-web-core/jar_common-config/src/main/java/jp/co/worksap/common/config/webapp/service/mail/mailopt/dao/MailControlDao.java" timestamp="1571634579297">
+        <mark key="'" line="266" column="103" />
       </file>
       <file name="C:/HUE/WorkSpace/CWS/ac-web-dbobject/current/hue/cws/create/booking_limit_trn_871819_alt.sql" timestamp="1570523441859">
         <mark key="[" line="2" column="21" />
@@ -604,7 +610,7 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1571633267632">
+      <file name="/Dummy.txt" timestamp="1571634496016">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1990,7 +1996,7 @@
         <mark key="^" line="151" column="30" />
         <mark key="." line="151" column="30" />
       </file>
-      <file name="C:/HUE/WorkSpace/CWS/ac-web-core/jar_cws/src/main/java/jp/co/worksap/companyweb/sys/mail/postman/Postman.java" timestamp="1571632479552">
+      <file name="C:/HUE/WorkSpace/CWS/ac-web-core/jar_cws/src/main/java/jp/co/worksap/companyweb/sys/mail/postman/Postman.java" timestamp="1571634482484">
         <mark key="'" line="1206" column="8" />
       </file>
       <file name="$USER_HOME$/repos/LitePalette/src/components/note/web/componentEditor.js" timestamp="1551280972975">
@@ -2101,6 +2107,7 @@
         <mark key="^" line="208" column="27" />
         <mark key="." line="208" column="27" />
       </file>
+      <file name="C:/HUE/WorkSpace/CWS/ac-web-core/jar_cws/src/main/java/jp/co/worksap/companyweb/sys/mail/postman/CollectMailPostman.java" timestamp="1571634603967" />
       <file name="C:/HUE/WorkSpace/Develop03/hue-ac-corporatecardhub/hue-ac-corporatecardhub-bizcore/src/main/java/com/worksap/company/hue/ac/bizcore/corporatecardhub/core/service/rpc/CwsRpcClientImpl.java" timestamp="1557922356505">
         <mark key="[" line="23" column="12" />
         <mark key="]" line="23" column="7" />
@@ -2823,8 +2830,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="515" column="11" filename="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/jar_cws/src/main/java/jp/co/worksap/companyweb/sys/patrol/action/TodoMailPatrol.java" />
-      <jump line="55" column="34" filename="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/jar_cws/src/main/java/jp/co/worksap/companyweb/sys/mail/sender/AbsSubmitMailSender.java" />
       <jump line="1071" column="17" filename="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/jar_cws/src/main/java/jp/co/worksap/companyweb/sys/mail/core/MailExecutor.java" />
       <jump line="143" column="0" filename="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/jar_cws/src/main/java/jp/co/worksap/companyweb/sys/mail/core/MailExecutor.java" />
       <jump line="205" column="8" filename="C:/HUE/WorkSpace/CWS/conversion-nbh-cws/jar_cws/src/main/java/jp/co/worksap/companyweb/sys/htmlcomponent/ICcardItem.java" />
@@ -2923,6 +2928,8 @@
       <jump line="3532" column="35" filename="C:/HUE/WorkSpace/CWS/ac-web-core/jar_cws-expense/src/main/java/jp/co/worksap/companyweb/expense/service/appexpense/back/manager/AbsExpenseManager.java" />
       <jump line="43" column="36" filename="C:/HUE/WorkSpace/CWS/ac-web-core/jar_cws/src/main/java/jp/co/worksap/companyweb/service/manager/bookingsetting/limittrnsetting/action/AbsLimitTrnAction.java" />
       <jump line="1206" column="8" filename="C:/HUE/WorkSpace/CWS/ac-web-core/jar_cws/src/main/java/jp/co/worksap/companyweb/sys/mail/postman/Postman.java" />
+      <jump line="159" column="31" filename="C:/HUE/WorkSpace/CWS/ac-web-core/jar_cws/src/main/java/jp/co/worksap/companyweb/sys/patrol/action/CollectMailPatrol.java" />
+      <jump line="266" column="103" filename="C:/HUE/WorkSpace/CWS/ac-web-core/jar_common-config/src/main/java/jp/co/worksap/common/config/webapp/service/mail/mailopt/dao/MailControlDao.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
