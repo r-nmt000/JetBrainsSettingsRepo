@@ -3,13 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*mail*.java" />
     <recentFileMasks>
-      <mask>dto*.java</mask>
-      <mask>dto.java</mask>
-      <mask>*dto.java</mask>
-      <mask>*dto.jav</mask>
-      <mask>*.pom</mask>
-      <mask>*.po</mask>
       <mask>*.p</mask>
       <mask>*.jav</mask>
       <mask>po</mask>
@@ -18,7 +13,6 @@
       <mask>pom.xml</mask>
       <mask>*ja</mask>
       <mask>*j</mask>
-      <mask>*.java</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
       <mask>*.vm</mask>
@@ -34,6 +28,13 @@
       <mask>*test.js</mask>
       <mask>*test.j</mask>
       <mask>*test.java</mask>
+      <mask>*tes.java</mask>
+      <mask>*te.java</mask>
+      <mask>*t.java</mask>
+      <mask>*.java</mask>
+      <mask>*mai.java</mask>
+      <mask>*mail.java</mask>
+      <mask>*mail*.java</mask>
     </recentFileMasks>
   </component>
 </application>
