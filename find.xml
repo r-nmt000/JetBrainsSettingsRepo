@@ -5,18 +5,14 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>pom.</mask>
       <mask>pom.xml</mask>
       <mask>*ja</mask>
       <mask>*j</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
       <mask>*.vm</mask>
       <mask>*.v</mask>
-      <mask>*.js</mask>
-      <mask>*.</mask>
       <mask>*</mask>
       <mask>*tes</mask>
       <mask>*test</mask>
@@ -37,6 +33,10 @@
       <mask>*m*.java</mask>
       <mask>**.java</mask>
       <mask>*.java</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
