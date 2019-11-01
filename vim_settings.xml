@@ -1067,6 +1067,10 @@
         <mark key="." line="7" column="13" />
         <mark key="^" line="7" column="33" />
       </file>
+      <file name="C:/HUE/WorkSpace/CWS/ac-web-core/jar_cws/src/main/java/jp/co/worksap/companyweb/service/manager/bookingsetting/limittrnsetting/action/ActLimitTrnSettingBack.java" timestamp="1572588140958">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="13" column="4" />
+      </file>
       <file name="C:/HUE/WorkSpace/CWS/postgresql-dbobject-cws/current/hue/cws/data/search_table_ins_782527.dat" timestamp="1568762878672">
         <mark key="[" line="2" column="204" />
         <mark key="]" line="3" column="0" />
@@ -1763,6 +1767,12 @@
         <mark key="^" line="7" column="4" />
         <mark key="." line="7" column="4" />
       </file>
+      <file name="C:/HUE/WorkSpace/CWS/ac-web-core/jar_cws/src/main/java/jp/co/worksap/companyweb/service/manager/bookingsetting/limittrnsetting/action/ActPurchaseHistBack.java" timestamp="1572588167346">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="10" column="68" />
+      </file>
       <file name="C:/HUE/WorkSpace/CWS/postgresql-dbobject-cws/current/hue/cws/create/bk_app_expense_base_alt_782527.sql" timestamp="1568078978924">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="87" />
@@ -1818,11 +1828,11 @@
         <mark key="." line="19" column="37" />
         <mark key="^" line="19" column="37" />
       </file>
-      <file name="C:/HUE/WorkSpace/CWS/ac-web-core/jar_cws/src/main/java/jp/co/worksap/companyweb/service/manager/bookingsetting/BookingSettingService.xml" timestamp="1572586814988">
-        <mark key="[" line="203" column="100" />
-        <mark key="]" line="203" column="119" />
-        <mark key="." line="203" column="100" />
-        <mark key="^" line="204" column="33" />
+      <file name="C:/HUE/WorkSpace/CWS/ac-web-core/jar_cws/src/main/java/jp/co/worksap/companyweb/service/manager/bookingsetting/BookingSettingService.xml" timestamp="1572588193542">
+        <mark key="[" line="345" column="106" />
+        <mark key="]" line="345" column="124" />
+        <mark key="." line="345" column="124" />
+        <mark key="^" line="345" column="124" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management-pom/project.metadata" timestamp="1535617477238">
         <mark key="[" line="3" column="10" />
@@ -3287,49 +3297,49 @@
         <text>gjgkgjgjgjddgjgjddgjgjddgjgj</text>
       </register>
       <register name="-" type="4">
-        <text>FormPurchaseHistSelect</text>
+        <text>ActLimitTrnSettingBack</text>
       </register>
       <register name="/" type="4">
         <text>dis</text>
       </register>
-      <register name="0" type="4">
-        <text>FormLimitTrnSetting</text>
+      <register name="0" type="2">
+        <text encoding="base64">CUBPdmVycmlkZQoJcHJvdGVjdGVkIHZvaWQgcGVyZm9ybUltcGwoSUNvbnRleHQgY3R4KSB0aHJvd3MgRXhjZXB0aW9uIHsKCgkJSUZvcm0gZm9ybSA9IGN0eC5nZXRGb3JtTWFuYWdlcigpLmdldEZvcm0oRm9ybUxpbWl0VHJuS2luZFNlbGVjdC5jbGFzcy5nZXROYW1lKCkpOwoJCWZvcm0ud3JpdGVGb3JtKGN0eCk7Cgl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlncmlkRmFjdG9yeS5hZGRNdWx0aUhlYWRlckJ1dHRvbihCb29raW5nU2V0dGluZ0NvbW1vbi5TVEFUVVNfTk9STUFMLCBCb29raW5nU2V0dGluZ0NvbW1vbi5TVUJfUFVSQ0hBU0VfSElTVCwKCQkJCUJvb2tpbmdTZXR0aW5nRGljdC5QVVJDSEFTRV9ISVNULmdldCgpKTsK</text>
+        <text encoding="base64">aW1wb3J0IGpwLmNvLndvcmtzYXAuY29tcGFueXdlYi5zZXJ2aWNlLm1hbmFnZXIuYm9va2luZ3NldHRpbmcubGltaXR0cm5zZXR0aW5nLmZvcm0uRm9ybUxpbWl0VHJuS2luZFNlbGVjdDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQk8ZXZlbnQKCQkJCWlucHV0PSJqcC5jby53b3Jrc2FwLmNvbXBhbnl3ZWIuc2VydmljZS5tYW5hZ2VyLmJvb2tpbmdzZXR0aW5nLmxpbWl0dHJuc2V0dGluZy5mb3JtLiIKCQkJCWFjdD0iTU9WRVRPQ1NWIgoJCQkJY2xhc3NuYW1lPSJqcC5jby53b3Jrc2FwLmNvbXBhbnl3ZWIuc2VydmljZS5tYW5hZ2VyLmJvb2tpbmdzZXR0aW5nLmxpbWl0dHJuc2V0dGluZy5hY3Rpb24uQWN0TGltaXRUcm5SZXNlcnZlTW92ZVRvQ3N2IiAvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBNYXAga2luZE1hcCA9IChNYXApZ2V0QXBwTWFuYWdlcihjdHgpLmdldEtpbmRNc3RMaXN0KCkuZ2V0KGdldFNlbGVjdEluZGV4KGN0eCkpOwogICAgICAgIGdldExpbWl0VHJuTWFuYWdlcihjdHgpLnNldE5vd3RLaW5kTXN0TWFwKGtpbmRNYXApOwo=</text>
+        <text encoding="base64">CQlncmlkRmFjdG9yeS5hZGRNdWx0aUhlYWRlckJ1dHRvbihCb29raW5nU2V0dGluZ0NvbW1vbi5TVEFUVVNfTk9STUFMLCBCb29raW5nU2V0dGluZ0NvbW1vbi5TVUJfUFVSQ0hBU0VfSElTVCwKCQkJCUJvb2tpbmdTZXR0aW5nRGljdC5QVVJDSEFTRV9ISVNULmdldCgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRMaW1pdFRybk1hbmFnZXIoY3R4KS5jcmVhdGVJdFJlc2VydmUoY3R4KTsKICAgICAgICBnZXRMaW1pdFRybk1hbmFnZXIoY3R4KS5jcmVhdGVJdFJlc2VydmVFZGl0KGN0eCk7Cg==</text>
+        <text encoding="base64">CQk8ZXZlbnQKCQkJCWlucHV0PSJqcC5jby53b3Jrc2FwLmNvbXBhbnl3ZWIuc2VydmljZS5tYW5hZ2VyLmJvb2tpbmdzZXR0aW5nLmxpbWl0dHJuc2V0dGluZy5mb3JtLiIKCQkJCWFjdD0iTU9WRVRPQ1NWIgoJCQkJY2xhc3NuYW1lPSJqcC5jby53b3Jrc2FwLmNvbXBhbnl3ZWIuc2VydmljZS5tYW5hZ2VyLmJvb2tpbmdzZXR0aW5nLmxpbWl0dHJuc2V0dGluZy5hY3Rpb24uQWN0TGltaXRUcm5SZXNlcnZlTW92ZVRvQ3N2IiAvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYXAga2luZE1hcCA9IChNYXApZ2V0QXBwTWFuYWdlcihjdHgpLmdldEtpbmRNc3RMaXN0KCkuZ2V0KGdldFNlbGVjdEluZGV4KGN0eCkpOwogICAgICAgIGdldExpbWl0VHJuTWFuYWdlcihjdHgpLnNldE5vd3RLaW5kTXN0TWFwKGtpbmRNYXApOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRMaW1pdFRybk1hbmFnZXIoY3R4KS5jcmVhdGVJdFJlc2VydmUoY3R4KTsKICAgICAgICBnZXRMaW1pdFRybk1hbmFnZXIoY3R4KS5jcmVhdGVJdFJlc2VydmVFZGl0KGN0eCk7Cg==</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQk8ZXZlbnQKCQkJCWlucHV0PSJTRUFSQ0giCgkJCQlhY3Q9IioiCgkJCQljbGFzc25hbWU9ImpwLmNvLndvcmtzYXAuY29tcGFueXdlYi5zZXJ2aWNlLm1hbmFnZXIuYm9va2luZ3NldHRpbmcubGltaXR0cm5zZXR0aW5nLmFjdGlvbi5BY3RMaW1pdFRybkVtcFNlYXJjaFNob3ciIC8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQk8ZXZlbnQKCQkJCWlucHV0PSJTRUFSQ0giCgkJCQlhY3Q9IioiCgkJCQljbGFzc25hbWU9ImpwLmNvLndvcmtzYXAuY29tcGFueXdlYi5zZXJ2aWNlLm1hbmFnZXIuYm9va2luZ3NldHRpbmcubGltaXR0cm5zZXR0aW5nLmFjdGlvbi5BY3RMaW1pdFRybkVtcFNlYXJjaFNob3ciIC8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
