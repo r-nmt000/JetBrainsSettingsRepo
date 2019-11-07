@@ -1646,12 +1646,11 @@
       <file name="C:/HUE/WorkSpace/CWS/ac-web-core/jar_cws/src/main/java/jp/co/worksap/companyweb/service/absservice/common/form/AbsBasicServcieForm.java" timestamp="1572943560649">
         <mark key="'" line="433" column="5" />
       </file>
-      <file name="C:/HUE/WorkSpace/CWS/ac-web-core/jar_cws/src/main/java/jp/co/worksap/companyweb/service/manager/bookingsetting/limittrnsetting/PurchaseHistManager.java" timestamp="1573102202642">
+      <file name="C:/HUE/WorkSpace/CWS/ac-web-core/jar_cws/src/main/java/jp/co/worksap/companyweb/service/manager/bookingsetting/limittrnsetting/PurchaseHistManager.java" timestamp="1573104400720">
         <mark key="'" line="49" column="12" />
-        <mark key="[" line="31" column="12" />
-        <mark key="]" line="31" column="15" />
-        <mark key="." line="31" column="15" />
-        <mark key="^" line="31" column="15" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-webapi/src/main/resources/context/product-input-management-webapi-servlet.xml" timestamp="1536633178517">
         <mark key="[" line="17" column="0" />
@@ -2093,11 +2092,11 @@
         <mark key="." line="4" column="61" />
         <mark key="^" line="4" column="61" />
       </file>
-      <file name="C:/HUE/WorkSpace/CWS/ac-web-core/jar_cws/src/main/java/jp/co/worksap/companyweb/service/manager/bookingsetting/core/BookingSettingDict.java" timestamp="1573019871973">
-        <mark key="[" line="82" column="83" />
-        <mark key="]" line="82" column="88" />
-        <mark key="^" line="82" column="88" />
-        <mark key="." line="82" column="88" />
+      <file name="C:/HUE/WorkSpace/CWS/ac-web-core/jar_cws/src/main/java/jp/co/worksap/companyweb/service/manager/bookingsetting/core/BookingSettingDict.java" timestamp="1573104078522">
+        <mark key="[" line="94" column="91" />
+        <mark key="]" line="94" column="96" />
+        <mark key="^" line="94" column="96" />
+        <mark key="." line="94" column="96" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-cql/pom.xml" timestamp="1538559172341">
         <mark key="[" line="8" column="23" />
@@ -2365,7 +2364,7 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="/fragment.java" timestamp="1573017273737">
+      <file name="/fragment.java" timestamp="1573104386324">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="7" />
@@ -2923,11 +2922,11 @@
         <mark key="." line="8" column="67" />
         <mark key="^" line="8" column="67" />
       </file>
-      <file name="C:/HUE/WorkSpace/CWS/ac-web-core/jar_cws/src/main/java/jp/co/worksap/companyweb/service/manager/bookingsetting/limittrnsetting/datamove/PurchaseHistMoverMapping.java" timestamp="1572608285085">
-        <mark key="[" line="38" column="40" />
-        <mark key="]" line="38" column="47" />
-        <mark key="." line="38" column="47" />
-        <mark key="^" line="38" column="47" />
+      <file name="C:/HUE/WorkSpace/CWS/ac-web-core/jar_cws/src/main/java/jp/co/worksap/companyweb/service/manager/bookingsetting/limittrnsetting/datamove/PurchaseHistMoverMapping.java" timestamp="1573104471563">
+        <mark key="[" line="36" column="79" />
+        <mark key="]" line="36" column="94" />
+        <mark key="." line="36" column="94" />
+        <mark key="^" line="36" column="94" />
       </file>
       <file name="C:/HUE/WorkSpace/CWS/postgresql-dbobject-cws/current/hue/cws/create/bk_app_expense_expense_alt_861127.sql" timestamp="1566208520771">
         <mark key="[" line="4" column="65" />
@@ -3629,31 +3628,31 @@
         <text>gjgkgjgjgjddgjgjddgjgjddgjgj</text>
       </register>
       <register name="-" type="4">
-        <text>long</text>
+        <text>POSSIBLE_CNT</text>
       </register>
       <register name="/" type="4">
         <text>dis</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlpbnQgbGltaXRJZCA9IEJvb2tpbmdTZXR0aW5nVXRpbHMuZ2V0UHVyY2hhc2VIaXN0TWFuYWdlcihjdHgpLmdldExpbWl0SWQoKTsKCQlMaW1pdFRybkNvdW50U2VydmljZSBsaW1pdFRybkNvdW50U2VydmljZSA9IG5ldyBMaW1pdFRybkNvdW50U2VydmljZUltcGwoKTsKCQlsaW1pdFRybkNvdW50U2VydmljZS51cGRhdGVMaW1pdFRyblRvdGFsQW5kQXZhaWxhYmxlTnVtYmVyT2ZUaWNrZXRzKGN0eC5nZXRDb21wYW55U2Vzc2lvbigpLmdldENvbm5lY3Rpb24oKSwgbGltaXRJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyBBTEwsIEJvb2tpbmdTZXR0aW5nQ29tbW9uLlVOSVRfQU1PVU5ULCBCb29raW5nU2V0dGluZ0NvbW1vbi5VTklUX0FNT1VOVCwgU2ltcGxlRGF0YU1vdmVyLmNsYXNzLmdldE5hbWUoKSB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlsaW1pdFRybkNvdW50U2VydmljZS51cGRhdGVMaW1pdFRybkF2YWlsYWJsZU51bWJlck9mVGlja2V0cyhjdHguZ2V0Q29tcGFueVNlc3Npb24oKS5nZXRDb25uZWN0aW9uKCksIGxpbWl0SWQpOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyBBTEwsIEJvb2tpbmdTZXR0aW5nQ29tbW9uLkFWQUlMQUJMRV9OVU1CRVIsIEJvb2tpbmdTZXR0aW5nQ29tbW9uLkFWQUlMQUJMRV9OVU1CRVIsIFNpbXBsZURhdGFNb3Zlci5jbGFzcy5nZXROYW1lKCkgfSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICBleHRyYUNvbE1hcC5wdXQoQm9va2luZ1NldHRpbmdDb21tb24uQVZBSUxBQkxFX05VTUJFUiwgQm9va2luZ1NldHRpbmdEaWN0LkFWQUlMQUJMRV9OVU1CRVIuZ2V0KCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CTxiZWFuIGlkPSJsaW1pdFRybkNvdW50RGFvIiBjbGFzcz0ianAuY28ud29ya3NhcC5jb21wYW55d2ViLnNlcnZpY2UubWFuYWdlci5ib29raW5nc2V0dGluZy5saW1pdHRybnNldHRpbmcucHVyY2hhc2VfaGlzdC5MaW1pdFRybkNvdW50RGFvSW1wbCIgLz4K</text>
+        <text encoding="base64">CQlsaW1pdFRybkNvdW50U2VydmljZS51cGRhdGVMaW1pdFRybkF2YWlsYWJsZU51bWJlck9mVGlja2V0cyhjdHguZ2V0Q29tcGFueVNlc3Npb24oKS5nZXRDb25uZWN0aW9uKCksIGxpbWl0SWQpOwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CTxiZWFuIGlkPSJsaW1pdFRybkNvdW50RGFvIiBjbGFzcz0ianAuY28ud29ya3NhcC5jb21wYW55d2ViLnNlcnZpY2UubWFuYWdlci5ib29raW5nc2V0dGluZy5saW1pdHRybnNldHRpbmcucHVyY2hhc2VfaGlzdC5MaW1pdFRybkNvdW50RGFvSW1wbCIgLz4K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -3662,16 +3661,16 @@
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgkJdHJ5IChQcmVwYXJlZFN0YXRlbWVudCBwcyA9IGNvbm4ucHJlcGFyZVN0YXRlbWVudChVUERBVEVfVE9UQUxfTlVNQkVSX09GX0xJTUlUX1RSTikpIHsKCQkJcHMuc2V0SW50KDEsIHRvdGFsTnVtYmVyKTsKCQkJcHMuc2V0SW50KDIsIGxpbWl0SWQpOwoJCQlwcy5leGVjdXRlUXVlcnkoKTsKCQl9Cgl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJdHJ5IChSZXN1bHRTZXQgcnMgPSBwcy5leGVjdXRlUXVlcnkoKSkgewoJCQkJd2hpbGUgKHJzLm5leHQoKSkgewoJCQkJCXRvdGFsTnVtYmVyT2ZMaW1pdFRybiA9IHJzLmdldEludCgiYXZhaWxhYmxlX251bWJlciIpOwoJCQkJfQoJCQl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlpbnQgdG90YWxOdW1iZXJPZkxpbWl0VHJuID0gMDsK</text>
+        <text encoding="base64">CgkJdHJ5IChQcmVwYXJlZFN0YXRlbWVudCBwcyA9IGNvbm4ucHJlcGFyZVN0YXRlbWVudChVUERBVEVfVE9UQUxfTlVNQkVSX09GX0xJTUlUX1RSTikpIHsKCQkJcHMuc2V0SW50KDEsIHRvdGFsTnVtYmVyKTsKCQkJcHMuc2V0SW50KDIsIGxpbWl0SWQpOwoJCQlwcy5leGVjdXRlUXVlcnkoKTsKCQl9Cgl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
