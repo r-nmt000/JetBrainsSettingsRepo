@@ -476,11 +476,11 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="10" column="60" />
       </file>
-      <file name="C:/HUE/WorkSpace/CWS/ac-web-core/jar_cws/src/main/java/jp/co/worksap/companyweb/service/application/appbooking/model/data/AppBookingApplicationData.java" timestamp="1573446231956">
-        <mark key="[" line="341" column="0" />
-        <mark key="]" line="341" column="0" />
-        <mark key="." line="341" column="0" />
-        <mark key="^" line="341" column="24" />
+      <file name="C:/HUE/WorkSpace/CWS/ac-web-core/jar_cws/src/main/java/jp/co/worksap/companyweb/service/application/appbooking/model/data/AppBookingApplicationData.java" timestamp="1573447228835">
+        <mark key="[" line="329" column="40" />
+        <mark key="]" line="330" column="4" />
+        <mark key="." line="330" column="4" />
+        <mark key="^" line="330" column="4" />
       </file>
       <file name="C:/HUE/WorkSpace/CWS/postgresql-dbobject-cws/current/hue/cws/data/search_service_mst_del_782527.sql" timestamp="1568172579176">
         <mark key="[" line="2" column="4" />
@@ -1521,6 +1521,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="15" column="17" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="C:/HUE/WorkSpace/CWS/ac-web-core/jar_cws/src/main/java/jp/co/worksap/companyweb/service/application/appbooking/model/datamove/AppBookingMoverMapping.java" timestamp="1573447785627">
+        <mark key="[" line="143" column="44" />
+        <mark key="]" line="143" column="64" />
+        <mark key="." line="143" column="44" />
+        <mark key="^" line="143" column="39" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-dto/src/main/java/com/worksap/company/hue/inputmanagement/dto/ImFuncGrpMstIndex.java" timestamp="1537248446120">
         <mark key="[" line="10" column="63" />
@@ -3558,49 +3564,49 @@
         <text>gjgkgjgjgjddgjgjddgjgjddgjgj</text>
       </register>
       <register name="-" type="4">
-        <text>number</text>
+        <text>enforcement_date</text>
       </register>
       <register name="/" type="4">
         <text>dis</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJSW50ZWdlciBudW1iZXIgPSBuZXcgSW50ZWdlcigodmFsdWVNYXAuZ2V0KEFwcEJvb2tpbmdDb2x1bW5zLkNPVVBPTl9USUNLRVRfTlVNQkVSKS50b1N0cmluZygpKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>coupon_ticket_number</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJSW50ZWdlciBudW1iZXIgPSBuZXcgSW50ZWdlcigodmFsdWVNYXAuZ2V0KEFwcEJvb2tpbmdDb2x1bW5zLkNPVVBPTl9USUNLRVRfTlVNQkVSKS50b1N0cmluZygpKSk7Cg==</text>
+        <text encoding="base64">CQkJCURlbGV0ZURBTyBkZWwgPSBuZXcgRGVsZXRlREFPKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJaW50IG51bWJlciA9Cg==</text>
+        <text encoding="base64">CQkJCVVwZGF0ZURBTyB1cGQgPSBuZXcgVXBkYXRlREFPKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJCUluc2VydERBTyBpbnMgPSBuZXcgSW5zZXJ0REFPKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJZm9yICgpCg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQlpZiAoaW5zZXJ0TGlzdC5zaXplKCkgPiAwKSB7CgkJCUluc2VydERBTyBpbnMgPSBuZXcgSW5zZXJ0REFPKCk7CgkJCWlucy5leGN1dGUoY29ubiwgQXBwQm9va2luZ1RhYmxlcy5CT09LSU5HLCBpbnNlcnRMaXN0KTsKCQl9CgkJaWYgKHVwZGF0ZUxpc3Quc2l6ZSgpID4gMCkgewoJCQlVcGRhdGVEQU8gdXBkID0gbmV3IFVwZGF0ZURBTygpOwoJCQl1cGQuZXhjdXRlKGNvbm4sIEFwcEJvb2tpbmdUYWJsZXMuQk9PS0lORywgdXBkYXRlTGlzdCk7CgkJfQoJCWlmIChkZWxldGVMaXN0LnNpemUoKSA+IDApIHsKCQkJRGVsZXRlREFPIGRlbCA9IG5ldyBEZWxldGVEQU8oKTsKCQkJZGVsLmV4Y3V0ZShjb25uLCBBcHBCb29raW5nVGFibGVzLkJPT0tJTkcsIGRlbGV0ZUxpc3QpOwoJCX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">Ly8JCQkJCWluc2VydExpc3QuYWRkKHZhbHVlTWFwKTsK</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJbGltaXRUcm5Db3VudFNlcnZpY2UuaW5jcmVhc2VBdmFpbGFibGVOdW1iZXIoY29ubiwgaGlzdElkLCBsaW1pdElkKTsK</text>
+        <text encoding="base64">Ly8JCQkJCXVwZGF0ZUxpc3QuYWRkKHZhbHVlTWFwKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCS8vIERlY3JlYXNlIDEK</text>
+        <text encoding="base64">CQkJCQkKCQkJCQlkZWwuZXhjdXRlKGNvbm4sIEFwcEJvb2tpbmdUYWJsZXMuQk9PS0lORywgZGVsZXRlTGlzdCk7Ci8vCQkJCQlkZWxldGVMaXN0LmFkZCh2YWx1ZU1hcCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
