@@ -494,21 +494,18 @@
         <mark key="^" line="16" column="63" />
         <mark key="." line="16" column="63" />
       </file>
-      <file name="C:/HUE/WorkSpace/CWS/ac-web-core/jar_cws/src/main/java/jp/co/worksap/companyweb/service/manager/bookingsetting/limittrnsetting/LimitTrnManager.java" timestamp="1573634426280">
-        <mark key="'" line="260" column="25" />
-      </file>
       <file name="C:/HUE/WorkSpace/CWS/ac-web-core/jar_cws/src/main/java/jp/co/worksap/companyweb/service/manager/bookingsetting/limittrnsetting/action/ActPurchaseHistAdd.java" timestamp="1572933068100">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
         <mark key="^" line="10" column="60" />
       </file>
-      <file name="C:/HUE/WorkSpace/CWS/ac-web-core/jar_cws/src/main/java/jp/co/worksap/companyweb/service/application/appbooking/model/data/AppBookingApplicationData.java" timestamp="1573702894013">
+      <file name="C:/HUE/WorkSpace/CWS/ac-web-core/jar_cws/src/main/java/jp/co/worksap/companyweb/service/application/appbooking/model/data/AppBookingApplicationData.java" timestamp="1573708015677">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="450" column="50" />
-        <mark key="]" line="450" column="54" />
-        <mark key="^" line="450" column="54" />
-        <mark key="." line="450" column="54" />
+        <mark key="[" line="506" column="23" />
+        <mark key="]" line="506" column="37" />
+        <mark key="^" line="506" column="37" />
+        <mark key="." line="506" column="37" />
       </file>
       <file name="C:/HUE/WorkSpace/CWS/postgresql-dbobject-cws/current/hue/cws/data/search_service_mst_del_782527.sql" timestamp="1568172579176">
         <mark key="[" line="2" column="4" />
@@ -724,7 +721,7 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1573703139418">
+      <file name="/Dummy.txt" timestamp="1573707201154">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -2298,11 +2295,11 @@
         <mark key="." line="1" column="16" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="C:/HUE/WorkSpace/CWS/ac-web-core/jar_cws/src/main/java/jp/co/worksap/companyweb/service/manager/bookingsetting/limittrnsetting/purchase_hist/LimitTrnCountService.java" timestamp="1573445759720">
-        <mark key="[" line="51" column="75" />
-        <mark key="]" line="51" column="86" />
-        <mark key="^" line="51" column="86" />
-        <mark key="." line="51" column="86" />
+      <file name="C:/HUE/WorkSpace/CWS/ac-web-core/jar_cws/src/main/java/jp/co/worksap/companyweb/service/manager/bookingsetting/limittrnsetting/purchase_hist/LimitTrnCountService.java" timestamp="1573707798869">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="72" column="29" />
+        <mark key="^" line="72" column="29" />
+        <mark key="." line="72" column="29" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-build/run.sh" timestamp="1536297481384">
         <mark key="[" line="0" column="0" />
@@ -2628,6 +2625,7 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="C:/HUE/WorkSpace/CWS/ac-web-core/jar_cws-expense/src/main/java/jp/co/worksap/companyweb/expense/service/appexpense/back/coupontickets/CouponTicketsDaoImpl.java" timestamp="1573707269613" />
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-bizcore/src/main/java/com/worksap/company/hue/inputmanagement/bizcore/service/ImCheckPtnWkService.java" timestamp="1536492728869">
         <mark key="[" line="10" column="26" />
         <mark key="]" line="10" column="36" />
@@ -3633,43 +3631,43 @@
         <text>dis</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJTGltaXRUcm5Db3VudFNlcnZpY2UgbGltaXRUcm5Db3VudFNlcnZpY2UgPSBuZXcgTGltaXRUcm5Db3VudFNlcnZpY2VJbXBsKCk7Cg==</text>
+        <text encoding="base64">CQlpZiAodmFsdWVNYXAgPT0gbnVsbCkgewoJCQlyZXR1cm47CgkJfQoJCWlmICgoKExvbmcpdmFsdWVNYXAuZ2V0KEFwcEJvb2tpbmdDb2x1bW5zLkxJTUlUX0lEKSkubG9uZ1ZhbHVlKCkgPiBBcHBCb29raW5nQ29tbW9uLkRFRl9MSU1JVF9JRCkgewoJCQlMb25nIGxpbWl0SWQgPSBuZXcgTG9uZyh2YWx1ZU1hcC5nZXQoQXBwQm9va2luZ0NvbHVtbnMuTElNSVRfSUQpLnRvU3RyaW5nKCkpOwoJCQlMb25nIGhpc3RJZCA9IG5ldyBMb25nKHZhbHVlTWFwLmdldChBcHBCb29raW5nQ29sdW1ucy5ISVNUX0lEKS50b1N0cmluZygpKTsKCQkJSW50ZWdlciBudW1iZXIgPSBnZXRDb3Vwb25UaWNrZXROdW1iZXIodmFsdWVNYXApOwoJCQl2YWx1ZU1hcC5wdXQoQXBwQm9va2luZ0NvbHVtbnMuTElNSVRfSUQsIGxpbWl0SWQpOwoJCQl2YWx1ZU1hcC5wdXQoQXBwQm9va2luZ0NvbHVtbnMuSElTVF9JRCwgaGlzdElkKTsKCQkJaWYgKG51bWJlciA+IDApIHsKCQkJCWxpbWl0VHJuQ291bnRTZXJ2aWNlLmluY3JlYXNlQXZhaWxhYmxlTnVtYmVyKGNvbm4sIGhpc3RJZCwgbGltaXRJZCwgbnVtYmVyKTsKCQkJfSBlbHNlIHsKCQkJCWxpbWl0VHJuQ291bnRTZXJ2aWNlLmluY3JlYXNlQXZhaWxhYmxlTnVtYmVyKGNvbm4sIGhpc3RJZCwgbGltaXRJZCk7CgkJCX0KCQl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCWlmIChkaWZmIDwgMCkgewoJCQkJfQo=</text>
+        <text encoding="base64">CQkJdmFsdWVNYXAucHV0KEFwcEJvb2tpbmdDb2x1bW5zLkxJTUlUX0lELCBsaW1pdElkKTsKCQkJdmFsdWVNYXAucHV0KEFwcEJvb2tpbmdDb2x1bW5zLkhJU1RfSUQsIGhpc3RJZCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJTGltaXRUcm5Db3VudFNlcnZpY2UgbGltaXRUcm5Db3VudFNlcnZpY2UgPSBuZXcgTGltaXRUcm5Db3VudFNlcnZpY2VJbXBsKCk7Cg==</text>
+        <text encoding="base64">CQkJaWYgKG51bWJlciA+IDApIHsKCQkJCWxpbWl0VHJuQ291bnRTZXJ2aWNlLmluY3JlYXNlQXZhaWxhYmxlTnVtYmVyKGNvbm4sIGhpc3RJZCwgbGltaXRJZCwgbnVtYmVyKTsKCQkJfSBlbHNlIHsKCQkJCWxpbWl0VHJuQ291bnRTZXJ2aWNlLmluY3JlYXNlQXZhaWxhYmxlTnVtYmVyKGNvbm4sIGhpc3RJZCwgbGltaXRJZCk7CgkJCX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJTGltaXRUcm5Db3VudFNlcnZpY2UgbGltaXRUcm5Db3VudFNlcnZpY2UgPSBuZXcgTGltaXRUcm5Db3VudFNlcnZpY2VJbXBsKCk7Cg==</text>
+        <text encoding="base64">CQljaGFuZ2VQb3NzaWJsZUNudEJ5RGlmZihjb25uLCB2YWx1ZU1hcCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJTGltaXRUcm5Db3VudFNlcnZpY2UgbGltaXRUcm5Db3VudFNlcnZpY2UgPSBuZXcgTGltaXRUcm5Db3VudFNlcnZpY2VJbXBsKCk7Cg==</text>
+        <text encoding="base64">CQkJCWlmIChkaWZmIDwgMCkgewoJCQkJfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlMaW1pdFRybkNvdW50U2VydmljZSBsaW1pdFRybkNvdW50U2VydmljZSA9IG5ldyBMaW1pdFRybkNvdW50U2VydmljZUltcGwoKTsK</text>
+        <text encoding="base64">CQkJTGltaXRUcm5Db3VudFNlcnZpY2UgbGltaXRUcm5Db3VudFNlcnZpY2UgPSBuZXcgTGltaXRUcm5Db3VudFNlcnZpY2VJbXBsKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJTGltaXRUcm5Db3VudFNlcnZpY2UgbGltaXRUcm5Db3VudFNlcnZpY2UgPSBuZXcgTGltaXRUcm5Db3VudFNlcnZpY2VJbXBsKCk7Cg==</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJLy8gV2hlbiBjdXJyZW50IHRpY2tldCBudW1iZXIgaXMgbGFyZ2VyIHRoYW4gcHJldmlvdXMK</text>
+        <text encoding="base64">CQkJTGltaXRUcm5Db3VudFNlcnZpY2UgbGltaXRUcm5Db3VudFNlcnZpY2UgPSBuZXcgTGltaXRUcm5Db3VudFNlcnZpY2VJbXBsKCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCS8vIERlY3JlYXNlIDEK</text>
+        <text encoding="base64">CQlMaW1pdFRybkNvdW50U2VydmljZSBsaW1pdFRybkNvdW50U2VydmljZSA9IG5ldyBMaW1pdFRybkNvdW50U2VydmljZUltcGwoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJSW50ZWdlciBudW1iZXIgPSBnZXRDb3Vwb25UaWNrZXROdW1iZXIodmFsdWVNYXApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
