@@ -662,11 +662,11 @@
         <mark key="^" line="17" column="28" />
         <mark key="." line="17" column="28" />
       </file>
-      <file name="C:/HUE/WorkSpace/CWS/ac-web-core/jar_expense-config/src/main/java/jp/co/worksap/expense/config/webapp/cjkfwservice/CsvImportBatch.java" timestamp="1576135068980">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="64" column="45" />
-        <mark key="." line="64" column="45" />
-        <mark key="^" line="64" column="45" />
+      <file name="C:/HUE/WorkSpace/CWS/ac-web-core/jar_expense-config/src/main/java/jp/co/worksap/expense/config/webapp/cjkfwservice/CsvImportBatch.java" timestamp="1576137008542">
+        <mark key="[" line="169" column="0" />
+        <mark key="]" line="169" column="0" />
+        <mark key="^" line="162" column="72" />
+        <mark key="." line="169" column="0" />
       </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/documents/er-diagram.puml" timestamp="1535970385118">
         <mark key="[" line="118" column="26" />
@@ -4104,54 +4104,49 @@
         <text>gjgkgjgjgjddgjgjddgjgjddgjgj</text>
       </register>
       <register name="-" type="4">
-        <text>path</text>
+        <text>csvPath</text>
       </register>
       <register name="/" type="4">
         <text>dis</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJdHJ5IHsKCQkJCWV4ZWNUeXBlID0gSW50ZWdlci52YWx1ZU9mKGN0eC5nZXRQcm9wZXJ0eShFeGVjQ1NWSW1wb3J0LkNTVl9FWEVDX1RZUEUpKTsKCQkJfSBjYXRjaCAoTnVtYmVyRm9ybWF0RXhjZXB0aW9uIGUpIHsKCQkJCXJldC5hZGRTdGRvdXRNc2coIltFUlJPUl0gOiA9PT0gUGxlYXNlIHNldCBudW1iZXIgb24gYXJndW1lbnQgMihleGVjdXRpb24gbW9kZSkgPT09XHJcbiIpOwoJCQkJcmVzdWx0TWFwLnB1dCgicmVzdWx0IiwgUkVTVUxUX05HKTsKCQkJCXJldHVybiByZXN1bHRNYXA7CgkJCX0K</text>
+        <text encoding="base64">CQlpZiAoY3N2UGF0aCAhPSBudWxsICYmICFjc3ZQYXRoLmVuZHNXaXRoKCIuY3N2IikpIHsKCQkJcmV0LmFkZFN0ZG91dE1zZygiW0VSUk9SIF0gOiBQbGVhc2Ugc3BlY2lmeSBDU1YgZmlsZSAiICsgY3N2UGF0aCArICJcclxuIik7CgkJCXRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oKTsKCQl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlTdHJpbmcgY3N2UGF0aCA9IGN0eC5nZXRQcm9wZXJ0eShFeGVjQ1NWSW1wb3J0LkNTVl9GSUxFX1BBVEgpOwo=</text>
+        <text encoding="base64">CQlpZiAoY3N2UGF0aCAhPSBudWxsICYmICFjc3ZQYXRoLmVuZHNXaXRoKCIuY3N2IikpIHsKCQkJcmV0LmFkZFN0ZG91dE1zZygiW0VSUk9SIF0gOiBQbGVhc2Ugc3BlY2lmeSBDU1YgZmlsZSAiICsgY3N2UGF0aCArICJcclxuIik7CgkJCXRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oKTsKCQl9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cglwcml2YXRlIFN0cmluZyBnZXRGaWxlTmFtZShTdHJpbmcgcGF0aCkgewoJCVN0cmluZyBmaWxlTmEKCX0K</text>
+        <text encoding="base64">CQlmaWxlTmFtZS5lbmRzV2l0aCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJLy8gg42DT5DdkugKCQkJbWFrZUxvZ2dlcihleGVjVHlwZSwgbG9nZGlyKTsK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJdHJ5IHsK</text>
+        <text encoding="base64">CQkK</text>
       </register>
-      <register name="5" type="4">
-        <text>= Integer.valueOf(ctx.getProperty(ExecCSVImport.CSV_EXEC_TYPE));
-			} catch (NumberFormatException e) {
-				ret.addStdoutMsg(&quot;[ERROR] : === Please set number on argument 2(execution mode) ===\r\n&quot;);
-				resultMap.put(&quot;result&quot;, RESULT_NG);
-				return resultMap;
-			}</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQlGaWxlIGZpbGUgPSAgbmV3IEZpbGUocGF0aCk7CgkJU3RyaW5nIGZpbGVOYW1lID0gZmlsZS5nZXROYW1lKCk7CgkJcmV0dXJuIHBhdGg7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJcmVzdWx0TWFwLnB1dCgicmVzdWx0IiwgUkVTVUxUX05HKTsKCQkJcmV0dXJuIHJlc3VsdE1hcDsK</text>
+        <text encoding="base64">CQkJU3RyaW5nIGZpbGVOYW1lID0K</text>
       </register>
       <register name="v" type="4">
         <text>lllllhhhhhvllll</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8qKgoJICogbWFrZUxvZyBtZXRob2QgaXMgdXNlZCB0byB3cml0ZSB0aGUgbG9nIGNvbnRlbnQKCSAqCgkgKiBAcGFyYW0gcmV0CgkgKiBAcGFyYW0gcmVzdWx0TWFwCgkgKiBAcGFyYW0gZmlsZU5hbWUKCSAqIEByZXR1cm4gYm9vbGVhbgoJICovCg==</text>
+        <text encoding="base64">CQlTdHJpbmcgY3N2UGF0aCA9IGN0eC5nZXRQcm9wZXJ0eShFeGVjQ1NWSW1wb3J0LkNTVl9GSUxFX1BBVEgpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CS8qKgoJICogUmVhZCB0YXJnZXQgc291cmNlIGNzdiBmaWxlCgkgKgoJICogQHBhcmFtIGN0eAoJICogQHBhcmFtIHJldAoJICogQHJldHVybiBib3V0CgkgKiBAdGhyb3dzIElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbgoJICogQHRocm93cyBGaWxlTm90Rm91bmRFeGNlcHRpb24KCSAqIEB0aHJvd3MgSU9FeGNlcHRpb24KCSAqIEB0aHJvd3MgRXhjZXB0aW9uCgkgKi8K</text>
+        <text encoding="base64">Cglwcml2YXRlIFN0cmluZyBnZXRGaWxlTmFtZShTdHJpbmcgcGF0aCkgewoJCVN0cmluZyBmaWxlTmEKCX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSAqIEBwYXJhbSBsb2dIZWFkCg==</text>
+        <text encoding="base64">CQkJLy8gg42DT5DdkugKCQkJbWFrZUxvZ2dlcihleGVjVHlwZSwgbG9nZGlyKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
