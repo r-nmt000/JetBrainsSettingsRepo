@@ -800,7 +800,7 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1576727432919">
+      <file name="/Dummy.txt" timestamp="1576747674927">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1069,10 +1069,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="157" column="19" />
       </file>
-      <file name="C:/HUE/WorkSpace/CWS/ac-web-core/jar_expense-config/src/main/java/jp/co/worksap/expense/config/webapp/cjkfwservice/reservation_data_import/batch/ReservationCsvImportBatch.java" timestamp="1576655805327">
-        <mark key="[" line="42" column="8" />
-        <mark key="]" line="42" column="8" />
-        <mark key="." line="42" column="8" />
+      <file name="C:/HUE/WorkSpace/CWS/ac-web-core/jar_expense-config/src/main/java/jp/co/worksap/expense/config/webapp/cjkfwservice/reservation_data_import/batch/ReservationCsvImportBatch.java" timestamp="1576747124268">
+        <mark key="'" line="44" column="8" />
+        <mark key="[" line="64" column="87" />
+        <mark key="]" line="64" column="87" />
+        <mark key="." line="64" column="87" />
         <mark key="^" line="105" column="101" />
       </file>
       <file name="C:/HUE/WorkSpace/CWS/ac-web-dbobject/current/hue/cws/create/expense_coupon_tickets_view_ins_871868.sql" timestamp="1571887616088">
@@ -1741,6 +1742,13 @@
         <mark key="." line="12" column="83" />
         <mark key="^" line="12" column="83" />
       </file>
+      <file name="C:/HUE/WorkSpace/CWS/ac-web-core/jar_expense-config/src/main/java/jp/co/worksap/expense/config/webapp/cjkfwservice/reservation_data_import/action/ReservationDataImportValidator.java" timestamp="1576746999042">
+        <mark key="'" line="183" column="109" />
+        <mark key="[" line="201" column="30" />
+        <mark key="]" line="201" column="30" />
+        <mark key="." line="201" column="30" />
+        <mark key="^" line="182" column="56" />
+      </file>
       <file name="$USER_HOME$/HUE/WorkSpace/Latest/hue-input-management/hue-input-management-webapi/.gitignore" timestamp="1535522643151">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="1" />
@@ -2029,12 +2037,12 @@
         <mark key="^" line="2" column="68" />
         <mark key="." line="2" column="68" />
       </file>
-      <file name="C:/HUE/WorkSpace/CWS/ac-web-core/jar_expense-config/src/main/java/jp/co/worksap/expense/config/webapp/cjkfwservice/reservation_data_import/ri/ReservationDataImportBatchProcessRI.java" timestamp="1576663165717">
-        <mark key="'" line="109" column="4" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="^" line="56" column="17" />
-        <mark key="." line="71" column="0" />
+      <file name="C:/HUE/WorkSpace/CWS/ac-web-core/jar_expense-config/src/main/java/jp/co/worksap/expense/config/webapp/cjkfwservice/reservation_data_import/ri/ReservationDataImportBatchProcessRI.java" timestamp="1576747540107">
+        <mark key="'" line="82" column="52" />
+        <mark key="[" line="395" column="28" />
+        <mark key="]" line="395" column="28" />
+        <mark key="^" line="324" column="54" />
+        <mark key="." line="395" column="28" />
       </file>
       <file name="C:/HUE/WorkSpace/CWS/ac-web-core/jar_cws/src/main/java/jp/co/worksap/companyweb/service/application/appallowance/hendosikyukojo/workflow/WorkFlowForm.java" timestamp="1575615309955">
         <mark key="[" line="424" column="0" />
@@ -3595,9 +3603,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="29" filename="C:/HUE/WorkSpace/CWS/ac-web-core/jar_cws/src/main/java/jp/co/worksap/companyweb/service/manager/medicalexamsetting/reservelimitsetting/form/FormReserveLimitMake.java" />
-      <jump line="12" column="31" filename="C:/HUE/WorkSpace/CWS/ac-web-core/jar_cws/src/main/java/jp/co/worksap/companyweb/service/manager/bookingsetting/limittrnsetting/form/FormLimitTrnReserveMake.java" />
-      <jump line="18" column="54" filename="C:/HUE/WorkSpace/CWS/ac-web-core/jar_cws/src/main/java/jp/co/worksap/companyweb/service/manager/bookingsetting/limittrnsetting/form/FormPurchaseHistMake.java" />
       <jump line="25" column="8" filename="C:/HUE/WorkSpace/CWS/ac-web-core/jar_cws/src/main/java/jp/co/worksap/companyweb/service/manager/medicalexamsetting/reservelimitsetting/form/FormReserveLimitMake.java" />
       <jump line="20" column="13" filename="C:/HUE/WorkSpace/CWS/ac-web-core/jar_cws/src/main/java/jp/co/worksap/companyweb/service/manager/bookingsetting/limittrnsetting/form/FormPurchaseHistMake.java" />
       <jump line="178" column="4" filename="C:/HUE/WorkSpace/CWS/ac-web-core/jar_cws/src/main/java/jp/co/worksap/companyweb/service/manager/bookingsetting/limittrnsetting/LimitTrnManager.java" />
@@ -3695,6 +3700,9 @@
       <jump line="64" column="37" filename="C:/HUE/WorkSpace/CWS/ac-web-core/jar_cws/src/main/java/jp/co/worksap/companyweb/rpc/batch/ExecCSVImport.java" />
       <jump line="110" column="22" filename="C:/HUE/WorkSpace/CWS/ac-web-core/jar_expense-config/src/main/java/jp/co/worksap/expense/config/webapp/cjkfwservice/CsvImportBatch.java" />
       <jump line="109" column="4" filename="C:/HUE/WorkSpace/CWS/ac-web-core/jar_expense-config/src/main/java/jp/co/worksap/expense/config/webapp/cjkfwservice/reservation_data_import/ri/ReservationDataImportBatchProcessRI.java" />
+      <jump line="82" column="52" filename="C:/HUE/WorkSpace/CWS/ac-web-core/jar_expense-config/src/main/java/jp/co/worksap/expense/config/webapp/cjkfwservice/reservation_data_import/ri/ReservationDataImportBatchProcessRI.java" />
+      <jump line="183" column="109" filename="C:/HUE/WorkSpace/CWS/ac-web-core/jar_expense-config/src/main/java/jp/co/worksap/expense/config/webapp/cjkfwservice/reservation_data_import/action/ReservationDataImportValidator.java" />
+      <jump line="44" column="8" filename="C:/HUE/WorkSpace/CWS/ac-web-core/jar_expense-config/src/main/java/jp/co/worksap/expense/config/webapp/cjkfwservice/reservation_data_import/batch/ReservationCsvImportBatch.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3998,7 +4006,7 @@
         <text>gjgkgjgjgjddgjgjddgjgjddgjgj</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>toString</text>
       </register>
       <register name="/" type="4">
         <text>dis</text>
@@ -4043,7 +4051,7 @@
         <text encoding="base64">aW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb247Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -4078,8 +4086,8 @@
         <entry>w]</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
