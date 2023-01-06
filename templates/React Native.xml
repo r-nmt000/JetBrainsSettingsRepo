@@ -1,11 +1,11 @@
 <templateSet group="React Native">
-  <template name="init_component" value="import React from 'react'&#10;import { View, Text, StyleSheet } from 'react-native'&#10;&#10;type Props = {}&#10;&#10;const $TM_FILENAME_BASE$ = (props: Props) =&gt; {&#10;  return (&#10;    &lt;&gt;&#10;      $END$&#10;    &lt;/&gt;&#10;  )&#10;}&#10;&#10;const styles = StyleSheet.create({})&#10;&#10;export default $TM_FILENAME_BASE$" toReformat="false" toShortenFQNames="true">
+  <template name="init_component" value="import React from 'react'&#10;import { View, Text, StyleSheet } from 'react-native'&#10;&#10;type Props = {}&#10;&#10;const $TM_FILENAME_BASE$ = (props: Props) =&gt; {&#10;  return (&#10;    &lt;&gt;&#10;      $END$&#10;    &lt;/&gt;&#10;  )&#10;}&#10;&#10;const styles = StyleSheet.create({})&#10;&#10;export default $TM_FILENAME_BASE$" description="" toReformat="false" toShortenFQNames="true">
     <variable name="TM_FILENAME_BASE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="init_screeen" value="import React from 'react'&#10;import { StyleSheet } from 'react-native'&#10;&#10;type Props {&#10;}&#10;&#10;const $TM_FILENAME_BASE$ = (props: Props) =&gt; {&#10;  return (&#10;    &lt;&gt;&#10;      $END$&#10;    &lt;/&gt;&#10;  )&#10;}&#10;&#10;const styles = StyleSheet.create({})&#10;&#10;export default $TM_FILENAME_BASE$" toReformat="false" toShortenFQNames="true">
+  <template name="init_screeen" value="import React from 'react'&#10;import { StyleSheet } from 'react-native'&#10;&#10;type Props {&#10;}&#10;&#10;const $TM_FILENAME_BASE$ = (props: Props) =&gt; {&#10;  return (&#10;    &lt;&gt;&#10;      $END$&#10;    &lt;/&gt;&#10;  )&#10;}&#10;&#10;const styles = StyleSheet.create({})&#10;&#10;export default $TM_FILENAME_BASE$" description="" toReformat="false" toShortenFQNames="true">
     <variable name="TM_FILENAME_BASE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
